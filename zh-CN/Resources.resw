@@ -1,0 +1,1647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="SD_TITLE.Text" xml:space="preserve">
+    <value>设置面板</value>
+  </data>
+  <data name="SD_PivotItem1.Header" xml:space="preserve">
+    <value>基础</value>
+  </data>
+  <data name="SD_PivotItem2.Header" xml:space="preserve">
+    <value>字幕</value>
+  </data>
+  <data name="SD_PivotItem3_Header.Text" xml:space="preserve">
+    <value>高级</value>
+  </data>
+  <data name="SD_PivotItem4.Header" xml:space="preserve">
+    <value>关于</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.Header" xml:space="preserve">
+    <value>使用流畅设计主题</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.OnContent" xml:space="preserve">
+    <value>流畅设计</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.OffContent" xml:space="preserve">
+    <value>深色</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.Header" xml:space="preserve">
+    <value>使用手势控制</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.OnContent" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.OffContent" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.Header" xml:space="preserve">
+    <value>记忆播放进度</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.OnContent" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.OffContent" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.Header" xml:space="preserve">
+    <value>开启按键声音</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.OnContent" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.OffContent" xml:space="preserve">
+    <value>自动</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.Header" xml:space="preserve">
+    <value>自动下载字幕</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.Header" xml:space="preserve">
+    <value>第二字幕位于主字幕之下</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>使用字幕背景色</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>字幕背景色白色</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>白色</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>黑色</value>
+  </data>
+  <data name="SD_PivotItem2_sutitleSlider.Header" xml:space="preserve">
+    <value>字幕透明度</value>
+  </data>
+  <data name="SD_PivotItem2_sutitleBackgroundSlider.Header" xml:space="preserve">
+    <value>字幕背景透明度</value>
+  </data>
+  <data name="SD_PivotItem2_primarySubtitleFontSizeSlider.Header" xml:space="preserve">
+    <value>主字幕字体大小</value>
+  </data>
+  <data name="SD_PivotItem2_secondarySubtitleFontSizeSlider.Header" xml:space="preserve">
+    <value>第二字幕字体大小</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.Header" xml:space="preserve">
+    <value>主字幕只显示一行</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.Header" xml:space="preserve">
+    <value>主字幕显示首行</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.OnContent" xml:space="preserve">
+    <value>显示首行</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.OffContent" xml:space="preserve">
+    <value>显示末行</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.Header" xml:space="preserve">
+    <value>显示字幕时间</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.OnContent" xml:space="preserve">
+    <value>显示</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.OffContent" xml:space="preserve">
+    <value>不显示</value>
+  </data>
+  <data name="CM_Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="CM_OpenFile" xml:space="preserve">
+    <value>打开文件...</value>
+  </data>
+  <data name="CM_Open" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="CM_Open_Folder" xml:space="preserve">
+    <value>文件夹</value>
+  </data>
+  <data name="CM_Recent" xml:space="preserve">
+    <value>最近播放</value>
+  </data>
+  <data name="CM_Recent_ClearHistory" xml:space="preserve">
+    <value>清除历史记录</value>
+  </data>
+  <data name="CM_Recent_DisableHistory" xml:space="preserve">
+    <value>禁用历史记录</value>
+  </data>
+  <data name="CM_Favorite" xml:space="preserve">
+    <value>收藏夹</value>
+  </data>
+  <data name="CM_Favorite_File" xml:space="preserve">
+    <value>文件...</value>
+  </data>
+  <data name="CM_Favorite_Folder" xml:space="preserve">
+    <value>文件夹...</value>
+  </data>
+  <data name="CM_Graghic" xml:space="preserve">
+    <value>画面</value>
+  </data>
+  <data name="CM_Graghic_Rotation" xml:space="preserve">
+    <value>画面翻转</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Vertical" xml:space="preserve">
+    <value>垂直翻转</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Horizontal" xml:space="preserve">
+    <value>水平翻转</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Left90" xml:space="preserve">
+    <value>向左90°C</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Right90" xml:space="preserve">
+    <value>向右90°C</value>
+  </data>
+  <data name="CM_Graghic_Rotation_180" xml:space="preserve">
+    <value>180°C旋转</value>
+  </data>
+  <data name="CM_Graghic_Rotation_DefaultAngle" xml:space="preserve">
+    <value>恢复默认角度</value>
+  </data>
+  <data name="CM_Graghic_FullScreen" xml:space="preserve">
+    <value>全屏幕</value>
+  </data>
+  <data name="CM_Graghic_PIP" xml:space="preserve">
+    <value>画中画</value>
+  </data>
+  <data name="CM_Graghic_OriginalSize" xml:space="preserve">
+    <value>原始尺寸</value>
+  </data>
+  <data name="CM_Graghic_Fill" xml:space="preserve">
+    <value>铺满播放窗口</value>
+  </data>
+  <data name="CM_Graghic_Default" xml:space="preserve">
+    <value>标准</value>
+  </data>
+  <data name="CM_Graghic_UniformToFill" xml:space="preserve">
+    <value>智能去黑边</value>
+  </data>
+  <data name="CM_Graghic_FreeTransform" xml:space="preserve">
+    <value>自由变换</value>
+  </data>
+  <data name="CM_Sound" xml:space="preserve">
+    <value>声音</value>
+  </data>
+  <data name="CM_Sound_SystemDefault" xml:space="preserve">
+    <value>系统默认</value>
+  </data>
+  <data name="CM_Sound_LeftChannel" xml:space="preserve">
+    <value>只播放左声道</value>
+  </data>
+  <data name="CM_Sound_RightChannel" xml:space="preserve">
+    <value>只播放右声道</value>
+  </data>
+  <data name="CM_Sound_Track" xml:space="preserve">
+    <value>音轨</value>
+  </data>
+  <data name="CM_Playback" xml:space="preserve">
+    <value>播放</value>
+  </data>
+  <data name="CM_Playback_Loop_Audio" xml:space="preserve">
+    <value>循环播放(当前音乐)</value>
+  </data>
+  <data name="CM_Playback_Loop_Video" xml:space="preserve">
+    <value>循环播放(当前影片)</value>
+  </data>
+  <data name="CM_Playback_Loop_CurrentList" xml:space="preserve">
+    <value>循环播放(当前列表)</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint" xml:space="preserve">
+    <value>设置A点</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint" xml:space="preserve">
+    <value>设置B点</value>
+  </data>
+  <data name="CM_Playback_Loop_APoint" xml:space="preserve">
+    <value>A点</value>
+  </data>
+  <data name="CM_Playback_Loop_BPoint" xml:space="preserve">
+    <value>B点</value>
+  </data>
+  <data name="CM_Playback_ForceDecodeAudio" xml:space="preserve">
+    <value>软解音频</value>
+  </data>
+  <data name="CM_Playback_ForceDecodeVideo" xml:space="preserve">
+    <value>软解视频</value>
+  </data>
+  <data name="CM_Playback_UseSystemDecoder" xml:space="preserve">
+    <value>使用系统解码器</value>
+  </data>
+  <data name="CM_Playback_FastenPlaybackRate" xml:space="preserve">
+    <value>加快播放速度</value>
+  </data>
+  <data name="CM_Playback_SlowDownPlaybackRate" xml:space="preserve">
+    <value>减慢播放速度</value>
+  </data>
+  <data name="CM_Playback_StartABLoop" xml:space="preserve">
+    <value>开始A-B循环</value>
+  </data>
+  <data name="CM_Playback_StopABLoop" xml:space="preserve">
+    <value>停止A-B循环</value>
+  </data>
+  <data name="CM_MediaInfo" xml:space="preserve">
+    <value>媒体信息</value>
+  </data>
+  <data name="CM_Settings" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="CM_EnterLockMode" xml:space="preserve">
+    <value>进入锁屏模式</value>
+  </data>
+  <data name="CM_ExitLockMode" xml:space="preserve">
+    <value>退出锁屏模式</value>
+  </data>
+  <data name="TCCM_RememberTransportControlPostion" xml:space="preserve">
+    <value>记忆控制栏位置</value>
+  </data>
+  <data name="TCCM_RememberTransportControlPostion_Reset" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="CM_Subtitle" xml:space="preserve">
+    <value>字幕</value>
+  </data>
+  <data name="CM_Subtitle_Disable" xml:space="preserve">
+    <value>关闭字幕</value>
+  </data>
+  <data name="CM_Subtitle_Style" xml:space="preserve">
+    <value>字幕样式设置</value>
+  </data>
+  <data name="CM_Subtitle_Item" xml:space="preserve">
+    <value>字幕</value>
+  </data>
+  <data name="WM_CurrentPlaying" xml:space="preserve">
+    <value>正在播放</value>
+  </data>
+  <data name="WM_PlayRateChangedTo" xml:space="preserve">
+    <value>播放速度变为</value>
+  </data>
+  <data name="MV_FreeTransform_Reset.Text" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="MV_FreeTransform_Save.Text" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="MV_FreeTransform_Confirm.Text" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="MV_FreeTransform_Advance.Text" xml:space="preserve">
+    <value>高级</value>
+  </data>
+  <data name="MV_FreeTransform_ZoomOut.Text" xml:space="preserve">
+    <value>缩小</value>
+  </data>
+  <data name="MV_FreeTransform_Center.Text" xml:space="preserve">
+    <value>居中</value>
+  </data>
+  <data name="MV_FreeTransform_ZoomIn.Text" xml:space="preserve">
+    <value>放大</value>
+  </data>
+  <data name="MI.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="MI_VideoType.Text" xml:space="preserve">
+    <value>视频类型</value>
+  </data>
+  <data name="MI_VideoBitrate.Text" xml:space="preserve">
+    <value>视频比特率</value>
+  </data>
+  <data name="MI_AudioBitrate.Text" xml:space="preserve">
+    <value>音频比特率</value>
+  </data>
+  <data name="MI_VideoFramerate.Text" xml:space="preserve">
+    <value>视频帧率</value>
+  </data>
+  <data name="MI_Resolution.Text" xml:space="preserve">
+    <value>分辨率</value>
+  </data>
+  <data name="MI_SubType.Text" xml:space="preserve">
+    <value>具体类型</value>
+  </data>
+  <data name="MI_Type.Text" xml:space="preserve">
+    <value>类型</value>
+  </data>
+  <data name="MI_FileSize.Text" xml:space="preserve">
+    <value>文件大小</value>
+  </data>
+  <data name="MI_Duration.Text" xml:space="preserve">
+    <value>持续时间</value>
+  </data>
+  <data name="MI_VideoCodecName.Text" xml:space="preserve">
+    <value>视频编码</value>
+  </data>
+  <data name="MI_AudioCodecName.Text" xml:space="preserve">
+    <value>音频编码</value>
+  </data>
+  <data name="MV_TP_AddFolderAsFavorite.Content" xml:space="preserve">
+    <value>添加到收藏夹</value>
+  </data>
+  <data name="WM_CurrentSubtitle" xml:space="preserve">
+    <value>当前字幕</value>
+  </data>
+  <data name="WM_Delay" xml:space="preserve">
+    <value>延时</value>
+  </data>
+  <data name="WM_DecodeType" xml:space="preserve">
+    <value>硬件高清</value>
+  </data>
+  <data name="WM_SubtileNotFound" xml:space="preserve">
+    <value>没有找到字幕</value>
+  </data>
+  <data name="WM_SubtitleFound" xml:space="preserve">
+    <value>字幕已经找到，正在下载。</value>
+  </data>
+  <data name="WM_SubtitleDownloadSuccess_Part1" xml:space="preserve">
+    <value>字幕下载成功，总共</value>
+  </data>
+  <data name="WM_SubtitleDownloadSuccess_Part2" xml:space="preserve">
+    <value>个字幕文件</value>
+  </data>
+  <data name="WM_CanNotOpenFile" xml:space="preserve">
+    <value>无法打开文件</value>
+  </data>
+  <data name="WM_UseSystemDecoder" xml:space="preserve">
+    <value>使用系统解码器</value>
+  </data>
+  <data name="WM_NoNextFileCanPlay" xml:space="preserve">
+    <value>没有下个文件可以播放</value>
+  </data>
+  <data name="WM_Volume" xml:space="preserve">
+    <value>音量</value>
+  </data>
+  <data name="WM_FileNotExist" xml:space="preserve">
+    <value>文件不存在</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part1" xml:space="preserve">
+    <value>正在显示主字幕</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part2" xml:space="preserve">
+    <value>延时设为</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part3" xml:space="preserve">
+    <value>毫秒</value>
+  </data>
+  <data name="WM_PrimarySubtitleDelayAs" xml:space="preserve">
+    <value>主字幕延时已设为</value>
+  </data>
+  <data name="CM_Subtitle_Load" xml:space="preserve">
+    <value>加载字幕</value>
+  </data>
+  <data name="MV_PanePivot_Item1.Header" xml:space="preserve">
+    <value>最近播放</value>
+  </data>
+  <data name="MV_PanePivot_Item2.Header" xml:space="preserve">
+    <value>收藏夹</value>
+  </data>
+  <data name="MV_PanePivot_Item3.Header" xml:space="preserve">
+    <value>播放列表</value>
+  </data>
+  <data name="MV_TP_OpenFIle.Content" xml:space="preserve">
+    <value>打开文件</value>
+  </data>
+  <data name="MV_TP_OpenFolder.Content" xml:space="preserve">
+    <value>打开文件夹</value>
+  </data>
+  <data name="CM_Start_Loop" xml:space="preserve">
+    <value>停止A-B循环</value>
+  </data>
+  <data name="CM_Stop_Loop" xml:space="preserve">
+    <value>开始A-B循环</value>
+  </data>
+  <data name="CM_SecondarySubtitle" xml:space="preserve">
+    <value>第二字幕</value>
+  </data>
+  <data name="SD_PivotItem3_screenLuminanceSlider.Header" xml:space="preserve">
+    <value>播放视频亮度</value>
+  </data>
+  <data name="CM_Graghic_Effect" xml:space="preserve">
+    <value>特效</value>
+  </data>
+  <data name="CM_Graghic_Effect_OldMovie" xml:space="preserve">
+    <value>回忆</value>
+  </data>
+  <data name="WM_MediaFailed" xml:space="preserve">
+    <value>播放失败</value>
+  </data>
+  <data name="WM_TryReadEmbbedSubtitle" xml:space="preserve">
+    <value>尝试加载内嵌字幕</value>
+  </data>
+  <data name="WM_LoadingFolder" xml:space="preserve">
+    <value>正在加载文件夹...</value>
+  </data>
+  <data name="WM_LoadingFolderCompleted" xml:space="preserve">
+    <value>成功加载文件夹</value>
+  </data>
+  <data name="WM_LoadingFolderFailed" xml:space="preserve">
+    <value>无法加载文件夹, 无任何可播放文件</value>
+  </data>
+  <data name="WM_OnlyOnFileOrFolder" xml:space="preserve">
+    <value>请拖拽一个文件,或一个文件夹</value>
+  </data>
+  <data name="SYS_NewWindow" xml:space="preserve">
+    <value>新建窗口</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.Header" xml:space="preserve">
+    <value>尝试抽取 .mkv 视频内嵌字幕</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="MV_TP_AddFileAsFavorite.Content" xml:space="preserve">
+    <value>添加当前播放文件到收藏夹</value>
+  </data>
+  <data name="CM_Playback_Shuffling" xml:space="preserve">
+    <value>随机播放</value>
+  </data>
+  <data name="MI_AspectRatio.Text" xml:space="preserve">
+    <value>视频比率</value>
+  </data>
+  <data name="Screenshot_Saved_Part1" xml:space="preserve">
+    <value>文件 </value>
+  </data>
+  <data name="Screenshot_Saved_Part2" xml:space="preserve">
+    <value>已经保存</value>
+  </data>
+  <data name="CM_Graghic_Screenshot" xml:space="preserve">
+    <value>截屏</value>
+  </data>
+  <data name="CM_Graghic_Screenshot_SaveAs" xml:space="preserve">
+    <value>另存为...</value>
+  </data>
+  <data name="CM_Sound_RenderDevice" xml:space="preserve">
+    <value>将声音输出至...</value>
+  </data>
+  <data name="CM_Sound_RenderDevice_default" xml:space="preserve">
+    <value>系统默认</value>
+  </data>
+  <data name="MV_TP_StepNextFrame.Content" xml:space="preserve">
+    <value>下一帧</value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.Header" xml:space="preserve">
+    <value>语言 (需要重启应用)</value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.OffContent" xml:space="preserve">
+    <value>自动</value>
+  </data>
+  <data name="Cast_Disconnected" xml:space="preserve">
+    <value>连接已经断开</value>
+  </data>
+  <data name="Cast_Connected" xml:space="preserve">
+    <value>已连接</value>
+  </data>
+  <data name="Cast_Rendering" xml:space="preserve">
+    <value>播放中</value>
+  </data>
+  <data name="Cast_Disconnecting" xml:space="preserve">
+    <value>正在断开</value>
+  </data>
+  <data name="Cast_Connecting" xml:space="preserve">
+    <value>连接中</value>
+  </data>
+  <data name="Cast_Error" xml:space="preserve">
+    <value>串流媒体发生错误</value>
+  </data>
+  <data name="CM_Playback_Casting_Stop" xml:space="preserve">
+    <value>停止串流媒体</value>
+  </data>
+  <data name="CM_Playback_Casting_Start" xml:space="preserve">
+    <value>串流媒体到...</value>
+  </data>
+  <data name="SD_PivotItem1_CreateTransparentTile.Header" xml:space="preserve">
+    <value>创建透明磁贴</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.Header" xml:space="preserve">
+    <value>后台播放视频</value>
+  </data>
+  <data name="MV_PanePivot_Item2_ShowFileOrFolderToggleSwitch.OnContent" xml:space="preserve">
+    <value>文件夹</value>
+  </data>
+  <data name="MV_PanePivot_Item2_ShowFileOrFolderToggleSwitch.OffContent" xml:space="preserve">
+    <value>文件</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO3MONTH_BTN" xml:space="preserve">
+    <value>三个月订阅</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_BTN" xml:space="preserve">
+    <value>终身订阅</value>
+  </data>
+  <data name="SD_PivotItem3_ADDON_NetworkError.Text" xml:space="preserve">
+    <value>网络错误，请重试</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_BTN.Content" xml:space="preserve">
+    <value>1 小时试用</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message" xml:space="preserve">
+    <value>试用1小时，超过时间以下设置将回到默认值</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message_Confirm" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message_Close" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="CM_Graghic_BRIGHTNESS" xml:space="preserve">
+    <value>亮度</value>
+  </data>
+  <data name="MSD_TITLE.Text" xml:space="preserve">
+    <value>UPNP DLNA 设备</value>
+  </data>
+  <data name="MSD.PrimaryButtonText" xml:space="preserve">
+    <value>刷新</value>
+  </data>
+  <data name="CM_Open_MediaServer" xml:space="preserve">
+    <value>DLNA</value>
+  </data>
+  <data name="MSD.SecondaryButtonText" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="NO_DLNA.Text" xml:space="preserve">
+    <value>不存在 DLNA 媒体设备</value>
+  </data>
+  <data name="WM_CUE_FOUND" xml:space="preserve">
+    <value>.cue 文件找到</value>
+  </data>
+  <data name="WM_CUE_ASSOCIATE_FAILED" xml:space="preserve">
+    <value>未找到与 .cue 匹配的音频文件</value>
+  </data>
+  <data name="WM_CUE_FAILED" xml:space="preserve">
+    <value>.cue 解析失败</value>
+  </data>
+  <data name="WM_CUE_MUST_OPEN_WITH_FOLDER" xml:space="preserve">
+    <value>.cue 文件必须使用文件夹打开</value>
+  </data>
+  <data name="CM_Open_EQ" xml:space="preserve">
+    <value>均衡器</value>
+  </data>
+  <data name="CD_E_TITLE.Text" xml:space="preserve">
+    <value>均衡器</value>
+  </data>
+  <data name="CD_Equalizer.PrimaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="CNE_PRESET.Text" xml:space="preserve">
+    <value>音频预设</value>
+  </data>
+  <data name="PS_none" xml:space="preserve">
+    <value>无</value>
+  </data>
+  <data name="PS_jazz" xml:space="preserve">
+    <value>爵士</value>
+  </data>
+  <data name="PS_pop" xml:space="preserve">
+    <value>流行音乐</value>
+  </data>
+  <data name="PS_classical" xml:space="preserve">
+    <value>古典音乐</value>
+  </data>
+  <data name="PS_bass_boost" xml:space="preserve">
+    <value>低音强化</value>
+  </data>
+  <data name="PS_electronic" xml:space="preserve">
+    <value>电子</value>
+  </data>
+  <data name="PS_hip_hop" xml:space="preserve">
+    <value>嘻哈</value>
+  </data>
+  <data name="PS_rock" xml:space="preserve">
+    <value>摇滚</value>
+  </data>
+  <data name="PS_dance" xml:space="preserve">
+    <value>舞曲</value>
+  </data>
+  <data name="PS_speech" xml:space="preserve">
+    <value>语音</value>
+  </data>
+  <data name="PS_treble_boost" xml:space="preserve">
+    <value>高音强化</value>
+  </data>
+  <data name="PS_loudness" xml:space="preserve">
+    <value>响度</value>
+  </data>
+  <data name="PS_r_b" xml:space="preserve">
+    <value>节奏布鲁斯</value>
+  </data>
+  <data name="PS_vocal_boost" xml:space="preserve">
+    <value>声音强化</value>
+  </data>
+  <data name="PS_acoustic" xml:space="preserve">
+    <value>音响效果</value>
+  </data>
+  <data name="PS_custom" xml:space="preserve">
+    <value>自定义</value>
+  </data>
+  <data name="WhatsNew.Content" xml:space="preserve">
+    <value>此版本新功能</value>
+  </data>
+  <data name="SD_RateMe" xml:space="preserve">
+    <value>评分</value>
+  </data>
+  <data name="SD_Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="CM_Favorite_Manager" xml:space="preserve">
+    <value>管理器</value>
+  </data>
+  <data name="FD_PivotItem1.Header" xml:space="preserve">
+    <value>浏览</value>
+  </data>
+  <data name="FD_PivotItem2.Header" xml:space="preserve">
+    <value>文件夹</value>
+  </data>
+  <data name="FD_PivotItem3.Header" xml:space="preserve">
+    <value>文件</value>
+  </data>
+  <data name="FD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="FD.PrimaryButtonText" xml:space="preserve">
+    <value>浏览</value>
+  </data>
+  <data name="FD_MUST_FOLDERS_WARNING" xml:space="preserve">
+    <value>必须选择一个有子文件夹的文件夹</value>
+  </data>
+  <data name="FD_BTN_P_BROWSE" xml:space="preserve">
+    <value>浏览</value>
+  </data>
+  <data name="FD_BTN_P_ADD_TO_FAVORITE" xml:space="preserve">
+    <value>添加到收藏</value>
+  </data>
+  <data name="FD_BTN_P_REMOVE_FROM_FAVORITE" xml:space="preserve">
+    <value>从收藏夹移除</value>
+  </data>
+  <data name="FD_TITLE.Text" xml:space="preserve">
+    <value>收藏夹管理器</value>
+  </data>
+  <data name="FD_RecursiveCheckBox.Content" xml:space="preserve">
+    <value>递归</value>
+  </data>
+  <data name="MV_TP_OpenManager.Content" xml:space="preserve">
+    <value>收藏夹管理器</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.Header" xml:space="preserve">
+    <value>显示下一帧控制按钮</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CM_Open_VISUALIZER" xml:space="preserve">
+    <value>可视化</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.Header" xml:space="preserve">
+    <value>音乐可视化</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.OnContent" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.OffContent" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="MV_TP_ToggleSearch.Content" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER" xml:space="preserve">
+    <value>解锁高级版 - 无限收藏夹数量！</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER_Confirm" xml:space="preserve">
+    <value>解锁</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER_Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="AutoSuggestBox.PlaceholderText" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.Header" xml:space="preserve">
+    <value>漫游播放进度</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="WM_Bookmark_AddSuccess" xml:space="preserve">
+    <value>书签已添加</value>
+  </data>
+  <data name="WM_Bookmark_RemoveSuccess" xml:space="preserve">
+    <value>书签已删除</value>
+  </data>
+  <data name="WM_Bookmark_Loaded" xml:space="preserve">
+    <value>书签已加载</value>
+  </data>
+  <data name="CM_Bookmard_Point" xml:space="preserve">
+    <value>打开时间点</value>
+  </data>
+  <data name="CM_Bookmark_AddPoint" xml:space="preserve">
+    <value>添加时间点</value>
+  </data>
+  <data name="CM_Bookmard_AB_Point" xml:space="preserve">
+    <value>打开片段</value>
+  </data>
+  <data name="CM_Bookmard_Remove_List" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="CM_Bookmard_Rename_List" xml:space="preserve">
+    <value>重命名</value>
+  </data>
+  <data name="CM_Bookmark" xml:space="preserve">
+    <value>书签/章节</value>
+  </data>
+  <data name="CM_Bookmark_AddAB" xml:space="preserve">
+    <value>添加片段</value>
+  </data>
+  <data name="BCD_TITLE.Text" xml:space="preserve">
+    <value>重命名书签</value>
+  </data>
+  <data name="BCD.SecondaryButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="BCD.PrimaryButtonText" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="WM_Bookmark_Rename_Success" xml:space="preserve">
+    <value>书签重命名成功</value>
+  </data>
+  <data name="CM_Bookmard_Manage" xml:space="preserve">
+    <value>管理</value>
+  </data>
+  <data name="LIMIT_EXCEED_BOOKMARK" xml:space="preserve">
+    <value>解锁高级版 - 无限书签数量！</value>
+  </data>
+  <data name="CM_Playback_Loop_ResetAB" xml:space="preserve">
+    <value>清除 A-B</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.Header" xml:space="preserve">
+    <value>记忆音频播放进度</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.Header" xml:space="preserve">
+    <value>递归</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="WM_SUCCESS_ADD_FILE_TO_FAVORITE" xml:space="preserve">
+    <value>成功添加文件到收藏夹</value>
+  </data>
+  <data name="WM_SUCCESS_REMOVE_FILE_TO_FAVORITE" xml:space="preserve">
+    <value>成功从收藏夹移除文件</value>
+  </data>
+  <data name="WM_SUCCESS_ADD_FOLDER_TO_FAVORITE" xml:space="preserve">
+    <value>成功添加文件夹到收藏夹</value>
+  </data>
+  <data name="WM_SUCCESS_REMOVE_FOLDER_TO_FAVORITE" xml:space="preserve">
+    <value>成功从收藏夹移除文件夹</value>
+  </data>
+  <data name="ADD_FILE_FAVORITE" xml:space="preserve">
+    <value>添加到收藏夹</value>
+  </data>
+  <data name="REMOVE_FILE_FAVORITE" xml:space="preserve">
+    <value>从收藏夹移除</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>字幕文本可以选择</value>
+  </data>
+  <data name="IsSubtitleSelectionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="IsSubtitleSelectionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="OpenFolder" xml:space="preserve">
+    <value>打开文件夹</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.Header" xml:space="preserve">
+    <value>使用系统解码器</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.OnContent" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.Header" xml:space="preserve">
+    <value>软解音频</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.OffContent" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.OnContent" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.Header" xml:space="preserve">
+    <value>软解视频</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.OffContent" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.OnContent" xml:space="preserve">
+    <value>开启</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.OffContent" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="CM_Open_WebDAV" xml:space="preserve">
+    <value>WebDAV</value>
+  </data>
+  <data name="WebDAV_TITLE.Text" xml:space="preserve">
+    <value>WebDAV (Beta)</value>
+  </data>
+  <data name="NO_WebDAV.Text" xml:space="preserve">
+    <value>不存在 WebDAV 媒体设备</value>
+  </data>
+  <data name="WebDAV_WebDAVBaseURI.Text" xml:space="preserve">
+    <value>服务器地址</value>
+  </data>
+  <data name="WebDAV_WebDAVUsername.Text" xml:space="preserve">
+    <value>用户名</value>
+  </data>
+  <data name="WebDAV_WebDAVPassword.Text" xml:space="preserve">
+    <value>密码</value>
+  </data>
+  <data name="WebDAV_Settings.Header" xml:space="preserve">
+    <value>WebDAV 设置</value>
+  </data>
+  <data name="WebDAV_Warning.Text" xml:space="preserve">
+    <value>当前为初步支持 WebDAV 打开文件意味着完全下载该文件, 请尽量别打开太大的文件.</value>
+  </data>
+  <data name="WebDAV_WebDAVNote.Text" xml:space="preserve">
+    <value>说明</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.Header" xml:space="preserve">
+    <value>显示 360° 视频播放按钮</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CM_Bookmard_ChapterList" xml:space="preserve">
+    <value>打开章节</value>
+  </data>
+  <data name="CM_Open_NewWindow" xml:space="preserve">
+    <value>新窗口</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.Header" xml:space="preserve">
+    <value>显示通用搜索框</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CM_Opacity" xml:space="preserve">
+    <value>透明度</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.Header" xml:space="preserve">
+    <value>调整图片字幕大小</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem2_ImageSubtitleSizeSizeSlider.Header" xml:space="preserve">
+    <value>图片字幕大小</value>
+  </data>
+  <data name="SD_PivotItem3_PrimarySubtitlePositionSlider.Header" xml:space="preserve">
+    <value>主字幕位置</value>
+  </data>
+  <data name="SD_PivotItem3_SeconderySubtitlePositionSlider.Header" xml:space="preserve">
+    <value>第二字幕位置</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.Header" xml:space="preserve">
+    <value>使用默认字体</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem1_GlobalStretchModeComboBox.Header" xml:space="preserve">
+    <value>全局画幅模式</value>
+  </data>
+  <data name="WM_SubtitleSearching" xml:space="preserve">
+    <value>正在搜索字幕...</value>
+  </data>
+  <data name="PBCD.PrimaryButtonText" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="PBCD.SecondaryButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="PBCD_TITLE.Text" xml:space="preserve">
+    <value>播放列表名称</value>
+  </data>
+  <data name="MV_TP_NewPlaylist.Content" xml:space="preserve">
+    <value>新建播放列表</value>
+  </data>
+  <data name="AddToPlaylist" xml:space="preserve">
+    <value>添加到播放列表</value>
+  </data>
+  <data name="WM_Playlist_Empty" xml:space="preserve">
+    <value>播放列表是空的</value>
+  </data>
+  <data name="MV_TP_RenamePlaylist.Content" xml:space="preserve">
+    <value>重命名播放列表</value>
+  </data>
+  <data name="RemoveFromPlaylist" xml:space="preserve">
+    <value>从播放列表移除</value>
+  </data>
+  <data name="MV_TP_RemovePlaylist.Content" xml:space="preserve">
+    <value>删除播放列表</value>
+  </data>
+  <data name="ClearRecentButton.Content" xml:space="preserve">
+    <value>清除全部</value>
+  </data>
+  <data name="ADDON_CanNotBuyAdvanceInTrialVersion_TextBlock.Text" xml:space="preserve">
+    <value>试用版无法购买高级版</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.Header" xml:space="preserve">
+    <value>使用自定义颜色</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.OnContent" xml:space="preserve">
+    <value>开</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.OffContent" xml:space="preserve">
+    <value>关</value>
+  </data>
+  <data name="CM_Playlist" xml:space="preserve">
+    <value>播放列表</value>
+  </data>
+  <data name="MV_TP_AddToPlaylist.Content" xml:space="preserve">
+    <value>添加到播放列表</value>
+  </data>
+  <data name="SelectMultiple" xml:space="preserve">
+    <value>选择</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>使用自定义背景图片</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
+    <value>缓冲时间（毫秒）</value>
+  </data>
+  <data name="SYS_PIP" xml:space="preserve">
+    <value>画中画</value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.Header" xml:space="preserve">
+    <value>使用查找预览</value>
+  </data>
+  <data name="HD_TITLE_TEXT.Text" xml:space="preserve">
+    <value>已安装的编解码器信息</value>
+  </data>
+  <data name="HD_PivotItem1.Header" xml:space="preserve">
+    <value>视频解码器</value>
+  </data>
+  <data name="HD_PivotItem2.Header" xml:space="preserve">
+    <value>视频编码器</value>
+  </data>
+  <data name="HD_PivotItem3.Header" xml:space="preserve">
+    <value>音频解码器</value>
+  </data>
+  <data name="HD_PivotItem4.Header" xml:space="preserve">
+    <value>音频编码器</value>
+  </data>
+  <data name="CM_HardwareInfo" xml:space="preserve">
+    <value>已安装的编解码器信息</value>
+  </data>
+  <data name="HD.PrimaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Meta_WhatsNew" xml:space="preserve">
+    <value>此版本中的新增内容</value>
+  </data>
+  <data name="Meta_RateMe" xml:space="preserve">
+    <value>评分</value>
+  </data>
+  <data name="Meta_Close" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Meta_Message1" xml:space="preserve">
+    <value>您的反馈很重要!</value>
+  </data>
+  <data name="Meta_Message2" xml:space="preserve">
+    <value>如果你喜欢这个应用程序, 给它一个良好的评分或评价将使这个应用程序更好。</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CM_Graghic_Effect_Displacement" xml:space="preserve">
+    <value>位移</value>
+  </data>
+  <data name="CM_Graghic_Effect_DynamicBlur" xml:space="preserve">
+    <value>动态模糊</value>
+  </data>
+  <data name="CM_Graghic_Effect_RotatedTiles" xml:space="preserve">
+    <value>旋转的平铺</value>
+  </data>
+  <data name="CM_Graghic_Effect_GrayScale" xml:space="preserve">
+    <value>灰度</value>
+  </data>
+  <data name="CM_Graghic_Effect_Invert" xml:space="preserve">
+    <value>反转</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix" xml:space="preserve">
+    <value>颜色矩阵</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_On" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_Off" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_Custom" xml:space="preserve">
+    <value>自定义</value>
+  </data>
+  <data name="CD_ColorMatrix.PrimaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="CD_CM_TITLE.Text" xml:space="preserve">
+    <value>颜色矩阵</value>
+  </data>
+  <data name="CM_Slider_hue.Header" xml:space="preserve">
+    <value>色调</value>
+  </data>
+  <data name="CM_Slider_saturation.Header" xml:space="preserve">
+    <value>饱和</value>
+  </data>
+  <data name="CM_Slider_brightness.Header" xml:space="preserve">
+    <value>亮度</value>
+  </data>
+  <data name="hevcVideoExtensionButton.Content" xml:space="preserve">
+    <value>下载 HEVC 视频扩展</value>
+  </data>
+  <data name="hevcVideoExtensionButton_ToolTip.Content" xml:space="preserve">
+    <value>Windows 10 秋季的创造者更新, 微软删除 HEVC 解码器, 所以它需要从微软商店手动下载编解码器, 如果你的硬件支持它。</value>
+  </data>
+  <data name="SD_PivotItem1_SetDefaultMediaPlayer.Header" xml:space="preserve">
+    <value>设置默认媒体播放器</value>
+  </data>
+  <data name="SD_PivotItem1_SetDefaultMediaPlayer.OffContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="SD_PivotItem1_SetDefaultMediaPlayer.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.Header" xml:space="preserve">
+    <value>显示更新的最新内容</value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>排序依据</value>
+  </data>
+  <data name="Menu_FileName" xml:space="preserve">
+    <value>文件名</value>
+  </data>
+  <data name="Menu_Size" xml:space="preserve">
+    <value>文件大小</value>
+  </data>
+  <data name="Menu_Date" xml:space="preserve">
+    <value>文件日期</value>
+  </data>
+  <data name="Menu_Duration" xml:space="preserve">
+    <value>持续时间</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
+    <value>使用 H265/HEVC/HDR 硬件加速</value>
+  </data>
+  <data name="CD_Effects.PrimaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="CD_Effects_TITLE.Text" xml:space="preserve">
+    <value>视频效果管理器</value>
+  </data>
+  <data name="CM_Graghic_Effect_EffectManager" xml:space="preserve">
+    <value>特效管理器</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.Header" xml:space="preserve">
+    <value>回忆</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.Header" xml:space="preserve">
+    <value>位移</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.Header" xml:space="preserve">
+    <value>动态模糊</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.Header" xml:space="preserve">
+    <value>旋转的平铺</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.Header" xml:space="preserve">
+    <value>灰度</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.Header" xml:space="preserve">
+    <value>反转</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.Header" xml:space="preserve">
+    <value>颜色矩阵</value>
+  </data>
+  <data name="CM_Slider_PixelsPerTile.Header" xml:space="preserve">
+    <value>每个平铺的像素</value>
+  </data>
+  <data name="CM_Slider_Amount.Header" xml:space="preserve">
+    <value>位移量</value>
+  </data>
+  <data name="CM_Slider_DisplacementX.Header" xml:space="preserve">
+    <value>位移 X</value>
+  </data>
+  <data name="CM_Slider_DisplacementY.Header" xml:space="preserve">
+    <value>位移 Y</value>
+  </data>
+  <data name="CM_Slider_BlurAmount.Header" xml:space="preserve">
+    <value>模糊量</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.Header" xml:space="preserve">
+    <value>曝光度</value>
+  </data>
+  <data name="CM_Slider_Exposure.Header" xml:space="preserve">
+    <value>曝光度</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="CM_Slider_Contrast.Header" xml:space="preserve">
+    <value>对比度</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.Header" xml:space="preserve">
+    <value>对比度</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.Header" xml:space="preserve">
+    <value>锐化</value>
+  </data>
+  <data name="CM_Slider_Sharpen.Header" xml:space="preserve">
+    <value>锐化</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.Header" xml:space="preserve">
+    <value>形态</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.Header" xml:space="preserve">
+    <value>形态模式</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>侵蚀</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>扩张</value>
+  </data>
+  <data name="CM_Slider_Morphology_Height.Header" xml:space="preserve">
+    <value>形态高度</value>
+  </data>
+  <data name="CM_Slider_Morphology_Width.Header" xml:space="preserve">
+    <value>形态宽度</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.Header" xml:space="preserve">
+    <value>显示播放速率按钮</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.OnContent" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.OffContent" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.Header" xml:space="preserve">
+    <value>浮雕</value>
+  </data>
+  <data name="CM_Slider_EmbossAmount.Header" xml:space="preserve">
+    <value>浮雕量</value>
+  </data>
+  <data name="CM_Slider_EmbossAngle.Header" xml:space="preserve">
+    <value>浮雕角度</value>
+  </data>
+  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
+    <value>天蝎网络流</value>
+  </data>
+  <data name="CM_Open_Socket" xml:space="preserve">
+    <value>天蝎网络流</value>
+  </data>
+  <data name="CD_Socket_RemotePort.Text" xml:space="preserve">
+    <value>远程端口</value>
+  </data>
+  <data name="CD_Socket_Connect_Button.Content" xml:space="preserve">
+    <value>连接</value>
+  </data>
+  <data name="CD_Socket_Disonnect_Button.Content" xml:space="preserve">
+    <value>断开</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>刷新</value>
+  </data>
+  <data name="CD_Socket_ConnectionTimedOut" xml:space="preserve">
+    <value>无法联系远程服务器, 请确保远程主机名和远程端口正确</value>
+  </data>
+  <data name="CD_Socket_Connected" xml:space="preserve">
+    <value>远程服务器已连接</value>
+  </data>
+  <data name="SCD_PivotItem1.Header" xml:space="preserve">
+    <value>文件夹</value>
+  </data>
+  <data name="SCD_PivotItem2.Header" xml:space="preserve">
+    <value>文件</value>
+  </data>
+  <data name="CD_Socket.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="CD_Socket_PrimaryButtonText_Connect" xml:space="preserve">
+    <value>连接</value>
+  </data>
+  <data name="CD_Socket_PrimaryButtonText_Disconnect" xml:space="preserve">
+    <value>断开</value>
+  </data>
+  <data name="CD_Socket_LocalPort.Text" xml:space="preserve">
+    <value>侦听端口</value>
+  </data>
+  <data name="CD_Socket_RemoteHostName.Text" xml:space="preserve">
+    <value>远程主机名/IP 地址</value>
+  </data>
+  <data name="CD_Socket_LocalHostName.Text" xml:space="preserve">
+    <value>本地主机名/IP 地址</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.Header" xml:space="preserve">
+    <value>充当媒体服务器</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.OnContent" xml:space="preserve">
+    <value>将我的收藏夹共享到本地网络</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CD_Socket_Invalid_HostName" xml:space="preserve">
+    <value>无效的主机名或 IP 地址</value>
+  </data>
+  <data name="CD_Socket_Listen_Success" xml:space="preserve">
+    <value>成功侦听端口</value>
+  </data>
+  <data name="CD_Socket_Listen_Fail" xml:space="preserve">
+    <value>无法充当媒体服务器, 请确保主机名和端口有效。</value>
+  </data>
+  <data name="CD_Socket_HelpButton.Content" xml:space="preserve">
+    <value>帮助</value>
+  </data>
+  <data name="SocketNetworkingStream_Message" xml:space="preserve">
+    <value>天蝎网络流是一个独特的功能, 可以流您的收藏夹媒体, 包括视频或音频, 通过本地网络或互联网之间的天蝎播放器, 或与天蝎播放服务器软件。在您的 PC、Xbox、windows 10 手机和其他 windows 10 设备之间启用交叉流, 当天蝎播放机作为媒体服务器时, 它必须在活动窗口模式下不最小化模式或背景模式, 您可以下载天蝎网络流应用程序为 Linux,MacOS, Windows 7, 10 8, 8.1 和从 http://scorpioplayer.com 学习更多, 谢谢。</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>添加天蝎网络流功能, 在天蝎播放器和设备之间流媒体, 可选您可以免费下载天蝎网络流桌面服务应用程序从 http://scorpioplayer.com Linux, MacOS, Windows 7, 8, 8.1, 10</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>下载</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>串流</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.Header" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="CM_Open_FTP" xml:space="preserve">
+    <value>FTP</value>
+  </data>
+  <data name="FTP_TITLE.Text" xml:space="preserve">
+    <value>FTP</value>
+  </data>
+  <data name="FTP_Settings.Header" xml:space="preserve">
+    <value>FTP 设置</value>
+  </data>
+  <data name="NO_FTP.Text" xml:space="preserve">
+    <value>找不到 FTP 服务器</value>
+  </data>
+  <data name="FTP_Warning.Text" xml:space="preserve">
+    <value>FTP 功能尚未完全就绪, 打开文件意味着完全下载文件, 请不要打开非常大的文件。</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>添加 FTP 客户端</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>添加 WebDAV 客户端</value>
+  </data>
+  <data name="CM_Open_SMB" xml:space="preserve">
+    <value>SMB</value>
+  </data>
+  <data name="UCD.PrimaryButtonText" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="UCD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>打开网络媒体</value>
+  </data>
+  <data name="CM_Open_Uri" xml:space="preserve">
+    <value>网络流</value>
+  </data>
+  <data name="UCD_Enter_message_textblock.Text" xml:space="preserve">
+    <value>请输入网络 URL:</value>
+  </data>
+  <data name="Downloading" xml:space="preserve">
+    <value>正在下载</value>
+  </data>
+  <data name="exampleTextBlock.Text" xml:space="preserve">
+    <value>例子</value>
+  </data>
+  <data name="SCD_PivotItem4.Header" xml:space="preserve">
+    <value>缓存</value>
+  </data>
+  <data name="Cache" xml:space="preserve">
+    <value>缓存</value>
+  </data>
+  <data name="ClearCacheButton.Content" xml:space="preserve">
+    <value>清除缓存</value>
+  </data>
+  <data name="WM_CacheFolderDeleted" xml:space="preserve">
+    <value>缓存清除已完成</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.Header" xml:space="preserve">
+    <value>下载后打开</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="WM_ReadFromCache" xml:space="preserve">
+    <value>从缓存读取</value>
+  </data>
+  <data name="WM_DownloadCompleted" xml:space="preserve">
+    <value>下载已完成</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>使用天蝎网络流作为收藏源</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="WM_load_socket_folder_fail" xml:space="preserve">
+    <value>天蝎网络流文件夹加载失败</value>
+  </data>
+  <data name="WM_load_socket_folder" xml:space="preserve">
+    <value>天蝎网络流文件夹加载完成</value>
+  </data>
+  <data name="WM_load_socket_file_fail" xml:space="preserve">
+    <value>天蝎网络流文件加载失败</value>
+  </data>
+  <data name="WM_load_socket_file" xml:space="preserve">
+    <value>天蝎网络流文件加载完成</value>
+  </data>
+  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
+    <value>需要天蝎网络流的远程主机设置</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>添加网络流功能, 包括 (HLS) HTTP (DASH), RTSP 协议</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>其他琐碎的改善</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
+    <value>禁用布局缩放</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="TrySetDisableLayoutScalingSuccess" xml:space="preserve">
+    <value>设置禁用布局缩放成功</value>
+  </data>
+  <data name="TrySetDisableLayoutScalingFail" xml:space="preserve">
+    <value>设置禁用布局缩放失败</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>添加绑定天蝎网络流源作为收藏夹, 能够下载视频本地设备作为缓存</value>
+  </data>
+  <data name="CM_Subtitle_SmartMathingDownload" xml:space="preserve">
+    <value>从互联网下载</value>
+  </data>
+  <data name="WM_SubtitleNotFound" xml:space="preserve">
+    <value>未找到字幕。</value>
+  </data>
+  <data name="WM_SubtitleNotFoundAudio" xml:space="preserve">
+    <value>未找到歌词。</value>
+  </data>
+  <data name="chi" xml:space="preserve">
+    <value>中文</value>
+  </data>
+  <data name="WM_not_support" xml:space="preserve">
+    <value>不支持</value>
+  </data>
+  <data name="CM_TransportControlShowDuration" xml:space="preserve">
+    <value>显示持续时间</value>
+  </data>
+  <data name="Commom_Seconds" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>添加控制栏 显示时长控制</value>
+  </data>
+  <data name="CM_Track_face" xml:space="preserve">
+    <value>追踪面部</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>添加面部跟踪</value>
+  </data>
+  <data name="WM_decode_fail_switching_codec" xml:space="preserve">
+    <value>解码失败, 尝试切换编解码器</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.Header" xml:space="preserve">
+    <value>显示弹幕按钮</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="MV_Danmu.Content" xml:space="preserve">
+    <value>弹幕</value>
+  </data>
+  <data name="MV_TP_Danmu_Explain.Content" xml:space="preserve">
+    <value>使用此功能需要载入弹幕字幕文件.xml或者.json，兼容blibli.com ／ acfun.com</value>
+  </data>
+  <data name="WM_danmu_subtitle_loaded" xml:space="preserve">
+    <value>弹幕加载成功</value>
+  </data>
+  <data name="Meta_UpdateInfo9" xml:space="preserve">
+    <value>添加 acfun.com / blibli.com 离线弹幕支持，.xml / .json 格式</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
+    <value>使用发光效果</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem2_GlowAmountSlider.Header" xml:space="preserve">
+    <value>发光量</value>
+  </data>
+  <data name="Meta_UpdateInfo10" xml:space="preserve">
+    <value>添加字幕发光效果</value>
+  </data>
+</root>

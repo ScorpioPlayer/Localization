@@ -1,0 +1,1647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SD.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="SD_TITLE.Text" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
+  <data name="SD_PivotItem1.Header" xml:space="preserve">
+    <value>Allgemeine</value>
+  </data>
+  <data name="SD_PivotItem2.Header" xml:space="preserve">
+    <value>Untertitel</value>
+  </data>
+  <data name="SD_PivotItem3_Header.Text" xml:space="preserve">
+    <value>Advance</value>
+  </data>
+  <data name="SD_PivotItem4.Header" xml:space="preserve">
+    <value>Über</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.Header" xml:space="preserve">
+    <value>Verwenden Sie fließend Design</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Fließend Design</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Dunkel</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.Header" xml:space="preserve">
+    <value>Verwenden der Geste</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.Header" xml:space="preserve">
+    <value>Denken Sie daran Wiedergabe Fortschritt</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.Header" xml:space="preserve">
+    <value>Verwendung Element Sound</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.OnContent" xml:space="preserve">
+    <value>Auf</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.OffContent" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.Header" xml:space="preserve">
+    <value>Auto-Download-Untertitel aus dem Internet</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.Header" xml:space="preserve">
+    <value>Sekundäre Untertitel unter primäre Untertitel</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>Untertitel ist hinterlegt</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>Untertitel hat weißen Hintergrund</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>Weiß</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>Schwarz</value>
+  </data>
+  <data name="SD_PivotItem2_sutitleSlider.Header" xml:space="preserve">
+    <value>Untertitel-Deckkraft</value>
+  </data>
+  <data name="SD_PivotItem2_sutitleBackgroundSlider.Header" xml:space="preserve">
+    <value>Untertitel-Hintergrund-Deckkraft</value>
+  </data>
+  <data name="SD_PivotItem2_primarySubtitleFontSizeSlider.Header" xml:space="preserve">
+    <value>Primäre Untertitel Schriftgröße</value>
+  </data>
+  <data name="SD_PivotItem2_secondarySubtitleFontSizeSlider.Header" xml:space="preserve">
+    <value>Sekundäre Untertitel Schriftgröße</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.Header" xml:space="preserve">
+    <value>Primäre Untertitel zeigen nur eine Zeile</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.Header" xml:space="preserve">
+    <value>Primäre Show erste Zeile</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.OnContent" xml:space="preserve">
+    <value>Erste Zeile</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.OffContent" xml:space="preserve">
+    <value>Letzte Zeile</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.Header" xml:space="preserve">
+    <value>Zeigen Subtile Zeitrahmen</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Zeigen</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nicht mehr anzeigen</value>
+  </data>
+  <data name="CM_Close" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="CM_OpenFile" xml:space="preserve">
+    <value>Datei öffnen...</value>
+  </data>
+  <data name="CM_Open" xml:space="preserve">
+    <value>Offen</value>
+  </data>
+  <data name="CM_Open_Folder" xml:space="preserve">
+    <value>Ordner</value>
+  </data>
+  <data name="CM_Recent" xml:space="preserve">
+    <value>Aktuelle Wiedergabe</value>
+  </data>
+  <data name="CM_Recent_ClearHistory" xml:space="preserve">
+    <value>Verlauf löschen</value>
+  </data>
+  <data name="CM_Recent_DisableHistory" xml:space="preserve">
+    <value>Tun nicht Track History</value>
+  </data>
+  <data name="CM_Favorite" xml:space="preserve">
+    <value>Favoriten</value>
+  </data>
+  <data name="CM_Favorite_File" xml:space="preserve">
+    <value>Datei...</value>
+  </data>
+  <data name="CM_Favorite_Folder" xml:space="preserve">
+    <value>-Ordner...</value>
+  </data>
+  <data name="CM_Graghic" xml:space="preserve">
+    <value>Grafik</value>
+  </data>
+  <data name="CM_Graghic_Rotation" xml:space="preserve">
+    <value>Grafik drehen</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Vertical" xml:space="preserve">
+    <value>Vertikal</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Horizontal" xml:space="preserve">
+    <value>Horizontale</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Left90" xml:space="preserve">
+    <value>Links 90° C</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Right90" xml:space="preserve">
+    <value>Rechts 90° C</value>
+  </data>
+  <data name="CM_Graghic_Rotation_180" xml:space="preserve">
+    <value>180° C-Rotation</value>
+  </data>
+  <data name="CM_Graghic_Rotation_DefaultAngle" xml:space="preserve">
+    <value>Standard-Winkel</value>
+  </data>
+  <data name="CM_Graghic_FullScreen" xml:space="preserve">
+    <value>Vollbild</value>
+  </data>
+  <data name="CM_Graghic_PIP" xml:space="preserve">
+    <value>Bild im Bild (immer an der Spitze)</value>
+  </data>
+  <data name="CM_Graghic_OriginalSize" xml:space="preserve">
+    <value>Originalgröße</value>
+  </data>
+  <data name="CM_Graghic_Fill" xml:space="preserve">
+    <value>Füllen Sie</value>
+  </data>
+  <data name="CM_Graghic_Default" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="CM_Graghic_UniformToFill" xml:space="preserve">
+    <value>Uniform zu füllen</value>
+  </data>
+  <data name="CM_Graghic_FreeTransform" xml:space="preserve">
+    <value>Frei transformieren</value>
+  </data>
+  <data name="CM_Sound" xml:space="preserve">
+    <value>Klang</value>
+  </data>
+  <data name="CM_Sound_SystemDefault" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="CM_Sound_LeftChannel" xml:space="preserve">
+    <value>Linker Kanal</value>
+  </data>
+  <data name="CM_Sound_RightChannel" xml:space="preserve">
+    <value>Rechter Kanal</value>
+  </data>
+  <data name="CM_Sound_Track" xml:space="preserve">
+    <value>Track</value>
+  </data>
+  <data name="CM_Playback" xml:space="preserve">
+    <value>Wiedergabe</value>
+  </data>
+  <data name="CM_Playback_Loop_Audio" xml:space="preserve">
+    <value>Aktuelle Musik Schleife</value>
+  </data>
+  <data name="CM_Playback_Loop_Video" xml:space="preserve">
+    <value>Aktuelle Video-Schleife</value>
+  </data>
+  <data name="CM_Playback_Loop_CurrentList" xml:space="preserve">
+    <value>Aktuelle Wiedergabeliste Schleife</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint" xml:space="preserve">
+    <value>Legen Sie einen Punkt</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint" xml:space="preserve">
+    <value>Sollwert B</value>
+  </data>
+  <data name="CM_Playback_Loop_APoint" xml:space="preserve">
+    <value>Einen Punkt</value>
+  </data>
+  <data name="CM_Playback_Loop_BPoint" xml:space="preserve">
+    <value>B-Punkt</value>
+  </data>
+  <data name="CM_Playback_ForceDecodeAudio" xml:space="preserve">
+    <value>Kraft zu entschlüsseln Audio</value>
+  </data>
+  <data name="CM_Playback_ForceDecodeVideo" xml:space="preserve">
+    <value>Kraft zu entschlüsseln Video</value>
+  </data>
+  <data name="CM_Playback_UseSystemDecoder" xml:space="preserve">
+    <value>Verwenden Sie System-Decoder</value>
+  </data>
+  <data name="CM_Playback_FastenPlaybackRate" xml:space="preserve">
+    <value>Befestigen Sie die Wiedergabegeschwindigkeit</value>
+  </data>
+  <data name="CM_Playback_SlowDownPlaybackRate" xml:space="preserve">
+    <value>Wiedergabegeschwindigkeit verlangsamen</value>
+  </data>
+  <data name="CM_Playback_StartABLoop" xml:space="preserve">
+    <value>A-B Schleife starten</value>
+  </data>
+  <data name="CM_Playback_StopABLoop" xml:space="preserve">
+    <value>A-B Schleife beenden</value>
+  </data>
+  <data name="CM_MediaInfo" xml:space="preserve">
+    <value>Medieninfo</value>
+  </data>
+  <data name="CM_Settings" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
+  <data name="CM_EnterLockMode" xml:space="preserve">
+    <value>Lock-Modus wählen</value>
+  </data>
+  <data name="CM_ExitLockMode" xml:space="preserve">
+    <value>Lock-Modus beenden</value>
+  </data>
+  <data name="TCCM_RememberTransportControlPostion" xml:space="preserve">
+    <value>Denken Sie daran, Transport Control Postion</value>
+  </data>
+  <data name="TCCM_RememberTransportControlPostion_Reset" xml:space="preserve">
+    <value>TransportControl Position zurücksetzen</value>
+  </data>
+  <data name="CM_Subtitle" xml:space="preserve">
+    <value>Untertitel</value>
+  </data>
+  <data name="CM_Subtitle_Disable" xml:space="preserve">
+    <value>Untertitel zu deaktivieren</value>
+  </data>
+  <data name="CM_Subtitle_Style" xml:space="preserve">
+    <value>Untertitel-Ambiente</value>
+  </data>
+  <data name="CM_Subtitle_Item" xml:space="preserve">
+    <value>Untertitel</value>
+  </data>
+  <data name="WM_CurrentPlaying" xml:space="preserve">
+    <value>Aktuelle Wiedergabe</value>
+  </data>
+  <data name="WM_PlayRateChangedTo" xml:space="preserve">
+    <value>Wiedergabegeschwindigkeit geändert</value>
+  </data>
+  <data name="MV_FreeTransform_Reset.Text" xml:space="preserve">
+    <value>Zurücksetzen</value>
+  </data>
+  <data name="MV_FreeTransform_Save.Text" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="MV_FreeTransform_Confirm.Text" xml:space="preserve">
+    <value>Bestätigen</value>
+  </data>
+  <data name="MV_FreeTransform_Advance.Text" xml:space="preserve">
+    <value>Advance</value>
+  </data>
+  <data name="MV_FreeTransform_ZoomOut.Text" xml:space="preserve">
+    <value>Verkleinern Sie die Ansicht</value>
+  </data>
+  <data name="MV_FreeTransform_Center.Text" xml:space="preserve">
+    <value>Zentrum</value>
+  </data>
+  <data name="MV_FreeTransform_ZoomIn.Text" xml:space="preserve">
+    <value>Zoom In</value>
+  </data>
+  <data name="MI.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="MI_VideoType.Text" xml:space="preserve">
+    <value>Video Art</value>
+  </data>
+  <data name="MI_VideoBitrate.Text" xml:space="preserve">
+    <value>Video-Bitrate</value>
+  </data>
+  <data name="MI_AudioBitrate.Text" xml:space="preserve">
+    <value>Audio-Bitrate</value>
+  </data>
+  <data name="MI_VideoFramerate.Text" xml:space="preserve">
+    <value>Video Bildrate</value>
+  </data>
+  <data name="MI_Resolution.Text" xml:space="preserve">
+    <value>Auflösung</value>
+  </data>
+  <data name="MI_SubType.Text" xml:space="preserve">
+    <value>Subtyp</value>
+  </data>
+  <data name="MI_Type.Text" xml:space="preserve">
+    <value>Typ</value>
+  </data>
+  <data name="MI_FileSize.Text" xml:space="preserve">
+    <value>Dateigröße</value>
+  </data>
+  <data name="MI_Duration.Text" xml:space="preserve">
+    <value>Dauer</value>
+  </data>
+  <data name="MI_VideoCodecName.Text" xml:space="preserve">
+    <value>Video-Codec Name</value>
+  </data>
+  <data name="MI_AudioCodecName.Text" xml:space="preserve">
+    <value>Audio-Codec Name</value>
+  </data>
+  <data name="MV_TP_AddFolderAsFavorite.Content" xml:space="preserve">
+    <value>Ordner zu Favoriten hinzufügen</value>
+  </data>
+  <data name="WM_CurrentSubtitle" xml:space="preserve">
+    <value>Aktuellen Untertitel</value>
+  </data>
+  <data name="WM_Delay" xml:space="preserve">
+    <value>Verzögerung</value>
+  </data>
+  <data name="WM_DecodeType" xml:space="preserve">
+    <value>HD</value>
+  </data>
+  <data name="WM_SubtileNotFound" xml:space="preserve">
+    <value>Keine Untertitel gefunden</value>
+  </data>
+  <data name="WM_SubtitleFound" xml:space="preserve">
+    <value>Untertitel zu finden, herunterladen...</value>
+  </data>
+  <data name="WM_SubtitleDownloadSuccess_Part1" xml:space="preserve">
+    <value>Untertitel Download Erfolg, insgesamt</value>
+  </data>
+  <data name="WM_SubtitleDownloadSuccess_Part2" xml:space="preserve">
+    <value>Dateien</value>
+  </data>
+  <data name="WM_CanNotOpenFile" xml:space="preserve">
+    <value>Datei kann nicht geöffnet werden.</value>
+  </data>
+  <data name="WM_UseSystemDecoder" xml:space="preserve">
+    <value>Verwenden Sie System-Decoder</value>
+  </data>
+  <data name="WM_NoNextFileCanPlay" xml:space="preserve">
+    <value>Keine nächste Datei wiedergeben</value>
+  </data>
+  <data name="WM_Volume" xml:space="preserve">
+    <value>Volumen</value>
+  </data>
+  <data name="WM_FileNotExist" xml:space="preserve">
+    <value>Datei nicht vorhanden</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part1" xml:space="preserve">
+    <value>Primäre Untertitel anzeigen</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part2" xml:space="preserve">
+    <value>als verzögern</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part3" xml:space="preserve">
+    <value>MS</value>
+  </data>
+  <data name="WM_PrimarySubtitleDelayAs" xml:space="preserve">
+    <value>Primäre Untertitel Verzögerung voraussichtlich</value>
+  </data>
+  <data name="CM_Subtitle_Load" xml:space="preserve">
+    <value>Last Untertitel</value>
+  </data>
+  <data name="MV_PanePivot_Item1.Header" xml:space="preserve">
+    <value>Den letzten</value>
+  </data>
+  <data name="MV_PanePivot_Item2.Header" xml:space="preserve">
+    <value>Favoriten</value>
+  </data>
+  <data name="MV_PanePivot_Item3.Header" xml:space="preserve">
+    <value>Wiedergabeliste</value>
+  </data>
+  <data name="MV_TP_OpenFIle.Content" xml:space="preserve">
+    <value>Datei öffnen</value>
+  </data>
+  <data name="MV_TP_OpenFolder.Content" xml:space="preserve">
+    <value>Öffnen Sie den Ordner</value>
+  </data>
+  <data name="CM_Start_Loop" xml:space="preserve">
+    <value>A-B gestoppt</value>
+  </data>
+  <data name="CM_Stop_Loop" xml:space="preserve">
+    <value>A-B gestartet</value>
+  </data>
+  <data name="CM_SecondarySubtitle" xml:space="preserve">
+    <value>Sekundäre Untertitel</value>
+  </data>
+  <data name="SD_PivotItem3_screenLuminanceSlider.Header" xml:space="preserve">
+    <value>Video Luminanz</value>
+  </data>
+  <data name="CM_Graghic_Effect" xml:space="preserve">
+    <value>Wirkung</value>
+  </data>
+  <data name="CM_Graghic_Effect_OldMovie" xml:space="preserve">
+    <value>Memo</value>
+  </data>
+  <data name="WM_MediaFailed" xml:space="preserve">
+    <value>Medien ist fehlgeschlagen</value>
+  </data>
+  <data name="WM_TryReadEmbbedSubtitle" xml:space="preserve">
+    <value>Versuchen Sie Last Embbed Untertitel</value>
+  </data>
+  <data name="WM_LoadingFolder" xml:space="preserve">
+    <value>Laden-Ordner...</value>
+  </data>
+  <data name="WM_LoadingFolderCompleted" xml:space="preserve">
+    <value>Ordner geladen</value>
+  </data>
+  <data name="WM_LoadingFolderFailed" xml:space="preserve">
+    <value>Ordner, keine Mediendatei wiedergeben kann nicht geöffnet werden.</value>
+  </data>
+  <data name="WM_OnlyOnFileOrFolder" xml:space="preserve">
+    <value>Bitte legen Sie eine Datei oder einen Ordner</value>
+  </data>
+  <data name="SYS_NewWindow" xml:space="preserve">
+    <value>Neues Fenster</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.Header" xml:space="preserve">
+    <value>Versuchen Sie Extrakt .mkv video Embbed Untertitel</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="MV_TP_AddFileAsFavorite.Content" xml:space="preserve">
+    <value>Datei zu Favoriten hinzufügen</value>
+  </data>
+  <data name="CM_Playback_Shuffling" xml:space="preserve">
+    <value>Zufällige Wiedergabe</value>
+  </data>
+  <data name="MI_AspectRatio.Text" xml:space="preserve">
+    <value>Seitenverhältnis</value>
+  </data>
+  <data name="Screenshot_Saved_Part1" xml:space="preserve">
+    <value>Datei </value>
+  </data>
+  <data name="Screenshot_Saved_Part2" xml:space="preserve">
+    <value>Gespeichert</value>
+  </data>
+  <data name="CM_Graghic_Screenshot" xml:space="preserve">
+    <value>Screenshot</value>
+  </data>
+  <data name="CM_Graghic_Screenshot_SaveAs" xml:space="preserve">
+    <value>Speichern als...</value>
+  </data>
+  <data name="CM_Sound_RenderDevice" xml:space="preserve">
+    <value>Sound zu machen...</value>
+  </data>
+  <data name="CM_Sound_RenderDevice_default" xml:space="preserve">
+    <value>Standard-System</value>
+  </data>
+  <data name="MV_TP_StepNextFrame.Content" xml:space="preserve">
+    <value>Nächsten frame</value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.Header" xml:space="preserve">
+    <value>Sprache (möglicherweise app neu starten müssen)</value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.OffContent" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="Cast_Disconnected" xml:space="preserve">
+    <value>Getrennt</value>
+  </data>
+  <data name="Cast_Connected" xml:space="preserve">
+    <value>Verbunden</value>
+  </data>
+  <data name="Cast_Rendering" xml:space="preserve">
+    <value>Rendern</value>
+  </data>
+  <data name="Cast_Disconnecting" xml:space="preserve">
+    <value>Trennen</value>
+  </data>
+  <data name="Cast_Connecting" xml:space="preserve">
+    <value>Anschluss</value>
+  </data>
+  <data name="Cast_Error" xml:space="preserve">
+    <value>Verbindung-Fehler ist aufgetreten</value>
+  </data>
+  <data name="CM_Playback_Casting_Stop" xml:space="preserve">
+    <value>Casting zu stoppen</value>
+  </data>
+  <data name="CM_Playback_Casting_Start" xml:space="preserve">
+    <value>Medien zu werfen...</value>
+  </data>
+  <data name="SD_PivotItem1_CreateTransparentTile.Header" xml:space="preserve">
+    <value>Erstellen transparente Kachel</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.Header" xml:space="preserve">
+    <value>Hintergrund-Wiedergabe video</value>
+  </data>
+  <data name="MV_PanePivot_Item2_ShowFileOrFolderToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ordner</value>
+  </data>
+  <data name="MV_PanePivot_Item2_ShowFileOrFolderToggleSwitch.OffContent" xml:space="preserve">
+    <value>Datei</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_BTN" xml:space="preserve">
+    <value>LEBENSZEIT-ABO</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO3MONTH_BTN" xml:space="preserve">
+    <value>3-MONATS-ABO</value>
+  </data>
+  <data name="SD_PivotItem3_ADDON_NetworkError.Text" xml:space="preserve">
+    <value>Netzwerk-Fehler, bitte versuchen Sie es erneut.</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_BTN.Content" xml:space="preserve">
+    <value>1 Stunde-Testversion</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message" xml:space="preserve">
+    <value>Für 1 Stunde werden im Laufe der Zeit folgenden Einstellungen auf die Standardwerte zurück</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message_Confirm" xml:space="preserve">
+    <value>Bestätigen</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message_Close" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="CM_Graghic_BRIGHTNESS" xml:space="preserve">
+    <value>Helligkeit</value>
+  </data>
+  <data name="MSD_TITLE.Text" xml:space="preserve">
+    <value>UPNP DLNA-Geräten</value>
+  </data>
+  <data name="MSD.PrimaryButtonText" xml:space="preserve">
+    <value>Reflesh</value>
+  </data>
+  <data name="CM_Open_MediaServer" xml:space="preserve">
+    <value>DLNA</value>
+  </data>
+  <data name="MSD.SecondaryButtonText" xml:space="preserve">
+    <value>Bestätigen</value>
+  </data>
+  <data name="NO_DLNA.Text" xml:space="preserve">
+    <value>Kein DLNA-Gerät gefunden</value>
+  </data>
+  <data name="WM_CUE_FOUND" xml:space="preserve">
+    <value>.Cue-Datei gefunden</value>
+  </data>
+  <data name="WM_CUE_ASSOCIATE_FAILED" xml:space="preserve">
+    <value>.Cue assoziierten audio-Datei nicht gefunden, müssen denselben Namen verwenden</value>
+  </data>
+  <data name="WM_CUE_FAILED" xml:space="preserve">
+    <value>.Cue Parse Fehler</value>
+  </data>
+  <data name="WM_CUE_MUST_OPEN_WITH_FOLDER" xml:space="preserve">
+    <value>.Cue müssen im Ordner öffnen.</value>
+  </data>
+  <data name="CM_Open_EQ" xml:space="preserve">
+    <value>EQ</value>
+  </data>
+  <data name="CD_E_TITLE.Text" xml:space="preserve">
+    <value>Equalizer</value>
+  </data>
+  <data name="CD_Equalizer.PrimaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="CNE_PRESET.Text" xml:space="preserve">
+    <value>Voreinstellung für audio</value>
+  </data>
+  <data name="PS_none" xml:space="preserve">
+    <value>Keine</value>
+  </data>
+  <data name="PS_acoustic" xml:space="preserve">
+    <value>Akustische</value>
+  </data>
+  <data name="PS_bass_boost" xml:space="preserve">
+    <value>Bass-boost</value>
+  </data>
+  <data name="PS_classical" xml:space="preserve">
+    <value>Klassische</value>
+  </data>
+  <data name="PS_dance" xml:space="preserve">
+    <value>Tanz</value>
+  </data>
+  <data name="PS_electronic" xml:space="preserve">
+    <value>Elektronische</value>
+  </data>
+  <data name="PS_hip_hop" xml:space="preserve">
+    <value>Hip hop</value>
+  </data>
+  <data name="PS_jazz" xml:space="preserve">
+    <value>Jazz</value>
+  </data>
+  <data name="PS_loudness" xml:space="preserve">
+    <value>Lautheit</value>
+  </data>
+  <data name="PS_pop" xml:space="preserve">
+    <value>Pop</value>
+  </data>
+  <data name="PS_r_b" xml:space="preserve">
+    <value>R&amp;B</value>
+  </data>
+  <data name="PS_rock" xml:space="preserve">
+    <value>Rock</value>
+  </data>
+  <data name="PS_speech" xml:space="preserve">
+    <value>Rede</value>
+  </data>
+  <data name="PS_treble_boost" xml:space="preserve">
+    <value>Höhenanhebung</value>
+  </data>
+  <data name="PS_vocal_boost" xml:space="preserve">
+    <value>Vocal boost</value>
+  </data>
+  <data name="PS_custom" xml:space="preserve">
+    <value>Brauch</value>
+  </data>
+  <data name="WhatsNew.Content" xml:space="preserve">
+    <value>Was ist neu in dieser version</value>
+  </data>
+  <data name="SD_RateMe" xml:space="preserve">
+    <value>Preis</value>
+  </data>
+  <data name="SD_Close" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="CM_Favorite_Manager" xml:space="preserve">
+    <value>Manager</value>
+  </data>
+  <data name="FD_PivotItem1.Header" xml:space="preserve">
+    <value>Durchsuchen</value>
+  </data>
+  <data name="FD_PivotItem2.Header" xml:space="preserve">
+    <value>Ordnern</value>
+  </data>
+  <data name="FD_PivotItem3.Header" xml:space="preserve">
+    <value>Dateien</value>
+  </data>
+  <data name="FD.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="FD.PrimaryButtonText" xml:space="preserve">
+    <value>Durchsuchen</value>
+  </data>
+  <data name="FD_MUST_FOLDERS_WARNING" xml:space="preserve">
+    <value>Wählen Sie einen Ordner, die Unterordner haben muss</value>
+  </data>
+  <data name="FD_BTN_P_BROWSE" xml:space="preserve">
+    <value>Durchsuchen</value>
+  </data>
+  <data name="FD_BTN_P_ADD_TO_FAVORITE" xml:space="preserve">
+    <value>Zu Favoriten hinzufügen</value>
+  </data>
+  <data name="FD_BTN_P_REMOVE_FROM_FAVORITE" xml:space="preserve">
+    <value>Aus Favoriten entfernen</value>
+  </data>
+  <data name="FD_TITLE.Text" xml:space="preserve">
+    <value>Favoriten-Manager</value>
+  </data>
+  <data name="FD_RecursiveCheckBox.Content" xml:space="preserve">
+    <value>Rekursiv</value>
+  </data>
+  <data name="MV_TP_OpenManager.Content" xml:space="preserve">
+    <value>Favoriten-Manager</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.Header" xml:space="preserve">
+    <value>Nächsten Frame-Schaltfläche anzeigen</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="CM_Open_VISUALIZER" xml:space="preserve">
+    <value>Visualisierung</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.Header" xml:space="preserve">
+    <value>Musikvisualisierung</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.OffContent" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="MV_TP_ToggleSearch.Content" xml:space="preserve">
+    <value>Suche</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER" xml:space="preserve">
+    <value>Advanced Edition - unbegrenzte Anzahl von Favoriten zu entsperren!</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER_Confirm" xml:space="preserve">
+    <value>Entsperren</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER_Close" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="AutoSuggestBox.PlaceholderText" xml:space="preserve">
+    <value>Suche</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.Header" xml:space="preserve">
+    <value>Roaming-Spiel Fortschritte</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="WM_Bookmark_AddSuccess" xml:space="preserve">
+    <value>Lesezeichen hinzugefügt</value>
+  </data>
+  <data name="WM_Bookmark_RemoveSuccess" xml:space="preserve">
+    <value>Lesezeichen entfernt</value>
+  </data>
+  <data name="WM_Bookmark_Loaded" xml:space="preserve">
+    <value>Lesezeichen geladen</value>
+  </data>
+  <data name="CM_Bookmard_Point" xml:space="preserve">
+    <value>Offene Zeit Punkt</value>
+  </data>
+  <data name="CM_Bookmard_AB_Point" xml:space="preserve">
+    <value>Open Video-Clip</value>
+  </data>
+  <data name="CM_Bookmard_Remove_List" xml:space="preserve">
+    <value>Entfernen</value>
+  </data>
+  <data name="CM_Bookmard_Rename_List" xml:space="preserve">
+    <value>Benennen Sie</value>
+  </data>
+  <data name="CM_Bookmark" xml:space="preserve">
+    <value>Lesezeichen/Kapitel</value>
+  </data>
+  <data name="CM_Bookmark_AddAB" xml:space="preserve">
+    <value>Video Clip hinzufügen</value>
+  </data>
+  <data name="CM_Bookmark_AddPoint" xml:space="preserve">
+    <value>Zeit-Punkt hinzufügen</value>
+  </data>
+  <data name="BCD_TITLE.Text" xml:space="preserve">
+    <value>Lesezeichen umbenennen</value>
+  </data>
+  <data name="BCD.SecondaryButtonText" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="BCD.PrimaryButtonText" xml:space="preserve">
+    <value>Bestätigen</value>
+  </data>
+  <data name="WM_Bookmark_Rename_Success" xml:space="preserve">
+    <value>Lesezeichen umbenannt</value>
+  </data>
+  <data name="CM_Bookmard_Manage" xml:space="preserve">
+    <value>Verwalten</value>
+  </data>
+  <data name="LIMIT_EXCEED_BOOKMARK" xml:space="preserve">
+    <value>Advanced Edition - unbegrenzte Anzahl von Lesezeichen zu entsperren!</value>
+  </data>
+  <data name="CM_Playback_Loop_ResetAB" xml:space="preserve">
+    <value>A-B löschen</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.Header" xml:space="preserve">
+    <value>Denken Sie daran, Audio-Wiedergabe Fortschritt</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.Header" xml:space="preserve">
+    <value>Rekursiv</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.OnContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.OffContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="WM_SUCCESS_ADD_FILE_TO_FAVORITE" xml:space="preserve">
+    <value>Erfolg Datei zu Favoriten hinzufügen</value>
+  </data>
+  <data name="WM_SUCCESS_REMOVE_FILE_TO_FAVORITE" xml:space="preserve">
+    <value>Erfolg Datei aus Favoriten entfernen</value>
+  </data>
+  <data name="WM_SUCCESS_ADD_FOLDER_TO_FAVORITE" xml:space="preserve">
+    <value>Erfolg Ordner zu Favoriten hinzufügen</value>
+  </data>
+  <data name="WM_SUCCESS_REMOVE_FOLDER_TO_FAVORITE" xml:space="preserve">
+    <value>Erfolg Ordner aus Favoriten entfernen</value>
+  </data>
+  <data name="ADD_FILE_FAVORITE" xml:space="preserve">
+    <value>Zu Favoriten hinzufügen</value>
+  </data>
+  <data name="REMOVE_FILE_FAVORITE" xml:space="preserve">
+    <value>Aus Favoriten entfernen</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Untertiteltext wählbar</value>
+  </data>
+  <data name="IsSubtitleSelectionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="IsSubtitleSelectionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="OpenFolder" xml:space="preserve">
+    <value>Öffnen Sie den Ordner</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.Header" xml:space="preserve">
+    <value>Verwenden Sie System-Decoder</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.OffContent" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.Header" xml:space="preserve">
+    <value>Kraft zu entschlüsseln Video</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.OffContent" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.Header" xml:space="preserve">
+    <value>Kraft zu entschlüsseln Audio</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.OffContent" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="CM_Open_WebDAV" xml:space="preserve">
+    <value>WebDAV</value>
+  </data>
+  <data name="WebDAV_TITLE.Text" xml:space="preserve">
+    <value>WebDAV (Beta)</value>
+  </data>
+  <data name="NO_WebDAV.Text" xml:space="preserve">
+    <value>Keine WebDAV gefunden.</value>
+  </data>
+  <data name="WebDAV_WebDAVBaseURI.Text" xml:space="preserve">
+    <value>Server-Endpunkt</value>
+  </data>
+  <data name="WebDAV_WebDAVUsername.Text" xml:space="preserve">
+    <value>Benutzername</value>
+  </data>
+  <data name="WebDAV_WebDAVPassword.Text" xml:space="preserve">
+    <value>Passwort</value>
+  </data>
+  <data name="WebDAV_Settings.Header" xml:space="preserve">
+    <value>WebDAV-Einstellungen</value>
+  </data>
+  <data name="WebDAV_Warning.Text" xml:space="preserve">
+    <value>WebDAV-Funktion ist nicht vollständig bereit, offene Datei Mittel vollständig laden Sie die Datei, öffnen Sie bitte sehr große Datei nicht.</value>
+  </data>
+  <data name="WebDAV_WebDAVNote.Text" xml:space="preserve">
+    <value>Hinweis</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.Header" xml:space="preserve">
+    <value>"360°-Video-Wiedergabe-Schaltfläche" anzeigen</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="CM_Bookmard_ChapterList" xml:space="preserve">
+    <value>Offenen Kapitel</value>
+  </data>
+  <data name="CM_Open_NewWindow" xml:space="preserve">
+    <value>Neues Fenster</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.Header" xml:space="preserve">
+    <value>Suchfeld anzeigen</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="CM_Opacity" xml:space="preserve">
+    <value>Deckkraft</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.Header" xml:space="preserve">
+    <value>Passen Sie Untertitel Bildgröße</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SD_PivotItem2_ImageSubtitleSizeSizeSlider.Header" xml:space="preserve">
+    <value>Bildgröße Untertitel</value>
+  </data>
+  <data name="SD_PivotItem3_PrimarySubtitlePositionSlider.Header" xml:space="preserve">
+    <value>Primäre Untertitel Position</value>
+  </data>
+  <data name="SD_PivotItem3_SeconderySubtitlePositionSlider.Header" xml:space="preserve">
+    <value>Sekundäre Untertitel Position</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.Header" xml:space="preserve">
+    <value>Verwenden Sie standardmäßige FontFamily</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SD_PivotItem1_GlobalStretchModeComboBox.Header" xml:space="preserve">
+    <value>Globale Grafikmodus</value>
+  </data>
+  <data name="WM_SubtitleSearching" xml:space="preserve">
+    <value>Suche Untertitel...</value>
+  </data>
+  <data name="PBCD.PrimaryButtonText" xml:space="preserve">
+    <value>Bestätigen</value>
+  </data>
+  <data name="PBCD.SecondaryButtonText" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="PBCD_TITLE.Text" xml:space="preserve">
+    <value>Name der Playlist</value>
+  </data>
+  <data name="MV_TP_NewPlaylist.Content" xml:space="preserve">
+    <value>Neue Playlist</value>
+  </data>
+  <data name="AddToPlaylist" xml:space="preserve">
+    <value>Zur Wiedergabeliste hinzufügen</value>
+  </data>
+  <data name="WM_Playlist_Empty" xml:space="preserve">
+    <value>Playlist ist leer</value>
+  </data>
+  <data name="MV_TP_RenamePlaylist.Content" xml:space="preserve">
+    <value>Playlist umbenennen</value>
+  </data>
+  <data name="RemoveFromPlaylist" xml:space="preserve">
+    <value>Aus der Wiedergabeliste entfernen</value>
+  </data>
+  <data name="MV_TP_RemovePlaylist.Content" xml:space="preserve">
+    <value>Wiedergabeliste löschen</value>
+  </data>
+  <data name="ClearRecentButton.Content" xml:space="preserve">
+    <value>Alle löschen</value>
+  </data>
+  <data name="ADDON_CanNotBuyAdvanceInTrialVersion_TextBlock.Text" xml:space="preserve">
+    <value>In der Testversion kann keine Premium kaufen.</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.Header" xml:space="preserve">
+    <value>Verwenden Sie benutzerdefinierte Farbe</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="CM_Playlist" xml:space="preserve">
+    <value>Wiedergabeliste</value>
+  </data>
+  <data name="MV_TP_AddToPlaylist.Content" xml:space="preserve">
+    <value>Zur Wiedergabeliste hinzufügen</value>
+  </data>
+  <data name="SelectMultiple" xml:space="preserve">
+    <value>Wählen Sie</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>Verwenden Sie benutzerdefiniertes Hintergrundbild</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
+    <value>Pufferzeit (ms)</value>
+  </data>
+  <data name="SYS_PIP" xml:space="preserve">
+    <value>Bild im Bild (immer an der Spitze)</value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.Header" xml:space="preserve">
+    <value>Verwendung suchen Previewer</value>
+  </data>
+  <data name="HD_TITLE_TEXT.Text" xml:space="preserve">
+    <value>Installierten Codec Info</value>
+  </data>
+  <data name="HD_PivotItem1.Header" xml:space="preserve">
+    <value>Video-Decoder</value>
+  </data>
+  <data name="HD_PivotItem2.Header" xml:space="preserve">
+    <value>Video-Encoder</value>
+  </data>
+  <data name="HD_PivotItem3.Header" xml:space="preserve">
+    <value>Audio-Decoder</value>
+  </data>
+  <data name="HD_PivotItem4.Header" xml:space="preserve">
+    <value>Audio-Encoder</value>
+  </data>
+  <data name="CM_HardwareInfo" xml:space="preserve">
+    <value>Installierten Codec Info</value>
+  </data>
+  <data name="HD.PrimaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="Meta_WhatsNew" xml:space="preserve">
+    <value>Was ist neu in dieser version</value>
+  </data>
+  <data name="Meta_RateMe" xml:space="preserve">
+    <value>Preis</value>
+  </data>
+  <data name="Meta_Close" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="Meta_Message1" xml:space="preserve">
+    <value>Ihr Feedback ist wichtig!</value>
+  </data>
+  <data name="Meta_Message2" xml:space="preserve">
+    <value>Wenn Ihr diese app gefällt geben Sie ihm einen guten Preis oder Überprüfung machen diese app besser.</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="CM_Graghic_Effect_Displacement" xml:space="preserve">
+    <value>Hubraum</value>
+  </data>
+  <data name="CM_Graghic_Effect_DynamicBlur" xml:space="preserve">
+    <value>Dynamische Unschärfe</value>
+  </data>
+  <data name="CM_Graghic_Effect_RotatedTiles" xml:space="preserve">
+    <value>Gedrehte Fliesen</value>
+  </data>
+  <data name="CM_Graghic_Effect_GrayScale" xml:space="preserve">
+    <value>Graustufen</value>
+  </data>
+  <data name="CM_Graghic_Effect_Invert" xml:space="preserve">
+    <value>Invertieren</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix" xml:space="preserve">
+    <value>Farb-Matrix</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_On" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_Off" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_Custom" xml:space="preserve">
+    <value>Brauch</value>
+  </data>
+  <data name="CD_ColorMatrix.PrimaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="CD_CM_TITLE.Text" xml:space="preserve">
+    <value>Farb-Matrix</value>
+  </data>
+  <data name="CM_Slider_hue.Header" xml:space="preserve">
+    <value>Farbton</value>
+  </data>
+  <data name="CM_Slider_saturation.Header" xml:space="preserve">
+    <value>Sättigung</value>
+  </data>
+  <data name="CM_Slider_brightness.Header" xml:space="preserve">
+    <value>Helligkeit</value>
+  </data>
+  <data name="hevcVideoExtensionButton.Content" xml:space="preserve">
+    <value>HEVC Video-Erweiterung herunterladen</value>
+  </data>
+  <data name="hevcVideoExtensionButton_ToolTip.Content" xml:space="preserve">
+    <value>Windows 10 Herbst Creator Update, Microsoft entfernen HEVC Decoder, also müssen es manuell herunterladen-Codec von Microsoft Store, wenn Ihre Hardware unterstützt.</value>
+  </data>
+  <data name="SD_PivotItem1_SetDefaultMediaPlayer.Header" xml:space="preserve">
+    <value>Standard-Media-Player</value>
+  </data>
+  <data name="SD_PivotItem1_SetDefaultMediaPlayer.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="SD_PivotItem1_SetDefaultMediaPlayer.OffContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.Header" xml:space="preserve">
+    <value>Was gibt es neues auf Show aktualisiert</value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>Sortieren nach</value>
+  </data>
+  <data name="Menu_FileName" xml:space="preserve">
+    <value>Dateiname</value>
+  </data>
+  <data name="Menu_Size" xml:space="preserve">
+    <value>Dateigröße</value>
+  </data>
+  <data name="Menu_Date" xml:space="preserve">
+    <value>Dateidatum</value>
+  </data>
+  <data name="Menu_Duration" xml:space="preserve">
+    <value>Dauer</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
+    <value>H265/HEVC/HDR-Hardwarebeschleunigung verwenden</value>
+  </data>
+  <data name="CD_Effects.PrimaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="CD_Effects_TITLE.Text" xml:space="preserve">
+    <value>Video-Effekte-Manager</value>
+  </data>
+  <data name="CM_Graghic_Effect_EffectManager" xml:space="preserve">
+    <value>Effekte-Manager</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.Header" xml:space="preserve">
+    <value>Memo</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.Header" xml:space="preserve">
+    <value>Hubraum</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.Header" xml:space="preserve">
+    <value>Dynamische Unschärfe</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.Header" xml:space="preserve">
+    <value>Gedrehte Fliesen</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.Header" xml:space="preserve">
+    <value>Graustufen</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.Header" xml:space="preserve">
+    <value>Invertieren</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.Header" xml:space="preserve">
+    <value>Farb-Matrix</value>
+  </data>
+  <data name="CM_Slider_PixelsPerTile.Header" xml:space="preserve">
+    <value>Pixel pro Fliese</value>
+  </data>
+  <data name="CM_Slider_Amount.Header" xml:space="preserve">
+    <value>Betrag der Verschiebung</value>
+  </data>
+  <data name="CM_Slider_DisplacementX.Header" xml:space="preserve">
+    <value>Verschiebung X</value>
+  </data>
+  <data name="CM_Slider_DisplacementY.Header" xml:space="preserve">
+    <value>Versatz Y</value>
+  </data>
+  <data name="CM_Slider_BlurAmount.Header" xml:space="preserve">
+    <value>Betrag zu verwischen</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.Header" xml:space="preserve">
+    <value>Exposition</value>
+  </data>
+  <data name="CM_Slider_Exposure.Header" xml:space="preserve">
+    <value>Höhe der Exposition</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="CM_Slider_Contrast.Header" xml:space="preserve">
+    <value>Kontrast</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.Header" xml:space="preserve">
+    <value>Kontrast</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.Header" xml:space="preserve">
+    <value>Schärfen</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="CM_Slider_Sharpen.Header" xml:space="preserve">
+    <value>Schärfen</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.Header" xml:space="preserve">
+    <value>Morphologie</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.Header" xml:space="preserve">
+    <value>Morphologie-Modus</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Erodieren</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Erweitern</value>
+  </data>
+  <data name="CM_Slider_Morphology_Height.Header" xml:space="preserve">
+    <value>Morphologie-Höhe</value>
+  </data>
+  <data name="CM_Slider_Morphology_Width.Header" xml:space="preserve">
+    <value>Morphologie-breite</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.Header" xml:space="preserve">
+    <value>Wiedergabe-Rate-Schaltfläche anzeigen</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.Header" xml:space="preserve">
+    <value>Prägen</value>
+  </data>
+  <data name="CM_Slider_EmbossAmount.Header" xml:space="preserve">
+    <value>Menge prägen</value>
+  </data>
+  <data name="CM_Slider_EmbossAngle.Header" xml:space="preserve">
+    <value>Emboss Winkel</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aktiviert</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.OffContent" xml:space="preserve">
+    <value>Behinderte</value>
+  </data>
+  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
+    <value>Skorpion-Netzwerk-Streaming</value>
+  </data>
+  <data name="CM_Open_Socket" xml:space="preserve">
+    <value>Skorpion-Netzwerk-Streaming</value>
+  </data>
+  <data name="CD_Socket_RemotePort.Text" xml:space="preserve">
+    <value>Remote-Port</value>
+  </data>
+  <data name="CD_Socket_Connect_Button.Content" xml:space="preserve">
+    <value>Verbinden</value>
+  </data>
+  <data name="CD_Socket_Disonnect_Button.Content" xml:space="preserve">
+    <value>Trennen Sie</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>Aktualisieren</value>
+  </data>
+  <data name="CD_Socket_ConnectionTimedOut" xml:space="preserve">
+    <value>kann nicht remote-Server zu kontaktieren, stellen Sie sicher, dass remote-Hostnamen und remote-Port richtig sind</value>
+  </data>
+  <data name="CD_Socket_Connected" xml:space="preserve">
+    <value>Remote-Server verbunden</value>
+  </data>
+  <data name="SCD_PivotItem1.Header" xml:space="preserve">
+    <value>Ordnern</value>
+  </data>
+  <data name="SCD_PivotItem2.Header" xml:space="preserve">
+    <value>Dateien</value>
+  </data>
+  <data name="CD_Socket.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="CD_Socket_PrimaryButtonText_Connect" xml:space="preserve">
+    <value>Verbinden</value>
+  </data>
+  <data name="CD_Socket_PrimaryButtonText_Disconnect" xml:space="preserve">
+    <value>Trennen Sie</value>
+  </data>
+  <data name="CD_Socket_LocalPort.Text" xml:space="preserve">
+    <value>Überwachungsport</value>
+  </data>
+  <data name="CD_Socket_RemoteHostName.Text" xml:space="preserve">
+    <value>Remote-Hostname / IP Adresse</value>
+  </data>
+  <data name="CD_Socket_LocalHostName.Text" xml:space="preserve">
+    <value>Hostname / IP Adresse</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.Header" xml:space="preserve">
+    <value>Fungieren als Medienserver</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.OnContent" xml:space="preserve">
+    <value>Meine Favoriten auf meinem lokalen Netzwerk freigeben</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="CD_Socket_Invalid_HostName" xml:space="preserve">
+    <value>Ungültiger Host-Name oder IP-Adresse</value>
+  </data>
+  <data name="CD_Socket_Listen_Success" xml:space="preserve">
+    <value>Erfolg hören auf Port</value>
+  </data>
+  <data name="CD_Socket_Listen_Fail" xml:space="preserve">
+    <value>Nicht als Media-Server handeln, stellen Sie sicher, dass Hostname und Port gültig sind.</value>
+  </data>
+  <data name="CD_Socket_HelpButton.Content" xml:space="preserve">
+    <value>Hilfe</value>
+  </data>
+  <data name="SocketNetworkingStream_Message" xml:space="preserve">
+    <value>Scorpio Vernetzung Stream ist eine einzigartige Funktion, die Ihre Favoriten Medien wie video oder audio, über lokales Netzwerk oder Internet zwischen Skorpion Spieler oder mit Skorpion-Player Serversoftware streamen kann. Aktivieren Kreuz streaming zwischen Ihrem PC, Xbox, Windows 10 Mobile Phone, und andere Windows-10-Geräte, beim Skorpion-Player fungieren als Media-Server, die sie im aktiven Fenster-Modus muss nicht minimieren oder Hintergrundmodus, Sie können Skorpion Vernetzung Stream app für Linux herunterladen, MacOS, Windows 7, 10, 8, 8.1 und erfahren Sie mehr von http://scorpioplayer.com, vielen Dank.</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>Fügen Sie Stream Netzwerkfunktion Skorpion Ihr MediaPlayer zwischen Skorpion und Gerät streamen, optional können Sie kostenlos zum Skorpion Networking Stream Desktop Service App von http://scorpioplayer.com download für Linux, MacOS, Windows 7, 8, 8.1,10</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Streaming-</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.Header" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="CM_Open_FTP" xml:space="preserve">
+    <value>FTP</value>
+  </data>
+  <data name="FTP_TITLE.Text" xml:space="preserve">
+    <value>FTP</value>
+  </data>
+  <data name="FTP_Settings.Header" xml:space="preserve">
+    <value>FTP-Einstellung</value>
+  </data>
+  <data name="NO_FTP.Text" xml:space="preserve">
+    <value>Kein ftpserver gefunden</value>
+  </data>
+  <data name="FTP_Warning.Text" xml:space="preserve">
+    <value>FTP-Funktion ist nicht vollständig bereit, offene Datei Mittel vollständig laden Sie die Datei, öffnen Sie bitte sehr große Datei nicht.</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>FTP-Client hinzufügen</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>WebDAV-Client hinzufügen</value>
+  </data>
+  <data name="CM_Open_SMB" xml:space="preserve">
+    <value>SMB</value>
+  </data>
+  <data name="UCD.PrimaryButtonText" xml:space="preserve">
+    <value>Offen</value>
+  </data>
+  <data name="UCD.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>Offenes Netzwerkmedien</value>
+  </data>
+  <data name="CM_Open_Uri" xml:space="preserve">
+    <value>Netzwerk-Stream</value>
+  </data>
+  <data name="UCD_Enter_message_textblock.Text" xml:space="preserve">
+    <value>Bitte geben Sie eine Netzwerk-URL:</value>
+  </data>
+  <data name="Downloading" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="exampleTextBlock.Text" xml:space="preserve">
+    <value>Beispiel:</value>
+  </data>
+  <data name="SCD_PivotItem4.Header" xml:space="preserve">
+    <value>Cache</value>
+  </data>
+  <data name="Cache" xml:space="preserve">
+    <value>Cache</value>
+  </data>
+  <data name="ClearCacheButton.Content" xml:space="preserve">
+    <value>Cache löschen</value>
+  </data>
+  <data name="WM_CacheFolderDeleted" xml:space="preserve">
+    <value>Cache klar abgeschlossen</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.Header" xml:space="preserve">
+    <value>Öffnen Sie nach dem herunterladen</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="WM_ReadFromCache" xml:space="preserve">
+    <value>Lesen Sie aus dem cache</value>
+  </data>
+  <data name="WM_DownloadCompleted" xml:space="preserve">
+    <value>Download abgeschlossen</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Verwenden Sie Skorpion-Netzwerk-Streaming als Favoriten Quelle</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="WM_load_socket_folder_fail" xml:space="preserve">
+    <value>Skorpion-Netzwerk-Streaming Ordner laden fehlgeschlagen</value>
+  </data>
+  <data name="WM_load_socket_folder" xml:space="preserve">
+    <value>Skorpion-Netzwerk-Streaming Ordner laden abgeschlossen</value>
+  </data>
+  <data name="WM_load_socket_file_fail" xml:space="preserve">
+    <value>Skorpion-Netzwerk-Streaming Dateien laden fehlgeschlagen</value>
+  </data>
+  <data name="WM_load_socket_file" xml:space="preserve">
+    <value>Skorpion-Netzwerk-Streaming Dateien laden abgeschlossen</value>
+  </data>
+  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
+    <value>Remote-Hosteinstellungen für Skorpion Netzwerk-Streaming ist erforderlich</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>Fügen Sie Netzwerk-Streaming-Features, einschließlich (HLS) http-(Bindestrich), RTSP Protokoll hinzu</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>andere triviale Verbesserung</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
+    <value>Deaktivieren Layoutskalierung</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="TrySetDisableLayoutScalingSuccess" xml:space="preserve">
+    <value>Eingestellten deaktivieren Layout skalieren Erfolg</value>
+  </data>
+  <data name="TrySetDisableLayoutScalingFail" xml:space="preserve">
+    <value>Eingestellten deaktivieren Layout skalieren Fail</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>Fügen Sie Skorpion-Netzwerk-Streaming-Quelle als Favoriten, Möglichkeit zum download von lokalen Videogerät als Cache Bindungsfähigkeit hinzu</value>
+  </data>
+  <data name="CM_Subtitle_SmartMathingDownload" xml:space="preserve">
+    <value>Aus dem Internet herunterladen</value>
+  </data>
+  <data name="WM_SubtitleNotFound" xml:space="preserve">
+    <value>Untertitel nicht gefunden.</value>
+  </data>
+  <data name="WM_SubtitleNotFoundAudio" xml:space="preserve">
+    <value>Songtext nicht gefunden.</value>
+  </data>
+  <data name="chi" xml:space="preserve">
+    <value>Chinesisch</value>
+  </data>
+  <data name="WM_not_support" xml:space="preserve">
+    <value>keine Unterstützung</value>
+  </data>
+  <data name="CM_TransportControlShowDuration" xml:space="preserve">
+    <value>Dauer anzeigen</value>
+  </data>
+  <data name="Commom_Seconds" xml:space="preserve">
+    <value>Sekunden</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>Fügen Sie Show Dauer Transportsteuerung</value>
+  </data>
+  <data name="CM_Track_face" xml:space="preserve">
+    <value>Track-Gesichter</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>Face Tracking hinzufügen</value>
+  </data>
+  <data name="WM_decode_fail_switching_codec" xml:space="preserve">
+    <value>Decodieren fehlgeschlagen, versuchen Sie Schalter Codec</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.Header" xml:space="preserve">
+    <value>"Flut Untertitel Schaltfläche" anzeigen</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="MV_Danmu.Content" xml:space="preserve">
+    <value>Sperrfeuer</value>
+  </data>
+  <data name="MV_TP_Danmu_Explain.Content" xml:space="preserve">
+    <value>zur Verwendung dieser Funktion, Flut Untertitel-Datei müssen geladen werden, sind Beispiel-XML oder JSON-Format Unterstützung, kompatibel mit blibli.com / acfun.com</value>
+  </data>
+  <data name="WM_danmu_subtitle_loaded" xml:space="preserve">
+    <value>Sperrfeuer Untertitel geladen</value>
+  </data>
+  <data name="Meta_UpdateInfo9" xml:space="preserve">
+    <value>Fügen Sie acfun.com / blibli.com offline Sperrfeuer Untertitel-Unterstützung, XML oder JSON-Format</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
+    <value>Effekt "Leuchten" zu verwenden</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SD_PivotItem2_GlowAmountSlider.Header" xml:space="preserve">
+    <value>Leuchtmenge</value>
+  </data>
+  <data name="Meta_UpdateInfo10" xml:space="preserve">
+    <value>Effekt "Leuchten" Untertitel hinzufügen</value>
+  </data>
+</root>

@@ -1,0 +1,1647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="SD_TITLE.Text" xml:space="preserve">
+    <value>إعدادات</value>
+  </data>
+  <data name="SD_PivotItem1.Header" xml:space="preserve">
+    <value>العام</value>
+  </data>
+  <data name="SD_PivotItem2.Header" xml:space="preserve">
+    <value>العنوان الفرعي</value>
+  </data>
+  <data name="SD_PivotItem3_Header.Text" xml:space="preserve">
+    <value>مقدما</value>
+  </data>
+  <data name="SD_PivotItem4.Header" xml:space="preserve">
+    <value>حول</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام التصميم بطلاقة</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.OnContent" xml:space="preserve">
+    <value>تصميم بطلاقة</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.OffContent" xml:space="preserve">
+    <value>الظلام</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.Header" xml:space="preserve">
+    <value>استخدم إيماءة</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.Header" xml:space="preserve">
+    <value>تذكر قراءة التقدم</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام عنصر الصوت</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.OnContent" xml:space="preserve">
+    <value>على</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.OffContent" xml:space="preserve">
+    <value>تلقائي</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.Header" xml:space="preserve">
+    <value>الترجمة تحميل السيارات من الإنترنت</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.Header" xml:space="preserve">
+    <value>الثانوية عنوان فرعي تحت العنوان الفرعي الرئيسي</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>الترجمة له خلفية</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>الترجمة بخلفية بيضاء</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>أبيض</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>أسود</value>
+  </data>
+  <data name="SD_PivotItem2_sutitleSlider.Header" xml:space="preserve">
+    <value>عتامة الترجمة</value>
+  </data>
+  <data name="SD_PivotItem2_sutitleBackgroundSlider.Header" xml:space="preserve">
+    <value>الترجمة الخلفية العتامة</value>
+  </data>
+  <data name="SD_PivotItem2_primarySubtitleFontSizeSlider.Header" xml:space="preserve">
+    <value>حجم خط العنوان الفرعي الرئيسي</value>
+  </data>
+  <data name="SD_PivotItem2_secondarySubtitleFontSizeSlider.Header" xml:space="preserve">
+    <value>حجم خط العنوان الفرعي الثانوي</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.Header" xml:space="preserve">
+    <value>إظهار الترجمة الأولية فقط سطر واحد</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.Header" xml:space="preserve">
+    <value>عرض أساسي أول سطر</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.OnContent" xml:space="preserve">
+    <value>السطر الأول</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.OffContent" xml:space="preserve">
+    <value>السطر الأخير</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.Header" xml:space="preserve">
+    <value>إظهار الإطار الزمني وذعي</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.OnContent" xml:space="preserve">
+    <value>إظهار</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.OffContent" xml:space="preserve">
+    <value>عدم إظهار</value>
+  </data>
+  <data name="CM_Close" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="CM_OpenFile" xml:space="preserve">
+    <value>افتح الملف...</value>
+  </data>
+  <data name="CM_Open" xml:space="preserve">
+    <value>فتح</value>
+  </data>
+  <data name="CM_Open_Folder" xml:space="preserve">
+    <value>مجلد</value>
+  </data>
+  <data name="CM_Recent" xml:space="preserve">
+    <value>القراءة الأخيرة</value>
+  </data>
+  <data name="CM_Recent_ClearHistory" xml:space="preserve">
+    <value>مسح المحفوظات</value>
+  </data>
+  <data name="CM_Recent_DisableHistory" xml:space="preserve">
+    <value>غير "مسار التاريخ"</value>
+  </data>
+  <data name="CM_Favorite" xml:space="preserve">
+    <value>المفضلة</value>
+  </data>
+  <data name="CM_Favorite_File" xml:space="preserve">
+    <value>ملف...</value>
+  </data>
+  <data name="CM_Favorite_Folder" xml:space="preserve">
+    <value>مجلد...</value>
+  </data>
+  <data name="CM_Graghic" xml:space="preserve">
+    <value>الرسم</value>
+  </data>
+  <data name="CM_Graghic_Rotation" xml:space="preserve">
+    <value>استدارة الرسم</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Vertical" xml:space="preserve">
+    <value>عمودي</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Horizontal" xml:space="preserve">
+    <value>أفقي</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Left90" xml:space="preserve">
+    <value>اليسار 90 درجة مئوية</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Right90" xml:space="preserve">
+    <value>اليمين 90 درجة مئوية</value>
+  </data>
+  <data name="CM_Graghic_Rotation_180" xml:space="preserve">
+    <value>استدارة 180 درجة مئوية</value>
+  </data>
+  <data name="CM_Graghic_Rotation_DefaultAngle" xml:space="preserve">
+    <value>زاوية الافتراضي</value>
+  </data>
+  <data name="CM_Graghic_FullScreen" xml:space="preserve">
+    <value>كامل الشاشة</value>
+  </data>
+  <data name="CM_Graghic_PIP" xml:space="preserve">
+    <value>صورة داخل صورة (دوماً في المقدمة)</value>
+  </data>
+  <data name="CM_Graghic_OriginalSize" xml:space="preserve">
+    <value>الحجم الأصلي</value>
+  </data>
+  <data name="CM_Graghic_Fill" xml:space="preserve">
+    <value>التعبئة</value>
+  </data>
+  <data name="CM_Graghic_Default" xml:space="preserve">
+    <value>افتراضي</value>
+  </data>
+  <data name="CM_Graghic_UniformToFill" xml:space="preserve">
+    <value>الزي الرسمي للتعبئة</value>
+  </data>
+  <data name="CM_Graghic_FreeTransform" xml:space="preserve">
+    <value>التحويل الحر</value>
+  </data>
+  <data name="CM_Sound" xml:space="preserve">
+    <value>الصوت</value>
+  </data>
+  <data name="CM_Sound_SystemDefault" xml:space="preserve">
+    <value>افتراضي</value>
+  </data>
+  <data name="CM_Sound_LeftChannel" xml:space="preserve">
+    <value>قناة اليسار</value>
+  </data>
+  <data name="CM_Sound_RightChannel" xml:space="preserve">
+    <value>قناة الحق</value>
+  </data>
+  <data name="CM_Sound_Track" xml:space="preserve">
+    <value>المسار</value>
+  </data>
+  <data name="CM_Playback" xml:space="preserve">
+    <value>قراءة</value>
+  </data>
+  <data name="CM_Playback_Loop_Audio" xml:space="preserve">
+    <value>حلقة الموسيقى الحالية</value>
+  </data>
+  <data name="CM_Playback_Loop_Video" xml:space="preserve">
+    <value>حلقة الفيديو الحالي</value>
+  </data>
+  <data name="CM_Playback_Loop_CurrentList" xml:space="preserve">
+    <value>حلقة قائمة التشغيل الحالية</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint" xml:space="preserve">
+    <value>تعيين نقطة</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint" xml:space="preserve">
+    <value>النقطة المحددة ب</value>
+  </data>
+  <data name="CM_Playback_Loop_APoint" xml:space="preserve">
+    <value>نقطة</value>
+  </data>
+  <data name="CM_Playback_Loop_BPoint" xml:space="preserve">
+    <value>النقطة ب</value>
+  </data>
+  <data name="CM_Playback_ForceDecodeAudio" xml:space="preserve">
+    <value>قوة فك ترميز الصوت</value>
+  </data>
+  <data name="CM_Playback_ForceDecodeVideo" xml:space="preserve">
+    <value>قوة فك ترميز الفيديو</value>
+  </data>
+  <data name="CM_Playback_UseSystemDecoder" xml:space="preserve">
+    <value>استخدام نظام فك الترميز</value>
+  </data>
+  <data name="CM_Playback_FastenPlaybackRate" xml:space="preserve">
+    <value>ربط معدل تشغيل</value>
+  </data>
+  <data name="CM_Playback_SlowDownPlaybackRate" xml:space="preserve">
+    <value>إبطاء معدل التشغيل</value>
+  </data>
+  <data name="CM_Playback_StartABLoop" xml:space="preserve">
+    <value>بدء حلقة أ-ب</value>
+  </data>
+  <data name="CM_Playback_StopABLoop" xml:space="preserve">
+    <value>وقف حلقة أ-ب</value>
+  </data>
+  <data name="CM_MediaInfo" xml:space="preserve">
+    <value>معلومات الوسائط</value>
+  </data>
+  <data name="CM_Settings" xml:space="preserve">
+    <value>إعدادات</value>
+  </data>
+  <data name="CM_EnterLockMode" xml:space="preserve">
+    <value>قم بإدخال وضع تأمين</value>
+  </data>
+  <data name="CM_ExitLockMode" xml:space="preserve">
+    <value>إنهاء وضع قفل</value>
+  </data>
+  <data name="TCCM_RememberTransportControlPostion" xml:space="preserve">
+    <value>تذكر وضع عنصر تحكم النقل</value>
+  </data>
+  <data name="TCCM_RememberTransportControlPostion_Reset" xml:space="preserve">
+    <value>إعادة تعيين وضع ترانسبورتكونترول</value>
+  </data>
+  <data name="CM_Subtitle" xml:space="preserve">
+    <value>العنوان الفرعي</value>
+  </data>
+  <data name="CM_Subtitle_Disable" xml:space="preserve">
+    <value>تعطيل الترجمة</value>
+  </data>
+  <data name="CM_Subtitle_Style" xml:space="preserve">
+    <value>الترجمة إعداد نمط</value>
+  </data>
+  <data name="CM_Subtitle_Item" xml:space="preserve">
+    <value>العنوان الفرعي</value>
+  </data>
+  <data name="WM_CurrentPlaying" xml:space="preserve">
+    <value>الحالي اللعب</value>
+  </data>
+  <data name="WM_PlayRateChangedTo" xml:space="preserve">
+    <value>تغيير معدل التشغيل إلى</value>
+  </data>
+  <data name="MV_FreeTransform_Reset.Text" xml:space="preserve">
+    <value>إعادة تعيين</value>
+  </data>
+  <data name="MV_FreeTransform_Save.Text" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="MV_FreeTransform_Confirm.Text" xml:space="preserve">
+    <value>تأكيد</value>
+  </data>
+  <data name="MV_FreeTransform_Advance.Text" xml:space="preserve">
+    <value>مقدما</value>
+  </data>
+  <data name="MV_FreeTransform_ZoomOut.Text" xml:space="preserve">
+    <value>التصغير</value>
+  </data>
+  <data name="MV_FreeTransform_Center.Text" xml:space="preserve">
+    <value>مركز</value>
+  </data>
+  <data name="MV_FreeTransform_ZoomIn.Text" xml:space="preserve">
+    <value>تكبير</value>
+  </data>
+  <data name="MI.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="MI_VideoType.Text" xml:space="preserve">
+    <value>نوع الفيديو</value>
+  </data>
+  <data name="MI_VideoBitrate.Text" xml:space="preserve">
+    <value>الفيديو معدل البت</value>
+  </data>
+  <data name="MI_AudioBitrate.Text" xml:space="preserve">
+    <value>معدل البت الصوت</value>
+  </data>
+  <data name="MI_VideoFramerate.Text" xml:space="preserve">
+    <value>فراميراتي الفيديو</value>
+  </data>
+  <data name="MI_Resolution.Text" xml:space="preserve">
+    <value>قرار</value>
+  </data>
+  <data name="MI_SubType.Text" xml:space="preserve">
+    <value>النوع الفرعي</value>
+  </data>
+  <data name="MI_Type.Text" xml:space="preserve">
+    <value>نوع</value>
+  </data>
+  <data name="MI_FileSize.Text" xml:space="preserve">
+    <value>حجم الملف</value>
+  </data>
+  <data name="MI_Duration.Text" xml:space="preserve">
+    <value>المدة</value>
+  </data>
+  <data name="MI_VideoCodecName.Text" xml:space="preserve">
+    <value>اسم برنامج ترميز الفيديو</value>
+  </data>
+  <data name="MI_AudioCodecName.Text" xml:space="preserve">
+    <value>اسم برنامج ترميز الصوت</value>
+  </data>
+  <data name="MV_TP_AddFolderAsFavorite.Content" xml:space="preserve">
+    <value>إضافة المجلد إلى المفضلة</value>
+  </data>
+  <data name="WM_CurrentSubtitle" xml:space="preserve">
+    <value>الترجمة الحالية</value>
+  </data>
+  <data name="WM_Delay" xml:space="preserve">
+    <value>تأخير</value>
+  </data>
+  <data name="WM_DecodeType" xml:space="preserve">
+    <value>عالية الدقة</value>
+  </data>
+  <data name="WM_SubtileNotFound" xml:space="preserve">
+    <value>لم يتم العثور على الترجمة</value>
+  </data>
+  <data name="WM_SubtitleFound" xml:space="preserve">
+    <value>وجدت الترجمة، تحميل...</value>
+  </data>
+  <data name="WM_SubtitleDownloadSuccess_Part1" xml:space="preserve">
+    <value>نجاح تحميل الترجمة، المجموع</value>
+  </data>
+  <data name="WM_SubtitleDownloadSuccess_Part2" xml:space="preserve">
+    <value>الملفات</value>
+  </data>
+  <data name="WM_CanNotOpenFile" xml:space="preserve">
+    <value>لا يمكن فتح الملف</value>
+  </data>
+  <data name="WM_UseSystemDecoder" xml:space="preserve">
+    <value>استخدام نظام فك الترميز</value>
+  </data>
+  <data name="WM_NoNextFileCanPlay" xml:space="preserve">
+    <value>لا يوجد الملف التالي للعب</value>
+  </data>
+  <data name="WM_Volume" xml:space="preserve">
+    <value>وحدة التخزين</value>
+  </data>
+  <data name="WM_FileNotExist" xml:space="preserve">
+    <value>الملف غير موجود</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part1" xml:space="preserve">
+    <value>إظهار الترجمة الأولية</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part2" xml:space="preserve">
+    <value>تأخير كما</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part3" xml:space="preserve">
+    <value>مرض التصلب العصبي المتعدد</value>
+  </data>
+  <data name="WM_PrimarySubtitleDelayAs" xml:space="preserve">
+    <value>تأخير الترجمة الأولية تعيين إلى</value>
+  </data>
+  <data name="CM_Subtitle_Load" xml:space="preserve">
+    <value>تحميل الترجمة</value>
+  </data>
+  <data name="MV_PanePivot_Item1.Header" xml:space="preserve">
+    <value>الأخيرة</value>
+  </data>
+  <data name="MV_PanePivot_Item2.Header" xml:space="preserve">
+    <value>المفضلة</value>
+  </data>
+  <data name="MV_PanePivot_Item3.Header" xml:space="preserve">
+    <value>قائمة التشغيل</value>
+  </data>
+  <data name="MV_TP_OpenFIle.Content" xml:space="preserve">
+    <value>فتح ملف</value>
+  </data>
+  <data name="MV_TP_OpenFolder.Content" xml:space="preserve">
+    <value>فتح مجلد</value>
+  </data>
+  <data name="CM_Start_Loop" xml:space="preserve">
+    <value>أ-ب توقف</value>
+  </data>
+  <data name="CM_Stop_Loop" xml:space="preserve">
+    <value>ألف-باء بدأ</value>
+  </data>
+  <data name="CM_SecondarySubtitle" xml:space="preserve">
+    <value>الترجمة الثانوية</value>
+  </data>
+  <data name="SD_PivotItem3_screenLuminanceSlider.Header" xml:space="preserve">
+    <value>إضاءة الفيديو</value>
+  </data>
+  <data name="CM_Graghic_Effect" xml:space="preserve">
+    <value>تأثير</value>
+  </data>
+  <data name="CM_Graghic_Effect_OldMovie" xml:space="preserve">
+    <value>مذكرة</value>
+  </data>
+  <data name="WM_MediaFailed" xml:space="preserve">
+    <value>فشل وسائل الإعلام</value>
+  </data>
+  <data name="WM_TryReadEmbbedSubtitle" xml:space="preserve">
+    <value>حاول تحميل امبيد الترجمة</value>
+  </data>
+  <data name="WM_LoadingFolder" xml:space="preserve">
+    <value>مجلد تحميل...</value>
+  </data>
+  <data name="WM_LoadingFolderCompleted" xml:space="preserve">
+    <value>مجلد تحميل</value>
+  </data>
+  <data name="WM_LoadingFolderFailed" xml:space="preserve">
+    <value>لا يمكن فتح مجلد، أي ملف وسائط للقراءة</value>
+  </data>
+  <data name="WM_OnlyOnFileOrFolder" xml:space="preserve">
+    <value>يرجى إسقاط ملف واحد أو مجلد واحد</value>
+  </data>
+  <data name="SYS_NewWindow" xml:space="preserve">
+    <value>نافذة جديدة</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.Header" xml:space="preserve">
+    <value>حاول استخراج مكف امبيد الفيديو الترجمة</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="MV_TP_AddFileAsFavorite.Content" xml:space="preserve">
+    <value>إضافة ملف إلى المفضلة</value>
+  </data>
+  <data name="CM_Playback_Shuffling" xml:space="preserve">
+    <value>خلط</value>
+  </data>
+  <data name="MI_AspectRatio.Text" xml:space="preserve">
+    <value>نسبة العرض إلى الارتفاع</value>
+  </data>
+  <data name="Screenshot_Saved_Part1" xml:space="preserve">
+    <value>الملف </value>
+  </data>
+  <data name="Screenshot_Saved_Part2" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="CM_Graghic_Screenshot" xml:space="preserve">
+    <value>لقطة للشاشة</value>
+  </data>
+  <data name="CM_Graghic_Screenshot_SaveAs" xml:space="preserve">
+    <value>حفظ باسم...</value>
+  </data>
+  <data name="CM_Sound_RenderDevice" xml:space="preserve">
+    <value>تجعل الصوت إلى...</value>
+  </data>
+  <data name="CM_Sound_RenderDevice_default" xml:space="preserve">
+    <value>الوضع الافتراضي للنظام</value>
+  </data>
+  <data name="MV_TP_StepNextFrame.Content" xml:space="preserve">
+    <value>الإطار التالي</value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.Header" xml:space="preserve">
+    <value>اللغة (قد تحتاج إلى إعادة تشغيل التطبيق)</value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.OffContent" xml:space="preserve">
+    <value>تلقائي</value>
+  </data>
+  <data name="Cast_Disconnected" xml:space="preserve">
+    <value>قطع الاتصال</value>
+  </data>
+  <data name="Cast_Connected" xml:space="preserve">
+    <value>متصل</value>
+  </data>
+  <data name="Cast_Rendering" xml:space="preserve">
+    <value>التقديم</value>
+  </data>
+  <data name="Cast_Disconnecting" xml:space="preserve">
+    <value>قطع الاتصال</value>
+  </data>
+  <data name="Cast_Connecting" xml:space="preserve">
+    <value>الاتصال</value>
+  </data>
+  <data name="Cast_Error" xml:space="preserve">
+    <value>حدث خطأ في الاتصال</value>
+  </data>
+  <data name="CM_Playback_Casting_Stop" xml:space="preserve">
+    <value>إيقاف الصب</value>
+  </data>
+  <data name="CM_Playback_Casting_Start" xml:space="preserve">
+    <value>تحويل وسائل الإعلام إلى...</value>
+  </data>
+  <data name="SD_PivotItem1_CreateTransparentTile.Header" xml:space="preserve">
+    <value>إنشاء بلاطة شفافة</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.Header" xml:space="preserve">
+    <value>تشغيل خلفية الفيديو</value>
+  </data>
+  <data name="MV_PanePivot_Item2_ShowFileOrFolderToggleSwitch.OnContent" xml:space="preserve">
+    <value>مجلد</value>
+  </data>
+  <data name="MV_PanePivot_Item2_ShowFileOrFolderToggleSwitch.OffContent" xml:space="preserve">
+    <value>الملف</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_BTN" xml:space="preserve">
+    <value>اشتراك مدى الحياة</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO3MONTH_BTN" xml:space="preserve">
+    <value>اشتراك 3 أشهر</value>
+  </data>
+  <data name="SD_PivotItem3_ADDON_NetworkError.Text" xml:space="preserve">
+    <value>خطأ في شبكة الاتصال، الرجاء المحاولة مرة أخرى.</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_BTN.Content" xml:space="preserve">
+    <value>المحاكمة 1 ساعة</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message" xml:space="preserve">
+    <value>لمدة ساعة واحدة، مع مرور الوقت الإعدادات التالية سيتم العودة إلى الافتراضي</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message_Confirm" xml:space="preserve">
+    <value>تأكيد</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message_Close" xml:space="preserve">
+    <value>إلغاء الأمر</value>
+  </data>
+  <data name="CM_Graghic_BRIGHTNESS" xml:space="preserve">
+    <value>سطوع</value>
+  </data>
+  <data name="MSD_TITLE.Text" xml:space="preserve">
+    <value>أجهزة UPNP DLNA</value>
+  </data>
+  <data name="MSD.PrimaryButtonText" xml:space="preserve">
+    <value>ريفليش</value>
+  </data>
+  <data name="CM_Open_MediaServer" xml:space="preserve">
+    <value>DLNA</value>
+  </data>
+  <data name="MSD.SecondaryButtonText" xml:space="preserve">
+    <value>تأكيد</value>
+  </data>
+  <data name="NO_DLNA.Text" xml:space="preserve">
+    <value>لم يتم العثور على الجهاز DLNA</value>
+  </data>
+  <data name="WM_CUE_FOUND" xml:space="preserve">
+    <value>العثور على ملف جديلة</value>
+  </data>
+  <data name="WM_CUE_ASSOCIATE_FAILED" xml:space="preserve">
+    <value>ملف الصوت المنتسبين جديلة غير موجود، يجب استخدام نفس الاسم</value>
+  </data>
+  <data name="WM_CUE_FAILED" xml:space="preserve">
+    <value>فشل تحليل جديلة</value>
+  </data>
+  <data name="WM_CUE_MUST_OPEN_WITH_FOLDER" xml:space="preserve">
+    <value>يجب فتح جديلة داخل المجلد</value>
+  </data>
+  <data name="CM_Open_EQ" xml:space="preserve">
+    <value>مكافئ</value>
+  </data>
+  <data name="CD_E_TITLE.Text" xml:space="preserve">
+    <value>التعادل</value>
+  </data>
+  <data name="CD_Equalizer.PrimaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="CNE_PRESET.Text" xml:space="preserve">
+    <value>الإعداد المسبق للصوت</value>
+  </data>
+  <data name="PS_none" xml:space="preserve">
+    <value>لا شيء</value>
+  </data>
+  <data name="PS_acoustic" xml:space="preserve">
+    <value>الصوتية</value>
+  </data>
+  <data name="PS_bass_boost" xml:space="preserve">
+    <value>تعزيز بأس</value>
+  </data>
+  <data name="PS_classical" xml:space="preserve">
+    <value>الكلاسيكية</value>
+  </data>
+  <data name="PS_dance" xml:space="preserve">
+    <value>الرقص</value>
+  </data>
+  <data name="PS_electronic" xml:space="preserve">
+    <value>الإلكترونية</value>
+  </data>
+  <data name="PS_hip_hop" xml:space="preserve">
+    <value>الهيب هوب</value>
+  </data>
+  <data name="PS_jazz" xml:space="preserve">
+    <value>موسيقى الجاز</value>
+  </data>
+  <data name="PS_loudness" xml:space="preserve">
+    <value>علو الصوت</value>
+  </data>
+  <data name="PS_pop" xml:space="preserve">
+    <value>الملوثات العضوية الثابتة</value>
+  </data>
+  <data name="PS_r_b" xml:space="preserve">
+    <value>R&amp;B</value>
+  </data>
+  <data name="PS_rock" xml:space="preserve">
+    <value>موسيقى الروك</value>
+  </data>
+  <data name="PS_speech" xml:space="preserve">
+    <value>الكلام</value>
+  </data>
+  <data name="PS_treble_boost" xml:space="preserve">
+    <value>زيادة الطنين الثلاثي</value>
+  </data>
+  <data name="PS_vocal_boost" xml:space="preserve">
+    <value>دفعة صوتي</value>
+  </data>
+  <data name="PS_custom" xml:space="preserve">
+    <value>مخصص</value>
+  </data>
+  <data name="WhatsNew.Content" xml:space="preserve">
+    <value>ما هو الجديد في هذا الإصدار</value>
+  </data>
+  <data name="SD_RateMe" xml:space="preserve">
+    <value>معدل</value>
+  </data>
+  <data name="SD_Close" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="CM_Favorite_Manager" xml:space="preserve">
+    <value>مدير</value>
+  </data>
+  <data name="FD_PivotItem1.Header" xml:space="preserve">
+    <value>تصفح</value>
+  </data>
+  <data name="FD_PivotItem2.Header" xml:space="preserve">
+    <value>المجلدات</value>
+  </data>
+  <data name="FD_PivotItem3.Header" xml:space="preserve">
+    <value>الملفات</value>
+  </data>
+  <data name="FD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="FD.PrimaryButtonText" xml:space="preserve">
+    <value>تصفح</value>
+  </data>
+  <data name="FD_MUST_FOLDERS_WARNING" xml:space="preserve">
+    <value>يجب اختيار مجلد يحتوي على مجلدات فرعية</value>
+  </data>
+  <data name="FD_BTN_P_BROWSE" xml:space="preserve">
+    <value>تصفح</value>
+  </data>
+  <data name="FD_BTN_P_ADD_TO_FAVORITE" xml:space="preserve">
+    <value>إضافة إلى المفضلة</value>
+  </data>
+  <data name="FD_BTN_P_REMOVE_FROM_FAVORITE" xml:space="preserve">
+    <value>إزالة من المفضلة</value>
+  </data>
+  <data name="FD_TITLE.Text" xml:space="preserve">
+    <value>مدير المفضلة</value>
+  </data>
+  <data name="FD_RecursiveCheckBox.Content" xml:space="preserve">
+    <value>بشكل متكرر</value>
+  </data>
+  <data name="MV_TP_OpenManager.Content" xml:space="preserve">
+    <value>مدير المفضلة</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.Header" xml:space="preserve">
+    <value>إظهار زر "الإطار التالي"</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CM_Open_VISUALIZER" xml:space="preserve">
+    <value>التصور</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.Header" xml:space="preserve">
+    <value>التصور الموسيقى</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.OffContent" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="MV_TP_ToggleSearch.Content" xml:space="preserve">
+    <value>البحث عن</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER" xml:space="preserve">
+    <value>افتح الطبعة المتقدمة--عدد غير محدود من المفضلة!</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER_Confirm" xml:space="preserve">
+    <value>إلغاء تأمين</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER_Close" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="AutoSuggestBox.PlaceholderText" xml:space="preserve">
+    <value>البحث عن</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.Header" xml:space="preserve">
+    <value>التجوال التقدم اللعب</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="WM_Bookmark_AddSuccess" xml:space="preserve">
+    <value>إضافة إشارة مرجعية</value>
+  </data>
+  <data name="WM_Bookmark_RemoveSuccess" xml:space="preserve">
+    <value>إزالة إشارة مرجعية</value>
+  </data>
+  <data name="WM_Bookmark_Loaded" xml:space="preserve">
+    <value>تحميل الإشارة المرجعية</value>
+  </data>
+  <data name="CM_Bookmard_Point" xml:space="preserve">
+    <value>النقطة الزمنية المفتوحة</value>
+  </data>
+  <data name="CM_Bookmard_AB_Point" xml:space="preserve">
+    <value>فتح مقطع الفيديو</value>
+  </data>
+  <data name="CM_Bookmard_Remove_List" xml:space="preserve">
+    <value>إزالة</value>
+  </data>
+  <data name="CM_Bookmard_Rename_List" xml:space="preserve">
+    <value>إعادة تسمية</value>
+  </data>
+  <data name="CM_Bookmark" xml:space="preserve">
+    <value>الإشارة المرجعية/الفصل</value>
+  </data>
+  <data name="CM_Bookmark_AddAB" xml:space="preserve">
+    <value>إضافة مقطع فيديو</value>
+  </data>
+  <data name="CM_Bookmark_AddPoint" xml:space="preserve">
+    <value>إضافة نقطة الوقت</value>
+  </data>
+  <data name="BCD_TITLE.Text" xml:space="preserve">
+    <value>قم بإعادة تسمية الإشارة المرجعية</value>
+  </data>
+  <data name="BCD.SecondaryButtonText" xml:space="preserve">
+    <value>إلغاء الأمر</value>
+  </data>
+  <data name="BCD.PrimaryButtonText" xml:space="preserve">
+    <value>تأكيد</value>
+  </data>
+  <data name="WM_Bookmark_Rename_Success" xml:space="preserve">
+    <value>تمت إعادة تسمية الإشارة المرجعية</value>
+  </data>
+  <data name="CM_Bookmard_Manage" xml:space="preserve">
+    <value>إدارة</value>
+  </data>
+  <data name="LIMIT_EXCEED_BOOKMARK" xml:space="preserve">
+    <value>افتح الطبعة المتقدمة--عدد غير محدود من الإشارات المرجعية!</value>
+  </data>
+  <data name="CM_Playback_Loop_ResetAB" xml:space="preserve">
+    <value>واضح أ-ب</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.Header" xml:space="preserve">
+    <value>تذكر التقدم قراءة الصوت</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.Header" xml:space="preserve">
+    <value>بشكل متكرر</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.OnContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.OffContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="WM_SUCCESS_ADD_FILE_TO_FAVORITE" xml:space="preserve">
+    <value>نجاح إضافة ملف إلى المفضلة</value>
+  </data>
+  <data name="WM_SUCCESS_REMOVE_FILE_TO_FAVORITE" xml:space="preserve">
+    <value>نجاح إزالة الملف من المفضلة</value>
+  </data>
+  <data name="WM_SUCCESS_ADD_FOLDER_TO_FAVORITE" xml:space="preserve">
+    <value>نجاح إضافة المجلد إلى المفضلة</value>
+  </data>
+  <data name="WM_SUCCESS_REMOVE_FOLDER_TO_FAVORITE" xml:space="preserve">
+    <value>نجاح إزالة المجلد من المفضلة</value>
+  </data>
+  <data name="ADD_FILE_FAVORITE" xml:space="preserve">
+    <value>إضافة إلى المفضلة</value>
+  </data>
+  <data name="REMOVE_FILE_FAVORITE" xml:space="preserve">
+    <value>إزالة من المفضلة</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>نص العنوان الفرعي قابل للتحديد</value>
+  </data>
+  <data name="IsSubtitleSelectionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="IsSubtitleSelectionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="OpenFolder" xml:space="preserve">
+    <value>فتح مجلد</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام نظام فك الترميز</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.OffContent" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.Header" xml:space="preserve">
+    <value>قوة فك ترميز الفيديو</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.OffContent" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.Header" xml:space="preserve">
+    <value>قوة فك ترميز الصوت</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.OffContent" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="CM_Open_WebDAV" xml:space="preserve">
+    <value>WebDAV</value>
+  </data>
+  <data name="WebDAV_TITLE.Text" xml:space="preserve">
+    <value>WebDAV (بيتا)</value>
+  </data>
+  <data name="NO_WebDAV.Text" xml:space="preserve">
+    <value>لا WebDAV العثور عليها.</value>
+  </data>
+  <data name="WebDAV_WebDAVBaseURI.Text" xml:space="preserve">
+    <value>نقطة نهاية الملقم</value>
+  </data>
+  <data name="WebDAV_WebDAVUsername.Text" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="WebDAV_WebDAVPassword.Text" xml:space="preserve">
+    <value>كلمة المرور</value>
+  </data>
+  <data name="WebDAV_Settings.Header" xml:space="preserve">
+    <value>إعدادات WebDAV</value>
+  </data>
+  <data name="WebDAV_Warning.Text" xml:space="preserve">
+    <value>ميزة WebDAV ليست وسائل جاهزة تماما، وفتح ملف تحميل الملف كاملا، رجاء لا تقم بفتح الملف كبير جداً.</value>
+  </data>
+  <data name="WebDAV_WebDAVNote.Text" xml:space="preserve">
+    <value>ملاحظة</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.Header" xml:space="preserve">
+    <value>إظهار زر تشغيل الفيديو 360 درجة</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CM_Bookmard_ChapterList" xml:space="preserve">
+    <value>الفصل مفتوحة</value>
+  </data>
+  <data name="CM_Open_NewWindow" xml:space="preserve">
+    <value>نافذة جديدة</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.Header" xml:space="preserve">
+    <value>إظهار مربع البحث</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CM_Opacity" xml:space="preserve">
+    <value>العتامة</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.Header" xml:space="preserve">
+    <value>ضبط حجم الصورة الترجمة</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem2_ImageSubtitleSizeSizeSlider.Header" xml:space="preserve">
+    <value>حجم الترجمة الصورة</value>
+  </data>
+  <data name="SD_PivotItem3_PrimarySubtitlePositionSlider.Header" xml:space="preserve">
+    <value>موقف الترجمة الأولية</value>
+  </data>
+  <data name="SD_PivotItem3_SeconderySubtitlePositionSlider.Header" xml:space="preserve">
+    <value>موقف الترجمة الثانوية</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام الافتراضي فونتفاميلي</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem1_GlobalStretchModeComboBox.Header" xml:space="preserve">
+    <value>وضع الرسم العالمي</value>
+  </data>
+  <data name="WM_SubtitleSearching" xml:space="preserve">
+    <value>البحث عن الترجمة...</value>
+  </data>
+  <data name="PBCD.PrimaryButtonText" xml:space="preserve">
+    <value>تأكيد</value>
+  </data>
+  <data name="PBCD.SecondaryButtonText" xml:space="preserve">
+    <value>إلغاء الأمر</value>
+  </data>
+  <data name="PBCD_TITLE.Text" xml:space="preserve">
+    <value>اسم قائمة التشغيل</value>
+  </data>
+  <data name="MV_TP_NewPlaylist.Content" xml:space="preserve">
+    <value>قائمة تشغيل جديدة</value>
+  </data>
+  <data name="AddToPlaylist" xml:space="preserve">
+    <value>إضافة إلى قائمة التشغيل</value>
+  </data>
+  <data name="WM_Playlist_Empty" xml:space="preserve">
+    <value>قائمة التشغيل غير فارغ</value>
+  </data>
+  <data name="MV_TP_RenamePlaylist.Content" xml:space="preserve">
+    <value>إعادة تسمية قائمة التشغيل</value>
+  </data>
+  <data name="RemoveFromPlaylist" xml:space="preserve">
+    <value>إزالة من قائمة التشغيل</value>
+  </data>
+  <data name="MV_TP_RemovePlaylist.Content" xml:space="preserve">
+    <value>حذف قائمة التشغيل</value>
+  </data>
+  <data name="ClearRecentButton.Content" xml:space="preserve">
+    <value>مسح الكل</value>
+  </data>
+  <data name="ADDON_CanNotBuyAdvanceInTrialVersion_TextBlock.Text" xml:space="preserve">
+    <value>لا يمكن شراء قسط في الإصدار التجريبي</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام لون مخصص</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CM_Playlist" xml:space="preserve">
+    <value>قائمة التشغيل</value>
+  </data>
+  <data name="MV_TP_AddToPlaylist.Content" xml:space="preserve">
+    <value>إضافة إلى قائمة التشغيل</value>
+  </data>
+  <data name="SelectMultiple" xml:space="preserve">
+    <value>حدد</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام صورة خلفية مخصصة</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
+    <value>زمن التخزين المؤقت (مللي ثانية)</value>
+  </data>
+  <data name="SYS_PIP" xml:space="preserve">
+    <value>صورة داخل صورة (دوماً في المقدمة)</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام البحث المعاين</value>
+  </data>
+  <data name="HD_TITLE_TEXT.Text" xml:space="preserve">
+    <value>معلومات الترميز المثبتة</value>
+  </data>
+  <data name="HD_PivotItem1.Header" xml:space="preserve">
+    <value>وحدة فك ترميز الفيديو</value>
+  </data>
+  <data name="HD_PivotItem2.Header" xml:space="preserve">
+    <value>ترميز الفيديو</value>
+  </data>
+  <data name="HD_PivotItem3.Header" xml:space="preserve">
+    <value>ترميز الصوت</value>
+  </data>
+  <data name="HD_PivotItem4.Header" xml:space="preserve">
+    <value>ترميز الصوت</value>
+  </data>
+  <data name="CM_HardwareInfo" xml:space="preserve">
+    <value>معلومات الترميز المثبتة</value>
+  </data>
+  <data name="HD.PrimaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="Meta_WhatsNew" xml:space="preserve">
+    <value>ما هو الجديد في هذا الإصدار</value>
+  </data>
+  <data name="Meta_RateMe" xml:space="preserve">
+    <value>معدل</value>
+  </data>
+  <data name="Meta_Close" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="Meta_Message1" xml:space="preserve">
+    <value>ملاحظاتك المهم!</value>
+  </data>
+  <data name="Meta_Message2" xml:space="preserve">
+    <value>إذا كان لديك مثل هذا التطبيق، وإعطائها نسبة جيدة أو استعراض سيجعل هذا التطبيق أفضل.</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام تسريع الأجهزة H265/شفت/تقرير التنمية البشرية</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CM_Graghic_Effect_Displacement" xml:space="preserve">
+    <value>التشرد</value>
+  </data>
+  <data name="CM_Graghic_Effect_DynamicBlur" xml:space="preserve">
+    <value>طمس ديناميكية</value>
+  </data>
+  <data name="CM_Graghic_Effect_RotatedTiles" xml:space="preserve">
+    <value>البلاط الذي تمت استدارته</value>
+  </data>
+  <data name="CM_Graghic_Effect_GrayScale" xml:space="preserve">
+    <value>تدرج الرمادي</value>
+  </data>
+  <data name="CM_Graghic_Effect_Invert" xml:space="preserve">
+    <value>عكس</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix" xml:space="preserve">
+    <value>مصفوفة الألوان</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_On" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_Off" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="CD_CM_TITLE.Text" xml:space="preserve">
+    <value>مصفوفة الألوان</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_Custom" xml:space="preserve">
+    <value>مخصص</value>
+  </data>
+  <data name="CD_ColorMatrix.PrimaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="CM_Slider_hue.Header" xml:space="preserve">
+    <value>هوي</value>
+  </data>
+  <data name="CM_Slider_saturation.Header" xml:space="preserve">
+    <value>تشبع</value>
+  </data>
+  <data name="CM_Slider_brightness.Header" xml:space="preserve">
+    <value>سطوع</value>
+  </data>
+  <data name="hevcVideoExtensionButton.Content" xml:space="preserve">
+    <value>تحميل ملحق شفت الفيديو</value>
+  </data>
+  <data name="hevcVideoExtensionButton_ToolTip.Content" xml:space="preserve">
+    <value>تحديث ويندوز 10 سقوط الخالق، Microsoft إزالة شفت وحدة فك الترميز، حيث أنها تحتاج إلى يدوياً تحميل برنامج الترميز من مخزن Microsoft، إذا كان الجهاز يدعم ذلك.</value>
+  </data>
+  <data name="SD_PivotItem1_SetDefaultMediaPlayer.Header" xml:space="preserve">
+    <value>تعيين الافتراضي Media Player</value>
+  </data>
+  <data name="SD_PivotItem1_SetDefaultMediaPlayer.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="SD_PivotItem1_SetDefaultMediaPlayer.OffContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.Header" xml:space="preserve">
+    <value>إظهار ما الجديد في تحديث</value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>فرز حسب</value>
+  </data>
+  <data name="Menu_FileName" xml:space="preserve">
+    <value>اسم الملف</value>
+  </data>
+  <data name="Menu_Size" xml:space="preserve">
+    <value>حجم الملف</value>
+  </data>
+  <data name="Menu_Date" xml:space="preserve">
+    <value>تاريخ الملف</value>
+  </data>
+  <data name="Menu_Duration" xml:space="preserve">
+    <value>المدة</value>
+  </data>
+  <data name="CD_Effects.PrimaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="CD_Effects_TITLE.Text" xml:space="preserve">
+    <value>إدارة تأثيرات الفيديو</value>
+  </data>
+  <data name="CM_Graghic_Effect_EffectManager" xml:space="preserve">
+    <value>مدير الآثار</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.Header" xml:space="preserve">
+    <value>مذكرة</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.Header" xml:space="preserve">
+    <value>التشرد</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.Header" xml:space="preserve">
+    <value>طمس ديناميكية</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.Header" xml:space="preserve">
+    <value>البلاط الذي تمت استدارته</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.Header" xml:space="preserve">
+    <value>تدرج الرمادي</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.Header" xml:space="preserve">
+    <value>عكس</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.Header" xml:space="preserve">
+    <value>مصفوفة الألوان</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="CM_Slider_PixelsPerTile.Header" xml:space="preserve">
+    <value>بكسل لكل بلاط</value>
+  </data>
+  <data name="CM_Slider_Amount.Header" xml:space="preserve">
+    <value>المبلغ التشرد</value>
+  </data>
+  <data name="CM_Slider_DisplacementX.Header" xml:space="preserve">
+    <value>التشرد X</value>
+  </data>
+  <data name="CM_Slider_DisplacementY.Header" xml:space="preserve">
+    <value>التشرد Y</value>
+  </data>
+  <data name="CM_Slider_BlurAmount.Header" xml:space="preserve">
+    <value>طمس المبلغ</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.Header" xml:space="preserve">
+    <value>التعرض</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="CM_Slider_Exposure.Header" xml:space="preserve">
+    <value>مقدار التعرض</value>
+  </data>
+  <data name="CM_Slider_Contrast.Header" xml:space="preserve">
+    <value>التباين</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.Header" xml:space="preserve">
+    <value>التباين</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.Header" xml:space="preserve">
+    <value>شحذ</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="CM_Slider_Sharpen.Header" xml:space="preserve">
+    <value>شحذ</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.Header" xml:space="preserve">
+    <value>مورفولوجيا</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.Header" xml:space="preserve">
+    <value>وضع مورفولوجيا</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>تؤدي إلى تآكل</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>تمدد</value>
+  </data>
+  <data name="CM_Slider_Morphology_Height.Header" xml:space="preserve">
+    <value>ارتفاع مورفولوجيا</value>
+  </data>
+  <data name="CM_Slider_Morphology_Width.Header" xml:space="preserve">
+    <value>عرض مورفولوجيا</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.Header" xml:space="preserve">
+    <value>إظهار زر معدل التشغيل</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.Header" xml:space="preserve">
+    <value>النقش</value>
+  </data>
+  <data name="CM_Slider_EmbossAmount.Header" xml:space="preserve">
+    <value>النقش المبلغ</value>
+  </data>
+  <data name="CM_Slider_EmbossAngle.Header" xml:space="preserve">
+    <value>زاوية مزخرف</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.OnContent" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.OffContent" xml:space="preserve">
+    <value>ذوي</value>
+  </data>
+  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
+    <value>شبكة العقرب الجري</value>
+  </data>
+  <data name="CM_Open_Socket" xml:space="preserve">
+    <value>شبكة العقرب الجري</value>
+  </data>
+  <data name="CD_Socket_RemotePort.Text" xml:space="preserve">
+    <value>منفذ بعيد</value>
+  </data>
+  <data name="CD_Socket_Connect_Button.Content" xml:space="preserve">
+    <value>الاتصال</value>
+  </data>
+  <data name="CD_Socket_Disonnect_Button.Content" xml:space="preserve">
+    <value>قطع الاتصال</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>قم بتحديث</value>
+  </data>
+  <data name="CD_Socket_ConnectionTimedOut" xml:space="preserve">
+    <value>تعذر الاتصال بالخادم البعيد، تأكد من صحة اسم المضيف البعيد والمنفذ البعيد</value>
+  </data>
+  <data name="CD_Socket_Connected" xml:space="preserve">
+    <value>الملقم البعيد الاتصال</value>
+  </data>
+  <data name="SCD_PivotItem1.Header" xml:space="preserve">
+    <value>المجلدات</value>
+  </data>
+  <data name="SCD_PivotItem2.Header" xml:space="preserve">
+    <value>الملفات</value>
+  </data>
+  <data name="CD_Socket.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="CD_Socket_PrimaryButtonText_Connect" xml:space="preserve">
+    <value>الاتصال</value>
+  </data>
+  <data name="CD_Socket_PrimaryButtonText_Disconnect" xml:space="preserve">
+    <value>قطع الاتصال</value>
+  </data>
+  <data name="CD_Socket_LocalPort.Text" xml:space="preserve">
+    <value>منفذ الاستماع</value>
+  </data>
+  <data name="CD_Socket_RemoteHostName.Text" xml:space="preserve">
+    <value>اسم المضيف البعيد/عنوان IP</value>
+  </data>
+  <data name="CD_Socket_LocalHostName.Text" xml:space="preserve">
+    <value>اسم المضيف المحلي/عنوان IP</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.Header" xml:space="preserve">
+    <value>تعمل كخادم الوسائط</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.OnContent" xml:space="preserve">
+    <value>مشاركة المفضلة لشبكة الاتصال المحلية</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CD_Socket_Invalid_HostName" xml:space="preserve">
+    <value>عنوان IP أو اسم مضيف غير صالح</value>
+  </data>
+  <data name="CD_Socket_Listen_Success" xml:space="preserve">
+    <value>نجاح الاستماع على منفذ</value>
+  </data>
+  <data name="CD_Socket_Listen_Fail" xml:space="preserve">
+    <value>تفشل لتعمل "خادم وسائط الإعلام"، يرجى التأكد من اسم المضيف والمنفذ صحيحة.</value>
+  </data>
+  <data name="CD_Socket_HelpButton.Content" xml:space="preserve">
+    <value>تعليمات</value>
+  </data>
+  <data name="SocketNetworkingStream_Message" xml:space="preserve">
+    <value>تيار التواصل العقرب هو ميزة فريدة من نوعها يمكن دفق "الوسائط المفضلة" الخاصة بك بما في ذلك ملفات الفيديو والصوت، عبر شبكة الاتصال المحلية أو إنترنت بين "لاعب العقرب"، أو مع برنامج "الملقم مشغل العقرب". تمكين تدفق عبر بين جهاز الكمبيوتر الخاص بك، إكس بوكس، ويندوز الهاتف المحمول 10، و "الأجهزة" الأخرى Windows 10، وقانون "لاعب العقرب عند" "خادم الوسائط" فإنه يجب في وضع الإطار النشط لا تصغر أو وضع خلفية، يمكنك تحميل التطبيق تيار التواصل العقرب لينكس، ماك، ويندوز 7، 10 8، 8.1 وتعلم المزيد من http://scorpioplayer.com، شكرا.</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>إضافة "ميزة تيار شبكة العقرب"، تيار الخاصة بك لاعب وسائل الإعلام بين العقرب والجهاز, اختياري يمكنك مجاناً لتحميل "العقرب الشبكات تيار سطح المكتب خدمة التطبيق من" http://scorpioplayer.com لينكس، ماك، ويندوز 7، 8، 8.1,10</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>تحميل</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>الجري</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.Header" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="CM_Open_FTP" xml:space="preserve">
+    <value>FTP</value>
+  </data>
+  <data name="FTP_TITLE.Text" xml:space="preserve">
+    <value>FTP</value>
+  </data>
+  <data name="FTP_Settings.Header" xml:space="preserve">
+    <value>إعداد بروتوكول نقل الملفات</value>
+  </data>
+  <data name="NO_FTP.Text" xml:space="preserve">
+    <value>لا يتم العثور على ملقم FTP</value>
+  </data>
+  <data name="FTP_Warning.Text" xml:space="preserve">
+    <value>ميزة بروتوكول نقل الملفات ليست وسائل جاهزة تماما، وفتح ملف تحميل الملف كاملا، رجاء لا تقم بفتح الملف كبير جداً.</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>إضافة عميل FTP</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>إضافة عميل WebDAV</value>
+  </data>
+  <data name="CM_Open_SMB" xml:space="preserve">
+    <value>%s ميغابايت</value>
+  </data>
+  <data name="UCD.PrimaryButtonText" xml:space="preserve">
+    <value>فتح</value>
+  </data>
+  <data name="UCD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>وسائط شبكة الاتصال مفتوحة</value>
+  </data>
+  <data name="CM_Open_Uri" xml:space="preserve">
+    <value>تيار الشبكة</value>
+  </data>
+  <data name="UCD_Enter_message_textblock.Text" xml:space="preserve">
+    <value>الرجاء إدخال عنوان شبكة اتصال:</value>
+  </data>
+  <data name="Downloading" xml:space="preserve">
+    <value>تنزيل</value>
+  </data>
+  <data name="exampleTextBlock.Text" xml:space="preserve">
+    <value>مثال:</value>
+  </data>
+  <data name="SCD_PivotItem4.Header" xml:space="preserve">
+    <value>ذاكرة التخزين المؤقتة</value>
+  </data>
+  <data name="Cache" xml:space="preserve">
+    <value>ذاكرة التخزين المؤقتة</value>
+  </data>
+  <data name="ClearCacheButton.Content" xml:space="preserve">
+    <value>مسح ذاكرة التخزين المؤقت</value>
+  </data>
+  <data name="WM_CacheFolderDeleted" xml:space="preserve">
+    <value>ذاكرة التخزين المؤقت واضحة الانتهاء</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.Header" xml:space="preserve">
+    <value>فتح بعد تحميلها</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="WM_ReadFromCache" xml:space="preserve">
+    <value>القراءة من ذاكرة التخزين المؤقت</value>
+  </data>
+  <data name="WM_DownloadCompleted" xml:space="preserve">
+    <value>تم التنزيل</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>استخدم شبكة العقرب الجري كمصدر المفضلة</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="WM_load_socket_folder_fail" xml:space="preserve">
+    <value>فشل شبكة العقرب الجري تحميل مجلد</value>
+  </data>
+  <data name="WM_load_socket_folder" xml:space="preserve">
+    <value>شبكة العقرب الجري تحميل مجلد الانتهاء</value>
+  </data>
+  <data name="WM_load_socket_file_fail" xml:space="preserve">
+    <value>شبكة العقرب الجري تحميل الملفات التي فشلت</value>
+  </data>
+  <data name="WM_load_socket_file" xml:space="preserve">
+    <value>شبكة العقرب الجري تحميل الملفات التي أنجزت</value>
+  </data>
+  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
+    <value>مطلوب إعدادات المضيف البعيد "تدفق شبكة العقرب"</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>إضافة "ميزة لقطات الشبكة"، بما في ذلك HTTP (الجزء الرفيع المستوى) (داش)، بروتوكول RTSP</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>تحسين تافهة أخرى</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
+    <value>تعطيل تخطيط التحجيم</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="TrySetDisableLayoutScalingSuccess" xml:space="preserve">
+    <value>تعطيل تعيين تخطيط قياس النجاح</value>
+  </data>
+  <data name="TrySetDisableLayoutScalingFail" xml:space="preserve">
+    <value>تعطيل تعيين تخطيط تحجيم تفشل</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>إضافة القدرة على ربط "مصدر الدفق شبكة العقرب" كمفضلة، القدرة على تحميل الفيديو من الجهاز المحلي كذاكرة التخزين المؤقت</value>
+  </data>
+  <data name="CM_Subtitle_SmartMathingDownload" xml:space="preserve">
+    <value>تحميل من الإنترنت</value>
+  </data>
+  <data name="WM_SubtitleNotFound" xml:space="preserve">
+    <value>لم يتم العثور على العنوان الفرعي.</value>
+  </data>
+  <data name="WM_SubtitleNotFoundAudio" xml:space="preserve">
+    <value>لم يتم العثور على كلمات الأغاني.</value>
+  </data>
+  <data name="chi" xml:space="preserve">
+    <value>الصينية</value>
+  </data>
+  <data name="WM_not_support" xml:space="preserve">
+    <value>عدم دعم</value>
+  </data>
+  <data name="CM_TransportControlShowDuration" xml:space="preserve">
+    <value>إظهار المدة</value>
+  </data>
+  <data name="Commom_Seconds" xml:space="preserve">
+    <value>ثوانٍ</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>إضافة عنصر تحكم مدة عرض النقل</value>
+  </data>
+  <data name="CM_Track_face" xml:space="preserve">
+    <value>تواجه المسار</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>إضافة تتبع الوجه</value>
+  </data>
+  <data name="WM_decode_fail_switching_codec" xml:space="preserve">
+    <value>فك فشلت، حاول التبديل الترميز</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.Header" xml:space="preserve">
+    <value>إظهار زر الترجمة وابل</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="MV_Danmu.Content" xml:space="preserve">
+    <value>وابل</value>
+  </data>
+  <data name="MV_TP_Danmu_Explain.Content" xml:space="preserve">
+    <value>من أجل استخدام هذه الميزة، وابل الحاجة ملف الترجمة يتم تحميلها، يتم تنسيق.xml أو.json سبيل المثال الدعم، متوافق مع blibli.com/acfun.com</value>
+  </data>
+  <data name="WM_danmu_subtitle_loaded" xml:space="preserve">
+    <value>الترجمة إبلا محملة</value>
+  </data>
+  <data name="Meta_UpdateInfo9" xml:space="preserve">
+    <value>إضافة acfun.com/blibli.com دون اتصال إبلا تنسيق العنوان الفرعي الدعم أو.xml أو.json</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام تأثير توهج</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem2_GlowAmountSlider.Header" xml:space="preserve">
+    <value>مقدار التوهج</value>
+  </data>
+  <data name="Meta_UpdateInfo10" xml:space="preserve">
+    <value>إضافة تأثير توهج للترجمة</value>
+  </data>
+</root>
