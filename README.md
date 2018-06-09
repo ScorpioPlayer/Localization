@@ -10,7 +10,9 @@ open the root folder,
 
 make your change, pull request to this repopsitory.
 
-image:: https://scorpioplayer.com/images/tra.png
+image:: 
   :height: 100px
   :width: 200 px
   :scale: 50 %
+  
+  ![alt text](https://scorpioplayer.com/images/tra.png "scorpio player")
