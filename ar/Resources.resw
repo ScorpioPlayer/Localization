@@ -177,9 +177,6 @@
   <data name="CM_Open" xml:space="preserve">
     <value>فتح</value>
   </data>
-  <data name="CM_Open_Folder" xml:space="preserve">
-    <value>مجلد</value>
-  </data>
   <data name="CM_Recent" xml:space="preserve">
     <value>القراءة الأخيرة</value>
   </data>
@@ -1443,9 +1440,6 @@
   <data name="SocketNetworkingStream_Message" xml:space="preserve">
     <value>تيار التواصل العقرب هو ميزة فريدة من نوعها يمكن دفق "الوسائط المفضلة" الخاصة بك بما في ذلك ملفات الفيديو والصوت، عبر شبكة الاتصال المحلية أو إنترنت بين "لاعب العقرب"، أو مع برنامج "الملقم مشغل العقرب". تمكين تدفق عبر بين جهاز الكمبيوتر الخاص بك، إكس بوكس، ويندوز الهاتف المحمول 10، و "الأجهزة" الأخرى Windows 10، وقانون "لاعب العقرب عند" "خادم الوسائط" فإنه يجب في وضع الإطار النشط لا تصغر أو وضع خلفية، يمكنك تحميل التطبيق تيار التواصل العقرب لينكس، ماك، ويندوز 7، 10 8، 8.1 وتعلم المزيد من http://scorpioplayer.com، شكرا.</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>إضافة "ميزة تيار شبكة العقرب"، تيار الخاصة بك لاعب وسائل الإعلام بين العقرب والجهاز, اختياري يمكنك مجاناً لتحميل "العقرب الشبكات تيار سطح المكتب خدمة التطبيق من" http://scorpioplayer.com لينكس، ماك، ويندوز 7، 8، 8.1,10</value>
-  </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
     <value>تحميل</value>
   </data>
@@ -1469,12 +1463,6 @@
   </data>
   <data name="FTP_Warning.Text" xml:space="preserve">
     <value>ميزة بروتوكول نقل الملفات ليست وسائل جاهزة تماما، وفتح ملف تحميل الملف كاملا، رجاء لا تقم بفتح الملف كبير جداً.</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>إضافة عميل FTP</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>إضافة عميل WebDAV</value>
   </data>
   <data name="CM_Open_SMB" xml:space="preserve">
     <value>%s ميغابايت</value>
@@ -1551,12 +1539,6 @@
   <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
     <value>مطلوب إعدادات المضيف البعيد "تدفق شبكة العقرب"</value>
   </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>إضافة "ميزة لقطات الشبكة"، بما في ذلك HTTP (الجزء الرفيع المستوى) (داش)، بروتوكول RTSP</value>
-  </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>تحسين تافهة أخرى</value>
-  </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>تعطيل تخطيط التحجيم</value>
   </data>
@@ -1571,9 +1553,6 @@
   </data>
   <data name="TrySetDisableLayoutScalingFail" xml:space="preserve">
     <value>تعطيل تعيين تخطيط تحجيم تفشل</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>إضافة القدرة على ربط "مصدر الدفق شبكة العقرب" كمفضلة، القدرة على تحميل الفيديو من الجهاز المحلي كذاكرة التخزين المؤقت</value>
   </data>
   <data name="CM_Subtitle_SmartMathingDownload" xml:space="preserve">
     <value>تحميل من الإنترنت</value>
@@ -1596,14 +1575,8 @@
   <data name="Commom_Seconds" xml:space="preserve">
     <value>ثوانٍ</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>إضافة عنصر تحكم مدة عرض النقل</value>
-  </data>
   <data name="CM_Track_face" xml:space="preserve">
     <value>تواجه المسار</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>إضافة تتبع الوجه</value>
   </data>
   <data name="WM_decode_fail_switching_codec" xml:space="preserve">
     <value>فك فشلت، حاول التبديل الترميز</value>
@@ -1626,9 +1599,6 @@
   <data name="WM_danmu_subtitle_loaded" xml:space="preserve">
     <value>الترجمة إبلا محملة</value>
   </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>إضافة acfun.com/blibli.com دون اتصال إبلا تنسيق العنوان الفرعي الدعم أو.xml أو.json</value>
-  </data>
   <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
     <value>استخدام تأثير توهج</value>
   </data>
@@ -1641,7 +1611,475 @@
   <data name="SD_PivotItem2_GlowAmountSlider.Header" xml:space="preserve">
     <value>مقدار التوهج</value>
   </data>
-  <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>إضافة تأثير توهج للترجمة</value>
+  <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
+    <value>وزن الخط الترجمة الأولية</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>تأثير توهج النص للترجمة</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>وزن الخط الترجمة</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>العقرب الجري وتشمل الترجمة في نفس المجلد</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>بلو رأي القرص إيزو الدعم (معاينة)</value>
+  </data>
+  <data name="CM_Subtitle_Subhub" xml:space="preserve">
+    <value>فريق البحث عن الترجمة</value>
+  </data>
+  <data name="SUCD.PrimaryButtonText" xml:space="preserve">
+    <value>البحث عن</value>
+  </data>
+  <data name="SUCD.SecondaryButtonText" xml:space="preserve">
+    <value>تحميل</value>
+  </data>
+  <data name="SUCD_TITLE.Text" xml:space="preserve">
+    <value>فريق البحث عن الترجمة</value>
+  </data>
+  <data name="SUCD_Query.Header" xml:space="preserve">
+    <value>استعلام '|'...</value>
+  </data>
+  <data name="SUCD_FileHash.Header" xml:space="preserve">
+    <value>لحممفروم</value>
+  </data>
+  <data name="SUCD_Episode.Header" xml:space="preserve">
+    <value>الحلقة</value>
+  </data>
+  <data name="SUCD_Season.Header" xml:space="preserve">
+    <value>الموسم</value>
+  </data>
+  <data name="SUCD_ImdbId.Header" xml:space="preserve">
+    <value>معرف IMDb</value>
+  </data>
+  <data name="Afrikaans" xml:space="preserve">
+    <value>الأفريقانية</value>
+  </data>
+  <data name="Albanian" xml:space="preserve">
+    <value>الألبانية</value>
+  </data>
+  <data name="Arabic" xml:space="preserve">
+    <value>العربية</value>
+  </data>
+  <data name="Armenian" xml:space="preserve">
+    <value>الأرمينية</value>
+  </data>
+  <data name="Basque" xml:space="preserve">
+    <value>الباسكية</value>
+  </data>
+  <data name="Belarusian" xml:space="preserve">
+    <value>البيلاروسية</value>
+  </data>
+  <data name="Bengali" xml:space="preserve">
+    <value>البنغالية</value>
+  </data>
+  <data name="Bosnian" xml:space="preserve">
+    <value>البوسنية</value>
+  </data>
+  <data name="Bulgarian" xml:space="preserve">
+    <value>البلغارية</value>
+  </data>
+  <data name="Burmese" xml:space="preserve">
+    <value>بورما</value>
+  </data>
+  <data name="Catalan" xml:space="preserve">
+    <value>الكتالانية</value>
+  </data>
+  <data name="Chinese (simplified)" xml:space="preserve">
+    <value>الصينية (المبسطة)</value>
+  </data>
+  <data name="Chinese (traditional)" xml:space="preserve">
+    <value>الصينية (التقليدية)</value>
+  </data>
+  <data name="Chinese bilingual" xml:space="preserve">
+    <value>اللغة الصينية</value>
+  </data>
+  <data name="Croatian" xml:space="preserve">
+    <value>الكرواتية</value>
+  </data>
+  <data name="Czech" xml:space="preserve">
+    <value>التشيكية</value>
+  </data>
+  <data name="Danish" xml:space="preserve">
+    <value>الدانماركية</value>
+  </data>
+  <data name="Dutch" xml:space="preserve">
+    <value>الهولندية</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>الإنكليزية</value>
+  </data>
+  <data name="Esperanto" xml:space="preserve">
+    <value>الإسبرانتو</value>
+  </data>
+  <data name="Estonian" xml:space="preserve">
+    <value>الإستونية</value>
+  </data>
+  <data name="Finnish" xml:space="preserve">
+    <value>الفنلندية</value>
+  </data>
+  <data name="French" xml:space="preserve">
+    <value>الفرنسية</value>
+  </data>
+  <data name="Galician" xml:space="preserve">
+    <value>الغاليشية</value>
+  </data>
+  <data name="Georgian" xml:space="preserve">
+    <value>الجورجية</value>
+  </data>
+  <data name="German" xml:space="preserve">
+    <value>الألمانية</value>
+  </data>
+  <data name="Greek" xml:space="preserve">
+    <value>اليونانية</value>
+  </data>
+  <data name="Hebrew" xml:space="preserve">
+    <value>العبرية</value>
+  </data>
+  <data name="Hindi" xml:space="preserve">
+    <value>الهندية</value>
+  </data>
+  <data name="Hungarian" xml:space="preserve">
+    <value>المجرية</value>
+  </data>
+  <data name="Icelandic" xml:space="preserve">
+    <value>الأيسلندية</value>
+  </data>
+  <data name="Indonesian" xml:space="preserve">
+    <value>الإندونيسية</value>
+  </data>
+  <data name="Italian" xml:space="preserve">
+    <value>الإيطالية</value>
+  </data>
+  <data name="Japanese" xml:space="preserve">
+    <value>اليابانية</value>
+  </data>
+  <data name="Kazakh" xml:space="preserve">
+    <value>الكازاخية</value>
+  </data>
+  <data name="Khmer" xml:space="preserve">
+    <value>الخمير</value>
+  </data>
+  <data name="Korean" xml:space="preserve">
+    <value>الكورية</value>
+  </data>
+  <data name="Latvian" xml:space="preserve">
+    <value>اللاتفية</value>
+  </data>
+  <data name="Lithuanian" xml:space="preserve">
+    <value>الليتوانية</value>
+  </data>
+  <data name="Luxembourgish" xml:space="preserve">
+    <value>اللكسمبورجية</value>
+  </data>
+  <data name="Macedonian" xml:space="preserve">
+    <value>مقدوني</value>
+  </data>
+  <data name="Malay" xml:space="preserve">
+    <value>الماليزية</value>
+  </data>
+  <data name="Malayalam" xml:space="preserve">
+    <value>المالايلامية</value>
+  </data>
+  <data name="Manipuri" xml:space="preserve">
+    <value>مانيبوري</value>
+  </data>
+  <data name="Mongolian" xml:space="preserve">
+    <value>المنغولية</value>
+  </data>
+  <data name="Montenegrin" xml:space="preserve">
+    <value>الجبل الأسود</value>
+  </data>
+  <data name="Norwegian" xml:space="preserve">
+    <value>النرويجية ‏</value>
+  </data>
+  <data name="Occitan" xml:space="preserve">
+    <value>الأوكسيتانية</value>
+  </data>
+  <data name="Persian" xml:space="preserve">
+    <value>فارسي</value>
+  </data>
+  <data name="Polish" xml:space="preserve">
+    <value>البولندية</value>
+  </data>
+  <data name="Portuguese" xml:space="preserve">
+    <value>البرتغالية</value>
+  </data>
+  <data name="Portuguese (BR)" xml:space="preserve">
+    <value>البرتغالية (ر)</value>
+  </data>
+  <data name="Romanian" xml:space="preserve">
+    <value>الرومانية</value>
+  </data>
+  <data name="Russian" xml:space="preserve">
+    <value>الروسية</value>
+  </data>
+  <data name="Serbian" xml:space="preserve">
+    <value>الصربية</value>
+  </data>
+  <data name="Sinhalese" xml:space="preserve">
+    <value>اللغة السنهالية</value>
+  </data>
+  <data name="Slovak" xml:space="preserve">
+    <value>السلوفاكية</value>
+  </data>
+  <data name="Slovenian" xml:space="preserve">
+    <value>السلوفينية</value>
+  </data>
+  <data name="Spanish" xml:space="preserve">
+    <value>الإسبانية</value>
+  </data>
+  <data name="Swahili" xml:space="preserve">
+    <value>السواحلية</value>
+  </data>
+  <data name="Swedish" xml:space="preserve">
+    <value>السويدية</value>
+  </data>
+  <data name="Syriac" xml:space="preserve">
+    <value>اللغة السريانية</value>
+  </data>
+  <data name="Tagalog" xml:space="preserve">
+    <value>لغة التاجالوج</value>
+  </data>
+  <data name="Tamil" xml:space="preserve">
+    <value>التاميلية</value>
+  </data>
+  <data name="Telugu" xml:space="preserve">
+    <value>التيلوغية</value>
+  </data>
+  <data name="Thai" xml:space="preserve">
+    <value>التايلندية</value>
+  </data>
+  <data name="Turkish" xml:space="preserve">
+    <value>التركية</value>
+  </data>
+  <data name="Ukrainian" xml:space="preserve">
+    <value>الأوكرانية</value>
+  </data>
+  <data name="Urdu" xml:space="preserve">
+    <value>الأوردية</value>
+  </data>
+  <data name="Vietnamese" xml:space="preserve">
+    <value>الفيتنامية</value>
+  </data>
+  <data name="Breton" xml:space="preserve">
+    <value>البريتانية</value>
+  </data>
+  <data name="Hash" xml:space="preserve">
+    <value>لحممفروم</value>
+  </data>
+  <data name="FullText" xml:space="preserve">
+    <value>نص</value>
+  </data>
+  <data name="Imdb" xml:space="preserve">
+    <value>IMDb</value>
+  </data>
+  <data name="Subhub_languages_combox.Header" xml:space="preserve">
+    <value>اللغة</value>
+  </data>
+  <data name="Subhub_SearchMethod_combox.Header" xml:space="preserve">
+    <value>طريقة البحث</value>
+  </data>
+  <data name="WM_subtitle_loaded" xml:space="preserve">
+    <value>الترجمة الحالية</value>
+  </data>
+  <data name="WM_file_corrupted" xml:space="preserve">
+    <value>الملف تالف</value>
+  </data>
+  <data name="Embed" xml:space="preserve">
+    <value>تضمين</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>إضافة فريق البحث عن الترجمة</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>تحميل</value>
+  </data>
+  <data name="Milliseconds" xml:space="preserve">
+    <value>مللي ثانية</value>
+  </data>
+  <data name="Seconds" xml:space="preserve">
+    <value>ثوانٍ</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>تعيين العنوان الفرعي المخطط الزمني</value>
+  </data>
+  <data name="DCD_TITLE.Text" xml:space="preserve">
+    <value>الترجمة الجدول الزمني</value>
+  </data>
+  <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
+    <value>الترجمة العالمية تأخير الوقت بالمللي ثانية</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>إضافة "عنوان فرعي إعداد الجدول الزمني"</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>إضافة ميزة التصدير في ملف الترجمة</value>
+  </data>
+  <data name="CM_ExportSubtitle" xml:space="preserve">
+    <value>ملف التصدير</value>
+  </data>
+  <data name="WM_Subtitle_Exported" xml:space="preserve">
+    <value>الترجمة صدرت</value>
+  </data>
+  <data name="WM_Subtitle_Exported_Failed" xml:space="preserve">
+    <value>تصدير الترجمة فشلت</value>
+  </data>
+  <data name="DCD_Subtitle_Reset_Button" xml:space="preserve">
+    <value>إعادة تعيين</value>
+  </data>
+  <data name="DCD.PrimaryButtonText" xml:space="preserve">
+    <value>إعادة تعيين</value>
+  </data>
+  <data name="DCD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="Meta_UpdateInfo9" xml:space="preserve">
+    <value>الإصلاح تسعى إلى المسألة في Windows تحديث 10 أبريل 2018</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام فك ترميز الإعداد المسبق</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.Header" xml:space="preserve">
+    <value>السماح بإخراج الفيديو تنسيق بكسل Nv12</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.Header" xml:space="preserve">
+    <value>السماح بإخراج الفيديو تنسيق بكسل Bgra8</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.Header" xml:space="preserve">
+    <value>فيديو "الإخراج تسمح" 10 بت تنسيق بكسل</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.Header" xml:space="preserve">
+    <value>تنسيق بكسل Iyuv السماح بإخراج الفيديو</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="PlaylistActionButton_BringIntoView" xml:space="preserve">
+    <value>إظهار اللعب الحالية</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.Header" xml:space="preserve">
+    <value>تسريع الأجهزة شفت</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.Header" xml:space="preserve">
+    <value>تسريع الأجهزة H264Hi10P</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.Header" xml:space="preserve">
+    <value>تسريع الأجهزة H264</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.Header" xml:space="preserve">
+    <value>تسريع الأجهزة الجميح للسيارات</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.Header" xml:space="preserve">
+    <value>تسريع الأجهزة MP3</value>
+  </data>
+  <data name="WM_Caching_Stopped" xml:space="preserve">
+    <value>جلب لمجلد ذاكرة التخزين المؤقت لمعلومات توقف</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.Header" xml:space="preserve">
+    <value>تعطيل ذاكرة التخزين المؤقت للجلب بعد فتح المجلد</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="PlaylistActionButton_DisableCacheFetchOnFolderOpened" xml:space="preserve">
+    <value>تعطيل ذاكرة التخزين المؤقت للجلب بعد فتح المجلد</value>
+  </data>
+  <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
+    <value>مسح ذاكرة التخزين المؤقت</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>قم بتحديث</value>
+  </data>
+  <data name="WM_Link_No_File" xml:space="preserve">
+    <value>لا يمكن استخراج الفيديو من الرابط</value>
+  </data>
+  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
+    <value>حفظ باسم</value>
+  </data>
+  <data name="CM_Open_Folder" xml:space="preserve">
+    <value>فتح مجلد</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>جعل المجلد أعلاه 100% بإضافة كسب dB</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
+    <value>ملف دوماً استخدام نظام ترميز الصوت (لتشغيل الموسيقى في الخلفية)</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CM_Sound_BoostUp" xml:space="preserve">
+    <value>+5 dB</value>
+  </data>
+  <data name="CM_Sound_BoostDown" xml:space="preserve">
+    <value>-5 dB</value>
   </data>
 </root>

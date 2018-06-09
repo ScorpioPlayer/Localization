@@ -177,9 +177,6 @@
   <data name="CM_Open" xml:space="preserve">
     <value>Ouvert</value>
   </data>
-  <data name="CM_Open_Folder" xml:space="preserve">
-    <value>Dossier</value>
-  </data>
   <data name="CM_Recent" xml:space="preserve">
     <value>Lecture récente</value>
   </data>
@@ -1443,9 +1440,6 @@
   <data name="SocketNetworkingStream_Message" xml:space="preserve">
     <value>Scorpio Networking Stream est une caractéristique unique qui peut diffuser vos médias favoris y compris vidéo ou audio, via le réseau local ou internet entre joueur de Scorpion, ou avec le logiciel de serveur de joueur de Scorpion. Activer l’enchaînement croisée entre vos PC, Xbox, Windows 10 Mobile Phone et autres périphériques de Windows 10, Loi lorsque Scorpio joueur comme serveur multimédia, il doit en mode fenêtre active pas minimiser mode ou arrière-plan, vous pouvez télécharger les flux réseau Scorpio app pour Linux, MacOS, Windows 7, 10 8, 8.1 et en savoir plus sur http://scorpioplayer.com, Merci.</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>Ajouter la fonctionnalité de flux de réseau Scorpio, écouter votre lecteur multimédia entre Scorpion et le dispositif, en option, vous pouvez gratuitement Télécharger Scorpion Networking flux Desktop Service App de http://scorpioplayer.com pour Linux, MacOS, Windows 7, 8, 8.1,10</value>
-  </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
     <value>Télécharger</value>
   </data>
@@ -1469,12 +1463,6 @@
   </data>
   <data name="FTP_Warning.Text" xml:space="preserve">
     <value>Fonctionnalité FTP n’est pas tout à fait prêts, open file moyens entièrement Télécharger le fichier, s’il vous plaît ne pas ouvrir de fichier très volumineux.</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>Ajouter FTP Client</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>Ajouter WebDAV Client</value>
   </data>
   <data name="CM_Open_SMB" xml:space="preserve">
     <value>SMB</value>
@@ -1551,12 +1539,6 @@
   <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
     <value>paramètres de l’hôte distant pour Scorpio réseau diffusion est nécessaire</value>
   </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>Ajouter fonctionnalité de Streaming réseau, y compris (HLS) HTTP (DASH), protocole RTSP</value>
-  </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>autre amélioration triviale</value>
-  </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>Désactiver la mise à l’échelle de mise en page</value>
   </data>
@@ -1571,9 +1553,6 @@
   </data>
   <data name="TrySetDisableLayoutScalingFail" xml:space="preserve">
     <value>Set désactiver mise en page, mise à l’échelle de Fail</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>Ajouter la capacité de liaison Source de Streaming réseau Scorpion comme favoris, possibilité de télécharger des vidéo périphérique local comme cache</value>
   </data>
   <data name="CM_Subtitle_SmartMathingDownload" xml:space="preserve">
     <value>Télécharger depuis internet</value>
@@ -1596,14 +1575,8 @@
   <data name="Commom_Seconds" xml:space="preserve">
     <value>Secondes</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Ajouter le contrôle du transport Voir la durée</value>
-  </data>
   <data name="CM_Track_face" xml:space="preserve">
     <value>Suivi des visages</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>Ajouter le suivi du visage</value>
   </data>
   <data name="WM_decode_fail_switching_codec" xml:space="preserve">
     <value>décoder a échoué, essayez commutateur codec</value>
@@ -1626,9 +1599,6 @@
   <data name="WM_danmu_subtitle_loaded" xml:space="preserve">
     <value>sous-titre de barrage chargé</value>
   </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>Ajouter acfun.com / blibli.com hors connexion barrage format de support, .xml ou .json sous-titre</value>
-  </data>
   <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
     <value>Utiliser l’effet d’éclat</value>
   </data>
@@ -1641,7 +1611,475 @@
   <data name="SD_PivotItem2_GlowAmountSlider.Header" xml:space="preserve">
     <value>Niveau d'éclat </value>
   </data>
-  <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>Ajouter effet de lueur de sous-titre</value>
+  <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
+    <value>Poids de police sous-titre primaire</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>sous-titre texte effet</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>poids de police sous-titre</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>Scorpio en streaming inclure des sous-titres sur le même dossier</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>support Blu-ray disque ISO (aperçu)</value>
+  </data>
+  <data name="CM_Subtitle_Subhub" xml:space="preserve">
+    <value>Panneau de recherche sous-titre</value>
+  </data>
+  <data name="SUCD.PrimaryButtonText" xml:space="preserve">
+    <value>Recherche</value>
+  </data>
+  <data name="SUCD.SecondaryButtonText" xml:space="preserve">
+    <value>Télécharger</value>
+  </data>
+  <data name="SUCD_TITLE.Text" xml:space="preserve">
+    <value>Panneau de recherche sous-titre</value>
+  </data>
+  <data name="SUCD_Query.Header" xml:space="preserve">
+    <value>Requête</value>
+  </data>
+  <data name="SUCD_FileHash.Header" xml:space="preserve">
+    <value>Hachage</value>
+  </data>
+  <data name="SUCD_Episode.Header" xml:space="preserve">
+    <value>Épisode</value>
+  </data>
+  <data name="SUCD_Season.Header" xml:space="preserve">
+    <value>Saison</value>
+  </data>
+  <data name="SUCD_ImdbId.Header" xml:space="preserve">
+    <value>ID IMDb</value>
+  </data>
+  <data name="Afrikaans" xml:space="preserve">
+    <value>Afrikaans</value>
+  </data>
+  <data name="Albanian" xml:space="preserve">
+    <value>Albanais</value>
+  </data>
+  <data name="Arabic" xml:space="preserve">
+    <value>Arabe</value>
+  </data>
+  <data name="Armenian" xml:space="preserve">
+    <value>Arménien</value>
+  </data>
+  <data name="Basque" xml:space="preserve">
+    <value>Basque</value>
+  </data>
+  <data name="Belarusian" xml:space="preserve">
+    <value>Biélorusse</value>
+  </data>
+  <data name="Bengali" xml:space="preserve">
+    <value>Bengali</value>
+  </data>
+  <data name="Bosnian" xml:space="preserve">
+    <value>Bosniaque</value>
+  </data>
+  <data name="Bulgarian" xml:space="preserve">
+    <value>Bulgare</value>
+  </data>
+  <data name="Burmese" xml:space="preserve">
+    <value>Birman</value>
+  </data>
+  <data name="Catalan" xml:space="preserve">
+    <value>Catalan</value>
+  </data>
+  <data name="Chinese (simplified)" xml:space="preserve">
+    <value>Chinois (simplifié)</value>
+  </data>
+  <data name="Chinese (traditional)" xml:space="preserve">
+    <value>Chinois (traditionnel)</value>
+  </data>
+  <data name="Chinese bilingual" xml:space="preserve">
+    <value>Bilingue chinois</value>
+  </data>
+  <data name="Croatian" xml:space="preserve">
+    <value>Croate</value>
+  </data>
+  <data name="Czech" xml:space="preserve">
+    <value>Tchèque</value>
+  </data>
+  <data name="Danish" xml:space="preserve">
+    <value>Danois</value>
+  </data>
+  <data name="Dutch" xml:space="preserve">
+    <value>Néerlandais</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>Anglais</value>
+  </data>
+  <data name="Esperanto" xml:space="preserve">
+    <value>Esperanto</value>
+  </data>
+  <data name="Estonian" xml:space="preserve">
+    <value>Estonien</value>
+  </data>
+  <data name="Finnish" xml:space="preserve">
+    <value>Finnois</value>
+  </data>
+  <data name="French" xml:space="preserve">
+    <value>Français</value>
+  </data>
+  <data name="Galician" xml:space="preserve">
+    <value>Galicien</value>
+  </data>
+  <data name="Georgian" xml:space="preserve">
+    <value>Géorgien</value>
+  </data>
+  <data name="German" xml:space="preserve">
+    <value>Allemand</value>
+  </data>
+  <data name="Greek" xml:space="preserve">
+    <value>Grec</value>
+  </data>
+  <data name="Hebrew" xml:space="preserve">
+    <value>Hébreu</value>
+  </data>
+  <data name="Hindi" xml:space="preserve">
+    <value>Hindi</value>
+  </data>
+  <data name="Hungarian" xml:space="preserve">
+    <value>Hongrois</value>
+  </data>
+  <data name="Icelandic" xml:space="preserve">
+    <value>Islandais</value>
+  </data>
+  <data name="Indonesian" xml:space="preserve">
+    <value>Indonésien</value>
+  </data>
+  <data name="Italian" xml:space="preserve">
+    <value>Italien</value>
+  </data>
+  <data name="Japanese" xml:space="preserve">
+    <value>Japonais</value>
+  </data>
+  <data name="Kazakh" xml:space="preserve">
+    <value>Kazakh</value>
+  </data>
+  <data name="Khmer" xml:space="preserve">
+    <value>Khmer</value>
+  </data>
+  <data name="Korean" xml:space="preserve">
+    <value>Coréen</value>
+  </data>
+  <data name="Latvian" xml:space="preserve">
+    <value>Letton</value>
+  </data>
+  <data name="Lithuanian" xml:space="preserve">
+    <value>Lituanien</value>
+  </data>
+  <data name="Luxembourgish" xml:space="preserve">
+    <value>Luxembourgeois</value>
+  </data>
+  <data name="Macedonian" xml:space="preserve">
+    <value>Macédonien</value>
+  </data>
+  <data name="Malay" xml:space="preserve">
+    <value>Malaisien</value>
+  </data>
+  <data name="Malayalam" xml:space="preserve">
+    <value>Malayalam</value>
+  </data>
+  <data name="Manipuri" xml:space="preserve">
+    <value>Manipuri</value>
+  </data>
+  <data name="Mongolian" xml:space="preserve">
+    <value>Mongol</value>
+  </data>
+  <data name="Montenegrin" xml:space="preserve">
+    <value>Monténégrine</value>
+  </data>
+  <data name="Norwegian" xml:space="preserve">
+    <value>Norvégien</value>
+  </data>
+  <data name="Occitan" xml:space="preserve">
+    <value>Occitan</value>
+  </data>
+  <data name="Persian" xml:space="preserve">
+    <value>Perse</value>
+  </data>
+  <data name="Polish" xml:space="preserve">
+    <value>Polonais</value>
+  </data>
+  <data name="Portuguese" xml:space="preserve">
+    <value>Portugais</value>
+  </data>
+  <data name="Portuguese (BR)" xml:space="preserve">
+    <value>Portugais (BR)</value>
+  </data>
+  <data name="Romanian" xml:space="preserve">
+    <value>Roumain</value>
+  </data>
+  <data name="Russian" xml:space="preserve">
+    <value>Russe</value>
+  </data>
+  <data name="Serbian" xml:space="preserve">
+    <value>Serbe</value>
+  </data>
+  <data name="Sinhalese" xml:space="preserve">
+    <value>Cinghalais</value>
+  </data>
+  <data name="Slovak" xml:space="preserve">
+    <value>Slovaque</value>
+  </data>
+  <data name="Slovenian" xml:space="preserve">
+    <value>Slovène</value>
+  </data>
+  <data name="Spanish" xml:space="preserve">
+    <value>Espagnol</value>
+  </data>
+  <data name="Swahili" xml:space="preserve">
+    <value>Swahili</value>
+  </data>
+  <data name="Swedish" xml:space="preserve">
+    <value>Suédois</value>
+  </data>
+  <data name="Syriac" xml:space="preserve">
+    <value>Syriaque</value>
+  </data>
+  <data name="Tagalog" xml:space="preserve">
+    <value>Tagalog</value>
+  </data>
+  <data name="Tamil" xml:space="preserve">
+    <value>Tamil</value>
+  </data>
+  <data name="Telugu" xml:space="preserve">
+    <value>Telugu</value>
+  </data>
+  <data name="Thai" xml:space="preserve">
+    <value>Thaï</value>
+  </data>
+  <data name="Turkish" xml:space="preserve">
+    <value>Turc</value>
+  </data>
+  <data name="Ukrainian" xml:space="preserve">
+    <value>Ukrainien</value>
+  </data>
+  <data name="Urdu" xml:space="preserve">
+    <value>Urdu</value>
+  </data>
+  <data name="Vietnamese" xml:space="preserve">
+    <value>Vietnamien</value>
+  </data>
+  <data name="Breton" xml:space="preserve">
+    <value>Breton</value>
+  </data>
+  <data name="Hash" xml:space="preserve">
+    <value>Hachage</value>
+  </data>
+  <data name="FullText" xml:space="preserve">
+    <value>Texte</value>
+  </data>
+  <data name="Imdb" xml:space="preserve">
+    <value>IMDb</value>
+  </data>
+  <data name="Subhub_languages_combox.Header" xml:space="preserve">
+    <value>Langue</value>
+  </data>
+  <data name="Subhub_SearchMethod_combox.Header" xml:space="preserve">
+    <value>Méthode de recherche</value>
+  </data>
+  <data name="WM_subtitle_loaded" xml:space="preserve">
+    <value>Sous-titre actuel</value>
+  </data>
+  <data name="WM_file_corrupted" xml:space="preserve">
+    <value>Fichier corrompu</value>
+  </data>
+  <data name="Embed" xml:space="preserve">
+    <value>Incorporer</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Fermer</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>Ajouter le panneau de recherche sous-titre</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Télécharger</value>
+  </data>
+  <data name="Milliseconds" xml:space="preserve">
+    <value>Millisecondes</value>
+  </data>
+  <data name="Seconds" xml:space="preserve">
+    <value>Secondes</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>Chronologie de sous-titre Set</value>
+  </data>
+  <data name="DCD_TITLE.Text" xml:space="preserve">
+    <value>Chronologie de sous-titre</value>
+  </data>
+  <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
+    <value>Temps de retard global sous-titre en millisecondes</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>Ajoutez le paramètre chronologie sous-titre</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>Ajouter la fonction d’exportation fichier de sous-titre</value>
+  </data>
+  <data name="CM_ExportSubtitle" xml:space="preserve">
+    <value>Fichier d’exportation</value>
+  </data>
+  <data name="WM_Subtitle_Exported" xml:space="preserve">
+    <value>Sous-titre exporté</value>
+  </data>
+  <data name="WM_Subtitle_Exported_Failed" xml:space="preserve">
+    <value>Exportation de sous-titre a échoué</value>
+  </data>
+  <data name="DCD_Subtitle_Reset_Button" xml:space="preserve">
+    <value>Remise à zéro</value>
+  </data>
+  <data name="DCD.PrimaryButtonText" xml:space="preserve">
+    <value>Remise à zéro</value>
+  </data>
+  <data name="DCD.SecondaryButtonText" xml:space="preserve">
+    <value>Fermer</value>
+  </data>
+  <data name="Meta_UpdateInfo9" xml:space="preserve">
+    <value>Fix qui cherchent le problème dans Windows Update 10 avril 2018</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
+    <value>Utiliser Advance réglage de décodage</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.Header" xml:space="preserve">
+    <value>Sortie vidéo permettent Nv12 Format de Pixel</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.Header" xml:space="preserve">
+    <value>Sortie vidéo permettent de Format de Pixel de Bgra8</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.Header" xml:space="preserve">
+    <value>Permettre de sortie vidéo 10 bits Format de Pixel</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.Header" xml:space="preserve">
+    <value>Sortie vidéo permettent Iyuv Pixel Format</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="PlaylistActionButton_BringIntoView" xml:space="preserve">
+    <value>Voir l’établissement en cours</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.Header" xml:space="preserve">
+    <value>Matériel accélérer HEVC</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.Header" xml:space="preserve">
+    <value>Accélérer le matériel H264Hi10P</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.Header" xml:space="preserve">
+    <value>Matériel accélérer H264</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.Header" xml:space="preserve">
+    <value>Matériel accélérer AAC</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.Header" xml:space="preserve">
+    <value>Matériel accélérer MP3</value>
+  </data>
+  <data name="WM_Caching_Stopped" xml:space="preserve">
+    <value>FETCH pour dossier Cache d’informations s’est arrêtée</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.Header" xml:space="preserve">
+    <value>Désactiver le Cache Fetch après l’ouverture de dossier</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="PlaylistActionButton_DisableCacheFetchOnFolderOpened" xml:space="preserve">
+    <value>Désactiver le Cache Fetch après l’ouverture de dossier</value>
+  </data>
+  <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
+    <value>Vider le cache</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>Actualisation</value>
+  </data>
+  <data name="WM_Link_No_File" xml:space="preserve">
+    <value>ne peut pas extraire vidéos de lien</value>
+  </data>
+  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
+    <value>Enregistrer sous</value>
+  </data>
+  <data name="CM_Open_Folder" xml:space="preserve">
+    <value>Ouvrir le dossier</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>faire volume supérieure à 100 % ajouter dB gain</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
+    <value>Fichier toujours utilisation système décodeur audio (pour lecture de musique de fond)</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="CM_Sound_BoostUp" xml:space="preserve">
+    <value>+5 dB</value>
+  </data>
+  <data name="CM_Sound_BoostDown" xml:space="preserve">
+    <value>-5 dB</value>
   </data>
 </root>

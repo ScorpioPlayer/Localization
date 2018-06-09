@@ -177,9 +177,6 @@
   <data name="CM_Open" xml:space="preserve">
     <value>Открытые</value>
   </data>
-  <data name="CM_Open_Folder" xml:space="preserve">
-    <value>Папка</value>
-  </data>
   <data name="CM_Recent" xml:space="preserve">
     <value>Последнее воспроизведение</value>
   </data>
@@ -1443,9 +1440,6 @@
   <data name="SocketNetworkingStream_Message" xml:space="preserve">
     <value>Скорпион сеть поток является уникальной особенностью, которая может передавать ваше избранное СМИ, включая видео или аудио, через локальную сеть или Интернет между Scorpio игрока, или с программным обеспечением сервера игрок Scorpio. Включить крест потоки между PC, Xbox, Windows 10 мобильный телефон и другие 10 устройств Windows, когда игрок Scorpio закон как медиа-сервер, он должен в режиме активного окна не свести к минимуму или фоновый режим, вы можете скачать Скорпион сетевой поток приложения для Linux, MacOS, Windows 7, 10-8, 8.1 и узнать больше от http://scorpioplayer.com, спасибо.</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>добавить функцию поток сети Scorpio, поток между медиаплеер Скорпион и устройства, необязательно вы можете свободно скачать Скорпион сетевой поток рабочего стола службы App от http://scorpioplayer.com для Linux, MacOS, Windows 7, 8, 8.1,10</value>
-  </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
     <value>Скачать</value>
   </data>
@@ -1469,12 +1463,6 @@
   </data>
   <data name="FTP_Warning.Text" xml:space="preserve">
     <value>Функция FTP не полностью готов, открытого файла означает полностью загрузить файл, пожалуйста не открывайте очень большой файл.</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>Добавление FTP-клиент</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>Добавление клиента WebDAV</value>
   </data>
   <data name="CM_Open_SMB" xml:space="preserve">
     <value>SMB</value>
@@ -1551,12 +1539,6 @@
   <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
     <value>параметры удаленного хоста для Scorpio сети потоковой передачи требуется</value>
   </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>Добавьте функцию потокового сети, включая (HLS) HTTP (ТИРЕ), протокол RTSP</value>
-  </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>другие тривиальные улучшение</value>
-  </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>Отключить масштабирование макета</value>
   </data>
@@ -1571,9 +1553,6 @@
   </data>
   <data name="TrySetDisableLayoutScalingFail" xml:space="preserve">
     <value>Установить отключение макета масштабирования Fail</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>Добавьте возможность связывания источника потоковой Scorpio сети как избранное, возможность скачать видео локальное устройство как кэш</value>
   </data>
   <data name="CM_Subtitle_SmartMathingDownload" xml:space="preserve">
     <value>Загрузка из Интернета</value>
@@ -1596,14 +1575,8 @@
   <data name="Commom_Seconds" xml:space="preserve">
     <value>Секунд</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Добавить транспорт шоу продолжительность управления</value>
-  </data>
   <data name="CM_Track_face" xml:space="preserve">
     <value>Отслеживания лица</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>Добавить отслеживания лица</value>
   </data>
   <data name="WM_decode_fail_switching_codec" xml:space="preserve">
     <value>декодирование не удалось, попробуйте переключатель кодек</value>
@@ -1626,9 +1599,6 @@
   <data name="WM_danmu_subtitle_loaded" xml:space="preserve">
     <value>шквал субтитры загружены</value>
   </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>Добавить acfun.com / blibli.com автономно заграждение поддержки, XML или .json формат субтитров</value>
-  </data>
   <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
     <value>Использовать эффект свечения</value>
   </data>
@@ -1641,7 +1611,475 @@
   <data name="SD_PivotItem2_GlowAmountSlider.Header" xml:space="preserve">
     <value>Интенсивность свечения</value>
   </data>
-  <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>добавить эффект свечения субтитров</value>
+  <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
+    <value>Плотность шрифта основного субтитров</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>эффект свечения текста субтитров</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>плотность шрифта субтитров</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>Скорпион потокового включают субтитров на одной папке</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>поддержка Blu-ray диск ISO (предварительный просмотр)</value>
+  </data>
+  <data name="CM_Subtitle_Subhub" xml:space="preserve">
+    <value>Панель поиска субтитров</value>
+  </data>
+  <data name="SUCD.PrimaryButtonText" xml:space="preserve">
+    <value>Поиск</value>
+  </data>
+  <data name="SUCD.SecondaryButtonText" xml:space="preserve">
+    <value>Скачать</value>
+  </data>
+  <data name="SUCD_TITLE.Text" xml:space="preserve">
+    <value>Панель поиска субтитров</value>
+  </data>
+  <data name="SUCD_Query.Header" xml:space="preserve">
+    <value>Запрос</value>
+  </data>
+  <data name="SUCD_FileHash.Header" xml:space="preserve">
+    <value>Хэш</value>
+  </data>
+  <data name="SUCD_Episode.Header" xml:space="preserve">
+    <value>Эпизод</value>
+  </data>
+  <data name="SUCD_Season.Header" xml:space="preserve">
+    <value>Сезон</value>
+  </data>
+  <data name="SUCD_ImdbId.Header" xml:space="preserve">
+    <value>IMDb ID</value>
+  </data>
+  <data name="Afrikaans" xml:space="preserve">
+    <value>африкаанс</value>
+  </data>
+  <data name="Albanian" xml:space="preserve">
+    <value>албанский</value>
+  </data>
+  <data name="Arabic" xml:space="preserve">
+    <value>арабский</value>
+  </data>
+  <data name="Armenian" xml:space="preserve">
+    <value>армянский</value>
+  </data>
+  <data name="Basque" xml:space="preserve">
+    <value>баскский</value>
+  </data>
+  <data name="Belarusian" xml:space="preserve">
+    <value>белорусский</value>
+  </data>
+  <data name="Bengali" xml:space="preserve">
+    <value>бенгальский</value>
+  </data>
+  <data name="Bosnian" xml:space="preserve">
+    <value>боснийский</value>
+  </data>
+  <data name="Bulgarian" xml:space="preserve">
+    <value>болгарский</value>
+  </data>
+  <data name="Burmese" xml:space="preserve">
+    <value>Бирманский</value>
+  </data>
+  <data name="Catalan" xml:space="preserve">
+    <value>каталанский</value>
+  </data>
+  <data name="Chinese (simplified)" xml:space="preserve">
+    <value>Китайский (упрощенный)</value>
+  </data>
+  <data name="Chinese (traditional)" xml:space="preserve">
+    <value>Китайский (традиционный)</value>
+  </data>
+  <data name="Chinese bilingual" xml:space="preserve">
+    <value>Китайские двуязычные</value>
+  </data>
+  <data name="Croatian" xml:space="preserve">
+    <value>хорватский</value>
+  </data>
+  <data name="Czech" xml:space="preserve">
+    <value>чешский</value>
+  </data>
+  <data name="Danish" xml:space="preserve">
+    <value>датский</value>
+  </data>
+  <data name="Dutch" xml:space="preserve">
+    <value>нидерландский</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>английский</value>
+  </data>
+  <data name="Esperanto" xml:space="preserve">
+    <value>Эсперанто</value>
+  </data>
+  <data name="Estonian" xml:space="preserve">
+    <value>эстонский</value>
+  </data>
+  <data name="Finnish" xml:space="preserve">
+    <value>финский</value>
+  </data>
+  <data name="French" xml:space="preserve">
+    <value>французский</value>
+  </data>
+  <data name="Galician" xml:space="preserve">
+    <value>галисийский</value>
+  </data>
+  <data name="Georgian" xml:space="preserve">
+    <value>грузинский</value>
+  </data>
+  <data name="German" xml:space="preserve">
+    <value>немецкий</value>
+  </data>
+  <data name="Greek" xml:space="preserve">
+    <value>греческий</value>
+  </data>
+  <data name="Hebrew" xml:space="preserve">
+    <value>иврит</value>
+  </data>
+  <data name="Hindi" xml:space="preserve">
+    <value>хинди</value>
+  </data>
+  <data name="Hungarian" xml:space="preserve">
+    <value>венгерский</value>
+  </data>
+  <data name="Icelandic" xml:space="preserve">
+    <value>исландский</value>
+  </data>
+  <data name="Indonesian" xml:space="preserve">
+    <value>индонезийский</value>
+  </data>
+  <data name="Italian" xml:space="preserve">
+    <value>итальянский</value>
+  </data>
+  <data name="Japanese" xml:space="preserve">
+    <value>японский</value>
+  </data>
+  <data name="Kazakh" xml:space="preserve">
+    <value>казахский</value>
+  </data>
+  <data name="Khmer" xml:space="preserve">
+    <value>Кхмерский</value>
+  </data>
+  <data name="Korean" xml:space="preserve">
+    <value>корейский</value>
+  </data>
+  <data name="Latvian" xml:space="preserve">
+    <value>латышский</value>
+  </data>
+  <data name="Lithuanian" xml:space="preserve">
+    <value>литовский</value>
+  </data>
+  <data name="Luxembourgish" xml:space="preserve">
+    <value>Люксембургский язык</value>
+  </data>
+  <data name="Macedonian" xml:space="preserve">
+    <value>Македонец</value>
+  </data>
+  <data name="Malay" xml:space="preserve">
+    <value>малайский</value>
+  </data>
+  <data name="Malayalam" xml:space="preserve">
+    <value>малаялам</value>
+  </data>
+  <data name="Manipuri" xml:space="preserve">
+    <value>Манипури</value>
+  </data>
+  <data name="Mongolian" xml:space="preserve">
+    <value>монгольский</value>
+  </data>
+  <data name="Montenegrin" xml:space="preserve">
+    <value>Черногорский</value>
+  </data>
+  <data name="Norwegian" xml:space="preserve">
+    <value>норвежский</value>
+  </data>
+  <data name="Occitan" xml:space="preserve">
+    <value>Окситанская</value>
+  </data>
+  <data name="Persian" xml:space="preserve">
+    <value>персидский</value>
+  </data>
+  <data name="Polish" xml:space="preserve">
+    <value>польский</value>
+  </data>
+  <data name="Portuguese" xml:space="preserve">
+    <value>португальский</value>
+  </data>
+  <data name="Portuguese (BR)" xml:space="preserve">
+    <value>Португальский (BR)</value>
+  </data>
+  <data name="Romanian" xml:space="preserve">
+    <value>румынский</value>
+  </data>
+  <data name="Russian" xml:space="preserve">
+    <value>русский</value>
+  </data>
+  <data name="Serbian" xml:space="preserve">
+    <value>сербский</value>
+  </data>
+  <data name="Sinhalese" xml:space="preserve">
+    <value>Сингальский</value>
+  </data>
+  <data name="Slovak" xml:space="preserve">
+    <value>словацкий</value>
+  </data>
+  <data name="Slovenian" xml:space="preserve">
+    <value>словенский</value>
+  </data>
+  <data name="Spanish" xml:space="preserve">
+    <value>испанский</value>
+  </data>
+  <data name="Swahili" xml:space="preserve">
+    <value>суахили</value>
+  </data>
+  <data name="Swedish" xml:space="preserve">
+    <value>шведский</value>
+  </data>
+  <data name="Syriac" xml:space="preserve">
+    <value>Сирийский язык</value>
+  </data>
+  <data name="Tagalog" xml:space="preserve">
+    <value>Тагальский</value>
+  </data>
+  <data name="Tamil" xml:space="preserve">
+    <value>тамильский</value>
+  </data>
+  <data name="Telugu" xml:space="preserve">
+    <value>телугу</value>
+  </data>
+  <data name="Thai" xml:space="preserve">
+    <value>тайский</value>
+  </data>
+  <data name="Turkish" xml:space="preserve">
+    <value>турецкий</value>
+  </data>
+  <data name="Ukrainian" xml:space="preserve">
+    <value>украинский</value>
+  </data>
+  <data name="Urdu" xml:space="preserve">
+    <value>урду</value>
+  </data>
+  <data name="Vietnamese" xml:space="preserve">
+    <value>вьетнамский</value>
+  </data>
+  <data name="Breton" xml:space="preserve">
+    <value>Бретон</value>
+  </data>
+  <data name="Hash" xml:space="preserve">
+    <value>Хэш</value>
+  </data>
+  <data name="FullText" xml:space="preserve">
+    <value>Текст</value>
+  </data>
+  <data name="Imdb" xml:space="preserve">
+    <value>IMDb</value>
+  </data>
+  <data name="Subhub_languages_combox.Header" xml:space="preserve">
+    <value>Язык</value>
+  </data>
+  <data name="Subhub_SearchMethod_combox.Header" xml:space="preserve">
+    <value>Метод поиска</value>
+  </data>
+  <data name="WM_subtitle_loaded" xml:space="preserve">
+    <value>Текущий субтитров</value>
+  </data>
+  <data name="WM_file_corrupted" xml:space="preserve">
+    <value>Файл поврежден</value>
+  </data>
+  <data name="Embed" xml:space="preserve">
+    <value>Внедрить</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>добавить панель поиска субтитров</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Скачать</value>
+  </data>
+  <data name="Milliseconds" xml:space="preserve">
+    <value>Миллисекунд</value>
+  </data>
+  <data name="Seconds" xml:space="preserve">
+    <value>Секунд</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>Настройка субтитров Хронология</value>
+  </data>
+  <data name="DCD_TITLE.Text" xml:space="preserve">
+    <value>Хронология субтитров</value>
+  </data>
+  <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
+    <value>Глобальные субтитров время задержки в миллисекундах</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>Добавьте параметр Timeline субтитров</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>добавить функцию файл экспорта субтитров</value>
+  </data>
+  <data name="CM_ExportSubtitle" xml:space="preserve">
+    <value>Файл экспорта</value>
+  </data>
+  <data name="WM_Subtitle_Exported" xml:space="preserve">
+    <value>Субтитров на экспорт</value>
+  </data>
+  <data name="WM_Subtitle_Exported_Failed" xml:space="preserve">
+    <value>Субтитров экспорт не удалось</value>
+  </data>
+  <data name="DCD_Subtitle_Reset_Button" xml:space="preserve">
+    <value>Сброс</value>
+  </data>
+  <data name="DCD.PrimaryButtonText" xml:space="preserve">
+    <value>Сброс</value>
+  </data>
+  <data name="DCD.SecondaryButtonText" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="Meta_UpdateInfo9" xml:space="preserve">
+    <value>исправление, ищу проблему в Windows обновление 10 апреля 2018</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
+    <value>Использовать заранее декодирования параметр</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.Header" xml:space="preserve">
+    <value>Вывод видео позволяют Nv12 формат пикселей</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.Header" xml:space="preserve">
+    <value>Вывод видео позволяют Bgra8 формат пикселей</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.Header" xml:space="preserve">
+    <value>Видео вывода позволяют 10-битный формат пикселей</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.Header" xml:space="preserve">
+    <value>Вывод видео позволяют формат пиксела Iyuv</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="PlaylistActionButton_BringIntoView" xml:space="preserve">
+    <value>Показать текущее игра</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.Header" xml:space="preserve">
+    <value>Аппаратное ускорение HEVC</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.Header" xml:space="preserve">
+    <value>Аппаратное ускорение H264Hi10P</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.Header" xml:space="preserve">
+    <value>Аппаратного ускорения H264</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.Header" xml:space="preserve">
+    <value>Аппаратное ускорение AAC</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.Header" xml:space="preserve">
+    <value>Аппаратное ускорение MP3</value>
+  </data>
+  <data name="WM_Caching_Stopped" xml:space="preserve">
+    <value>Выборка для папки кэша информация остановлен</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.Header" xml:space="preserve">
+    <value>Отключить кэш Fetch после открытия папки</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="PlaylistActionButton_DisableCacheFetchOnFolderOpened" xml:space="preserve">
+    <value>Отключить кэш Fetch после открытия папки</value>
+  </data>
+  <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
+    <value>Очистить кэш</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>Обновить</value>
+  </data>
+  <data name="WM_Link_No_File" xml:space="preserve">
+    <value>не может извлекать видео из ссылки</value>
+  </data>
+  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
+    <value>Сохранить как...</value>
+  </data>
+  <data name="CM_Open_Folder" xml:space="preserve">
+    <value>Открыть папку</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>сделать громкость выше 100%, добавление дБ</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
+    <value>Аудио файл всегда использовать системы декодер (для воспроизведения фоновой музыки)</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="CM_Sound_BoostUp" xml:space="preserve">
+    <value>+5 dB</value>
+  </data>
+  <data name="CM_Sound_BoostDown" xml:space="preserve">
+    <value>-5 dB</value>
   </data>
 </root>

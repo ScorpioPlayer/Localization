@@ -255,9 +255,6 @@
   <data name="CM_Open" xml:space="preserve">
     <value>打開</value>
   </data>
-  <data name="CM_Open_Folder" xml:space="preserve">
-    <value>資料夾</value>
-  </data>
   <data name="CM_Recent" xml:space="preserve">
     <value>最近播放</value>
   </data>
@@ -1521,9 +1518,6 @@
   <data name="SocketNetworkingStream_Message" xml:space="preserve">
     <value>天蠍網路流是一個獨特的功能, 可以流您的我的最愛媒體, 包括視頻或音訊, 通過本地網路或互聯網之間的天蠍播放機, 或與天蠍播放伺服器軟體。在您的 PC、Xbox、windows 10 手機和其他 windows 10 設備之間啟用交叉流, 當天蠍播放機作為媒體伺服器時, 它必須在使用中視窗模式下不最小化模式或背景模式, 您可以下載天蠍座網路流應用程式為 Linux,MacOS, Windows 7, 10 8, 8.1 和從 HTTP://scorpioplayer.com 學習更多, 謝謝。</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>添加天蠍網路流功能, 在天蠍播放機和設備之間流媒體, 可選您可以免費下載天蠍網路流桌面服務應用程式從 HTTP://scorpioplayer.com Linux, MacOS, Windows 7, 8, 8.1, 10</value>
-  </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
     <value>下載</value>
   </data>
@@ -1547,12 +1541,6 @@
   </data>
   <data name="FTP_Warning.Text" xml:space="preserve">
     <value>FTP 功能尚未完全就緒, 打開檔意味著完全下載檔案, 請不要打開非常大的檔。</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>添加 FTP 用戶端</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>添加 WebDAV 用戶端</value>
   </data>
   <data name="CM_Open_SMB" xml:space="preserve">
     <value>SMB</value>
@@ -1629,12 +1617,6 @@
   <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
     <value>需要天蠍網路流的遠端主機設置</value>
   </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>添加網路流功能, 包括 (HLS) HTTP (DASH), RTSP 協定</value>
-  </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>其他瑣碎的改善</value>
-  </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>禁用佈局縮放</value>
   </data>
@@ -1649,9 +1631,6 @@
   </data>
   <data name="TrySetDisableLayoutScalingFail" xml:space="preserve">
     <value>設置禁用佈局縮放失敗</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>添加綁定天蠍網路流源作為我的最愛, 能夠下載視頻本地設備作為緩存</value>
   </data>
   <data name="CM_Subtitle_SmartMathingDownload" xml:space="preserve">
     <value>從互聯網下載</value>
@@ -1674,14 +1653,8 @@
   <data name="Commom_Seconds" xml:space="preserve">
     <value>秒</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>添加控制栏 顯示时长控制</value>
-  </data>
   <data name="CM_Track_face" xml:space="preserve">
     <value>追蹤面部</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>添加面部跟蹤</value>
   </data>
   <data name="WM_decode_fail_switching_codec" xml:space="preserve">
     <value>解碼失敗, 嘗試切換編解碼器</value>
@@ -1696,16 +1669,13 @@
     <value>否</value>
   </data>
   <data name="MV_Danmu.Content" xml:space="preserve">
-    <value>一連串</value>
+    <value>弹幕</value>
   </data>
   <data name="MV_TP_Danmu_Explain.Content" xml:space="preserve">
     <value>使用此功能需要載入彈幕字幕檔.xml或者.json，相容blibli.com ／ acfun.com</value>
   </data>
   <data name="WM_danmu_subtitle_loaded" xml:space="preserve">
     <value>彈幕加載成功!</value>
-  </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>添加 acfun.com / blibli.com 離線彈幕支援，.xml / .json 格式</value>
   </data>
   <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
     <value>使用光暈效果</value>
@@ -1719,7 +1689,475 @@
   <data name="SD_PivotItem2_GlowAmountSlider.Header" xml:space="preserve">
     <value>發光量</value>
   </data>
-  <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>添加字幕題光暈效果</value>
+  <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
+    <value>主字幕字體粗細</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>字幕輝光文字效果</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>字幕字體粗細</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>天蠍网络流包括同一資料夾中的字幕</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>藍光光碟 ISO 支援 (預覽)</value>
+  </data>
+  <data name="CM_Subtitle_Subhub" xml:space="preserve">
+    <value>字幕搜索面板</value>
+  </data>
+  <data name="SUCD.PrimaryButtonText" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="SUCD.SecondaryButtonText" xml:space="preserve">
+    <value>下載</value>
+  </data>
+  <data name="SUCD_TITLE.Text" xml:space="preserve">
+    <value>字幕搜索面板</value>
+  </data>
+  <data name="SUCD_Query.Header" xml:space="preserve">
+    <value>查詢</value>
+  </data>
+  <data name="SUCD_FileHash.Header" xml:space="preserve">
+    <value>哈希值</value>
+  </data>
+  <data name="SUCD_Episode.Header" xml:space="preserve">
+    <value>情節</value>
+  </data>
+  <data name="SUCD_Season.Header" xml:space="preserve">
+    <value>賽季</value>
+  </data>
+  <data name="SUCD_ImdbId.Header" xml:space="preserve">
+    <value>IMDb ID</value>
+  </data>
+  <data name="Afrikaans" xml:space="preserve">
+    <value>南非荷蘭文</value>
+  </data>
+  <data name="Albanian" xml:space="preserve">
+    <value>阿爾巴尼亞文</value>
+  </data>
+  <data name="Arabic" xml:space="preserve">
+    <value>阿拉伯文</value>
+  </data>
+  <data name="Armenian" xml:space="preserve">
+    <value>亞美尼亞文</value>
+  </data>
+  <data name="Basque" xml:space="preserve">
+    <value>巴士克語</value>
+  </data>
+  <data name="Belarusian" xml:space="preserve">
+    <value>比利時語</value>
+  </data>
+  <data name="Bengali" xml:space="preserve">
+    <value>孟加拉文</value>
+  </data>
+  <data name="Bosnian" xml:space="preserve">
+    <value>波士尼亞文</value>
+  </data>
+  <data name="Bulgarian" xml:space="preserve">
+    <value>保加利亞文</value>
+  </data>
+  <data name="Burmese" xml:space="preserve">
+    <value>緬甸</value>
+  </data>
+  <data name="Catalan" xml:space="preserve">
+    <value>加泰隆語</value>
+  </data>
+  <data name="Chinese (simplified)" xml:space="preserve">
+    <value>中文 (簡體)</value>
+  </data>
+  <data name="Chinese (traditional)" xml:space="preserve">
+    <value>中文 (繁體)</value>
+  </data>
+  <data name="Chinese bilingual" xml:space="preserve">
+    <value>中文雙語</value>
+  </data>
+  <data name="Croatian" xml:space="preserve">
+    <value>克羅地亞語</value>
+  </data>
+  <data name="Czech" xml:space="preserve">
+    <value>捷克文</value>
+  </data>
+  <data name="Danish" xml:space="preserve">
+    <value>丹麥文</value>
+  </data>
+  <data name="Dutch" xml:space="preserve">
+    <value>荷蘭文</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>英語</value>
+  </data>
+  <data name="Esperanto" xml:space="preserve">
+    <value>語</value>
+  </data>
+  <data name="Estonian" xml:space="preserve">
+    <value>愛沙尼亞文</value>
+  </data>
+  <data name="Finnish" xml:space="preserve">
+    <value>芬蘭文</value>
+  </data>
+  <data name="French" xml:space="preserve">
+    <value>法語</value>
+  </data>
+  <data name="Galician" xml:space="preserve">
+    <value>加里斯亞文</value>
+  </data>
+  <data name="Georgian" xml:space="preserve">
+    <value>喬治亞語</value>
+  </data>
+  <data name="German" xml:space="preserve">
+    <value>德語</value>
+  </data>
+  <data name="Greek" xml:space="preserve">
+    <value>希臘文</value>
+  </data>
+  <data name="Hebrew" xml:space="preserve">
+    <value>希伯來文</value>
+  </data>
+  <data name="Hindi" xml:space="preserve">
+    <value>印度文</value>
+  </data>
+  <data name="Hungarian" xml:space="preserve">
+    <value>匈牙利文</value>
+  </data>
+  <data name="Icelandic" xml:space="preserve">
+    <value>冰島文</value>
+  </data>
+  <data name="Indonesian" xml:space="preserve">
+    <value>印尼語</value>
+  </data>
+  <data name="Italian" xml:space="preserve">
+    <value>義大利文</value>
+  </data>
+  <data name="Japanese" xml:space="preserve">
+    <value>日語</value>
+  </data>
+  <data name="Kazakh" xml:space="preserve">
+    <value>哈薩克語</value>
+  </data>
+  <data name="Khmer" xml:space="preserve">
+    <value>紅色高棉</value>
+  </data>
+  <data name="Korean" xml:space="preserve">
+    <value>朝鮮語</value>
+  </data>
+  <data name="Latvian" xml:space="preserve">
+    <value>拉脫維亞文</value>
+  </data>
+  <data name="Lithuanian" xml:space="preserve">
+    <value>立陶宛文</value>
+  </data>
+  <data name="Luxembourgish" xml:space="preserve">
+    <value>盧森堡</value>
+  </data>
+  <data name="Macedonian" xml:space="preserve">
+    <value>馬其頓</value>
+  </data>
+  <data name="Malay" xml:space="preserve">
+    <value>馬來文</value>
+  </data>
+  <data name="Malayalam" xml:space="preserve">
+    <value>馬來亞拉姆文</value>
+  </data>
+  <data name="Manipuri" xml:space="preserve">
+    <value>曼尼普爾</value>
+  </data>
+  <data name="Mongolian" xml:space="preserve">
+    <value>蒙古文</value>
+  </data>
+  <data name="Montenegrin" xml:space="preserve">
+    <value>黑山</value>
+  </data>
+  <data name="Norwegian" xml:space="preserve">
+    <value>挪威語</value>
+  </data>
+  <data name="Occitan" xml:space="preserve">
+    <value>奧克西唐</value>
+  </data>
+  <data name="Persian" xml:space="preserve">
+    <value>波斯文</value>
+  </data>
+  <data name="Polish" xml:space="preserve">
+    <value>波蘭文</value>
+  </data>
+  <data name="Portuguese" xml:space="preserve">
+    <value>葡萄牙文</value>
+  </data>
+  <data name="Portuguese (BR)" xml:space="preserve">
+    <value>葡萄牙文 (BR)</value>
+  </data>
+  <data name="Romanian" xml:space="preserve">
+    <value>羅馬尼亞</value>
+  </data>
+  <data name="Russian" xml:space="preserve">
+    <value>俄語</value>
+  </data>
+  <data name="Serbian" xml:space="preserve">
+    <value>塞爾維亞文</value>
+  </data>
+  <data name="Sinhalese" xml:space="preserve">
+    <value>僧</value>
+  </data>
+  <data name="Slovak" xml:space="preserve">
+    <value>斯洛伐克文</value>
+  </data>
+  <data name="Slovenian" xml:space="preserve">
+    <value>斯洛維尼亞文</value>
+  </data>
+  <data name="Spanish" xml:space="preserve">
+    <value>西班牙文</value>
+  </data>
+  <data name="Swahili" xml:space="preserve">
+    <value>史瓦希里文</value>
+  </data>
+  <data name="Swedish" xml:space="preserve">
+    <value>瑞典文</value>
+  </data>
+  <data name="Syriac" xml:space="preserve">
+    <value>敘利亞</value>
+  </data>
+  <data name="Tagalog" xml:space="preserve">
+    <value>摺頁冊</value>
+  </data>
+  <data name="Tamil" xml:space="preserve">
+    <value>坦米爾文</value>
+  </data>
+  <data name="Telugu" xml:space="preserve">
+    <value>特拉古文</value>
+  </data>
+  <data name="Thai" xml:space="preserve">
+    <value>泰語</value>
+  </data>
+  <data name="Turkish" xml:space="preserve">
+    <value>土耳其文</value>
+  </data>
+  <data name="Ukrainian" xml:space="preserve">
+    <value>烏克蘭文</value>
+  </data>
+  <data name="Urdu" xml:space="preserve">
+    <value>烏都語</value>
+  </data>
+  <data name="Vietnamese" xml:space="preserve">
+    <value>越南文</value>
+  </data>
+  <data name="Breton" xml:space="preserve">
+    <value>布列塔尼</value>
+  </data>
+  <data name="Hash" xml:space="preserve">
+    <value>哈希值</value>
+  </data>
+  <data name="FullText" xml:space="preserve">
+    <value>文本</value>
+  </data>
+  <data name="Imdb" xml:space="preserve">
+    <value>IMDb</value>
+  </data>
+  <data name="Subhub_languages_combox.Header" xml:space="preserve">
+    <value>語言</value>
+  </data>
+  <data name="Subhub_SearchMethod_combox.Header" xml:space="preserve">
+    <value>搜索方法</value>
+  </data>
+  <data name="WM_subtitle_loaded" xml:space="preserve">
+    <value>當前字幕</value>
+  </data>
+  <data name="WM_file_corrupted" xml:space="preserve">
+    <value>檔已損壞</value>
+  </data>
+  <data name="Embed" xml:space="preserve">
+    <value>内嵌</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>添加字幕搜索面板</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>下載</value>
+  </data>
+  <data name="Milliseconds" xml:space="preserve">
+    <value>毫秒</value>
+  </data>
+  <data name="Seconds" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>設置字幕時間表</value>
+  </data>
+  <data name="DCD_TITLE.Text" xml:space="preserve">
+    <value>字幕時間表</value>
+  </data>
+  <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
+    <value>全域字幕延遲時間 (毫秒)</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>添加字幕時間表設置</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>添加匯出字幕檔功能</value>
+  </data>
+  <data name="CM_ExportSubtitle" xml:space="preserve">
+    <value>匯出檔</value>
+  </data>
+  <data name="WM_Subtitle_Exported" xml:space="preserve">
+    <value>字幕匯出</value>
+  </data>
+  <data name="WM_Subtitle_Exported_Failed" xml:space="preserve">
+    <value>字幕匯出失敗</value>
+  </data>
+  <data name="DCD_Subtitle_Reset_Button" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="DCD.PrimaryButtonText" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="DCD.SecondaryButtonText" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Meta_UpdateInfo9" xml:space="preserve">
+    <value>修復在 Windows 2018年4月10日更新中查找問題</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
+    <value>使用預解碼設置</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.Header" xml:space="preserve">
+    <value>視頻輸出允許 Nv12 像素格式</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.Header" xml:space="preserve">
+    <value>視頻輸出允許 Bgra8 像素格式</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.Header" xml:space="preserve">
+    <value>視頻輸出允許10bit 像素格式</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.Header" xml:space="preserve">
+    <value>視頻輸出允許 Iyuv 像素格式</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="PlaylistActionButton_BringIntoView" xml:space="preserve">
+    <value>顯示當前播放</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.Header" xml:space="preserve">
+    <value>硬體加速 HEVC</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.Header" xml:space="preserve">
+    <value>硬體加速 H264Hi10P</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.Header" xml:space="preserve">
+    <value>硬體加速 H264</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.Header" xml:space="preserve">
+    <value>硬體加速 AAC</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.Header" xml:space="preserve">
+    <value>硬體加速 MP3</value>
+  </data>
+  <data name="WM_Caching_Stopped" xml:space="preserve">
+    <value>已停止獲取資料夾緩存資訊</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.Header" xml:space="preserve">
+    <value>打開資料夾後禁用緩存提取</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="PlaylistActionButton_DisableCacheFetchOnFolderOpened" xml:space="preserve">
+    <value>打開資料夾後禁用緩存提取</value>
+  </data>
+  <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
+    <value>清除緩存</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>刷新</value>
+  </data>
+  <data name="WM_Link_No_File" xml:space="preserve">
+    <value>無法從連結中提取視頻</value>
+  </data>
+  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
+    <value>另存新檔​​</value>
+  </data>
+  <data name="CM_Open_Folder" xml:space="preserve">
+    <value>打開資料夾</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>增加 dB 增益, 使音量大於100%</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
+    <value>音訊檔始終使用系統解碼器 (用於背景音樂播放)</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CM_Sound_BoostUp" xml:space="preserve">
+    <value>+5 dB</value>
+  </data>
+  <data name="CM_Sound_BoostDown" xml:space="preserve">
+    <value>-5 dB</value>
   </data>
 </root>

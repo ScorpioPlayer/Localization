@@ -177,9 +177,6 @@
   <data name="CM_Open" xml:space="preserve">
     <value>그거 여세요</value>
   </data>
-  <data name="CM_Open_Folder" xml:space="preserve">
-    <value>폴더</value>
-  </data>
   <data name="CM_Recent" xml:space="preserve">
     <value>최근 재생</value>
   </data>
@@ -1443,9 +1440,6 @@
   <data name="SocketNetworkingStream_Message" xml:space="preserve">
     <value>전갈 자리 네트워킹 스트림 비디오 또는 오디오, 로컬 네트워크 또는 인터넷 전갈 선수 또는 전갈 자리 플레이어 서버 소프트웨어를 포함 하 여 즐겨찾기 미디어를 스트리밍할 수 있는 독특한 기능입니다. 당신의 PC, x 박스, 윈도우 10 휴대 전화, 사이 교차 스트리밍 사용 및 다른 Windows 10 장치, 미디어 서버 활성 창 모드로 해야 할 때 전갈 선수 역할 최소화 하지 모드 또는 배경 모드, 리눅스, 전갈 자리 네트워킹 스트림 애플 리 케이 션을 다운로드할 수 있습니다. 맥 Os, 윈도우 7 10 8, 8.1 자세한 http://scorpioplayer.com에서 감사 합니다.</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>전갈 자리 사이의 미디어 플레이어 및 장치 전갈 네트워크 스트림 기능을 추가, 리눅스, 맥 Os, 윈도우 7에 대 한 전갈 자리 네트워킹 스트림 데스크톱 서비스 응용 프로그램에서 http://scorpioplayer.com를 다운로드를 해제할 수 있습니다 옵션 8, 8.1,10</value>
-  </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
     <value>다운로드</value>
   </data>
@@ -1469,12 +1463,6 @@
   </data>
   <data name="FTP_Warning.Text" xml:space="preserve">
     <value>FTP 기능을 완벽 하 게 준비, 오픈 파일 의미 없습니다 완벽 하 게 파일을 다운로드, 매우 큰 파일 열지 마십시오 하십시오.</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>FTP 클라이언트 추가</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>WebDAV 클라이언트 추가</value>
   </data>
   <data name="CM_Open_SMB" xml:space="preserve">
     <value>SMB</value>
@@ -1551,12 +1539,6 @@
   <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
     <value>전갈 자리 네트워크 스트리밍에 대 한 원격 호스트 설정 필수임</value>
   </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>(HLS) HTTP (대시), RTSP 프로토콜을 포함 하 여 네트워크 스트리밍 기능 추가</value>
-  </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>다른 사소한 개선</value>
-  </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>레이아웃 크기 조정 사용 안 함</value>
   </data>
@@ -1571,9 +1553,6 @@
   </data>
   <data name="TrySetDisableLayoutScalingFail" xml:space="preserve">
     <value>설정된 해제 레이아웃 크기 조정 실패</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>즐겨찾기, 캐시 로컬 장치 비디오를 다운로드 하는 능력으로 전갈 네트워크 스트리밍 소스를 바인딩하는 기능을 추가</value>
   </data>
   <data name="CM_Subtitle_SmartMathingDownload" xml:space="preserve">
     <value>인터넷에서 다운로드</value>
@@ -1596,14 +1575,8 @@
   <data name="Commom_Seconds" xml:space="preserve">
     <value>초</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>전송 표시 기간 컨트롤 추가</value>
-  </data>
   <data name="CM_Track_face" xml:space="preserve">
     <value>얼굴 추적</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>얼굴 추적 추가</value>
   </data>
   <data name="WM_decode_fail_switching_codec" xml:space="preserve">
     <value>해독 실패, 시도 스위치 코덱</value>
@@ -1626,9 +1599,6 @@
   <data name="WM_danmu_subtitle_loaded" xml:space="preserve">
     <value>사격이 성공적으로 완료되었습니다!</value>
   </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>Acfun.com/blibli.com 오프 라인 핀볼 지원을 추가. xml /. JSON 포맷</value>
-  </data>
   <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
     <value>광선 효과 사용 하 여</value>
   </data>
@@ -1641,7 +1611,475 @@
   <data name="SD_PivotItem2_GlowAmountSlider.Header" xml:space="preserve">
     <value>광선 양</value>
   </data>
-  <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>자막 광선 효과 추가</value>
+  <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
+    <value>주요 윤곽 글꼴 두께</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>자막 광선 텍스트 효과</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>자막 글꼴 두께</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>전갈 자리 스트리밍 같은 폴더에 자막 포함</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>블루-레이 디스크 ISO 지원 (미리 보기)</value>
+  </data>
+  <data name="CM_Subtitle_Subhub" xml:space="preserve">
+    <value>자막 검색 패널</value>
+  </data>
+  <data name="SUCD.PrimaryButtonText" xml:space="preserve">
+    <value>검색</value>
+  </data>
+  <data name="SUCD.SecondaryButtonText" xml:space="preserve">
+    <value>다운로드</value>
+  </data>
+  <data name="SUCD_TITLE.Text" xml:space="preserve">
+    <value>자막 검색 패널</value>
+  </data>
+  <data name="SUCD_Query.Header" xml:space="preserve">
+    <value>쿼리</value>
+  </data>
+  <data name="SUCD_FileHash.Header" xml:space="preserve">
+    <value>해시</value>
+  </data>
+  <data name="SUCD_Episode.Header" xml:space="preserve">
+    <value>에피소드</value>
+  </data>
+  <data name="SUCD_Season.Header" xml:space="preserve">
+    <value>시즌</value>
+  </data>
+  <data name="SUCD_ImdbId.Header" xml:space="preserve">
+    <value>IMDb ID</value>
+  </data>
+  <data name="Afrikaans" xml:space="preserve">
+    <value>아프리칸스어</value>
+  </data>
+  <data name="Albanian" xml:space="preserve">
+    <value>알바니아어</value>
+  </data>
+  <data name="Arabic" xml:space="preserve">
+    <value>아랍어</value>
+  </data>
+  <data name="Armenian" xml:space="preserve">
+    <value>아르메니아어</value>
+  </data>
+  <data name="Basque" xml:space="preserve">
+    <value>바스크어</value>
+  </data>
+  <data name="Belarusian" xml:space="preserve">
+    <value>벨로루시어</value>
+  </data>
+  <data name="Bengali" xml:space="preserve">
+    <value>벵골어</value>
+  </data>
+  <data name="Bosnian" xml:space="preserve">
+    <value>보스니아어</value>
+  </data>
+  <data name="Bulgarian" xml:space="preserve">
+    <value>불가리어</value>
+  </data>
+  <data name="Burmese" xml:space="preserve">
+    <value>버마어</value>
+  </data>
+  <data name="Catalan" xml:space="preserve">
+    <value>카탈로니아어</value>
+  </data>
+  <data name="Chinese (simplified)" xml:space="preserve">
+    <value>중국어 (간체)</value>
+  </data>
+  <data name="Chinese (traditional)" xml:space="preserve">
+    <value>중국어 (번체)</value>
+  </data>
+  <data name="Chinese bilingual" xml:space="preserve">
+    <value>중국어 이중 언어</value>
+  </data>
+  <data name="Croatian" xml:space="preserve">
+    <value>크로아티아어</value>
+  </data>
+  <data name="Czech" xml:space="preserve">
+    <value>체코어</value>
+  </data>
+  <data name="Danish" xml:space="preserve">
+    <value>덴마크어</value>
+  </data>
+  <data name="Dutch" xml:space="preserve">
+    <value>네덜란드어</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>영어</value>
+  </data>
+  <data name="Esperanto" xml:space="preserve">
+    <value>에스페란토</value>
+  </data>
+  <data name="Estonian" xml:space="preserve">
+    <value>에스토니아어</value>
+  </data>
+  <data name="Finnish" xml:space="preserve">
+    <value>핀란드어</value>
+  </data>
+  <data name="French" xml:space="preserve">
+    <value>프랑스어</value>
+  </data>
+  <data name="Galician" xml:space="preserve">
+    <value>갈리시아어</value>
+  </data>
+  <data name="Georgian" xml:space="preserve">
+    <value>그루지야어</value>
+  </data>
+  <data name="German" xml:space="preserve">
+    <value>독일어</value>
+  </data>
+  <data name="Greek" xml:space="preserve">
+    <value>그리스어</value>
+  </data>
+  <data name="Hebrew" xml:space="preserve">
+    <value>히브리어</value>
+  </data>
+  <data name="Hindi" xml:space="preserve">
+    <value>힌디어</value>
+  </data>
+  <data name="Hungarian" xml:space="preserve">
+    <value>헝가리어</value>
+  </data>
+  <data name="Icelandic" xml:space="preserve">
+    <value>아이슬란드어</value>
+  </data>
+  <data name="Indonesian" xml:space="preserve">
+    <value>인도네시아어</value>
+  </data>
+  <data name="Italian" xml:space="preserve">
+    <value>이탈리아어</value>
+  </data>
+  <data name="Japanese" xml:space="preserve">
+    <value>일본어</value>
+  </data>
+  <data name="Kazakh" xml:space="preserve">
+    <value>카자흐어</value>
+  </data>
+  <data name="Khmer" xml:space="preserve">
+    <value>크메르</value>
+  </data>
+  <data name="Korean" xml:space="preserve">
+    <value>한국어</value>
+  </data>
+  <data name="Latvian" xml:space="preserve">
+    <value>라트비아어</value>
+  </data>
+  <data name="Lithuanian" xml:space="preserve">
+    <value>리투아니아어</value>
+  </data>
+  <data name="Luxembourgish" xml:space="preserve">
+    <value>룩셈부르크어</value>
+  </data>
+  <data name="Macedonian" xml:space="preserve">
+    <value>마케도니아인</value>
+  </data>
+  <data name="Malay" xml:space="preserve">
+    <value>말레이어</value>
+  </data>
+  <data name="Malayalam" xml:space="preserve">
+    <value>말라얄람어</value>
+  </data>
+  <data name="Manipuri" xml:space="preserve">
+    <value>Manipuri</value>
+  </data>
+  <data name="Mongolian" xml:space="preserve">
+    <value>몽골어</value>
+  </data>
+  <data name="Montenegrin" xml:space="preserve">
+    <value>몬테네그로</value>
+  </data>
+  <data name="Norwegian" xml:space="preserve">
+    <value>노르웨이어</value>
+  </data>
+  <data name="Occitan" xml:space="preserve">
+    <value>오크어</value>
+  </data>
+  <data name="Persian" xml:space="preserve">
+    <value>페르시아어</value>
+  </data>
+  <data name="Polish" xml:space="preserve">
+    <value>폴란드어</value>
+  </data>
+  <data name="Portuguese" xml:space="preserve">
+    <value>포르투갈어</value>
+  </data>
+  <data name="Portuguese (BR)" xml:space="preserve">
+    <value>포르투갈어 (브라질)</value>
+  </data>
+  <data name="Romanian" xml:space="preserve">
+    <value>루마니아어</value>
+  </data>
+  <data name="Russian" xml:space="preserve">
+    <value>러시아어</value>
+  </data>
+  <data name="Serbian" xml:space="preserve">
+    <value>세르비아어</value>
+  </data>
+  <data name="Sinhalese" xml:space="preserve">
+    <value>신할라어</value>
+  </data>
+  <data name="Slovak" xml:space="preserve">
+    <value>슬로바키아어</value>
+  </data>
+  <data name="Slovenian" xml:space="preserve">
+    <value>슬로베니아어</value>
+  </data>
+  <data name="Spanish" xml:space="preserve">
+    <value>스페인어</value>
+  </data>
+  <data name="Swahili" xml:space="preserve">
+    <value>스와힐리어</value>
+  </data>
+  <data name="Swedish" xml:space="preserve">
+    <value>스웨덴어</value>
+  </data>
+  <data name="Syriac" xml:space="preserve">
+    <value>시리아어</value>
+  </data>
+  <data name="Tagalog" xml:space="preserve">
+    <value>타갈로그어</value>
+  </data>
+  <data name="Tamil" xml:space="preserve">
+    <value>타밀어</value>
+  </data>
+  <data name="Telugu" xml:space="preserve">
+    <value>텔루구어</value>
+  </data>
+  <data name="Thai" xml:space="preserve">
+    <value>태국어</value>
+  </data>
+  <data name="Turkish" xml:space="preserve">
+    <value>터키어</value>
+  </data>
+  <data name="Ukrainian" xml:space="preserve">
+    <value>우크라이나어</value>
+  </data>
+  <data name="Urdu" xml:space="preserve">
+    <value>우르두어</value>
+  </data>
+  <data name="Vietnamese" xml:space="preserve">
+    <value>베트남어</value>
+  </data>
+  <data name="Breton" xml:space="preserve">
+    <value>브르타뉴어</value>
+  </data>
+  <data name="Hash" xml:space="preserve">
+    <value>해시</value>
+  </data>
+  <data name="FullText" xml:space="preserve">
+    <value>텍스트</value>
+  </data>
+  <data name="Imdb" xml:space="preserve">
+    <value>IMDb</value>
+  </data>
+  <data name="Subhub_languages_combox.Header" xml:space="preserve">
+    <value>언어</value>
+  </data>
+  <data name="Subhub_SearchMethod_combox.Header" xml:space="preserve">
+    <value>검색 방법</value>
+  </data>
+  <data name="WM_subtitle_loaded" xml:space="preserve">
+    <value>현재 캡션</value>
+  </data>
+  <data name="WM_file_corrupted" xml:space="preserve">
+    <value>파일 손상</value>
+  </data>
+  <data name="Embed" xml:space="preserve">
+    <value>포함</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>자막 검색 패널 추가</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>다운로드</value>
+  </data>
+  <data name="Milliseconds" xml:space="preserve">
+    <value>밀리초</value>
+  </data>
+  <data name="Seconds" xml:space="preserve">
+    <value>초</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>설정된 자막 타임 라인</value>
+  </data>
+  <data name="DCD_TITLE.Text" xml:space="preserve">
+    <value>자막 타임 라인</value>
+  </data>
+  <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
+    <value>글로벌 자막 지연 시간 (밀리초)</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>자막 타임 라인 설정 추가</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>수출 자막 파일 기능 추가</value>
+  </data>
+  <data name="CM_ExportSubtitle" xml:space="preserve">
+    <value>내보내기 파일</value>
+  </data>
+  <data name="WM_Subtitle_Exported" xml:space="preserve">
+    <value>내보낸 자막</value>
+  </data>
+  <data name="WM_Subtitle_Exported_Failed" xml:space="preserve">
+    <value>자막 내보내기 실패</value>
+  </data>
+  <data name="DCD_Subtitle_Reset_Button" xml:space="preserve">
+    <value>리셋</value>
+  </data>
+  <data name="DCD.PrimaryButtonText" xml:space="preserve">
+    <value>리셋</value>
+  </data>
+  <data name="DCD.SecondaryButtonText" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="Meta_UpdateInfo9" xml:space="preserve">
+    <value>Windows에서 문제를 찾고 수정 10 4 월 2018 업데이트</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
+    <value>디코딩 설정 사전 사용</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.Header" xml:space="preserve">
+    <value>비디오 출력 허용 Nv12 픽셀 형식</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.Header" xml:space="preserve">
+    <value>비디오 출력 허용 Bgra8 픽셀 형식</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.Header" xml:space="preserve">
+    <value>비디오 출력 허용 10 비트 픽셀 포맷</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.Header" xml:space="preserve">
+    <value>비디오 출력 허용 Iyuv 픽셀 형식</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="PlaylistActionButton_BringIntoView" xml:space="preserve">
+    <value>현재 재생 표시</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.Header" xml:space="preserve">
+    <value>하드웨어 가속 HEVC</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.Header" xml:space="preserve">
+    <value>하드웨어 가속 H264Hi10P</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.Header" xml:space="preserve">
+    <value>하드웨어 가속 H264</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.Header" xml:space="preserve">
+    <value>하드웨어 가속 AAC</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.Header" xml:space="preserve">
+    <value>하드웨어 가속 MP3</value>
+  </data>
+  <data name="WM_Caching_Stopped" xml:space="preserve">
+    <value>가져오기 중지 폴더 캐시 정보에 대 한</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.Header" xml:space="preserve">
+    <value>폴더를 연 후 캐시 반입을 사용 하지 않도록 설정</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="PlaylistActionButton_DisableCacheFetchOnFolderOpened" xml:space="preserve">
+    <value>폴더를 연 후 캐시 반입을 사용 하지 않도록 설정</value>
+  </data>
+  <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
+    <value>캐시 지우기</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>새로 고침</value>
+  </data>
+  <data name="WM_Link_No_File" xml:space="preserve">
+    <value>링크에서 동영상을 추출 하지 수 없습니다.</value>
+  </data>
+  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
+    <value>다른 이름으로 저장</value>
+  </data>
+  <data name="CM_Open_Folder" xml:space="preserve">
+    <value>폴더 열기</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>추가 dB 이득에 의해 100% 이상 볼륨 만들기</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
+    <value>오디오 파일 항상 사용 시스템 디코더 (대 한 배경 음악 재생)</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="CM_Sound_BoostUp" xml:space="preserve">
+    <value>+5 dB</value>
+  </data>
+  <data name="CM_Sound_BoostDown" xml:space="preserve">
+    <value>-5 dB</value>
   </data>
 </root>
