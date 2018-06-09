@@ -9,3 +9,8 @@ Run the [ClickOnce installer](https://clickonce-tom-englert.azurewebsites.net/Re
 open the root folder, 
 
 make your change, pull request to this repopsitory.
+
+image:: https://scorpioplayer.com/images/tra.png
+  :height: 100px
+  :width: 200 px
+  :scale: 50 %
