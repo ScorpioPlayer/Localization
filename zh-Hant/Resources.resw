@@ -123,9 +123,6 @@
   <data name="SD_TITLE.Text" xml:space="preserve">
     <value>設置面板</value>
   </data>
-  <data name="SD_PivotItem1.Header" xml:space="preserve">
-    <value>基礎</value>
-  </data>
   <data name="SD_PivotItem2.Header" xml:space="preserve">
     <value>字幕</value>
   </data>
@@ -1692,18 +1689,6 @@
   <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
     <value>主字幕字體粗細</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>字幕輝光文字效果</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>字幕字體粗細</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>天蠍网络流包括同一資料夾中的字幕</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>藍光光碟 ISO 支援 (預覽)</value>
-  </data>
   <data name="CM_Subtitle_Subhub" xml:space="preserve">
     <value>字幕搜索面板</value>
   </data>
@@ -1971,9 +1956,6 @@
   <data name="Close" xml:space="preserve">
     <value>關閉</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>添加字幕搜索面板</value>
-  </data>
   <data name="Download" xml:space="preserve">
     <value>下載</value>
   </data>
@@ -1995,9 +1977,6 @@
   <data name="Meta_UpdateInfo8" xml:space="preserve">
     <value>添加字幕時間表設置</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>添加匯出字幕檔功能</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>匯出檔</value>
   </data>
@@ -2015,9 +1994,6 @@
   </data>
   <data name="DCD.SecondaryButtonText" xml:space="preserve">
     <value>關閉</value>
-  </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>修復在 Windows 2018年4月10日更新中查找問題</value>
   </data>
   <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
     <value>使用預解碼設置</value>
@@ -2159,5 +2135,68 @@
   </data>
   <data name="CM_Sound_BoostDown" xml:space="preserve">
     <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>熱鍵</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>動作​​</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>熱鍵</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>降低音量</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>提高音量</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>全螢幕</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>短前跳轉</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>短向後跳轉</value>
+  </data>
+  <data name="SD_PivotItem1.Header" xml:space="preserve">
+    <value>通用</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>窗格</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>下一步</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>上一步</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>暫停/播放</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>正常速率</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>加快</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>慢</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>停止</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>退出全屏</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>在設置面板上添加熱鍵</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>在設置面板上添加 UI/UX</value>
   </data>
 </root>

@@ -1614,18 +1614,6 @@
   <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
     <value>Плотность шрифта основного субтитров</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>эффект свечения текста субтитров</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>плотность шрифта субтитров</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>Скорпион потокового включают субтитров на одной папке</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>поддержка Blu-ray диск ISO (предварительный просмотр)</value>
-  </data>
   <data name="CM_Subtitle_Subhub" xml:space="preserve">
     <value>Панель поиска субтитров</value>
   </data>
@@ -1893,9 +1881,6 @@
   <data name="Close" xml:space="preserve">
     <value>Закрыть</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>добавить панель поиска субтитров</value>
-  </data>
   <data name="Download" xml:space="preserve">
     <value>Скачать</value>
   </data>
@@ -1917,9 +1902,6 @@
   <data name="Meta_UpdateInfo8" xml:space="preserve">
     <value>Добавьте параметр Timeline субтитров</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>добавить функцию файл экспорта субтитров</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>Файл экспорта</value>
   </data>
@@ -1937,9 +1919,6 @@
   </data>
   <data name="DCD.SecondaryButtonText" xml:space="preserve">
     <value>Закрыть</value>
-  </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>исправление, ищу проблему в Windows обновление 10 апреля 2018</value>
   </data>
   <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
     <value>Использовать заранее декодирования параметр</value>
@@ -2081,5 +2060,65 @@
   </data>
   <data name="CM_Sound_BoostDown" xml:space="preserve">
     <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>Горячие клавиши</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>Действия</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>Сочетание клавиш</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>Уменьшение громкости</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>Увеличение громкости</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>Во весь экран</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>Короткий прыжок вперед</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>Назад краткое прыжок</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>Панель</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>Далее</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>Назад</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>Пауза / воспроизведение</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>Обычная ставка</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>Быстрее</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>Медленнее</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>Стоп</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>Свернуть</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>Добавление горячих клавиш на панели настроек</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>Добавление пользовательского интерфейса/UX на панели настроек</value>
   </data>
 </root>

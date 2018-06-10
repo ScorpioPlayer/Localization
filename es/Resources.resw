@@ -1614,18 +1614,6 @@
   <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
     <value>Subtítulo principal fuente peso</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>efecto de texto de subtítulo resplandor</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>peso de fuente de subtítulos</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>Escorpio streaming incluye subtítulos en la misma carpeta</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>soporte ISO de disco Blu-ray (preview)</value>
-  </data>
   <data name="CM_Subtitle_Subhub" xml:space="preserve">
     <value>Panel de búsqueda de subtítulos</value>
   </data>
@@ -1893,9 +1881,6 @@
   <data name="Close" xml:space="preserve">
     <value>Cerrar</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>Agregar panel de búsqueda de subtítulos</value>
-  </data>
   <data name="Download" xml:space="preserve">
     <value>Descargar</value>
   </data>
@@ -1917,9 +1902,6 @@
   <data name="Meta_UpdateInfo8" xml:space="preserve">
     <value>Añadir subtítulo cronología</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>Añadir la función de archivo de subtítulos de exportación</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>Archivo de exportación</value>
   </data>
@@ -1937,9 +1919,6 @@
   </data>
   <data name="DCD.SecondaryButtonText" xml:space="preserve">
     <value>Cerrar</value>
-  </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>solución búsqueda de tema en Windows Update del 10 de abril de 2018</value>
   </data>
   <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
     <value>Uso de decodificación de ajuste de avance</value>
@@ -2081,5 +2060,65 @@
   </data>
   <data name="CM_Sound_BoostDown" xml:space="preserve">
     <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>Teclas de acceso rápido</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>Acción</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>Hotkey</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>Bajar volumen</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>Subir volumen</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>Pantalla completa</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>Salto hacia delante corta</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>Corta hacia atrás salto</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>Panel</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>Siguiente</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>Anterior</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>Pausa / Play</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>Tarifa normal</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>Más rápido</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>Más lento</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>Salir de la pantalla completa</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>añadir atajos de teclado en el panel de ajustes</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>Añadir UI/UX en el panel de ajustes</value>
   </data>
 </root>

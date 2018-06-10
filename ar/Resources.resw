@@ -1614,18 +1614,6 @@
   <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
     <value>وزن الخط الترجمة الأولية</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>تأثير توهج النص للترجمة</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>وزن الخط الترجمة</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>العقرب الجري وتشمل الترجمة في نفس المجلد</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>بلو رأي القرص إيزو الدعم (معاينة)</value>
-  </data>
   <data name="CM_Subtitle_Subhub" xml:space="preserve">
     <value>فريق البحث عن الترجمة</value>
   </data>
@@ -1893,9 +1881,6 @@
   <data name="Close" xml:space="preserve">
     <value>قم بإغلاق</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>إضافة فريق البحث عن الترجمة</value>
-  </data>
   <data name="Download" xml:space="preserve">
     <value>تحميل</value>
   </data>
@@ -1917,9 +1902,6 @@
   <data name="Meta_UpdateInfo8" xml:space="preserve">
     <value>إضافة "عنوان فرعي إعداد الجدول الزمني"</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>إضافة ميزة التصدير في ملف الترجمة</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>ملف التصدير</value>
   </data>
@@ -1937,9 +1919,6 @@
   </data>
   <data name="DCD.SecondaryButtonText" xml:space="preserve">
     <value>قم بإغلاق</value>
-  </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>الإصلاح تسعى إلى المسألة في Windows تحديث 10 أبريل 2018</value>
   </data>
   <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
     <value>استخدام فك ترميز الإعداد المسبق</value>
@@ -2081,5 +2060,65 @@
   </data>
   <data name="CM_Sound_BoostDown" xml:space="preserve">
     <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>مفاتيح الاختصار</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>الإجراء</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>مفتاح التشغيل السريع</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>خفض مستوى الصوت</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>زيادة مستوى الصوت</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>وضع ملء الشاشة</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>قصيرة قفزة إلى الأمام</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>قصيرة قفزة إلى الوراء</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>جزء</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>التالي</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>السابق</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>إيقاف/تشغيل</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>المعدل العادي</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>أسرع</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>أبطأ</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>إيقاف</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>إنهاء وضع ملء الشاشة</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>إضافة مفاتيح الاختصار على لوحة الإعدادات</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>إضافة واجهة مستخدم/UX في لوحة الإعدادات</value>
   </data>
 </root>

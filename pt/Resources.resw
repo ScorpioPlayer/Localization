@@ -1614,18 +1614,6 @@
   <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
     <value>Primário Subtitle Font-Weight</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>efeito de texto legenda brilho</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Subtitle font-weight</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>Escorpião de streaming incluir legendas na mesma pasta</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>Blu-ray disc ISO apoio (visualização)</value>
-  </data>
   <data name="CM_Subtitle_Subhub" xml:space="preserve">
     <value>Painel de busca de legendas</value>
   </data>
@@ -1893,9 +1881,6 @@
   <data name="Close" xml:space="preserve">
     <value>Fechar</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>adicionar legendas Pesquisar painel</value>
-  </data>
   <data name="Download" xml:space="preserve">
     <value>Baixar</value>
   </data>
@@ -1917,9 +1902,6 @@
   <data name="Meta_UpdateInfo8" xml:space="preserve">
     <value>adicionar legendas cronograma configuração</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>Adicionar o recurso de arquivo de legenda de exportação</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>Exportar arquivo</value>
   </data>
@@ -1937,9 +1919,6 @@
   </data>
   <data name="DCD.SecondaryButtonText" xml:space="preserve">
     <value>Fechar</value>
-  </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>correção buscando o problema no Windows Update de 10 de abril de 2018</value>
   </data>
   <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
     <value>Use o avanço decodificação configuração</value>
@@ -2081,5 +2060,65 @@
   </data>
   <data name="CM_Sound_BoostDown" xml:space="preserve">
     <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>Teclas de atalho</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>Ação</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>Tecla de Atalho</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>Diminuir o volume</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>Aumentar o volume</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>Tela Inteira</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>Salto para a frente curto</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>Curto para trás salto</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>Painel</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>Avançar</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>Anterior</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>Pausar/reproduzir</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>Taxa normal</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>Mais rápido</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>Mais lento</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>parar</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>Sair da tela inteira</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>adicionar teclas de atalho no painel de configurações</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>Adicionar UI/UX no painel de configurações</value>
   </data>
 </root>

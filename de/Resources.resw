@@ -1614,18 +1614,6 @@
   <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
     <value>Primäre Untertitel Schriftbreite</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>Untertitel-Text Leuchteffekt</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Schriftbreite Untertitel</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>Skorpion-streaming gehören Untertitel auf denselben Ordner</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>Blu-Ray-Disk-ISO-Unterstützung (Vorschau)</value>
-  </data>
   <data name="CM_Subtitle_Subhub" xml:space="preserve">
     <value>Untertitel-Suchfenster</value>
   </data>
@@ -1893,9 +1881,6 @@
   <data name="Close" xml:space="preserve">
     <value>In der Nähe</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>Fügen Sie Untertitel Suche panel</value>
-  </data>
   <data name="Download" xml:space="preserve">
     <value>Download</value>
   </data>
@@ -1917,9 +1902,6 @@
   <data name="Meta_UpdateInfo8" xml:space="preserve">
     <value>Fügen Sie Untertitel Timeline Einstellung</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>Hinzufügen der Funktion "Export Untertitel-Datei"</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>Export-Datei</value>
   </data>
@@ -1937,9 +1919,6 @@
   </data>
   <data name="DCD.SecondaryButtonText" xml:space="preserve">
     <value>In der Nähe</value>
-  </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>Suche nach Problem in Windows Update aktualisieren, 10. April 2018</value>
   </data>
   <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
     <value>Verwenden Sie Advance Decodierung Einstellung</value>
@@ -2081,5 +2060,65 @@
   </data>
   <data name="CM_Sound_BoostDown" xml:space="preserve">
     <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>Hotkeys</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>Aktion</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>Hotkey</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>Leiser</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>Lauter</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>Vollbild</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>Kurz nach vorne springen</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>Kurz nach hinten springen</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>Bereich</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>Weiter</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>Zurück</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>Abspielen / Pausieren</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>Normaltarif</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>Schneller</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>Langsamer</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>Stopp</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>Vollbild schließen</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>Hotkeys auf Einstellungen-Panel hinzufügen</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>UI/UX auf Einstellungen-Panel hinzufügen</value>
   </data>
 </root>

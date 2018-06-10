@@ -45,9 +45,6 @@
   <data name="SD_TITLE.Text" xml:space="preserve">
     <value>설정 패널</value>
   </data>
-  <data name="SD_PivotItem1.Header" xml:space="preserve">
-    <value>기초</value>
-  </data>
   <data name="SD_PivotItem2.Header" xml:space="preserve">
     <value>자막</value>
   </data>
@@ -1614,18 +1611,6 @@
   <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
     <value>주요 윤곽 글꼴 두께</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>자막 광선 텍스트 효과</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>자막 글꼴 두께</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>전갈 자리 스트리밍 같은 폴더에 자막 포함</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>블루-레이 디스크 ISO 지원 (미리 보기)</value>
-  </data>
   <data name="CM_Subtitle_Subhub" xml:space="preserve">
     <value>자막 검색 패널</value>
   </data>
@@ -1893,9 +1878,6 @@
   <data name="Close" xml:space="preserve">
     <value>끄세요</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>자막 검색 패널 추가</value>
-  </data>
   <data name="Download" xml:space="preserve">
     <value>다운로드</value>
   </data>
@@ -1917,9 +1899,6 @@
   <data name="Meta_UpdateInfo8" xml:space="preserve">
     <value>자막 타임 라인 설정 추가</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>수출 자막 파일 기능 추가</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>내보내기 파일</value>
   </data>
@@ -1937,9 +1916,6 @@
   </data>
   <data name="DCD.SecondaryButtonText" xml:space="preserve">
     <value>끄세요</value>
-  </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>Windows에서 문제를 찾고 수정 10 4 월 2018 업데이트</value>
   </data>
   <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
     <value>디코딩 설정 사전 사용</value>
@@ -2081,5 +2057,68 @@
   </data>
   <data name="CM_Sound_BoostDown" xml:space="preserve">
     <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>단축키</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>액션</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>Hotkey</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>볼륨 다운</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>최대 볼륨</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>전체 화면</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>짧은 앞으로 점프</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>짧은 점프 뒤로</value>
+  </data>
+  <data name="SD_PivotItem1.Header" xml:space="preserve">
+    <value>전체</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>창</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>이전</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>일시 중지/재생</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>정상 요금</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>빠르게</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>느리게</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>정지</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>전체화면 종료</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>단축키 설정 패널에 추가</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>설정 패널에서 UI/UX를 추가</value>
   </data>
 </root>

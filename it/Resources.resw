@@ -1614,18 +1614,6 @@
   <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
     <value>Spessore del carattere dei sottotitoli primari</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>sottotitolo testo effetto glow</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>spessore del carattere dei sottotitoli</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>Scorpio streaming include sottotitoli nella stessa cartella</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>supporto di Blu-ray disc ISO (anteprima)</value>
-  </data>
   <data name="CM_Subtitle_Subhub" xml:space="preserve">
     <value>Pannello di ricerca di sottotitoli</value>
   </data>
@@ -1893,9 +1881,6 @@
   <data name="Close" xml:space="preserve">
     <value>Chiudere</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>aggiungere il pannello di ricerca di sottotitoli</value>
-  </data>
   <data name="Download" xml:space="preserve">
     <value>Scarica</value>
   </data>
@@ -1917,9 +1902,6 @@
   <data name="Meta_UpdateInfo8" xml:space="preserve">
     <value>aggiungere sottotitoli Timeline impostazione</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>aggiungere funzionalità di file di esportazione dei sottotitoli</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>File di esportazione</value>
   </data>
@@ -1937,9 +1919,6 @@
   </data>
   <data name="DCD.SecondaryButtonText" xml:space="preserve">
     <value>Chiudere</value>
-  </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>correzione cercando il problema in Windows Update 10 aprile 2018</value>
   </data>
   <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
     <value>Utilizzare Advance decodifica impostazione</value>
@@ -2081,5 +2060,65 @@
   </data>
   <data name="CM_Sound_BoostDown" xml:space="preserve">
     <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>Tasti di scelta rapida</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>Azione</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>Hotkey</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>Volume giù</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>Alza il volume</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>Schermo intero</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>Breve salto in avanti</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>Salto all'indietro a breve</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>Riquadro</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>Avanti</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>Indietro</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>Pausa / Play</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>Tariffa normale</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>Più veloce</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>Più lento</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>Interrompi</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>Disattiva modalità schermo intero</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>aggiungere tasti di scelta rapida nel pannello impostazioni</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>aggiungere UI/UX su Pannello impostazioni</value>
   </data>
 </root>

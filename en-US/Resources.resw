@@ -1318,7 +1318,7 @@
     <value>Disabled</value>
   </data>
   <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>subtitle glow text effect</value>
+    <value></value>
   </data>
   <data name="Effects_Manager_SharpenToggleSwitch.Header" xml:space="preserve">
     <value>Sharpen</value>
@@ -1366,10 +1366,10 @@
     <value>Yes</value>
   </data>
   <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>subtitle font weight</value>
+    <value></value>
   </data>
   <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>scorpio streaming include subtitle on same folder</value>
+    <value></value>
   </data>
   <data name="Effects_Manager_EmbossToggleSwitch.Header" xml:space="preserve">
     <value>Emboss</value>
@@ -1387,10 +1387,10 @@
     <value>Disabled</value>
   </data>
   <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>add subtitle search panel</value>
+    <value></value>
   </data>
   <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>add export subtitle file feature</value>
+    <value>add Hotkeys on settings panel</value>
   </data>
   <data name="CD_Socket_TITLE.Text" xml:space="preserve">
     <value>Scorpio Network Streaming</value>
@@ -1561,7 +1561,7 @@
     <value>remote host settings for Scorpio Network Streaming is required</value>
   </data>
   <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>blu-ray disc ISO support (preview)</value>
+    <value>add UI/UX on settings panel</value>
   </data>
   <data name="Meta_UpdateInfo3" xml:space="preserve">
     <value>make volume above 100% by add dB gain</value>
@@ -1627,7 +1627,7 @@
     <value>barrage subtitle loaded</value>
   </data>
   <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>fix seeking issue in Windows 10 April 2018 Update</value>
+    <value></value>
   </data>
   <data name="Meta_UpdateInfo10" xml:space="preserve">
     <value></value>
@@ -2093,5 +2093,59 @@
   </data>
   <data name="CM_Sound_BoostDown" xml:space="preserve">
     <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>Hotkeys</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>Action</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>Hotkey</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>Volume down</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>Volume up</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>Fullscreen</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>Exit fullscreen</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>Short forward jump</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>Short backwards jump</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>Pane</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>Previous</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>Pause / Play</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>Normal rate</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>Faster</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>Slower</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>Stop</value>
   </data>
 </root>

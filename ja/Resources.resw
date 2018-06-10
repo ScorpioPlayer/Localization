@@ -123,9 +123,6 @@
   <data name="SD_TITLE.Text" xml:space="preserve">
     <value>セットアップ パネル</value>
   </data>
-  <data name="SD_PivotItem1.Header" xml:space="preserve">
-    <value>基礎</value>
-  </data>
   <data name="SD_PivotItem2.Header" xml:space="preserve">
     <value>字幕</value>
   </data>
@@ -1692,18 +1689,6 @@
   <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
     <value>主な選択範囲のフォントの太さ</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>字幕文字の光彩</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>字幕フォントの太さ</value>
-  </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>蠍座のストリーミングは、同じフォルダーに字幕を含む</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>ブルーレイ ディスク ISO サポート (プレビュー)</value>
-  </data>
   <data name="CM_Subtitle_Subhub" xml:space="preserve">
     <value>字幕検索パネル</value>
   </data>
@@ -1971,9 +1956,6 @@
   <data name="Close" xml:space="preserve">
     <value>シャットダウン</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>字幕検索パネルを追加します。</value>
-  </data>
   <data name="Download" xml:space="preserve">
     <value>ダウンロード</value>
   </data>
@@ -1995,9 +1977,6 @@
   <data name="Meta_UpdateInfo8" xml:space="preserve">
     <value>サブタイトルのタイムラインの設定を追加します。</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>字幕ファイルのエクスポート機能を追加します。</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>ファイルをエクスポートします。</value>
   </data>
@@ -2015,9 +1994,6 @@
   </data>
   <data name="DCD.SecondaryButtonText" xml:space="preserve">
     <value>シャットダウン</value>
-  </data>
-  <data name="Meta_UpdateInfo9" xml:space="preserve">
-    <value>修正プログラムの Windows の問題を求めている 2018 年 4 月 10 日更新</value>
   </data>
   <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
     <value>使用する事前設定を復号化</value>
@@ -2159,5 +2135,68 @@
   </data>
   <data name="CM_Sound_BoostDown" xml:space="preserve">
     <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>ホットキー</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>アクション</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>ホット キー</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>ボリューム ダウン</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>ボリューム アップ</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>全画面表示</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>短い前方ジャンプ</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>ショート後方ジャンプ</value>
+  </data>
+  <data name="SD_PivotItem1.Header" xml:space="preserve">
+    <value>一般</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>ウィンドウ</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>次へ</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>前へ</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>一時停止/再生</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>通常料金</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>速く</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>遅く</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>ストップ</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>全画面表示を終了</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>[設定] パネルのホットキーを追加します。</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>[設定] パネルの UI ・ UX を追加します。</value>
   </data>
 </root>
