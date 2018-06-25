@@ -693,9 +693,6 @@
   <data name="MSD.SecondaryButtonText" xml:space="preserve">
     <value>確かですか</value>
   </data>
-  <data name="NO_DLNA.Text" xml:space="preserve">
-    <value>DLNA メディア デバイスが存在しません</value>
-  </data>
   <data name="WM_CUE_FOUND" xml:space="preserve">
     <value>。 キュー ファイルが見つかりません</value>
   </data>
@@ -1548,9 +1545,6 @@
   <data name="UCD.SecondaryButtonText" xml:space="preserve">
     <value>シャットダウン</value>
   </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>オープン ネットワーク メディア</value>
-  </data>
   <data name="CM_Open_Uri" xml:space="preserve">
     <value>ネットワーク ストリーム</value>
   </data>
@@ -1974,9 +1968,6 @@
   <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
     <value>グローバルな字幕の遅延時間 (ミリ秒)</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>サブタイトルのタイムラインの設定を追加します。</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>ファイルをエクスポートします。</value>
   </data>
@@ -2118,9 +2109,6 @@
   <data name="CM_Open_Folder" xml:space="preserve">
     <value>フォルダーを開く</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>dB のゲインを追加で 100% を超えるボリュームを作る</value>
-  </data>
   <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
     <value>オーディオ ファイル常に使用システム用のデコーダー (バック グラウンド音楽再生)</value>
   </data>
@@ -2198,5 +2186,92 @@
   </data>
   <data name="Meta_UpdateInfo6" xml:space="preserve">
     <value>[設定] パネルの UI ・ UX を追加します。</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>お気に入りのソースとして再生リストのストリーミングを使用してください。</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="UCD_PivotItem1.Header" xml:space="preserve">
+    <value>オープン ネットワーク メディア</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>ストリーミング再生リスト マネージャー</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>ストリーミング ネットワーク</value>
+  </data>
+  <data name="UCD_PivotItem3.Header" xml:space="preserve">
+    <value>エディター</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>開けて下さい</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>削除</value>
+  </data>
+  <data name="UCD_PivotItem2_Import_Button.Content" xml:space="preserve">
+    <value>インポート</value>
+  </data>
+  <data name="UCD_PivotItem2_Example_TextBlock.Text" xml:space="preserve">
+    <value>例:</value>
+  </data>
+  <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
+    <value>作成</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>ストリーミング再生リスト マネージャーに追加します。</value>
+  </data>
+  <data name="RoamingSync" xml:space="preserve">
+    <value>ローミングのデータ同期が完了しました</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>お気に入りのソースとしてストリーミング蠍座ネットワークを使用します。</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>お気に入りのソースとして再生リストのストリーミングを使用してください。</value>
+  </data>
+  <data name="SetLocal" xml:space="preserve">
+    <value>お気に入りのソースとしてローカル記憶域を使用します。</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>選択したオーディオ トラックを覚えています。</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
+    <value>MP4 のシステムデコーダーを常に使用します。</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>お気に入りのソースとして DLNA を使用</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
+    <value>開けて下さい</value>
+  </data>
+  <data name="SetDLNA" xml:space="preserve">
+    <value>お気に入りのソースとして DLNA を使用</value>
+  </data>
+  <data name="NO_DLNA.Text" xml:space="preserve">
+    <value>DLNA デバイス検出されない、更新ボタンをクリックしてください。</value>
   </data>
 </root>

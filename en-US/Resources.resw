@@ -616,7 +616,7 @@
     <value>Confirm</value>
   </data>
   <data name="NO_DLNA.Text" xml:space="preserve">
-    <value>No DLNA Device found</value>
+    <value>No DLNA Device found, Please Click Refresh Button</value>
   </data>
   <data name="CM_Graghic" xml:space="preserve">
     <value>Graphic</value>
@@ -1318,7 +1318,7 @@
     <value>Disabled</value>
   </data>
   <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value></value>
+    <value>add streaming playlist manager</value>
   </data>
   <data name="Effects_Manager_SharpenToggleSwitch.Header" xml:space="preserve">
     <value>Sharpen</value>
@@ -1366,7 +1366,7 @@
     <value>Yes</value>
   </data>
   <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value></value>
+    <value>remember selected audio track</value>
   </data>
   <data name="Meta_UpdateInfo7" xml:space="preserve">
     <value></value>
@@ -1492,7 +1492,7 @@
     <value>SMB</value>
   </data>
   <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>Open Network Media</value>
+    <value>Network Streaming</value>
   </data>
   <data name="UCD.PrimaryButtonText" xml:space="preserve">
     <value>Open</value>
@@ -1564,10 +1564,10 @@
     <value>add UI/UX on settings panel</value>
   </data>
   <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>make volume above 100% by add dB gain</value>
+    <value></value>
   </data>
   <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>add Subtitle Timeline Setting</value>
+    <value></value>
   </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>Disable Layout Scaling</value>
@@ -2147,5 +2147,80 @@
   </data>
   <data name="HotkeyAction_action_stop" xml:space="preserve">
     <value>Stop</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Use Streaming Playlist as Favorites Source</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="UCD_PivotItem1.Header" xml:space="preserve">
+    <value>Open Network Media</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>Streaming Playlist Manager</value>
+  </data>
+  <data name="UCD_PivotItem3.Header" xml:space="preserve">
+    <value>Editor</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="UCD_PivotItem2_Import_Button.Content" xml:space="preserve">
+    <value>Import</value>
+  </data>
+  <data name="UCD_PivotItem2_Example_TextBlock.Text" xml:space="preserve">
+    <value>Example</value>
+  </data>
+  <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
+    <value>Create</value>
+  </data>
+  <data name="RoamingSync" xml:space="preserve">
+    <value>Roaming Data Sync Completed</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>Use Scorpio Network Streaming as Favorites Source</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>Use Streaming Playlist as Favorites Source</value>
+  </data>
+  <data name="SetLocal" xml:space="preserve">
+    <value>Use Local Storage as Favorites Source</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
+    <value>Always Use System Decoder For MP4</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Use DLNA as Favorites Source</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="SetDLNA" xml:space="preserve">
+    <value>Use DLNA as Favorites Source</value>
   </data>
 </root>

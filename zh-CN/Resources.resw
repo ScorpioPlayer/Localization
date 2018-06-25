@@ -618,9 +618,6 @@
   <data name="MSD.SecondaryButtonText" xml:space="preserve">
     <value>确定</value>
   </data>
-  <data name="NO_DLNA.Text" xml:space="preserve">
-    <value>不存在 DLNA 媒体设备</value>
-  </data>
   <data name="WM_CUE_FOUND" xml:space="preserve">
     <value>.cue 文件找到</value>
   </data>
@@ -1473,9 +1470,6 @@
   <data name="UCD.SecondaryButtonText" xml:space="preserve">
     <value>关闭</value>
   </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>打开网络媒体</value>
-  </data>
   <data name="CM_Open_Uri" xml:space="preserve">
     <value>网络流</value>
   </data>
@@ -1899,9 +1893,6 @@
   <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
     <value>全局字幕延迟时间 (毫秒)</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>添加字幕时间线设置</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>导出文件</value>
   </data>
@@ -2043,9 +2034,6 @@
   <data name="CM_Open_Folder" xml:space="preserve">
     <value>打开文件夹</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>增加 dB 增益, 使音量大于100%</value>
-  </data>
   <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
     <value>音频文件始终使用系统解码器 (用于背景音乐播放)</value>
   </data>
@@ -2120,5 +2108,92 @@
   </data>
   <data name="Meta_UpdateInfo6" xml:space="preserve">
     <value>在设置面板上添加 UI/UX</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>使用流式播放列表作为收藏源</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="UCD_PivotItem1.Header" xml:space="preserve">
+    <value>打开网络媒体</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>流式播放列表管理器</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>网络流</value>
+  </data>
+  <data name="UCD_PivotItem3.Header" xml:space="preserve">
+    <value>编辑器</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="UCD_PivotItem2_Import_Button.Content" xml:space="preserve">
+    <value>导入</value>
+  </data>
+  <data name="UCD_PivotItem2_Example_TextBlock.Text" xml:space="preserve">
+    <value>示例:</value>
+  </data>
+  <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
+    <value>创建</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>添加流式播放列表管理器</value>
+  </data>
+  <data name="RoamingSync" xml:space="preserve">
+    <value>已完成漫游数据同步</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>使用天蝎网络流作为收藏源</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>使用流式播放列表作为收藏源</value>
+  </data>
+  <data name="SetLocal" xml:space="preserve">
+    <value>使用本地存储作为收藏源</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>记住选定的音轨</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
+    <value>始终使用系统解码器解码 MP4</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>使用 DLNA 作为收藏源</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>刷新</value>
+  </data>
+  <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="SetDLNA" xml:space="preserve">
+    <value>使用 DLNA 作为收藏源</value>
+  </data>
+  <data name="NO_DLNA.Text" xml:space="preserve">
+    <value>未找到 DLNA 设备, 请单击 "刷新" 按钮</value>
   </data>
 </root>

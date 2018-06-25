@@ -621,9 +621,6 @@
   <data name="MSD.SecondaryButtonText" xml:space="preserve">
     <value>تأكيد</value>
   </data>
-  <data name="NO_DLNA.Text" xml:space="preserve">
-    <value>لم يتم العثور على الجهاز DLNA</value>
-  </data>
   <data name="WM_CUE_FOUND" xml:space="preserve">
     <value>العثور على ملف جديلة</value>
   </data>
@@ -1473,9 +1470,6 @@
   <data name="UCD.SecondaryButtonText" xml:space="preserve">
     <value>قم بإغلاق</value>
   </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>وسائط شبكة الاتصال مفتوحة</value>
-  </data>
   <data name="CM_Open_Uri" xml:space="preserve">
     <value>تيار الشبكة</value>
   </data>
@@ -1899,9 +1893,6 @@
   <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
     <value>الترجمة العالمية تأخير الوقت بالمللي ثانية</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>إضافة "عنوان فرعي إعداد الجدول الزمني"</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>ملف التصدير</value>
   </data>
@@ -2043,9 +2034,6 @@
   <data name="CM_Open_Folder" xml:space="preserve">
     <value>فتح مجلد</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>جعل المجلد أعلاه 100% بإضافة كسب dB</value>
-  </data>
   <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
     <value>ملف دوماً استخدام نظام ترميز الصوت (لتشغيل الموسيقى في الخلفية)</value>
   </data>
@@ -2120,5 +2108,92 @@
   </data>
   <data name="Meta_UpdateInfo6" xml:space="preserve">
     <value>إضافة واجهة مستخدم/UX في لوحة الإعدادات</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام التدفق التشغيل كمصدر المفضلة</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="UCD_PivotItem1.Header" xml:space="preserve">
+    <value>وسائط شبكة الاتصال مفتوحة</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>إدارة قوائم التشغيل الدفق</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>شبكة الجري</value>
+  </data>
+  <data name="UCD_PivotItem3.Header" xml:space="preserve">
+    <value>محرر</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>فتح</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="UCD_PivotItem2_Import_Button.Content" xml:space="preserve">
+    <value>استيراد</value>
+  </data>
+  <data name="UCD_PivotItem2_Example_TextBlock.Text" xml:space="preserve">
+    <value>مثال:</value>
+  </data>
+  <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
+    <value>&amp;إنشاء</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>إضافة إدارة قوائم التشغيل الدفق</value>
+  </data>
+  <data name="RoamingSync" xml:space="preserve">
+    <value>التجوال إكمال مزامنة البيانات</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>استخدم شبكة العقرب الجري كمصدر المفضلة</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>استخدام التدفق التشغيل كمصدر المفضلة</value>
+  </data>
+  <data name="SetLocal" xml:space="preserve">
+    <value>استخدام التخزين المحلي كمصدر للمفضلة</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>تذكر المسار الصوتي المحدد</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
+    <value>دائماً استخدام نظام ترميز ل MP4</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام DLNA كمصدر المفضلة</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>قم بتحديث</value>
+  </data>
+  <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
+    <value>فتح</value>
+  </data>
+  <data name="SetDLNA" xml:space="preserve">
+    <value>استخدام DLNA كمصدر المفضلة</value>
+  </data>
+  <data name="NO_DLNA.Text" xml:space="preserve">
+    <value>لا يوجد جهاز DLNA العثور على "زر تحديث انقر فوق الرجاء"</value>
   </data>
 </root>

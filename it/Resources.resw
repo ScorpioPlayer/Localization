@@ -618,9 +618,6 @@
   <data name="MSD.SecondaryButtonText" xml:space="preserve">
     <value>Confermare</value>
   </data>
-  <data name="NO_DLNA.Text" xml:space="preserve">
-    <value>Nessun dispositivo DLNA trovato</value>
-  </data>
   <data name="WM_CUE_FOUND" xml:space="preserve">
     <value>trovare il file. cue</value>
   </data>
@@ -1473,9 +1470,6 @@
   <data name="UCD.SecondaryButtonText" xml:space="preserve">
     <value>Chiudere</value>
   </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>Supporti di rete aperta</value>
-  </data>
   <data name="CM_Open_Uri" xml:space="preserve">
     <value>Flusso di rete</value>
   </data>
@@ -1899,9 +1893,6 @@
   <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
     <value>Tempo di ritardo globale dei sottotitoli In millisecondi</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>aggiungere sottotitoli Timeline impostazione</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>File di esportazione</value>
   </data>
@@ -2043,9 +2034,6 @@
   <data name="CM_Open_Folder" xml:space="preserve">
     <value>Aprire la cartella</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>rendere il volume superiore al 100% da aggiungere guadagno dB</value>
-  </data>
   <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
     <value>File sempre uso sistema Decoder audio (per la riproduzione della musica)</value>
   </data>
@@ -2120,5 +2108,92 @@
   </data>
   <data name="Meta_UpdateInfo6" xml:space="preserve">
     <value>aggiungere UI/UX su Pannello impostazioni</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Utilizzare Playlist come fonte di preferiti in Streaming</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="UCD_PivotItem1.Header" xml:space="preserve">
+    <value>Supporti di rete aperta</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>Streaming Playlist Manager</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>Lo Streaming in rete</value>
+  </data>
+  <data name="UCD_PivotItem3.Header" xml:space="preserve">
+    <value>Editor</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Salva</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Aperto</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Elimina</value>
+  </data>
+  <data name="UCD_PivotItem2_Import_Button.Content" xml:space="preserve">
+    <value>Importa</value>
+  </data>
+  <data name="UCD_PivotItem2_Example_TextBlock.Text" xml:space="preserve">
+    <value>Esempio:</value>
+  </data>
+  <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
+    <value>Crea</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>aggiungere streaming playlist manager</value>
+  </data>
+  <data name="RoamingSync" xml:space="preserve">
+    <value>Completata la sincronizzazione dati in roaming</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>Utilizzare rete Scorpio Streaming come fonte di Preferiti</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>Utilizzare Playlist come fonte di preferiti in Streaming</value>
+  </data>
+  <data name="SetLocal" xml:space="preserve">
+    <value>Utilizzare l'archiviazione locale come fonte di Preferiti</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>Ricordate la traccia audio selezionata</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
+    <value>Utilizzare sempre il sistema Decoder per MP4</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Uso DLNA come fonte di Preferiti</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>Aggiornamento</value>
+  </data>
+  <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
+    <value>Aperto</value>
+  </data>
+  <data name="SetDLNA" xml:space="preserve">
+    <value>Uso DLNA come fonte di Preferiti</value>
+  </data>
+  <data name="NO_DLNA.Text" xml:space="preserve">
+    <value>Nessun dispositivo DLNA trovato, per favore fare clic su Aggiorna pulsante</value>
   </data>
 </root>

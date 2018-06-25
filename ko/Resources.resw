@@ -615,9 +615,6 @@
   <data name="MSD.SecondaryButtonText" xml:space="preserve">
     <value>확실한가요</value>
   </data>
-  <data name="NO_DLNA.Text" xml:space="preserve">
-    <value>DLNA 미디어 장치가 없습니다.</value>
-  </data>
   <data name="WM_CUE_FOUND" xml:space="preserve">
     <value>. 큐 파일 발견</value>
   </data>
@@ -1470,9 +1467,6 @@
   <data name="UCD.SecondaryButtonText" xml:space="preserve">
     <value>끄세요</value>
   </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>오픈 네트워크 미디어</value>
-  </data>
   <data name="CM_Open_Uri" xml:space="preserve">
     <value>네트워크 스트림</value>
   </data>
@@ -1896,9 +1890,6 @@
   <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
     <value>글로벌 자막 지연 시간 (밀리초)</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>자막 타임 라인 설정 추가</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>내보내기 파일</value>
   </data>
@@ -2040,9 +2031,6 @@
   <data name="CM_Open_Folder" xml:space="preserve">
     <value>폴더 열기</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>추가 dB 이득에 의해 100% 이상 볼륨 만들기</value>
-  </data>
   <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
     <value>오디오 파일 항상 사용 시스템 디코더 (대 한 배경 음악 재생)</value>
   </data>
@@ -2120,5 +2108,92 @@
   </data>
   <data name="Meta_UpdateInfo6" xml:space="preserve">
     <value>설정 패널에서 UI/UX를 추가</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>스트리밍 재생 목록을 즐겨찾기 소스로 사용</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="UCD_PivotItem1.Header" xml:space="preserve">
+    <value>오픈 네트워크 미디어</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>스트리밍 재생 목록 관리자</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>네트워크 스트리밍</value>
+  </data>
+  <data name="UCD_PivotItem3.Header" xml:space="preserve">
+    <value>편집기</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>저장</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>그거 여세요</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>삭제</value>
+  </data>
+  <data name="UCD_PivotItem2_Import_Button.Content" xml:space="preserve">
+    <value>가져오기</value>
+  </data>
+  <data name="UCD_PivotItem2_Example_TextBlock.Text" xml:space="preserve">
+    <value>예제:</value>
+  </data>
+  <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
+    <value>만들기</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>스트리밍 재생 목록 관리자 추가</value>
+  </data>
+  <data name="RoamingSync" xml:space="preserve">
+    <value>로밍 데이터 동기화 완료</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>즐겨찾기 소스 스트리밍 전갈 네트워크를 사용 하 여</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>스트리밍 재생 목록을 즐겨찾기 소스로 사용</value>
+  </data>
+  <data name="SetLocal" xml:space="preserve">
+    <value>로컬 저장소를 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>선택한 오디오 트랙을 기억</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
+    <value>항상 시스템 디코더를 사용 하 여 m p 4에 대 한</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>DLNA 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>새로 고침</value>
+  </data>
+  <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
+    <value>그거 여세요</value>
+  </data>
+  <data name="SetDLNA" xml:space="preserve">
+    <value>DLNA 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="NO_DLNA.Text" xml:space="preserve">
+    <value>아니 DLNA 장치 발견, 새로 고침 단추를 클릭 하십시오</value>
   </data>
 </root>
