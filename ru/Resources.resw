@@ -618,9 +618,6 @@
   <data name="MSD.SecondaryButtonText" xml:space="preserve">
     <value>Подтвердите</value>
   </data>
-  <data name="NO_DLNA.Text" xml:space="preserve">
-    <value>Не найдено устройство, поддерживающее DLNA</value>
-  </data>
   <data name="WM_CUE_FOUND" xml:space="preserve">
     <value>.cue файл найден</value>
   </data>
@@ -1473,9 +1470,6 @@
   <data name="UCD.SecondaryButtonText" xml:space="preserve">
     <value>Закрыть</value>
   </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>Откройте сетевые СМИ</value>
-  </data>
   <data name="CM_Open_Uri" xml:space="preserve">
     <value>Сети поток</value>
   </data>
@@ -1899,9 +1893,6 @@
   <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
     <value>Глобальные субтитров время задержки в миллисекундах</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>Добавьте параметр Timeline субтитров</value>
-  </data>
   <data name="CM_ExportSubtitle" xml:space="preserve">
     <value>Файл экспорта</value>
   </data>
@@ -2043,9 +2034,6 @@
   <data name="CM_Open_Folder" xml:space="preserve">
     <value>Открыть папку</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>сделать громкость выше 100%, добавление дБ</value>
-  </data>
   <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
     <value>Аудио файл всегда использовать системы декодер (для воспроизведения фоновой музыки)</value>
   </data>
@@ -2120,5 +2108,92 @@
   </data>
   <data name="Meta_UpdateInfo6" xml:space="preserve">
     <value>Добавление пользовательского интерфейса/UX на панели настроек</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Использование потокового воспроизведения как источник Избранное</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="UCD_PivotItem1.Header" xml:space="preserve">
+    <value>Откройте сетевые СМИ</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>Потокового воспроизведения менеджер</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>Сети потоковое</value>
+  </data>
+  <data name="UCD_PivotItem3.Header" xml:space="preserve">
+    <value>Редактор</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Открытые</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Удалить</value>
+  </data>
+  <data name="UCD_PivotItem2_Import_Button.Content" xml:space="preserve">
+    <value>Импорт</value>
+  </data>
+  <data name="UCD_PivotItem2_Example_TextBlock.Text" xml:space="preserve">
+    <value>Пример:</value>
+  </data>
+  <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
+    <value>Создать</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>Добавление потокового воспроизведения менеджер</value>
+  </data>
+  <data name="RoamingSync" xml:space="preserve">
+    <value>Роуминг данных синхронизация завершена</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>Использование Scorpio сети потоковое как источник Избранное</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>Использование потокового воспроизведения как источник Избранное</value>
+  </data>
+  <data name="SetLocal" xml:space="preserve">
+    <value>Использовать локальное хранилище как источник Избранное</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>Помните, выбранной звуковой дорожки</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
+    <value>Всегда используйте системы декодер для MP4</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Использование DLNA как источника Избранное</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>Обновить</value>
+  </data>
+  <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
+    <value>Открытые</value>
+  </data>
+  <data name="SetDLNA" xml:space="preserve">
+    <value>Использование DLNA как источника Избранное</value>
+  </data>
+  <data name="NO_DLNA.Text" xml:space="preserve">
+    <value>Не найден, пожалуйста нажмите кнопку обновить устройство, поддерживающее DLNA</value>
   </data>
 </root>
