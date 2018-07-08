@@ -1377,9 +1377,6 @@
   <data name="CD_Socket_Disonnect_Button.Content" xml:space="preserve">
     <value>분리</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>새로 고침</value>
-  </data>
   <data name="CD_Socket_ConnectionTimedOut" xml:space="preserve">
     <value>원격 서버에 연결 하지 수, 원격 호스트 이름 및 원격 포트 올바른지 확인 하십시오</value>
   </data>
@@ -2019,9 +2016,6 @@
   <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
     <value>캐시 지우기</value>
   </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>새로 고침</value>
-  </data>
   <data name="WM_Link_No_File" xml:space="preserve">
     <value>링크에서 동영상을 추출 하지 수 없습니다.</value>
   </data>
@@ -2103,12 +2097,6 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>전체화면 종료</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>단축키 설정 패널에 추가</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>설정 패널에서 UI/UX를 추가</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
     <value>스트리밍 재생 목록을 즐겨찾기 소스로 사용</value>
   </data>
@@ -2148,9 +2136,6 @@
   <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
     <value>만들기</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>스트리밍 재생 목록 관리자 추가</value>
-  </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>로밍 데이터 동기화 완료</value>
   </data>
@@ -2162,9 +2147,6 @@
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>로컬 저장소를 사용 하 여 즐겨찾기 소스</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>선택한 오디오 트랙을 기억</value>
   </data>
   <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
     <value>항상 시스템 디코더를 사용 하 여 m p 4에 대 한</value>
@@ -2184,9 +2166,6 @@
   <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
     <value>여부</value>
   </data>
-  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
-    <value>새로 고침</value>
-  </data>
   <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
     <value>그거 여세요</value>
   </data>
@@ -2195,5 +2174,503 @@
   </data>
   <data name="NO_DLNA.Text" xml:space="preserve">
     <value>아니 DLNA 장치 발견, 새로 고침 단추를 클릭 하십시오</value>
+  </data>
+  <data name="MV_TP_StepPreviousFrame.Content" xml:space="preserve">
+    <value>이전 프레임</value>
+  </data>
+  <data name="SkipCD.SecondaryButtonText" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="CM_SKIP" xml:space="preserve">
+    <value>무시</value>
+  </data>
+  <data name="CM_Open_Skip" xml:space="preserve">
+    <value>건너뛰기 설정</value>
+  </data>
+  <data name="SkipCD_TITLE.Text" xml:space="preserve">
+    <value>건너뛰기 재생</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>건너뛰기 기능을 사용</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>(시작)에서 소개를 생략</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>건너뛰기 끝 (끝)</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>장 제목</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SkipCD_beginHour.Header" xml:space="preserve">
+    <value>시간</value>
+  </data>
+  <data name="SkipCD_beginSecond.Header" xml:space="preserve">
+    <value>초</value>
+  </data>
+  <data name="SkipCD_endHour.Header" xml:space="preserve">
+    <value>시간</value>
+  </data>
+  <data name="SkipCD_endSecond.Header" xml:space="preserve">
+    <value>초</value>
+  </data>
+  <data name="SkipCD_endMinute.Header" xml:space="preserve">
+    <value>분</value>
+  </data>
+  <data name="SkipCD_beginMinute.Header" xml:space="preserve">
+    <value>분</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>건너뛰기 재생 기능 추가</value>
+  </data>
+  <data name="CM_Open_skipFeature" xml:space="preserve">
+    <value>건너뛰기 기능을 사용</value>
+  </data>
+  <data name="CM_Open_skipBegin" xml:space="preserve">
+    <value>건너뛰기 소개</value>
+  </data>
+  <data name="CM_Open_skipEnd" xml:space="preserve">
+    <value>건너뛰기 결말</value>
+  </data>
+  <data name="CM_Open_skipChapter" xml:space="preserve">
+    <value>건너뛰기 챕터</value>
+  </data>
+  <data name="Hours" xml:space="preserve">
+    <value>시간</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>분</value>
+  </data>
+  <data name="CM_Misc" xml:space="preserve">
+    <value>기타</value>
+  </data>
+  <data name="CM_ExitApplicationIn30Minutes" xml:space="preserve">
+    <value>30 분 이내에 응용 프로그램을 종료</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_forward" xml:space="preserve">
+    <value>이동 지점 B 0.1 초 앞으로</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_backward" xml:space="preserve">
+    <value>이동 지점 B 0.1 초 뒤로</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_forward" xml:space="preserve">
+    <value>포인트는 0.1 초 앞으로 이동</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_backward" xml:space="preserve">
+    <value>포인트는 0.1 초 뒤로 이동</value>
+  </data>
+  <data name="CM_WhenOpenFileAddToFavorites" xml:space="preserve">
+    <value>파일 열 때 즐겨찾기에 추가</value>
+  </data>
+  <data name="CM_WhenOpenFolderAddToFavorites" xml:space="preserve">
+    <value>폴더를 열면 즐겨찾기 추가</value>
+  </data>
+  <data name="SkipCD_SkipSyncSubtitleEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>싱크 자막 타임 라인</value>
+  </data>
+  <data name="IsAudioOnly" xml:space="preserve">
+    <value>오디오 전용</value>
+  </data>
+  <data name="IsVideoOnly" xml:space="preserve">
+    <value>비디오 전용</value>
+  </data>
+  <data name="CM_ExternalAudio" xml:space="preserve">
+    <value>외부 오디오</value>
+  </data>
+  <data name="Load" xml:space="preserve">
+    <value>로드</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>외부 오디오 지원 추가</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch Streaming</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch Streaming</value>
+  </data>
+  <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="Twitch_CD.PrimaryButtonText" xml:space="preserve">
+    <value>그거 여세요</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1.Header" xml:space="preserve">
+    <value>검색</value>
+  </data>
+  <data name="Twitch_CD_PivotItem2.Header" xml:space="preserve">
+    <value>역사</value>
+  </data>
+  <data name="Twitch_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Search 결과</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1.Header" xml:space="preserve">
+    <value>채널</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem2.Header" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem3.Header" xml:space="preserve">
+    <value>IDs</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_ChannelName_textblock.Text" xml:space="preserve">
+    <value>채널 이름</value>
+  </data>
+  <data name="AppRestartFailure" xml:space="preserve">
+    <value>제발 수동으로 응용 프로그램을 다시 시작 합니다.</value>
+  </data>
+  <data name="loadFromCalendarDatePicker.Header" xml:space="preserve">
+    <value>로드</value>
+  </data>
+  <data name="loadToCalendarDatePicker.Header" xml:space="preserve">
+    <value>로드</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_VideoType_textblock.Text" xml:space="preserve">
+    <value>비디오 형식</value>
+  </data>
+  <data name="BroadcastRadioButton.Content" xml:space="preserve">
+    <value>방송</value>
+  </data>
+  <data name="HighlightRadioButton.Content" xml:space="preserve">
+    <value>강조 표시</value>
+  </data>
+  <data name="UploadRadioButton.Content" xml:space="preserve">
+    <value>업로드</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_LoadLastVods_Slider.Header" xml:space="preserve">
+    <value>마지막 동영상</value>
+  </data>
+  <data name="OnlyTodayRadioButton.Content" xml:space="preserve">
+    <value>오늘만</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>검색</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock.Text" xml:space="preserve">
+    <value>아래 입력란에 하나 이상의 트 비디오 url을 붙여 넣습니다. 모든 url은 새 줄에 배치 됩니다 확인 하십시오. </value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock.Text" xml:space="preserve">
+    <value>아래 입력란에 하나 이상의 트 비디오 Id를 붙여 넣습니다. 모든 ID 새 줄에 배치 됩니다 확인 하십시오.</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock2.Text" xml:space="preserve">
+    <value>예: https://www.twitch.tv/videos/123456789</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock2.Text" xml:space="preserve">
+    <value>예: 123456789</value>
+  </data>
+  <data name="SuggestionLoadExternalAudio" xml:space="preserve">
+    <value>이 비디오 포함 아무 오디오 트랙, 오디오 트랙을 선택 하 고 그것을 로드.</value>
+  </data>
+  <data name="Unload" xml:space="preserve">
+    <value>언로드</value>
+  </data>
+  <data name="Transcode_CD_TITLE.Text" xml:space="preserve">
+    <value>비디오 오디오 결합 변환 도구</value>
+  </data>
+  <data name="CM_VideoAudioCombineTranscodeTool" xml:space="preserve">
+    <value>비디오 오디오 결합 변환 도구</value>
+  </data>
+  <data name="Transcode_Video_button.Content" xml:space="preserve">
+    <value>또는 선택 비디오 파일</value>
+  </data>
+  <data name="Transcode_Audio_button.Content" xml:space="preserve">
+    <value>드래그 하거나 오디오 파일을 선택</value>
+  </data>
+  <data name="CM_Transcode_Video_button" xml:space="preserve">
+    <value>또는 선택 비디오 파일</value>
+  </data>
+  <data name="CM_Transcode_Audio_button" xml:space="preserve">
+    <value>드래그 하거나 오디오 파일을 선택</value>
+  </data>
+  <data name="Transcode_CD.PrimaryButtonText" xml:space="preserve">
+    <value>시작</value>
+  </data>
+  <data name="Transcode_CD.SecondaryButtonText" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="TranscodeFailed" xml:space="preserve">
+    <value>저장 되지 않았습니다.</value>
+  </data>
+  <data name="TranscodeSuccess" xml:space="preserve">
+    <value>저장 된 파일 성공</value>
+  </data>
+  <data name="TranscodeProgress" xml:space="preserve">
+    <value>파일을 저장... 진행:</value>
+  </data>
+  <data name="CM_Track_histogram" xml:space="preserve">
+    <value>히스토그램</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>add Twitch Streaming support</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>Youtube 스트리밍</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>Youtube 스트리밍</value>
+  </data>
+  <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
+    <value>그거 여세요</value>
+  </data>
+  <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>Youtube 스트리밍 지원 추가</value>
+  </data>
+  <data name="GID_Scale_Slider.Header" xml:space="preserve">
+    <value>배율</value>
+  </data>
+  <data name="CM_Open_Gif" xml:space="preserve">
+    <value>GIF 이미지 만들기</value>
+  </data>
+  <data name="Gid_CD_TITLE.Text" xml:space="preserve">
+    <value>GIF 이미지 메이커</value>
+  </data>
+  <data name="CanNotCreateGif" xml:space="preserve">
+    <value>GIF 이미지를 만들 수 없습니다.</value>
+  </data>
+  <data name="Gif_CD.PrimaryButtonText" xml:space="preserve">
+    <value>GIF 생성</value>
+  </data>
+  <data name="Gif_CD.SecondaryButtonText" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="GID_SAVE_BUTTON.Content" xml:space="preserve">
+    <value>다른 이름으로 저장</value>
+  </data>
+  <data name="GenerateGIF" xml:space="preserve">
+    <value>GIF 생성</value>
+  </data>
+  <data name="GID_FramePerSecond_Slider.Header" xml:space="preserve">
+    <value>초당 이미지</value>
+  </data>
+  <data name="GenGIF_Abort" xml:space="preserve">
+    <value>중단 하는 GIF 생성</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>GIF 이미지 메이커 추가</value>
+  </data>
+  <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
+    <value>텍스트 글꼴 크기</value>
+  </data>
+  <data name="GID_TextMarginLeft_Slider.Header" xml:space="preserve">
+    <value>텍스트 왼쪽 여백</value>
+  </data>
+  <data name="GID_TextMarginTop_Slider.Header" xml:space="preserve">
+    <value>텍스트 여백 상단</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.Header" xml:space="preserve">
+    <value>텍스트 오버레이</value>
+  </data>
+  <data name="Insert_text_Expander_TextBlock.Text" xml:space="preserve">
+    <value>글꼴 패밀리 자막 기능에서 설정</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OffContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="Extension_CD_TITLE.Text" xml:space="preserve">
+    <value>확장 관리자</value>
+  </data>
+  <data name="Extension_CD.SecondaryButtonText" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="CM_ExtensionManager" xml:space="preserve">
+    <value>확장 관리자</value>
+  </data>
+  <data name="CM_AppRecording" xml:space="preserve">
+    <value>응용 프로그램 녹화!</value>
+  </data>
+  <data name="CM_StartRecording" xml:space="preserve">
+    <value>녹음 시작</value>
+  </data>
+  <data name="CM_StopRecording" xml:space="preserve">
+    <value>녹음 중지</value>
+  </data>
+  <data name="CM_PickRecordingFolder" xml:space="preserve">
+    <value>저장 폴더 변경</value>
+  </data>
+  <data name="AppRecordingManagerNotSupport" xml:space="preserve">
+    <value>응용 프로그램 지원 하지 기록</value>
+  </data>
+  <data name="CM_AppRecordingOpenOnCompleted" xml:space="preserve">
+    <value>녹음 완료 후 파일 열기</value>
+  </data>
+  <data name="AppRecordingManagerCompleted" xml:space="preserve">
+    <value>성공적인 응용 프로그램 기록</value>
+  </data>
+  <data name="AppRecordingManagerFailed" xml:space="preserve">
+    <value>응용 프로그램 기록 실패</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_start" xml:space="preserve">
+    <value>녹음 시작</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_stop" xml:space="preserve">
+    <value>녹음 중지</value>
+  </data>
+  <data name="WM_find_no_text" xml:space="preserve">
+    <value>텍스트를 찾을 수 없음</value>
+  </data>
+  <data name="CM_OCRText_CopyTo" xml:space="preserve">
+    <value>이미지 텍스트 다음 클립보드로 복사를 인식</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.Header" xml:space="preserve">
+    <value>OCR 이미지 자막 다음 텍스트 렌더링</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
+    <value>이미지 텍스트 다음 클립보드로 복사를 인식</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>Scorpio Streaming Server</value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>Scorpio Player for iPhone</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>Scorpio Streaming Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>Bring the Scorpio Player Experience to iOS Platform, functionality may not rich as UWP version for now, but it convient. </value>
+  </data>
+  <data name="WM_FolderContainsNofile" xml:space="preserve">
+    <value>폴더는 비어</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>미디어 정보를 가져올</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>새로 고침</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>미디어 정보를 가져올</value>
+  </data>
+  <data name="IsServerValidAsyncContent" xml:space="preserve">
+    <value>응용 프로그램 구형 마이크로 소프트 응용 프로그램 스토어를 통해 업데이트 하시기 바랍니다, 웹사이트에서 다운로드.</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>추가 하위 폴더 지원</value>
+  </data>
+  <data name="CM_UseSeekPreviewer" xml:space="preserve">
+    <value>사용 검색 미리 보기</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitle" xml:space="preserve">
+    <value>라이브 번역</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleTo" xml:space="preserve">
+    <value>로 번역</value>
+  </data>
+  <data name="Bangla" xml:space="preserve">
+    <value>벵골어</value>
+  </data>
+  <data name="Bosnian (Latin)" xml:space="preserve">
+    <value>보스니아어 (라틴 문자)</value>
+  </data>
+  <data name="Chinese Simplified" xml:space="preserve">
+    <value>중국어 간체</value>
+  </data>
+  <data name="Chinese Traditional" xml:space="preserve">
+    <value>중국어 번체</value>
+  </data>
+  <data name="Cantonese (Traditional)" xml:space="preserve">
+    <value>광둥어 (번체)</value>
+  </data>
+  <data name="Fijian" xml:space="preserve">
+    <value>피지어</value>
+  </data>
+  <data name="Filipino" xml:space="preserve">
+    <value>필리핀어</value>
+  </data>
+  <data name="Haitian Creole" xml:space="preserve">
+    <value>아이티어</value>
+  </data>
+  <data name="Hmong Daw" xml:space="preserve">
+    <value>흐몽 어 갈가 마 귀</value>
+  </data>
+  <data name="Kiswahili" xml:space="preserve">
+    <value>Kiswahili</value>
+  </data>
+  <data name="Klingon" xml:space="preserve">
+    <value>클 링 온</value>
+  </data>
+  <data name="Klingon (pIqaD)" xml:space="preserve">
+    <value>클 링 온 (pIqaD)</value>
+  </data>
+  <data name="Malagasy" xml:space="preserve">
+    <value>마다가스카르</value>
+  </data>
+  <data name="Maltese" xml:space="preserve">
+    <value>몰타어</value>
+  </data>
+  <data name="Yucatec Maya" xml:space="preserve">
+    <value>Yucatec Maya</value>
+  </data>
+  <data name="Norwegian Bokmål" xml:space="preserve">
+    <value>노르웨이어</value>
+  </data>
+  <data name="Querétaro Otomi" xml:space="preserve">
+    <value>케레타로 Otomi</value>
+  </data>
+  <data name="Samoan" xml:space="preserve">
+    <value>사모아</value>
+  </data>
+  <data name="Serbian (Cyrillic)" xml:space="preserve">
+    <value>세르비아어(키릴 자모)</value>
+  </data>
+  <data name="Serbian (Latin)" xml:space="preserve">
+    <value>세르비아어 (라틴 문자)</value>
+  </data>
+  <data name="Tahitian" xml:space="preserve">
+    <value>타히티어</value>
+  </data>
+  <data name="Tongan" xml:space="preserve">
+    <value>통가</value>
+  </data>
+  <data name="Welsh" xml:space="preserve">
+    <value>웨일스어</value>
+  </data>
+  <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
+    <value>사용</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>라이브 번역 자막 기능 추가</value>
+  </data>
+  <data name="CM_StartScreenCaptureClient" xml:space="preserve">
+    <value>화면 캡처 클라이언트 시작</value>
+  </data>
+  <data name="CM_StopScreenCaptureClient" xml:space="preserve">
+    <value>화면 캡처 클라이언트 중지</value>
   </data>
 </root>

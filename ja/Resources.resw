@@ -1455,9 +1455,6 @@
   <data name="CD_Socket_Disonnect_Button.Content" xml:space="preserve">
     <value>切断</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>更新</value>
-  </data>
   <data name="CD_Socket_ConnectionTimedOut" xml:space="preserve">
     <value>リモート サーバーへの接続にリモート ホスト名およびリモート ポートが正しいことを確認でした。</value>
   </data>
@@ -2097,9 +2094,6 @@
   <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
     <value>キャッシュのクリア</value>
   </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>更新</value>
-  </data>
   <data name="WM_Link_No_File" xml:space="preserve">
     <value>リンクからビデオを抽出すること</value>
   </data>
@@ -2181,12 +2175,6 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>全画面表示を終了</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>[設定] パネルのホットキーを追加します。</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>[設定] パネルの UI ・ UX を追加します。</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
     <value>お気に入りのソースとして再生リストのストリーミングを使用してください。</value>
   </data>
@@ -2226,9 +2214,6 @@
   <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
     <value>作成</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>ストリーミング再生リスト マネージャーに追加します。</value>
-  </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>ローミングのデータ同期が完了しました</value>
   </data>
@@ -2240,9 +2225,6 @@
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>お気に入りのソースとしてローカル記憶域を使用します。</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>選択したオーディオ トラックを覚えています。</value>
   </data>
   <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
     <value>MP4 のシステムデコーダーを常に使用します。</value>
@@ -2262,9 +2244,6 @@
   <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
     <value>かどうか</value>
   </data>
-  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
-    <value>更新</value>
-  </data>
   <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
     <value>開けて下さい</value>
   </data>
@@ -2273,5 +2252,503 @@
   </data>
   <data name="NO_DLNA.Text" xml:space="preserve">
     <value>DLNA デバイス検出されない、更新ボタンをクリックしてください。</value>
+  </data>
+  <data name="MV_TP_StepPreviousFrame.Content" xml:space="preserve">
+    <value>前のフレーム</value>
+  </data>
+  <data name="SkipCD.SecondaryButtonText" xml:space="preserve">
+    <value>シャットダウン</value>
+  </data>
+  <data name="CM_SKIP" xml:space="preserve">
+    <value>スキップ</value>
+  </data>
+  <data name="CM_Open_Skip" xml:space="preserve">
+    <value>設定をスキップ</value>
+  </data>
+  <data name="SkipCD_TITLE.Text" xml:space="preserve">
+    <value>スキップ再生</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>スキップ機能を有効にします。</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>(開始) でイントロをスキップします。</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>スキップ エンディング (終わり)</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>章のタイトル</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SkipCD_beginHour.Header" xml:space="preserve">
+    <value>時間</value>
+  </data>
+  <data name="SkipCD_beginSecond.Header" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="SkipCD_endHour.Header" xml:space="preserve">
+    <value>時間</value>
+  </data>
+  <data name="SkipCD_endSecond.Header" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="SkipCD_endMinute.Header" xml:space="preserve">
+    <value>分</value>
+  </data>
+  <data name="SkipCD_beginMinute.Header" xml:space="preserve">
+    <value>分</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>再生のスキップ機能を追加します。</value>
+  </data>
+  <data name="CM_Open_skipFeature" xml:space="preserve">
+    <value>スキップ機能を有効にします。</value>
+  </data>
+  <data name="CM_Open_skipBegin" xml:space="preserve">
+    <value>イントロ スキップ</value>
+  </data>
+  <data name="CM_Open_skipEnd" xml:space="preserve">
+    <value>スキップ終了</value>
+  </data>
+  <data name="CM_Open_skipChapter" xml:space="preserve">
+    <value>章をスキップします。</value>
+  </data>
+  <data name="Hours" xml:space="preserve">
+    <value>時間</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>分</value>
+  </data>
+  <data name="CM_Misc" xml:space="preserve">
+    <value>その他</value>
+  </data>
+  <data name="CM_ExitApplicationIn30Minutes" xml:space="preserve">
+    <value>30 分でアプリケーションを終了します</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_forward" xml:space="preserve">
+    <value>移動ポイント B 0.1 秒前方</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_backward" xml:space="preserve">
+    <value>移動ポイント B 0.1 秒後方</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_forward" xml:space="preserve">
+    <value>移動ポイントは 0.1 秒前方</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_backward" xml:space="preserve">
+    <value>ポイント 0.1 秒後方に移動します。</value>
+  </data>
+  <data name="CM_WhenOpenFileAddToFavorites" xml:space="preserve">
+    <value>ファイルを開いたときをお気に入りに追加します。</value>
+  </data>
+  <data name="CM_WhenOpenFolderAddToFavorites" xml:space="preserve">
+    <value>フォルダーを開いたときをお気に入りに追加します。</value>
+  </data>
+  <data name="SkipCD_SkipSyncSubtitleEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>同期字幕タイムライン</value>
+  </data>
+  <data name="IsAudioOnly" xml:space="preserve">
+    <value>オーディオのみ</value>
+  </data>
+  <data name="IsVideoOnly" xml:space="preserve">
+    <value>ビデオのみ</value>
+  </data>
+  <data name="CM_ExternalAudio" xml:space="preserve">
+    <value>外部オーディオ</value>
+  </data>
+  <data name="Load" xml:space="preserve">
+    <value>読み込み</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>外部オーディオのサポートを追加します。</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch Streaming</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch Streaming</value>
+  </data>
+  <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
+    <value>シャットダウン</value>
+  </data>
+  <data name="Twitch_CD.PrimaryButtonText" xml:space="preserve">
+    <value>開けて下さい</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1.Header" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="Twitch_CD_PivotItem2.Header" xml:space="preserve">
+    <value>歴史</value>
+  </data>
+  <data name="Twitch_CD_PivotItem3.Header" xml:space="preserve">
+    <value>検索結果</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1.Header" xml:space="preserve">
+    <value>チャネル</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem2.Header" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem3.Header" xml:space="preserve">
+    <value>IDs</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_ChannelName_textblock.Text" xml:space="preserve">
+    <value>チャネル名</value>
+  </data>
+  <data name="AppRestartFailure" xml:space="preserve">
+    <value>アプリケーションを手動で再起動してください。</value>
+  </data>
+  <data name="loadFromCalendarDatePicker.Header" xml:space="preserve">
+    <value>を読み込む</value>
+  </data>
+  <data name="loadToCalendarDatePicker.Header" xml:space="preserve">
+    <value>を読み込む</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_VideoType_textblock.Text" xml:space="preserve">
+    <value>ビデオの種類</value>
+  </data>
+  <data name="BroadcastRadioButton.Content" xml:space="preserve">
+    <value>放送</value>
+  </data>
+  <data name="HighlightRadioButton.Content" xml:space="preserve">
+    <value>ハイライト</value>
+  </data>
+  <data name="UploadRadioButton.Content" xml:space="preserve">
+    <value>アップロード</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_LoadLastVods_Slider.Header" xml:space="preserve">
+    <value>最後の動画</value>
+  </data>
+  <data name="OnlyTodayRadioButton.Content" xml:space="preserve">
+    <value>今日だけ</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock.Text" xml:space="preserve">
+    <value>下のテキスト ボックスに 1 つ以上けいれんビデオ url を貼り付けます。すべての url が新しい行に配置されますを確認します。</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock.Text" xml:space="preserve">
+    <value>下のテキスト ボックスに 1 つまたは複数のけいれんビデオ Id を貼り付けます。すべての ID が新しい行に配置されますを確認します。</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock2.Text" xml:space="preserve">
+    <value>例: https://www.twitch.tv/videos/123456789</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock2.Text" xml:space="preserve">
+    <value>例: 123456789</value>
+  </data>
+  <data name="SuggestionLoadExternalAudio" xml:space="preserve">
+    <value>オーディオ トラックこのビデオが含まれていない、オーディオ トラックを選択してそれを読み込みます。</value>
+  </data>
+  <data name="Unload" xml:space="preserve">
+    <value>アンロード</value>
+  </data>
+  <data name="Transcode_CD_TITLE.Text" xml:space="preserve">
+    <value>ビデオのオーディオを組み合わせて変換ツール</value>
+  </data>
+  <data name="CM_VideoAudioCombineTranscodeTool" xml:space="preserve">
+    <value>ビデオのオーディオを組み合わせて変換ツール</value>
+  </data>
+  <data name="Transcode_Video_button.Content" xml:space="preserve">
+    <value>ドラッグするか、ビデオ ファイルを選択</value>
+  </data>
+  <data name="Transcode_Audio_button.Content" xml:space="preserve">
+    <value>ドラッグするか、オーディオ ファイルを選択</value>
+  </data>
+  <data name="CM_Transcode_Video_button" xml:space="preserve">
+    <value>ドラッグするか、ビデオ ファイルを選択</value>
+  </data>
+  <data name="CM_Transcode_Audio_button" xml:space="preserve">
+    <value>ドラッグするか、オーディオ ファイルを選択</value>
+  </data>
+  <data name="Transcode_CD.PrimaryButtonText" xml:space="preserve">
+    <value>スタート</value>
+  </data>
+  <data name="Transcode_CD.SecondaryButtonText" xml:space="preserve">
+    <value>シャットダウン</value>
+  </data>
+  <data name="TranscodeFailed" xml:space="preserve">
+    <value>保存に失敗しました</value>
+  </data>
+  <data name="TranscodeSuccess" xml:space="preserve">
+    <value>保存したファイルは正常</value>
+  </data>
+  <data name="TranscodeProgress" xml:space="preserve">
+    <value>ファイルを保存しています.進行状況:</value>
+  </data>
+  <data name="CM_Track_histogram" xml:space="preserve">
+    <value>ヒストグラム</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>add Twitch Streaming support</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>YouTube Streaming</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>YouTube Streaming</value>
+  </data>
+  <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
+    <value>開けて下さい</value>
+  </data>
+  <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
+    <value>シャットダウン</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>Youtube のストリーミングのサポートを追加します。</value>
+  </data>
+  <data name="GID_Scale_Slider.Header" xml:space="preserve">
+    <value>倍率</value>
+  </data>
+  <data name="CM_Open_Gif" xml:space="preserve">
+    <value>GIF イメージを作成します。</value>
+  </data>
+  <data name="Gid_CD_TITLE.Text" xml:space="preserve">
+    <value>GIF イメージ メーカー</value>
+  </data>
+  <data name="CanNotCreateGif" xml:space="preserve">
+    <value>GIF イメージを作成することができます。</value>
+  </data>
+  <data name="Gif_CD.PrimaryButtonText" xml:space="preserve">
+    <value>GIF を生成します。</value>
+  </data>
+  <data name="Gif_CD.SecondaryButtonText" xml:space="preserve">
+    <value>シャットダウン</value>
+  </data>
+  <data name="GID_SAVE_BUTTON.Content" xml:space="preserve">
+    <value>名前を付けて保存</value>
+  </data>
+  <data name="GenerateGIF" xml:space="preserve">
+    <value>GIF を生成します。</value>
+  </data>
+  <data name="GID_FramePerSecond_Slider.Header" xml:space="preserve">
+    <value>1 秒あたりの画像</value>
+  </data>
+  <data name="GenGIF_Abort" xml:space="preserve">
+    <value>中止 GIF を生成します。</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>GIF 画像のメーカーを追加します。</value>
+  </data>
+  <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
+    <value>テキストのフォント サイズ</value>
+  </data>
+  <data name="GID_TextMarginLeft_Slider.Header" xml:space="preserve">
+    <value>テキストの左余白</value>
+  </data>
+  <data name="GID_TextMarginTop_Slider.Header" xml:space="preserve">
+    <value>テキスト マージン トップ</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.Header" xml:space="preserve">
+    <value>テキストのオーバーレイ</value>
+  </data>
+  <data name="Insert_text_Expander_TextBlock.Text" xml:space="preserve">
+    <value>字幕機能から設定フォント ファミリ</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OffContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="Extension_CD_TITLE.Text" xml:space="preserve">
+    <value>拡張機能マネージャー</value>
+  </data>
+  <data name="Extension_CD.SecondaryButtonText" xml:space="preserve">
+    <value>シャットダウン</value>
+  </data>
+  <data name="CM_ExtensionManager" xml:space="preserve">
+    <value>拡張機能マネージャー</value>
+  </data>
+  <data name="CM_AppRecording" xml:space="preserve">
+    <value>記録</value>
+  </data>
+  <data name="CM_StartRecording" xml:space="preserve">
+    <value>録音を開始します。</value>
+  </data>
+  <data name="CM_StopRecording" xml:space="preserve">
+    <value>録画を停止します。</value>
+  </data>
+  <data name="CM_PickRecordingFolder" xml:space="preserve">
+    <value>保存フォルダーを変更します。</value>
+  </data>
+  <data name="AppRecordingManagerNotSupport" xml:space="preserve">
+    <value>記録をサポートしていないアプリケーション</value>
+  </data>
+  <data name="CM_AppRecordingOpenOnCompleted" xml:space="preserve">
+    <value>録音完了後ファイルを開く</value>
+  </data>
+  <data name="AppRecordingManagerCompleted" xml:space="preserve">
+    <value>成功したアプリケーションの記録</value>
+  </data>
+  <data name="AppRecordingManagerFailed" xml:space="preserve">
+    <value>アプリケーションの記録に失敗しました</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_start" xml:space="preserve">
+    <value>録音を開始します。</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_stop" xml:space="preserve">
+    <value>録画を停止します。</value>
+  </data>
+  <data name="WM_find_no_text" xml:space="preserve">
+    <value>テキストが見つかりません</value>
+  </data>
+  <data name="CM_OCRText_CopyTo" xml:space="preserve">
+    <value>認識のイメージのテキストをクリップボードにコピー</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.Header" xml:space="preserve">
+    <value>OCR 画像字幕をテキストとしてレンダリングします。</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
+    <value>認識のイメージのテキストをクリップボードにコピー</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>Scorpio Streaming Server</value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>Scorpio Player for iPhone</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>Scorpio Streaming Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>Bring the Scorpio Player Experience to iOS Platform, functionality may not rich as UWP version for now, but it convient. </value>
+  </data>
+  <data name="WM_FolderContainsNofile" xml:space="preserve">
+    <value>フォルダーが空</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>メディア情報を取得します。</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>メディア情報を取得します。</value>
+  </data>
+  <data name="IsServerValidAsyncContent" xml:space="preserve">
+    <value>web サイトからダウンロード、アプリケーション時代遅れのしてください Microsoft App Store を通じて更新。</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>サブ フォルダーのサポートを追加します。</value>
+  </data>
+  <data name="CM_UseSeekPreviewer" xml:space="preserve">
+    <value>使用を求めるプレビューアー</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitle" xml:space="preserve">
+    <value>ライブ翻訳します。</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleTo" xml:space="preserve">
+    <value>変換します。</value>
+  </data>
+  <data name="Bangla" xml:space="preserve">
+    <value>バングラ</value>
+  </data>
+  <data name="Bosnian (Latin)" xml:space="preserve">
+    <value>ボスニア語 (ラテン)</value>
+  </data>
+  <data name="Chinese Simplified" xml:space="preserve">
+    <value>簡体字中国語</value>
+  </data>
+  <data name="Chinese Traditional" xml:space="preserve">
+    <value>繁体字中国語</value>
+  </data>
+  <data name="Cantonese (Traditional)" xml:space="preserve">
+    <value>広東語 (従来の)</value>
+  </data>
+  <data name="Fijian" xml:space="preserve">
+    <value>フィジー</value>
+  </data>
+  <data name="Filipino" xml:space="preserve">
+    <value>フィリピノ語</value>
+  </data>
+  <data name="Haitian Creole" xml:space="preserve">
+    <value>ハイチ語</value>
+  </data>
+  <data name="Hmong Daw" xml:space="preserve">
+    <value>もん族 Daw</value>
+  </data>
+  <data name="Kiswahili" xml:space="preserve">
+    <value>スワヒリ語</value>
+  </data>
+  <data name="Klingon" xml:space="preserve">
+    <value>クリンゴン語</value>
+  </data>
+  <data name="Klingon (pIqaD)" xml:space="preserve">
+    <value>クリンゴン語 (pIqaD)</value>
+  </data>
+  <data name="Malagasy" xml:space="preserve">
+    <value>マダガスカル</value>
+  </data>
+  <data name="Maltese" xml:space="preserve">
+    <value>マルタ語</value>
+  </data>
+  <data name="Yucatec Maya" xml:space="preserve">
+    <value>ユカテク語マヤ</value>
+  </data>
+  <data name="Norwegian Bokmål" xml:space="preserve">
+    <value>ノルウェー語ブークモール</value>
+  </data>
+  <data name="Querétaro Otomi" xml:space="preserve">
+    <value>ケレタロ大富</value>
+  </data>
+  <data name="Samoan" xml:space="preserve">
+    <value>サモア</value>
+  </data>
+  <data name="Serbian (Cyrillic)" xml:space="preserve">
+    <value>セルビア語 (キリル)</value>
+  </data>
+  <data name="Serbian (Latin)" xml:space="preserve">
+    <value>セルビア語 (ラテン)</value>
+  </data>
+  <data name="Tahitian" xml:space="preserve">
+    <value>タヒチアン</value>
+  </data>
+  <data name="Tongan" xml:space="preserve">
+    <value>トンガ</value>
+  </data>
+  <data name="Welsh" xml:space="preserve">
+    <value>ウェールズ語</value>
+  </data>
+  <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
+    <value>有効化</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>ライブ翻訳字幕機能を追加します。</value>
+  </data>
+  <data name="CM_StartScreenCaptureClient" xml:space="preserve">
+    <value>画面キャプチャ クライアントを起動します。</value>
+  </data>
+  <data name="CM_StopScreenCaptureClient" xml:space="preserve">
+    <value>画面キャプチャ クライアントを停止します。</value>
   </data>
 </root>

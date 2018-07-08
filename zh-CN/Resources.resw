@@ -1380,9 +1380,6 @@
   <data name="CD_Socket_Disonnect_Button.Content" xml:space="preserve">
     <value>断开</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>刷新</value>
-  </data>
   <data name="CD_Socket_ConnectionTimedOut" xml:space="preserve">
     <value>无法联系远程服务器, 请确保远程主机名和远程端口正确</value>
   </data>
@@ -2022,9 +2019,6 @@
   <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
     <value>清除缓存</value>
   </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>刷新</value>
-  </data>
   <data name="WM_Link_No_File" xml:space="preserve">
     <value>无法从链接中提取视频</value>
   </data>
@@ -2103,14 +2097,8 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>退出全屏</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>在设置面板上添加热键</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>在设置面板上添加 UI/UX</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>使用流式播放列表作为收藏源</value>
+    <value>使用直播源播放列表作为收藏源</value>
   </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>是</value>
@@ -2122,7 +2110,7 @@
     <value>打开网络媒体</value>
   </data>
   <data name="UCD_PivotItem2.Header" xml:space="preserve">
-    <value>流式播放列表管理器</value>
+    <value>直播源播放列表管理器</value>
   </data>
   <data name="UCD_TITLE.Text" xml:space="preserve">
     <value>网络流</value>
@@ -2148,9 +2136,6 @@
   <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
     <value>创建</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>添加流式播放列表管理器</value>
-  </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>已完成漫游数据同步</value>
   </data>
@@ -2158,13 +2143,10 @@
     <value>使用天蝎网络流作为收藏源</value>
   </data>
   <data name="SetStreamingPlaylist" xml:space="preserve">
-    <value>使用流式播放列表作为收藏源</value>
+    <value>使用直播源播放列表作为收藏源</value>
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>使用本地存储作为收藏源</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>记住选定的音轨</value>
   </data>
   <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
     <value>始终使用系统解码器解码 MP4</value>
@@ -2195,5 +2177,500 @@
   </data>
   <data name="NO_DLNA.Text" xml:space="preserve">
     <value>未找到 DLNA 设备, 请单击 "刷新" 按钮</value>
+  </data>
+  <data name="MV_TP_StepPreviousFrame.Content" xml:space="preserve">
+    <value>上一帧</value>
+  </data>
+  <data name="SkipCD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="CM_SKIP" xml:space="preserve">
+    <value>跳过</value>
+  </data>
+  <data name="CM_Open_Skip" xml:space="preserve">
+    <value>跳过配置</value>
+  </data>
+  <data name="SkipCD_TITLE.Text" xml:space="preserve">
+    <value>跳过播放</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>启用跳过功能</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>跳过简介 (在开始时)</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>跳过结尾 (在末尾)</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>章节标题</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SkipCD_beginHour.Header" xml:space="preserve">
+    <value>小时</value>
+  </data>
+  <data name="SkipCD_beginSecond.Header" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="SkipCD_endHour.Header" xml:space="preserve">
+    <value>小时</value>
+  </data>
+  <data name="SkipCD_endSecond.Header" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="SkipCD_endMinute.Header" xml:space="preserve">
+    <value>分钟</value>
+  </data>
+  <data name="SkipCD_beginMinute.Header" xml:space="preserve">
+    <value>分钟</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>添加跳过播放功能</value>
+  </data>
+  <data name="CM_Open_skipFeature" xml:space="preserve">
+    <value>启用跳过功能</value>
+  </data>
+  <data name="CM_Open_skipBegin" xml:space="preserve">
+    <value>跳过简介</value>
+  </data>
+  <data name="CM_Open_skipEnd" xml:space="preserve">
+    <value>跳过结束</value>
+  </data>
+  <data name="CM_Open_skipChapter" xml:space="preserve">
+    <value>跳过章节</value>
+  </data>
+  <data name="Hours" xml:space="preserve">
+    <value>小时</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>分钟</value>
+  </data>
+  <data name="CM_Misc" xml:space="preserve">
+    <value>杂项</value>
+  </data>
+  <data name="CM_ExitApplicationIn30Minutes" xml:space="preserve">
+    <value>30分钟后退出应用程序</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_forward" xml:space="preserve">
+    <value>向前移动点 B 0.1 秒</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_backward" xml:space="preserve">
+    <value>向后移动点 B 0.1 秒</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_forward" xml:space="preserve">
+    <value>向前移动点 A 0.1 秒</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_backward" xml:space="preserve">
+    <value>向后移动点 A 0.1 秒</value>
+  </data>
+  <data name="CM_WhenOpenFileAddToFavorites" xml:space="preserve">
+    <value>打开文件时添加到收藏夹</value>
+  </data>
+  <data name="CM_WhenOpenFolderAddToFavorites" xml:space="preserve">
+    <value>打开文件夹时添加到收藏夹</value>
+  </data>
+  <data name="SkipCD_SkipSyncSubtitleEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>同步字幕时间线</value>
+  </data>
+  <data name="IsAudioOnly" xml:space="preserve">
+    <value>仅音频</value>
+  </data>
+  <data name="IsVideoOnly" xml:space="preserve">
+    <value>仅视频</value>
+  </data>
+  <data name="CM_ExternalAudio" xml:space="preserve">
+    <value>外部音频</value>
+  </data>
+  <data name="Load" xml:space="preserve">
+    <value>加载...</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>添加外部音轨支持</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch 网络流</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch 网络流</value>
+  </data>
+  <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Twitch_CD.PrimaryButtonText" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1.Header" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="Twitch_CD_PivotItem2.Header" xml:space="preserve">
+    <value>历史</value>
+  </data>
+  <data name="Twitch_CD_PivotItem3.Header" xml:space="preserve">
+    <value>搜索结果</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1.Header" xml:space="preserve">
+    <value>频道</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem2.Header" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem3.Header" xml:space="preserve">
+    <value>IDs</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_ChannelName_textblock.Text" xml:space="preserve">
+    <value>频道名称</value>
+  </data>
+  <data name="AppRestartFailure" xml:space="preserve">
+    <value>请手动重新启动应用程序。</value>
+  </data>
+  <data name="loadFromCalendarDatePicker.Header" xml:space="preserve">
+    <value>加载自</value>
+  </data>
+  <data name="loadToCalendarDatePicker.Header" xml:space="preserve">
+    <value>加载到</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_VideoType_textblock.Text" xml:space="preserve">
+    <value>视频类型</value>
+  </data>
+  <data name="BroadcastRadioButton.Content" xml:space="preserve">
+    <value>广播</value>
+  </data>
+  <data name="HighlightRadioButton.Content" xml:space="preserve">
+    <value>精选</value>
+  </data>
+  <data name="UploadRadioButton.Content" xml:space="preserve">
+    <value>上传</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_LoadLastVods_Slider.Header" xml:space="preserve">
+    <value>最新视频</value>
+  </data>
+  <data name="OnlyTodayRadioButton.Content" xml:space="preserve">
+    <value>只有今天</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock.Text" xml:space="preserve">
+    <value>在下面的文本框中粘贴一个或多个 Twitch 视频 url。请确保每个 url 都放置在新行中。</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock.Text" xml:space="preserve">
+    <value>在下面的文本框中粘贴一个或多个 Twitch 视频 id。请确保每个 ID 都放在新行中。</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock2.Text" xml:space="preserve">
+    <value>示例: https://www.twitch.tv/videos/123456789</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock2.Text" xml:space="preserve">
+    <value>示例: 123456789</value>
+  </data>
+  <data name="SuggestionLoadExternalAudio" xml:space="preserve">
+    <value>此视频不包含音频曲目, 请选择音频曲目并加载它。</value>
+  </data>
+  <data name="Unload" xml:space="preserve">
+    <value>卸载</value>
+  </data>
+  <data name="Transcode_CD_TITLE.Text" xml:space="preserve">
+    <value>视频音频合并转码工具</value>
+  </data>
+  <data name="CM_VideoAudioCombineTranscodeTool" xml:space="preserve">
+    <value>视频音频合并转码工具</value>
+  </data>
+  <data name="Transcode_Video_button.Content" xml:space="preserve">
+    <value>拖动或拾取视频文件</value>
+  </data>
+  <data name="Transcode_Audio_button.Content" xml:space="preserve">
+    <value>拖动或选取音频文件</value>
+  </data>
+  <data name="CM_Transcode_Video_button" xml:space="preserve">
+    <value>拖动或拾取视频文件</value>
+  </data>
+  <data name="CM_Transcode_Audio_button" xml:space="preserve">
+    <value>拖动或选取音频文件</value>
+  </data>
+  <data name="Transcode_CD.PrimaryButtonText" xml:space="preserve">
+    <value>开始</value>
+  </data>
+  <data name="Transcode_CD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="TranscodeFailed" xml:space="preserve">
+    <value>保存失败</value>
+  </data>
+  <data name="TranscodeSuccess" xml:space="preserve">
+    <value>保存的文件成功</value>
+  </data>
+  <data name="TranscodeProgress" xml:space="preserve">
+    <value>正在保存文件..进度：</value>
+  </data>
+  <data name="CM_Track_histogram" xml:space="preserve">
+    <value>色阶分布图</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>添加Twitch 流支持</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>Youtube 流</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>Youtube 流</value>
+  </data>
+  <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
+    <value>打开</value>
+  </data>
+  <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>添加 Youtube 流支持</value>
+  </data>
+  <data name="GID_Scale_Slider.Header" xml:space="preserve">
+    <value>缩放比例</value>
+  </data>
+  <data name="CM_Open_Gif" xml:space="preserve">
+    <value>创建 GIF 图像</value>
+  </data>
+  <data name="Gid_CD_TITLE.Text" xml:space="preserve">
+    <value>GIF 图像制作器</value>
+  </data>
+  <data name="CanNotCreateGif" xml:space="preserve">
+    <value>无法创建 GIF 图像</value>
+  </data>
+  <data name="Gif_CD.PrimaryButtonText" xml:space="preserve">
+    <value>生成 GIF</value>
+  </data>
+  <data name="Gif_CD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="GID_SAVE_BUTTON.Content" xml:space="preserve">
+    <value>另存为</value>
+  </data>
+  <data name="GenerateGIF" xml:space="preserve">
+    <value>生成 GIF</value>
+  </data>
+  <data name="GID_FramePerSecond_Slider.Header" xml:space="preserve">
+    <value>每秒图像</value>
+  </data>
+  <data name="GenGIF_Abort" xml:space="preserve">
+    <value>生成 GIF 中止</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>添加 GIF 图像制作器</value>
+  </data>
+  <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
+    <value>文本字体大小</value>
+  </data>
+  <data name="GID_TextMarginLeft_Slider.Header" xml:space="preserve">
+    <value>左边的文本边距</value>
+  </data>
+  <data name="GID_TextMarginTop_Slider.Header" xml:space="preserve">
+    <value>文本边距顶部</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.Header" xml:space="preserve">
+    <value>文本叠加</value>
+  </data>
+  <data name="Insert_text_Expander_TextBlock.Text" xml:space="preserve">
+    <value>从字幕功能设置的自定义字体</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OffContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="Extension_CD_TITLE.Text" xml:space="preserve">
+    <value>扩展管理器</value>
+  </data>
+  <data name="Extension_CD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="CM_ExtensionManager" xml:space="preserve">
+    <value>扩展管理器</value>
+  </data>
+  <data name="CM_AppRecording" xml:space="preserve">
+    <value>应用程序录制</value>
+  </data>
+  <data name="CM_StartRecording" xml:space="preserve">
+    <value>开始录制</value>
+  </data>
+  <data name="CM_StopRecording" xml:space="preserve">
+    <value>停止录制</value>
+  </data>
+  <data name="CM_PickRecordingFolder" xml:space="preserve">
+    <value>更改保存文件夹</value>
+  </data>
+  <data name="AppRecordingManagerNotSupport" xml:space="preserve">
+    <value>应用程序录制不支持</value>
+  </data>
+  <data name="CM_AppRecordingOpenOnCompleted" xml:space="preserve">
+    <value>录制完成后打开文件</value>
+  </data>
+  <data name="AppRecordingManagerCompleted" xml:space="preserve">
+    <value>应用程序录制成功</value>
+  </data>
+  <data name="AppRecordingManagerFailed" xml:space="preserve">
+    <value>应用程序录制失败</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_start" xml:space="preserve">
+    <value>开始录制</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_stop" xml:space="preserve">
+    <value>停止录制</value>
+  </data>
+  <data name="WM_find_no_text" xml:space="preserve">
+    <value>未找到文本</value>
+  </data>
+  <data name="CM_OCRText_CopyTo" xml:space="preserve">
+    <value>识别图像文本, 然后复制到剪贴板</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.Header" xml:space="preserve">
+    <value>OCR 图像字幕然后呈现为文本</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
+    <value>识别图像文本, 然后复制到剪贴板</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>天蝎网络流服务器</value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>天蝎播放器 iPhone</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>天蝎网络流服务器是天蝎播放器的同伴应用程序, 允许您随时随地享受您的媒体内容, 随时随地, 跨设备高品质的流式, 轻量服务器。无论是串流到你的 Windows 10 笔记本电脑设备视频到您的客厅 Xbox 游戏主机, 或下载您的媒体到您的手机在家之外。 在 https://scorpioplayer.com/Docs 了解更多!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>将天蝎播放器体验带到 iOS 平台, 功能可能不如 UWP 版本丰富 , 但它方便。</value>
+  </data>
+  <data name="WM_FolderContainsNofile" xml:space="preserve">
+    <value>文件夹为空</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>获取媒体信息</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>获取媒体信息</value>
+  </data>
+  <data name="IsServerValidAsyncContent" xml:space="preserve">
+    <value>应用程序已过时, 请通过 Microsoft 應用商店更新, 或从网站下载。</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>添加子文件夹支持</value>
+  </data>
+  <data name="CM_UseSeekPreviewer" xml:space="preserve">
+    <value>使用查找预览</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitle" xml:space="preserve">
+    <value>实时翻译</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleTo" xml:space="preserve">
+    <value>翻译为</value>
+  </data>
+  <data name="Bangla" xml:space="preserve">
+    <value>孟加拉</value>
+  </data>
+  <data name="Bosnian (Latin)" xml:space="preserve">
+    <value>波斯尼亚语 (拉丁文)</value>
+  </data>
+  <data name="Chinese Simplified" xml:space="preserve">
+    <value>简体中文</value>
+  </data>
+  <data name="Chinese Traditional" xml:space="preserve">
+    <value>繁体中文</value>
+  </data>
+  <data name="Cantonese (Traditional)" xml:space="preserve">
+    <value>粤语 (繁体)</value>
+  </data>
+  <data name="Fijian" xml:space="preserve">
+    <value>斐济</value>
+  </data>
+  <data name="Filipino" xml:space="preserve">
+    <value>菲律宾语</value>
+  </data>
+  <data name="Haitian Creole" xml:space="preserve">
+    <value>海地克里奥尔语</value>
+  </data>
+  <data name="Hmong Daw" xml:space="preserve">
+    <value>苗族</value>
+  </data>
+  <data name="Kiswahili" xml:space="preserve">
+    <value>斯瓦希里</value>
+  </data>
+  <data name="Klingon" xml:space="preserve">
+    <value>克林贡</value>
+  </data>
+  <data name="Klingon (pIqaD)" xml:space="preserve">
+    <value>克林贡语 (pIqaD)</value>
+  </data>
+  <data name="Malagasy" xml:space="preserve">
+    <value>马达加斯加</value>
+  </data>
+  <data name="Maltese" xml:space="preserve">
+    <value>马耳他语</value>
+  </data>
+  <data name="Yucatec Maya" xml:space="preserve">
+    <value>尤卡坦玛雅</value>
+  </data>
+  <data name="Norwegian Bokmål" xml:space="preserve">
+    <value>挪威语</value>
+  </data>
+  <data name="Querétaro Otomi" xml:space="preserve">
+    <value>克雷塔罗 Otomi</value>
+  </data>
+  <data name="Samoan" xml:space="preserve">
+    <value>萨摩亚</value>
+  </data>
+  <data name="Serbian (Cyrillic)" xml:space="preserve">
+    <value>塞尔维亚语 (西里尔文)</value>
+  </data>
+  <data name="Serbian (Latin)" xml:space="preserve">
+    <value>塞尔维亚语 (拉丁语)</value>
+  </data>
+  <data name="Tahitian" xml:space="preserve">
+    <value>大溪 地</value>
+  </data>
+  <data name="Tongan" xml:space="preserve">
+    <value>同安</value>
+  </data>
+  <data name="Welsh" xml:space="preserve">
+    <value>威尔士语</value>
+  </data>
+  <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
+    <value>启用</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>添加实时翻译字幕功能</value>
+  </data>
+  <data name="CM_StartScreenCaptureClient" xml:space="preserve">
+    <value>启动屏幕捕获客户端</value>
+  </data>
+  <data name="CM_StopScreenCaptureClient" xml:space="preserve">
+    <value>停止屏幕捕获客户端</value>
   </data>
 </root>

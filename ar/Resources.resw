@@ -1380,9 +1380,6 @@
   <data name="CD_Socket_Disonnect_Button.Content" xml:space="preserve">
     <value>قطع الاتصال</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>قم بتحديث</value>
-  </data>
   <data name="CD_Socket_ConnectionTimedOut" xml:space="preserve">
     <value>تعذر الاتصال بالخادم البعيد، تأكد من صحة اسم المضيف البعيد والمنفذ البعيد</value>
   </data>
@@ -2022,9 +2019,6 @@
   <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
     <value>مسح ذاكرة التخزين المؤقت</value>
   </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>قم بتحديث</value>
-  </data>
   <data name="WM_Link_No_File" xml:space="preserve">
     <value>لا يمكن استخراج الفيديو من الرابط</value>
   </data>
@@ -2103,12 +2097,6 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>إنهاء وضع ملء الشاشة</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>إضافة مفاتيح الاختصار على لوحة الإعدادات</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>إضافة واجهة مستخدم/UX في لوحة الإعدادات</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
     <value>استخدام التدفق التشغيل كمصدر المفضلة</value>
   </data>
@@ -2148,9 +2136,6 @@
   <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
     <value>&amp;إنشاء</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>إضافة إدارة قوائم التشغيل الدفق</value>
-  </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>التجوال إكمال مزامنة البيانات</value>
   </data>
@@ -2162,9 +2147,6 @@
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>استخدام التخزين المحلي كمصدر للمفضلة</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>تذكر المسار الصوتي المحدد</value>
   </data>
   <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
     <value>دائماً استخدام نظام ترميز ل MP4</value>
@@ -2195,5 +2177,500 @@
   </data>
   <data name="NO_DLNA.Text" xml:space="preserve">
     <value>لا يوجد جهاز DLNA العثور على "زر تحديث انقر فوق الرجاء"</value>
+  </data>
+  <data name="MV_TP_StepPreviousFrame.Content" xml:space="preserve">
+    <value>الإطار السابق</value>
+  </data>
+  <data name="SkipCD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="CM_SKIP" xml:space="preserve">
+    <value>تخطي</value>
+  </data>
+  <data name="CM_Open_Skip" xml:space="preserve">
+    <value>الإعداد تخطي</value>
+  </data>
+  <data name="SkipCD_TITLE.Text" xml:space="preserve">
+    <value>تشغيل التخطي</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>تمكين ميزة تخطي</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>تخطي مقدمة (في البداية)</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>تخطي المنتهية (نهاية)</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>عناوين الفصول</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SkipCD_beginHour.Header" xml:space="preserve">
+    <value>ساعات</value>
+  </data>
+  <data name="SkipCD_beginSecond.Header" xml:space="preserve">
+    <value>ثوانٍ</value>
+  </data>
+  <data name="SkipCD_endHour.Header" xml:space="preserve">
+    <value>ساعات</value>
+  </data>
+  <data name="SkipCD_endSecond.Header" xml:space="preserve">
+    <value>ثوانٍ</value>
+  </data>
+  <data name="SkipCD_endMinute.Header" xml:space="preserve">
+    <value>دقائق</value>
+  </data>
+  <data name="SkipCD_beginMinute.Header" xml:space="preserve">
+    <value>دقائق</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>إضافة "ميزة قراءة تخطي"</value>
+  </data>
+  <data name="CM_Open_skipFeature" xml:space="preserve">
+    <value>تمكين ميزة تخطي</value>
+  </data>
+  <data name="CM_Open_skipBegin" xml:space="preserve">
+    <value>تخطي مقدمة</value>
+  </data>
+  <data name="CM_Open_skipEnd" xml:space="preserve">
+    <value>إنهاء التخطي</value>
+  </data>
+  <data name="CM_Open_skipChapter" xml:space="preserve">
+    <value>تخطي فصول</value>
+  </data>
+  <data name="Hours" xml:space="preserve">
+    <value>ساعات</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>دقائق</value>
+  </data>
+  <data name="CM_Misc" xml:space="preserve">
+    <value>متنوعة</value>
+  </data>
+  <data name="CM_ExitApplicationIn30Minutes" xml:space="preserve">
+    <value>إنهاء التطبيق في 30 دقيقة</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_forward" xml:space="preserve">
+    <value>نقل نقطة ب 0.1 ثانية إلى الأمام</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_backward" xml:space="preserve">
+    <value>نقل نقطة ب 0.1 ثانية إلى الوراء</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_forward" xml:space="preserve">
+    <value>نقل نقطة ثانية 0.1 إلى الأمام</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_backward" xml:space="preserve">
+    <value>نقل نقطة 0.1 ثانية إلى الخلف</value>
+  </data>
+  <data name="CM_WhenOpenFileAddToFavorites" xml:space="preserve">
+    <value>عند فتح ملف إضافة إلى المفضلة</value>
+  </data>
+  <data name="CM_WhenOpenFolderAddToFavorites" xml:space="preserve">
+    <value>عند فتح مجلد إضافة إلى المفضلة</value>
+  </data>
+  <data name="SkipCD_SkipSyncSubtitleEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>مزامنة الترجمة الخط الزمني</value>
+  </data>
+  <data name="IsAudioOnly" xml:space="preserve">
+    <value>صوت فقط</value>
+  </data>
+  <data name="IsVideoOnly" xml:space="preserve">
+    <value>الفيديو فقط</value>
+  </data>
+  <data name="CM_ExternalAudio" xml:space="preserve">
+    <value>الصوت الخارجي</value>
+  </data>
+  <data name="Load" xml:space="preserve">
+    <value>حمولة</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>إضافة دعم "الصوت الخارجية"</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch Streaming!</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch Streaming!</value>
+  </data>
+  <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="Twitch_CD.PrimaryButtonText" xml:space="preserve">
+    <value>فتح</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1.Header" xml:space="preserve">
+    <value>البحث عن</value>
+  </data>
+  <data name="Twitch_CD_PivotItem2.Header" xml:space="preserve">
+    <value>المحفوظات</value>
+  </data>
+  <data name="Twitch_CD_PivotItem3.Header" xml:space="preserve">
+    <value>ن&amp;تائج البحث:</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1.Header" xml:space="preserve">
+    <value>القناة</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem2.Header" xml:space="preserve">
+    <value>URLs</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem3.Header" xml:space="preserve">
+    <value>IDs</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_ChannelName_textblock.Text" xml:space="preserve">
+    <value>اسم القناة</value>
+  </data>
+  <data name="AppRestartFailure" xml:space="preserve">
+    <value>الرجاء يدوياً إعادة تشغيل التطبيق.</value>
+  </data>
+  <data name="loadFromCalendarDatePicker.Header" xml:space="preserve">
+    <value>تحميل من</value>
+  </data>
+  <data name="loadToCalendarDatePicker.Header" xml:space="preserve">
+    <value>تحميل إلى...</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_VideoType_textblock.Text" xml:space="preserve">
+    <value>نوع الفيديو</value>
+  </data>
+  <data name="BroadcastRadioButton.Content" xml:space="preserve">
+    <value>بث</value>
+  </data>
+  <data name="HighlightRadioButton.Content" xml:space="preserve">
+    <value>تمييز</value>
+  </data>
+  <data name="UploadRadioButton.Content" xml:space="preserve">
+    <value>إيداع</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_LoadLastVods_Slider.Header" xml:space="preserve">
+    <value>الفيديو الأخير</value>
+  </data>
+  <data name="OnlyTodayRadioButton.Content" xml:space="preserve">
+    <value>اليوم فقط</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>البحث عن</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock.Text" xml:space="preserve">
+    <value>لصق url نشل فيديو واحد أو أكثر في مربع النص أدناه. تأكد من أن يتم وضع كل رابط في سطر جديد. </value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock.Text" xml:space="preserve">
+    <value>قم بلصق واحد أو أكثر من معرفات نشل الفيديو في مربع النص أدناه. تأكد من أن يتم وضع كل معرف في سطر جديد.</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock2.Text" xml:space="preserve">
+    <value>مثال: https://www.twitch.tv/videos/123456789</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock2.Text" xml:space="preserve">
+    <value>مثال: 123456789</value>
+  </data>
+  <data name="SuggestionLoadExternalAudio" xml:space="preserve">
+    <value>يحتوي هذا الفيديو على لا "مسارات الصوت"، الرجاء تحديد مسار الصوت وتحميله.</value>
+  </data>
+  <data name="Unload" xml:space="preserve">
+    <value>إلغاء التحميل</value>
+  </data>
+  <data name="Transcode_CD_TITLE.Text" xml:space="preserve">
+    <value>الجمع بين الصوت والفيديو أداة فيرت</value>
+  </data>
+  <data name="CM_VideoAudioCombineTranscodeTool" xml:space="preserve">
+    <value>الجمع بين الصوت والفيديو أداة فيرت</value>
+  </data>
+  <data name="Transcode_Video_button.Content" xml:space="preserve">
+    <value>اسحب أو اختيار ملف الفيديو</value>
+  </data>
+  <data name="Transcode_Audio_button.Content" xml:space="preserve">
+    <value>اسحب أو اختيار ملف الصوت</value>
+  </data>
+  <data name="CM_Transcode_Video_button" xml:space="preserve">
+    <value>اسحب أو اختيار ملف الفيديو</value>
+  </data>
+  <data name="CM_Transcode_Audio_button" xml:space="preserve">
+    <value>اسحب أو اختيار ملف الصوت</value>
+  </data>
+  <data name="Transcode_CD.PrimaryButtonText" xml:space="preserve">
+    <value>ابدأ</value>
+  </data>
+  <data name="Transcode_CD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="TranscodeFailed" xml:space="preserve">
+    <value>تم إنقاذ فاشلة</value>
+  </data>
+  <data name="TranscodeSuccess" xml:space="preserve">
+    <value>الملف المحفوظ الناجحة</value>
+  </data>
+  <data name="TranscodeProgress" xml:space="preserve">
+    <value>حفظ الملف... التقدم:</value>
+  </data>
+  <data name="CM_Track_histogram" xml:space="preserve">
+    <value>مدرج تكراري</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>add Twitch Streaming support</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>YouTube Streaming</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>YouTube Streaming</value>
+  </data>
+  <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
+    <value>فتح</value>
+  </data>
+  <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>إضافة دعم "يتدفقون يوتيوب"</value>
+  </data>
+  <data name="GID_Scale_Slider.Header" xml:space="preserve">
+    <value>نسبة القياس</value>
+  </data>
+  <data name="CM_Open_Gif" xml:space="preserve">
+    <value>إنشاء صورة GIF</value>
+  </data>
+  <data name="Gid_CD_TITLE.Text" xml:space="preserve">
+    <value>صانع صورة GIF</value>
+  </data>
+  <data name="CanNotCreateGif" xml:space="preserve">
+    <value>لا يمكن إنشاء صورة GIF</value>
+  </data>
+  <data name="Gif_CD.PrimaryButtonText" xml:space="preserve">
+    <value>إنشاء GIF</value>
+  </data>
+  <data name="Gif_CD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="GID_SAVE_BUTTON.Content" xml:space="preserve">
+    <value>حفظ باسم</value>
+  </data>
+  <data name="GenerateGIF" xml:space="preserve">
+    <value>إنشاء GIF</value>
+  </data>
+  <data name="GID_FramePerSecond_Slider.Header" xml:space="preserve">
+    <value>الصور في الثانية الواحدة</value>
+  </data>
+  <data name="GenGIF_Abort" xml:space="preserve">
+    <value>إنشاء GIF إحباط</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>إضافة صانع صورة GIF</value>
+  </data>
+  <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
+    <value>حجم خط النص</value>
+  </data>
+  <data name="GID_TextMarginLeft_Slider.Header" xml:space="preserve">
+    <value>نص الهامش الأيسر</value>
+  </data>
+  <data name="GID_TextMarginTop_Slider.Header" xml:space="preserve">
+    <value>نص الهامش العلوي</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.Header" xml:space="preserve">
+    <value>تراكب النص</value>
+  </data>
+  <data name="Insert_text_Expander_TextBlock.Text" xml:space="preserve">
+    <value>عائلة الخط من ميزة الترجمة</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OffContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="Extension_CD_TITLE.Text" xml:space="preserve">
+    <value>ملحق إدارة</value>
+  </data>
+  <data name="Extension_CD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="CM_ExtensionManager" xml:space="preserve">
+    <value>ملحق إدارة</value>
+  </data>
+  <data name="CM_AppRecording" xml:space="preserve">
+    <value>طلبات التقديم</value>
+  </data>
+  <data name="CM_StartRecording" xml:space="preserve">
+    <value>بدء التسجيل</value>
+  </data>
+  <data name="CM_StopRecording" xml:space="preserve">
+    <value>إيقاف التسجيل</value>
+  </data>
+  <data name="CM_PickRecordingFolder" xml:space="preserve">
+    <value>تغيير مجلد حفظ</value>
+  </data>
+  <data name="AppRecordingManagerNotSupport" xml:space="preserve">
+    <value>تطبيق تسجيل عدم دعم</value>
+  </data>
+  <data name="CM_AppRecordingOpenOnCompleted" xml:space="preserve">
+    <value>فتح الملف بعد الانتهاء من تسجيل</value>
+  </data>
+  <data name="AppRecordingManagerCompleted" xml:space="preserve">
+    <value>تسجيل التطبيق الناجح</value>
+  </data>
+  <data name="AppRecordingManagerFailed" xml:space="preserve">
+    <value>تسجيل التطبيق فشل</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_start" xml:space="preserve">
+    <value>بدء التسجيل</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_stop" xml:space="preserve">
+    <value>إيقاف التسجيل</value>
+  </data>
+  <data name="WM_find_no_text" xml:space="preserve">
+    <value>لم يتم العثور على النص</value>
+  </data>
+  <data name="CM_OCRText_CopyTo" xml:space="preserve">
+    <value>تعترف بنص الصورة ثم نسخ إلى الحافظة</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.Header" xml:space="preserve">
+    <value>ثم تقديم "الترجمة الصورة التعرف الضوئي على الحروف" كنص</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
+    <value>تعترف بنص الصورة ثم نسخ إلى الحافظة</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>Scorpio Streaming Server</value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>Scorpio Player for iPhone</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>Scorpio Streaming Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>Bring the Scorpio Player Experience to iOS Platform, functionality may not rich as UWP version for now, but it convient. </value>
+  </data>
+  <data name="WM_FolderContainsNofile" xml:space="preserve">
+    <value>المجلد فارغ</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>إحضار معلومات الوسائط</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>إحضار معلومات الوسائط</value>
+  </data>
+  <data name="IsServerValidAsyncContent" xml:space="preserve">
+    <value>تطبيق قديمة، الرجاء تحديث عن طريق مايكروسوفت المتجر، وتحميل من موقع على شبكة الإنترنت.</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>إضافة دعم المجلدات الفرعية</value>
+  </data>
+  <data name="CM_UseSeekPreviewer" xml:space="preserve">
+    <value>استخدام البحث المعاين</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitle" xml:space="preserve">
+    <value>لايف ترجمة</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleTo" xml:space="preserve">
+    <value>ترجمة إلى:</value>
+  </data>
+  <data name="Bangla" xml:space="preserve">
+    <value>البنغالية</value>
+  </data>
+  <data name="Bosnian (Latin)" xml:space="preserve">
+    <value>البوسنية (اللاتينية)</value>
+  </data>
+  <data name="Chinese Simplified" xml:space="preserve">
+    <value>الصينية المبسطة</value>
+  </data>
+  <data name="Chinese Traditional" xml:space="preserve">
+    <value>الصينية التقليدية</value>
+  </data>
+  <data name="Cantonese (Traditional)" xml:space="preserve">
+    <value>الكانتونية (التقليدية)</value>
+  </data>
+  <data name="Fijian" xml:space="preserve">
+    <value>فيجي</value>
+  </data>
+  <data name="Filipino" xml:space="preserve">
+    <value>فيلبيني</value>
+  </data>
+  <data name="Haitian Creole" xml:space="preserve">
+    <value>هايتي</value>
+  </data>
+  <data name="Hmong Daw" xml:space="preserve">
+    <value>داو الهمونغ</value>
+  </data>
+  <data name="Kiswahili" xml:space="preserve">
+    <value>اللغة السواحيلية</value>
+  </data>
+  <data name="Klingon" xml:space="preserve">
+    <value>الكلينجون</value>
+  </data>
+  <data name="Klingon (pIqaD)" xml:space="preserve">
+    <value>الكلينجون (بيقاد)</value>
+  </data>
+  <data name="Malagasy" xml:space="preserve">
+    <value>مدغشقر</value>
+  </data>
+  <data name="Maltese" xml:space="preserve">
+    <value>المالطية</value>
+  </data>
+  <data name="Yucatec Maya" xml:space="preserve">
+    <value>يوكاتيك مايا</value>
+  </data>
+  <data name="Norwegian Bokmål" xml:space="preserve">
+    <value>بوكمال النرويجية</value>
+  </data>
+  <data name="Querétaro Otomi" xml:space="preserve">
+    <value>ولاية كويريتارو اوتومي</value>
+  </data>
+  <data name="Samoan" xml:space="preserve">
+    <value>ساموا</value>
+  </data>
+  <data name="Serbian (Cyrillic)" xml:space="preserve">
+    <value>الصربية (السيريلية)</value>
+  </data>
+  <data name="Serbian (Latin)" xml:space="preserve">
+    <value>الصربية (اللاتينية)</value>
+  </data>
+  <data name="Tahitian" xml:space="preserve">
+    <value>تاهيتي</value>
+  </data>
+  <data name="Tongan" xml:space="preserve">
+    <value>تونغا</value>
+  </data>
+  <data name="Welsh" xml:space="preserve">
+    <value>الويلزية</value>
+  </data>
+  <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
+    <value>تمكين</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>إضافة "ميزة الترجمة ترجمة العيش"</value>
+  </data>
+  <data name="CM_StartScreenCaptureClient" xml:space="preserve">
+    <value>بدء تشغيل عميل التقاط الشاشة</value>
+  </data>
+  <data name="CM_StopScreenCaptureClient" xml:space="preserve">
+    <value>إيقاف تشغيل عميل التقاط الشاشة</value>
   </data>
 </root>

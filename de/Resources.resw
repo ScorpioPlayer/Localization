@@ -1380,9 +1380,6 @@
   <data name="CD_Socket_Disonnect_Button.Content" xml:space="preserve">
     <value>Trennen Sie</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>Aktualisieren</value>
-  </data>
   <data name="CD_Socket_ConnectionTimedOut" xml:space="preserve">
     <value>kann nicht remote-Server zu kontaktieren, stellen Sie sicher, dass remote-Hostnamen und remote-Port richtig sind</value>
   </data>
@@ -2022,9 +2019,6 @@
   <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
     <value>Cache löschen</value>
   </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>Aktualisieren</value>
-  </data>
   <data name="WM_Link_No_File" xml:space="preserve">
     <value>Videos können aus Link nicht extrahiert werden.</value>
   </data>
@@ -2103,12 +2097,6 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>Vollbild schließen</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>Hotkeys auf Einstellungen-Panel hinzufügen</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>UI/UX auf Einstellungen-Panel hinzufügen</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
     <value>Verwenden Sie Streaming-Playlist als Favoriten Quelle</value>
   </data>
@@ -2148,9 +2136,6 @@
   <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
     <value>Erstellen</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>Streaming-Playlist Manager hinzufügen</value>
-  </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>Roaming-Datensynchronisierung abgeschlossen</value>
   </data>
@@ -2162,9 +2147,6 @@
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>Lokalen Speicher als Favoriten verwenden</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Denken Sie daran, ausgewählte audio-Tracks</value>
   </data>
   <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
     <value>Verwenden Sie immer System-Decoder für MP4</value>
@@ -2184,9 +2166,6 @@
   <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
     <value>Nein</value>
   </data>
-  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
-    <value>Aktualisieren</value>
-  </data>
   <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
     <value>Offen</value>
   </data>
@@ -2195,5 +2174,503 @@
   </data>
   <data name="NO_DLNA.Text" xml:space="preserve">
     <value>Kein DLNA-Gerät gefunden, bitte klicken Sie auf Schaltfläche Aktualisieren</value>
+  </data>
+  <data name="MV_TP_StepPreviousFrame.Content" xml:space="preserve">
+    <value>Vorheriges Bild</value>
+  </data>
+  <data name="SkipCD.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="CM_SKIP" xml:space="preserve">
+    <value>Überspringen</value>
+  </data>
+  <data name="CM_Open_Skip" xml:space="preserve">
+    <value>Skip Setup</value>
+  </data>
+  <data name="SkipCD_TITLE.Text" xml:space="preserve">
+    <value>Skip-Wiedergabe</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Skip-Funktion aktivieren</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Skip Intro (zu Beginn)</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Skip endet (am Ende)</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Kapitelüberschriften</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SkipCD_beginHour.Header" xml:space="preserve">
+    <value>Stunden</value>
+  </data>
+  <data name="SkipCD_beginSecond.Header" xml:space="preserve">
+    <value>Sekunden</value>
+  </data>
+  <data name="SkipCD_endHour.Header" xml:space="preserve">
+    <value>Stunden</value>
+  </data>
+  <data name="SkipCD_endSecond.Header" xml:space="preserve">
+    <value>Sekunden</value>
+  </data>
+  <data name="SkipCD_endMinute.Header" xml:space="preserve">
+    <value>Minuten</value>
+  </data>
+  <data name="SkipCD_beginMinute.Header" xml:space="preserve">
+    <value>Minuten</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>Skip-Playback-Funktion hinzufügen</value>
+  </data>
+  <data name="CM_Open_skipFeature" xml:space="preserve">
+    <value>Skip-Funktion aktivieren</value>
+  </data>
+  <data name="CM_Open_skipBegin" xml:space="preserve">
+    <value>Skip Intro</value>
+  </data>
+  <data name="CM_Open_skipEnd" xml:space="preserve">
+    <value>Skip-Ende</value>
+  </data>
+  <data name="CM_Open_skipChapter" xml:space="preserve">
+    <value>Kapitel überspringen</value>
+  </data>
+  <data name="Hours" xml:space="preserve">
+    <value>Stunden</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>Minuten</value>
+  </data>
+  <data name="CM_Misc" xml:space="preserve">
+    <value>Verschiedenes</value>
+  </data>
+  <data name="CM_ExitApplicationIn30Minutes" xml:space="preserve">
+    <value>Beenden Sie die Anwendung In 30 Minuten</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_forward" xml:space="preserve">
+    <value>Nach vorne bewegen Punkt B 0,1 Sekunden</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_backward" xml:space="preserve">
+    <value>Move Punkt B 0,1 Sekunden zurück</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_forward" xml:space="preserve">
+    <value>Nach vorne bewegen Punkt A 0,1 Sekunden</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_backward" xml:space="preserve">
+    <value>Punkt, den ein 0,1 Sekunden rückwärts zu bewegen</value>
+  </data>
+  <data name="CM_WhenOpenFileAddToFavorites" xml:space="preserve">
+    <value>Wenn die geöffnete Datei zu Favoriten hinzufügen</value>
+  </data>
+  <data name="CM_WhenOpenFolderAddToFavorites" xml:space="preserve">
+    <value>Beim Öffnen der Ordner zu Favoriten hinzufügen</value>
+  </data>
+  <data name="SkipCD_SkipSyncSubtitleEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Sync-Untertitel-Timeline</value>
+  </data>
+  <data name="IsAudioOnly" xml:space="preserve">
+    <value>Nur Audio</value>
+  </data>
+  <data name="IsVideoOnly" xml:space="preserve">
+    <value>Nur Video</value>
+  </data>
+  <data name="CM_ExternalAudio" xml:space="preserve">
+    <value>Externe Audio</value>
+  </data>
+  <data name="Load" xml:space="preserve">
+    <value>Last</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>Hinzufügen von externen Audio-Unterstützung</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch Streaming!</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch Streaming!</value>
+  </data>
+  <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="Twitch_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Offen</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Suche</value>
+  </data>
+  <data name="Twitch_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Geschichte</value>
+  </data>
+  <data name="Twitch_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Suchergebnis</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1.Header" xml:space="preserve">
+    <value>Kanal</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem2.Header" xml:space="preserve">
+    <value>URLs</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem3.Header" xml:space="preserve">
+    <value>IDs</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_ChannelName_textblock.Text" xml:space="preserve">
+    <value>Kanalname</value>
+  </data>
+  <data name="AppRestartFailure" xml:space="preserve">
+    <value>Bitte manuell die starten Sie Anwendung neu.</value>
+  </data>
+  <data name="loadFromCalendarDatePicker.Header" xml:space="preserve">
+    <value>Laden aus:</value>
+  </data>
+  <data name="loadToCalendarDatePicker.Header" xml:space="preserve">
+    <value>Laden in</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_VideoType_textblock.Text" xml:space="preserve">
+    <value>Video Art</value>
+  </data>
+  <data name="BroadcastRadioButton.Content" xml:space="preserve">
+    <value>Ausstrahlung</value>
+  </data>
+  <data name="HighlightRadioButton.Content" xml:space="preserve">
+    <value>Hervorheben</value>
+  </data>
+  <data name="UploadRadioButton.Content" xml:space="preserve">
+    <value>Hochladen</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_LoadLastVods_Slider.Header" xml:space="preserve">
+    <value>Letzte Videos</value>
+  </data>
+  <data name="OnlyTodayRadioButton.Content" xml:space="preserve">
+    <value>Nur heute</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Suche</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock.Text" xml:space="preserve">
+    <value>Fügen Sie eine oder mehrere Twitch-video-Urls in das Textfeld unten ein. Stellen Sie sicher, dass jede Url in einer neuen Zeile platziert wird. </value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock.Text" xml:space="preserve">
+    <value>Fügen Sie eine oder mehrere Twitch video-IDs in das Textfeld unten ein. Stellen Sie sicher, dass jede ID in eine neue Zeile eingefügt wird.</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock2.Text" xml:space="preserve">
+    <value>Beispiel: https://www.twitch.tv/videos/123456789</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock2.Text" xml:space="preserve">
+    <value>Beispiel: 123456789</value>
+  </data>
+  <data name="SuggestionLoadExternalAudio" xml:space="preserve">
+    <value>Dieses Video enthält keine Audio-Tracks, bitte wählen Sie audio-Tracks und geladen werden.</value>
+  </data>
+  <data name="Unload" xml:space="preserve">
+    <value>Entladen</value>
+  </data>
+  <data name="Transcode_CD_TITLE.Text" xml:space="preserve">
+    <value>Video Audio Transcode Werkzeug</value>
+  </data>
+  <data name="CM_VideoAudioCombineTranscodeTool" xml:space="preserve">
+    <value>Video Audio Transcode Werkzeug</value>
+  </data>
+  <data name="Transcode_Video_button.Content" xml:space="preserve">
+    <value>Ziehen Sie oder wählen Sie Video-Datei</value>
+  </data>
+  <data name="Transcode_Audio_button.Content" xml:space="preserve">
+    <value>Ziehen Sie oder wählen Sie Audio-Datei</value>
+  </data>
+  <data name="CM_Transcode_Video_button" xml:space="preserve">
+    <value>Ziehen Sie oder wählen Sie Video-Datei</value>
+  </data>
+  <data name="CM_Transcode_Audio_button" xml:space="preserve">
+    <value>Ziehen Sie oder wählen Sie Audio-Datei</value>
+  </data>
+  <data name="Transcode_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="Transcode_CD.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="TranscodeFailed" xml:space="preserve">
+    <value>Ersparnis war nicht erfolgreich</value>
+  </data>
+  <data name="TranscodeSuccess" xml:space="preserve">
+    <value>gespeicherte Datei erfolgreich</value>
+  </data>
+  <data name="TranscodeProgress" xml:space="preserve">
+    <value>Datei speichern... Fortschritt:</value>
+  </data>
+  <data name="CM_Track_histogram" xml:space="preserve">
+    <value>Histogramm</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>add Twitch Streaming support</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>YouTube-Streaming</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>YouTube-Streaming</value>
+  </data>
+  <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Offen</value>
+  </data>
+  <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>Youtube-Streaming-Unterstützung hinzufügen</value>
+  </data>
+  <data name="GID_Scale_Slider.Header" xml:space="preserve">
+    <value>Skalierung Verhältnis</value>
+  </data>
+  <data name="CM_Open_Gif" xml:space="preserve">
+    <value>GIF-Bild erstellen</value>
+  </data>
+  <data name="Gid_CD_TITLE.Text" xml:space="preserve">
+    <value>GIF-Image Maker</value>
+  </data>
+  <data name="CanNotCreateGif" xml:space="preserve">
+    <value>GIF-Bild kann nicht erstellt werden.</value>
+  </data>
+  <data name="Gif_CD.PrimaryButtonText" xml:space="preserve">
+    <value>GIF zu generieren</value>
+  </data>
+  <data name="Gif_CD.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="GID_SAVE_BUTTON.Content" xml:space="preserve">
+    <value>Speichern unter</value>
+  </data>
+  <data name="GenerateGIF" xml:space="preserve">
+    <value>GIF zu generieren</value>
+  </data>
+  <data name="GID_FramePerSecond_Slider.Header" xml:space="preserve">
+    <value>Bilder pro Sekunde</value>
+  </data>
+  <data name="GenGIF_Abort" xml:space="preserve">
+    <value>Erstellen GIF abgebrochen</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>GIF Bild Maker hinzufügen</value>
+  </data>
+  <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
+    <value>Schriftgrad</value>
+  </data>
+  <data name="GID_TextMarginLeft_Slider.Header" xml:space="preserve">
+    <value>Rand Links</value>
+  </data>
+  <data name="GID_TextMarginTop_Slider.Header" xml:space="preserve">
+    <value>Text-Margin-Top</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.Header" xml:space="preserve">
+    <value>Text-overlay</value>
+  </data>
+  <data name="Insert_text_Expander_TextBlock.Text" xml:space="preserve">
+    <value>Font-Family set von Untertitel-Funktion</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OffContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="Extension_CD_TITLE.Text" xml:space="preserve">
+    <value>Erweiterungs-Manager</value>
+  </data>
+  <data name="Extension_CD.SecondaryButtonText" xml:space="preserve">
+    <value>In der Nähe</value>
+  </data>
+  <data name="CM_ExtensionManager" xml:space="preserve">
+    <value>Erweiterungs-Manager</value>
+  </data>
+  <data name="CM_AppRecording" xml:space="preserve">
+    <value>Aufzeichnung</value>
+  </data>
+  <data name="CM_StartRecording" xml:space="preserve">
+    <value>Starten Sie die Aufnahme</value>
+  </data>
+  <data name="CM_StopRecording" xml:space="preserve">
+    <value>Beenden Sie die Aufnahme</value>
+  </data>
+  <data name="CM_PickRecordingFolder" xml:space="preserve">
+    <value>Save-Ordner ändern</value>
+  </data>
+  <data name="AppRecordingManagerNotSupport" xml:space="preserve">
+    <value>Anwendung, die Aufzeichnung nicht unterstützt</value>
+  </data>
+  <data name="CM_AppRecordingOpenOnCompleted" xml:space="preserve">
+    <value>Geöffnete Datei nach der Aufnahme abgeschlossen</value>
+  </data>
+  <data name="AppRecordingManagerCompleted" xml:space="preserve">
+    <value>Erfolgreiche Anwendung Aufnahme</value>
+  </data>
+  <data name="AppRecordingManagerFailed" xml:space="preserve">
+    <value>Anwendung Aufnahme fehlgeschlagen</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_start" xml:space="preserve">
+    <value>Starten Sie die Aufnahme</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_stop" xml:space="preserve">
+    <value>Beenden Sie die Aufnahme</value>
+  </data>
+  <data name="WM_find_no_text" xml:space="preserve">
+    <value>Kein Text gefunden</value>
+  </data>
+  <data name="CM_OCRText_CopyTo" xml:space="preserve">
+    <value>erkennen Sie, Bildtext dann in Zwischenablage kopieren</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.Header" xml:space="preserve">
+    <value>OCR Bild Untertitel dann darstellen als Text</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
+    <value>erkennen Sie, Bildtext dann in Zwischenablage kopieren</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>Scorpio Streaming Server</value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>Scorpio Player for iPhone</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>Scorpio Streaming Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>Bring the Scorpio Player Experience to iOS Platform, functionality may not rich as UWP version for now, but it convient. </value>
+  </data>
+  <data name="WM_FolderContainsNofile" xml:space="preserve">
+    <value>Der Ordner ist leer</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>Medieninformationen zu holen</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>Aktualisieren</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>Medieninformationen zu holen</value>
+  </data>
+  <data name="IsServerValidAsyncContent" xml:space="preserve">
+    <value>Anwendung überholt, bitte Update über Microsoft App-Store, von Website herunterladen.</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>Sub-Ordner-Unterstützung hinzufügen</value>
+  </data>
+  <data name="CM_UseSeekPreviewer" xml:space="preserve">
+    <value>Verwendung suchen Previewer</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitle" xml:space="preserve">
+    <value>Live übersetzen</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleTo" xml:space="preserve">
+    <value>Ü&amp;bersetzen in:</value>
+  </data>
+  <data name="Bangla" xml:space="preserve">
+    <value>Bangla</value>
+  </data>
+  <data name="Bosnian (Latin)" xml:space="preserve">
+    <value>Bosnisch (lateinisch)</value>
+  </data>
+  <data name="Chinese Simplified" xml:space="preserve">
+    <value>Chinesisch (Vereinfacht)</value>
+  </data>
+  <data name="Chinese Traditional" xml:space="preserve">
+    <value>Chinesisch (Traditionell)</value>
+  </data>
+  <data name="Cantonese (Traditional)" xml:space="preserve">
+    <value>Kantonesisch (traditionell)</value>
+  </data>
+  <data name="Fijian" xml:space="preserve">
+    <value>Fidschi</value>
+  </data>
+  <data name="Filipino" xml:space="preserve">
+    <value>Philippinisch</value>
+  </data>
+  <data name="Haitian Creole" xml:space="preserve">
+    <value>Haitianisch</value>
+  </data>
+  <data name="Hmong Daw" xml:space="preserve">
+    <value>Hmong Daw</value>
+  </data>
+  <data name="Kiswahili" xml:space="preserve">
+    <value>Kiswahili</value>
+  </data>
+  <data name="Klingon" xml:space="preserve">
+    <value>Klingonisch</value>
+  </data>
+  <data name="Klingon (pIqaD)" xml:space="preserve">
+    <value>Klingonisch (pIqaD)</value>
+  </data>
+  <data name="Malagasy" xml:space="preserve">
+    <value>Madagassische</value>
+  </data>
+  <data name="Maltese" xml:space="preserve">
+    <value>Maltesisch</value>
+  </data>
+  <data name="Yucatec Maya" xml:space="preserve">
+    <value>Yucatec Maya</value>
+  </data>
+  <data name="Norwegian Bokmål" xml:space="preserve">
+    <value>Norwegische Bokmål</value>
+  </data>
+  <data name="Querétaro Otomi" xml:space="preserve">
+    <value>Querétaro Otomi</value>
+  </data>
+  <data name="Samoan" xml:space="preserve">
+    <value>Samoa</value>
+  </data>
+  <data name="Serbian (Cyrillic)" xml:space="preserve">
+    <value>Serbisch (Kyrillisch)</value>
+  </data>
+  <data name="Serbian (Latin)" xml:space="preserve">
+    <value>Serbisch (lateinisch)</value>
+  </data>
+  <data name="Tahitian" xml:space="preserve">
+    <value>Tahiti</value>
+  </data>
+  <data name="Tongan" xml:space="preserve">
+    <value>Tonga</value>
+  </data>
+  <data name="Welsh" xml:space="preserve">
+    <value>Walisisch</value>
+  </data>
+  <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
+    <value>&amp;Aktivieren</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>Live übersetzen Untertitel Feature hinzufügen</value>
+  </data>
+  <data name="CM_StartScreenCaptureClient" xml:space="preserve">
+    <value>Screen Capture Client starten</value>
+  </data>
+  <data name="CM_StopScreenCaptureClient" xml:space="preserve">
+    <value>Screen Capture Client beenden</value>
   </data>
 </root>

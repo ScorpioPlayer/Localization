@@ -1380,9 +1380,6 @@
   <data name="CD_Socket_Disonnect_Button.Content" xml:space="preserve">
     <value>Отключите</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>Обновить</value>
-  </data>
   <data name="CD_Socket_ConnectionTimedOut" xml:space="preserve">
     <value>не может связаться с удаленного сервера, убедитесь, что правильно заданы имя удаленного хоста и удаленный порт</value>
   </data>
@@ -2022,9 +2019,6 @@
   <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
     <value>Очистить кэш</value>
   </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>Обновить</value>
-  </data>
   <data name="WM_Link_No_File" xml:space="preserve">
     <value>не может извлекать видео из ссылки</value>
   </data>
@@ -2103,12 +2097,6 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>Свернуть</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>Добавление горячих клавиш на панели настроек</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>Добавление пользовательского интерфейса/UX на панели настроек</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
     <value>Использование потокового воспроизведения как источник Избранное</value>
   </data>
@@ -2148,9 +2136,6 @@
   <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
     <value>Создать</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>Добавление потокового воспроизведения менеджер</value>
-  </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>Роуминг данных синхронизация завершена</value>
   </data>
@@ -2162,9 +2147,6 @@
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>Использовать локальное хранилище как источник Избранное</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Помните, выбранной звуковой дорожки</value>
   </data>
   <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
     <value>Всегда используйте системы декодер для MP4</value>
@@ -2195,5 +2177,500 @@
   </data>
   <data name="NO_DLNA.Text" xml:space="preserve">
     <value>Не найден, пожалуйста нажмите кнопку обновить устройство, поддерживающее DLNA</value>
+  </data>
+  <data name="MV_TP_StepPreviousFrame.Content" xml:space="preserve">
+    <value>Предыдущий кадр</value>
+  </data>
+  <data name="SkipCD.SecondaryButtonText" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="CM_SKIP" xml:space="preserve">
+    <value>Пропустить</value>
+  </data>
+  <data name="CM_Open_Skip" xml:space="preserve">
+    <value>Показывать настройки</value>
+  </data>
+  <data name="SkipCD_TITLE.Text" xml:space="preserve">
+    <value>Скип воспроизведение</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Включить функцию скип</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Пропустить интро (в начало)</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Скип окончание (в конце)</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Названия глав</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SkipCD_beginHour.Header" xml:space="preserve">
+    <value>Часы</value>
+  </data>
+  <data name="SkipCD_beginSecond.Header" xml:space="preserve">
+    <value>Секунд</value>
+  </data>
+  <data name="SkipCD_endHour.Header" xml:space="preserve">
+    <value>Часы</value>
+  </data>
+  <data name="SkipCD_endSecond.Header" xml:space="preserve">
+    <value>Секунд</value>
+  </data>
+  <data name="SkipCD_endMinute.Header" xml:space="preserve">
+    <value>Минуты</value>
+  </data>
+  <data name="SkipCD_beginMinute.Header" xml:space="preserve">
+    <value>Минуты</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>добавить функцию воспроизведения скип</value>
+  </data>
+  <data name="CM_Open_skipFeature" xml:space="preserve">
+    <value>Включить функцию скип</value>
+  </data>
+  <data name="CM_Open_skipBegin" xml:space="preserve">
+    <value>Пропустить интро</value>
+  </data>
+  <data name="CM_Open_skipEnd" xml:space="preserve">
+    <value>Окончание пропуска</value>
+  </data>
+  <data name="CM_Open_skipChapter" xml:space="preserve">
+    <value>Пропустить глав</value>
+  </data>
+  <data name="Hours" xml:space="preserve">
+    <value>Часы</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>Минуты</value>
+  </data>
+  <data name="CM_Misc" xml:space="preserve">
+    <value>Разное</value>
+  </data>
+  <data name="CM_ExitApplicationIn30Minutes" xml:space="preserve">
+    <value>Выход из приложения в 30 минут</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_forward" xml:space="preserve">
+    <value>Переместить точку B 0,1 секунд вперед</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_backward" xml:space="preserve">
+    <value>Переместить точку B 0,1 секунды назад</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_forward" xml:space="preserve">
+    <value>Перемещение точки A 0.1 секунд вперед</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_backward" xml:space="preserve">
+    <value>Переместить точку, которую 0.1 секунды назад</value>
+  </data>
+  <data name="CM_WhenOpenFileAddToFavorites" xml:space="preserve">
+    <value>При открытии файла, добавить в избранное</value>
+  </data>
+  <data name="CM_WhenOpenFolderAddToFavorites" xml:space="preserve">
+    <value>При открытии папки добавить в избранное</value>
+  </data>
+  <data name="SkipCD_SkipSyncSubtitleEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Синхронизация субтитров Хронология</value>
+  </data>
+  <data name="IsAudioOnly" xml:space="preserve">
+    <value>Только аудио</value>
+  </data>
+  <data name="IsVideoOnly" xml:space="preserve">
+    <value>Только видео</value>
+  </data>
+  <data name="CM_ExternalAudio" xml:space="preserve">
+    <value>Внешние аудио</value>
+  </data>
+  <data name="Load" xml:space="preserve">
+    <value>нагрузка</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>добавить поддержку внешних аудио</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch Streaming!</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch Streaming!</value>
+  </data>
+  <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="Twitch_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Открытые</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Поиск</value>
+  </data>
+  <data name="Twitch_CD_PivotItem2.Header" xml:space="preserve">
+    <value>История</value>
+  </data>
+  <data name="Twitch_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Результаты поиска</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1.Header" xml:space="preserve">
+    <value>Канал</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem2.Header" xml:space="preserve">
+    <value>URL-адреса</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem3.Header" xml:space="preserve">
+    <value>IDs</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_ChannelName_textblock.Text" xml:space="preserve">
+    <value>Имя канала</value>
+  </data>
+  <data name="AppRestartFailure" xml:space="preserve">
+    <value>Вручную перезапустите приложение.</value>
+  </data>
+  <data name="loadFromCalendarDatePicker.Header" xml:space="preserve">
+    <value>Загрузить из</value>
+  </data>
+  <data name="loadToCalendarDatePicker.Header" xml:space="preserve">
+    <value>Загрузить для</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_VideoType_textblock.Text" xml:space="preserve">
+    <value>Тип видео</value>
+  </data>
+  <data name="BroadcastRadioButton.Content" xml:space="preserve">
+    <value>Трансляция</value>
+  </data>
+  <data name="HighlightRadioButton.Content" xml:space="preserve">
+    <value>Голы</value>
+  </data>
+  <data name="UploadRadioButton.Content" xml:space="preserve">
+    <value>Загрузить</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_LoadLastVods_Slider.Header" xml:space="preserve">
+    <value>Последние видео</value>
+  </data>
+  <data name="OnlyTodayRadioButton.Content" xml:space="preserve">
+    <value>Только сегодня</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Поиск</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock.Text" xml:space="preserve">
+    <value>Вставьте один или несколько URL видео Twitch в текстовом поле ниже. Убедитесь, что каждый URL-адрес помещается в новую строку. </value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock.Text" xml:space="preserve">
+    <value>Вставьте один или несколько дергаться видео идентификаторов в текстовом поле ниже. Убедитесь, что каждый код помещается в новую строку.</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock2.Text" xml:space="preserve">
+    <value>Пример: https://www.twitch.tv/videos/123456789</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock2.Text" xml:space="preserve">
+    <value>Пример: 123456789</value>
+  </data>
+  <data name="SuggestionLoadExternalAudio" xml:space="preserve">
+    <value>Это видео содержит не аудио треков, пожалуйста выберите звуковой дорожки и загрузить его.</value>
+  </data>
+  <data name="Unload" xml:space="preserve">
+    <value>Выгрузить</value>
+  </data>
+  <data name="Transcode_CD_TITLE.Text" xml:space="preserve">
+    <value>Видео аудио объединить Transcode инструмент</value>
+  </data>
+  <data name="CM_VideoAudioCombineTranscodeTool" xml:space="preserve">
+    <value>Видео аудио объединить Transcode инструмент</value>
+  </data>
+  <data name="Transcode_Video_button.Content" xml:space="preserve">
+    <value>Перетащите или выберите файл видео</value>
+  </data>
+  <data name="Transcode_Audio_button.Content" xml:space="preserve">
+    <value>Перетащите или выберите звуковой файл</value>
+  </data>
+  <data name="CM_Transcode_Video_button" xml:space="preserve">
+    <value>Перетащите или выберите файл видео</value>
+  </data>
+  <data name="CM_Transcode_Audio_button" xml:space="preserve">
+    <value>Перетащите или выберите звуковой файл</value>
+  </data>
+  <data name="Transcode_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Начало</value>
+  </data>
+  <data name="Transcode_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="TranscodeFailed" xml:space="preserve">
+    <value>Экономия была неудачной</value>
+  </data>
+  <data name="TranscodeSuccess" xml:space="preserve">
+    <value>сохраненный файл успешно</value>
+  </data>
+  <data name="TranscodeProgress" xml:space="preserve">
+    <value>Сохранение файла... Прогресс:</value>
+  </data>
+  <data name="CM_Track_histogram" xml:space="preserve">
+    <value>Гистограмма</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>add Twitch Streaming support</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>YouTube потоковое</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>YouTube потоковое</value>
+  </data>
+  <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Открытые</value>
+  </data>
+  <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>Добавление поддержки Youtube потоковое</value>
+  </data>
+  <data name="GID_Scale_Slider.Header" xml:space="preserve">
+    <value>Коэффициент масштабирования</value>
+  </data>
+  <data name="CM_Open_Gif" xml:space="preserve">
+    <value>Создание GIF-изображения</value>
+  </data>
+  <data name="Gid_CD_TITLE.Text" xml:space="preserve">
+    <value>Создатель изображения GIF</value>
+  </data>
+  <data name="CanNotCreateGif" xml:space="preserve">
+    <value>Не может создавать GIF-изображения</value>
+  </data>
+  <data name="Gif_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Генерировать GIF</value>
+  </data>
+  <data name="Gif_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="GID_SAVE_BUTTON.Content" xml:space="preserve">
+    <value>Сохранить как...</value>
+  </data>
+  <data name="GenerateGIF" xml:space="preserve">
+    <value>Генерировать GIF</value>
+  </data>
+  <data name="GID_FramePerSecond_Slider.Header" xml:space="preserve">
+    <value>Изображений в секунду</value>
+  </data>
+  <data name="GenGIF_Abort" xml:space="preserve">
+    <value>Генерировать GIF прервана</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>Добавить создатель изображения GIF</value>
+  </data>
+  <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
+    <value>Размер шрифта текста</value>
+  </data>
+  <data name="GID_TextMarginLeft_Slider.Header" xml:space="preserve">
+    <value>Текстовое поле слева</value>
+  </data>
+  <data name="GID_TextMarginTop_Slider.Header" xml:space="preserve">
+    <value>Текст поля сверху</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.Header" xml:space="preserve">
+    <value>Наложение текста</value>
+  </data>
+  <data name="Insert_text_Expander_TextBlock.Text" xml:space="preserve">
+    <value>семейство шрифтов от функция субтитров</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OnContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="TextOverlayToggleSwitch.OffContent" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="Extension_CD_TITLE.Text" xml:space="preserve">
+    <value>Диспетчер расширений</value>
+  </data>
+  <data name="Extension_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="CM_ExtensionManager" xml:space="preserve">
+    <value>Диспетчер расширений</value>
+  </data>
+  <data name="CM_AppRecording" xml:space="preserve">
+    <value>Запись приложений!</value>
+  </data>
+  <data name="CM_StartRecording" xml:space="preserve">
+    <value>Начать запись</value>
+  </data>
+  <data name="CM_StopRecording" xml:space="preserve">
+    <value>Остановить запись</value>
+  </data>
+  <data name="CM_PickRecordingFolder" xml:space="preserve">
+    <value>Изменить сохранить папку</value>
+  </data>
+  <data name="AppRecordingManagerNotSupport" xml:space="preserve">
+    <value>Приложение не поддерживает запись</value>
+  </data>
+  <data name="CM_AppRecordingOpenOnCompleted" xml:space="preserve">
+    <value>Открыть файл после завершения записи</value>
+  </data>
+  <data name="AppRecordingManagerCompleted" xml:space="preserve">
+    <value>Приложение записи успешных</value>
+  </data>
+  <data name="AppRecordingManagerFailed" xml:space="preserve">
+    <value>Приложения запись не удалось</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_start" xml:space="preserve">
+    <value>Начать запись</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_stop" xml:space="preserve">
+    <value>Остановить запись</value>
+  </data>
+  <data name="WM_find_no_text" xml:space="preserve">
+    <value>Текст не найден</value>
+  </data>
+  <data name="CM_OCRText_CopyTo" xml:space="preserve">
+    <value>признать текст изображения, а затем скопировать в буфер обмена</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.Header" xml:space="preserve">
+    <value>Распознавание изображений субтитров затем отображаются в виде текста</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
+    <value>признать текст изображения, а затем скопировать в буфер обмена</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>Scorpio Streaming Server</value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>Scorpio Player for iPhone</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>Scorpio Streaming Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>Bring the Scorpio Player Experience to iOS Platform, functionality may not rich as UWP version for now, but it convient. </value>
+  </data>
+  <data name="WM_FolderContainsNofile" xml:space="preserve">
+    <value>Папка пуста</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>Информация СМИ выборки</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>Информация СМИ выборки</value>
+  </data>
+  <data name="IsServerValidAsyncContent" xml:space="preserve">
+    <value>приложение устарел, пожалуйста обновление через Microsoft App Store, скачать с веб-сайта.</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>добавить поддержку югу папки</value>
+  </data>
+  <data name="CM_UseSeekPreviewer" xml:space="preserve">
+    <value>Использование поиска Previewer</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitle" xml:space="preserve">
+    <value>Живой перевод</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleTo" xml:space="preserve">
+    <value>Перевести на</value>
+  </data>
+  <data name="Bangla" xml:space="preserve">
+    <value>Бангла</value>
+  </data>
+  <data name="Bosnian (Latin)" xml:space="preserve">
+    <value>Боснийский (латиница)</value>
+  </data>
+  <data name="Chinese Simplified" xml:space="preserve">
+    <value>китайский упрощенный</value>
+  </data>
+  <data name="Chinese Traditional" xml:space="preserve">
+    <value>китайский традиционный</value>
+  </data>
+  <data name="Cantonese (Traditional)" xml:space="preserve">
+    <value>Кантонский (традиционный)</value>
+  </data>
+  <data name="Fijian" xml:space="preserve">
+    <value>Фиджи</value>
+  </data>
+  <data name="Filipino" xml:space="preserve">
+    <value>филиппинский</value>
+  </data>
+  <data name="Haitian Creole" xml:space="preserve">
+    <value>Гаитянский</value>
+  </data>
+  <data name="Hmong Daw" xml:space="preserve">
+    <value>ОУПЖ хмонг</value>
+  </data>
+  <data name="Kiswahili" xml:space="preserve">
+    <value>Суахили</value>
+  </data>
+  <data name="Klingon" xml:space="preserve">
+    <value>Клингонский</value>
+  </data>
+  <data name="Klingon (pIqaD)" xml:space="preserve">
+    <value>Клингонский (pIqaD)</value>
+  </data>
+  <data name="Malagasy" xml:space="preserve">
+    <value>Малагасийский</value>
+  </data>
+  <data name="Maltese" xml:space="preserve">
+    <value>мальтийский</value>
+  </data>
+  <data name="Yucatec Maya" xml:space="preserve">
+    <value>Юкатекский</value>
+  </data>
+  <data name="Norwegian Bokmål" xml:space="preserve">
+    <value>Норвежский букмол</value>
+  </data>
+  <data name="Querétaro Otomi" xml:space="preserve">
+    <value>Керетаро отоми</value>
+  </data>
+  <data name="Samoan" xml:space="preserve">
+    <value>Самоа</value>
+  </data>
+  <data name="Serbian (Cyrillic)" xml:space="preserve">
+    <value>сербский (кириллица)</value>
+  </data>
+  <data name="Serbian (Latin)" xml:space="preserve">
+    <value>Сербский (латиница)</value>
+  </data>
+  <data name="Tahitian" xml:space="preserve">
+    <value>Таитянский</value>
+  </data>
+  <data name="Tongan" xml:space="preserve">
+    <value>Тонга</value>
+  </data>
+  <data name="Welsh" xml:space="preserve">
+    <value>валлийский</value>
+  </data>
+  <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
+    <value>Включить</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>Добавить Live перевести функция субтитров</value>
+  </data>
+  <data name="CM_StartScreenCaptureClient" xml:space="preserve">
+    <value>Запустите клиент захвата экрана</value>
+  </data>
+  <data name="CM_StopScreenCaptureClient" xml:space="preserve">
+    <value>Остановить экрана захвата клиента</value>
   </data>
 </root>
