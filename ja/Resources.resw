@@ -2322,9 +2322,6 @@
   <data name="SkipCD_beginMinute.Header" xml:space="preserve">
     <value>分</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>再生のスキップ機能を追加します。</value>
-  </data>
   <data name="CM_Open_skipFeature" xml:space="preserve">
     <value>スキップ機能を有効にします。</value>
   </data>
@@ -2381,9 +2378,6 @@
   </data>
   <data name="Load" xml:space="preserve">
     <value>読み込み</value>
-  </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>外部オーディオのサポートを追加します。</value>
   </data>
   <data name="CM_Open_Twitch" xml:space="preserve">
     <value>Twitch Streaming</value>
@@ -2502,9 +2496,6 @@
   <data name="CM_Track_histogram" xml:space="preserve">
     <value>ヒストグラム</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>add Twitch Streaming support</value>
-  </data>
   <data name="CM_Open_Youtube" xml:space="preserve">
     <value>YouTube Streaming</value>
   </data>
@@ -2516,9 +2507,6 @@
   </data>
   <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
     <value>シャットダウン</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>Youtube のストリーミングのサポートを追加します。</value>
   </data>
   <data name="GID_Scale_Slider.Header" xml:space="preserve">
     <value>倍率</value>
@@ -2549,9 +2537,6 @@
   </data>
   <data name="GenGIF_Abort" xml:space="preserve">
     <value>中止 GIF を生成します。</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>GIF 画像のメーカーを追加します。</value>
   </data>
   <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
     <value>テキストのフォント サイズ</value>
@@ -2646,14 +2631,8 @@
   <data name="WM_FolderContainsNofile" xml:space="preserve">
     <value>フォルダーが空</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>メディア情報を取得します。</value>
-  </data>
   <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
     <value>更新</value>
-  </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>メディア情報を取得します。</value>
   </data>
   <data name="IsServerValidAsyncContent" xml:space="preserve">
     <value>web サイトからダウンロード、アプリケーション時代遅れのしてください Microsoft App Store を通じて更新。</value>
@@ -2742,7 +2721,7 @@
   <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
     <value>有効化</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
+  <data name="Meta_UpdateInfo10" xml:space="preserve">
     <value>ライブ翻訳字幕機能を追加します。</value>
   </data>
   <data name="CM_StartScreenCaptureClient" xml:space="preserve">
@@ -2750,5 +2729,194 @@
   </data>
   <data name="CM_StopScreenCaptureClient" xml:space="preserve">
     <value>画面キャプチャ クライアントを停止します。</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>メディア ・ ファイル情報を取得します。</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>メディア ・ ファイル情報を取得します。</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>自動フェッチ オンライン メディア情報</value>
+  </data>
+  <data name="InternetMovieDatabaseEnabled" xml:space="preserve">
+    <value>自動フェッチ オンライン メディア情報</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleInit" xml:space="preserve">
+    <value>翻訳サービスを初期化します。</value>
+  </data>
+  <data name="WM_LiveTranslateInitialization" xml:space="preserve">
+    <value>翻訳サービスの初期化</value>
+  </data>
+  <data name="CM_RestartApp" xml:space="preserve">
+    <value>アプリケーションを再起動します。</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.Header" xml:space="preserve">
+    <value>TV セーフ領域を無効にします。</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="OpenFolderInFileExplorer" xml:space="preserve">
+    <value>ファイル エクスプ ローラーでフォルダーを開く</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>画像字幕でメモリ リークの問題を修正します。</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>自動フェッチ映画情報機能を追加します。</value>
+  </data>
+  <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
+    <value>IMDb ID</value>
+  </data>
+  <data name="BatchSetIMDbId" xml:space="preserve">
+    <value>バッチは、IMDb の ID を設定</value>
+  </data>
+  <data name="Input_CD.PrimaryButtonText" xml:space="preserve">
+    <value>確かですか</value>
+  </data>
+  <data name="Input_CD.SecondaryButtonText" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="Input_CD_TITLE.Text" xml:space="preserve">
+    <value>入力</value>
+  </data>
+  <data name="InputBatchIMDbId" xml:space="preserve">
+    <value>全体のプレイリスト IMDb ID を変更します。</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.Header" xml:space="preserve">
+    <value>アクリルの効果を上書き</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.Header" xml:space="preserve">
+    <value>テーマのイメージを使用</value>
+  </data>
+  <data name="PlaylistActionButton_AutoLoadLastFileInFolder" xml:space="preserve">
+    <value>自動再生の最後のファイルを再生は、フォルダーを開くとき</value>
+  </data>
+  <data name="detailview_play_button.Text" xml:space="preserve">
+    <value>再生を開始します。</value>
+  </data>
+  <data name="detailview_director_textblock.Text" xml:space="preserve">
+    <value>ディレクター</value>
+  </data>
+  <data name="StartPlay" xml:space="preserve">
+    <value>再生を開始します。</value>
+  </data>
+  <data name="ResumePlay" xml:space="preserve">
+    <value>再生を再開します。</value>
+  </data>
+  <data name="detailview_plot.Text" xml:space="preserve">
+    <value>プロット</value>
+  </data>
+  <data name="detailview_actors.Text" xml:space="preserve">
+    <value>俳優</value>
+  </data>
+  <data name="detailview_Writer.Text" xml:space="preserve">
+    <value>脚本</value>
+  </data>
+  <data name="detailview_Chapter.Text" xml:space="preserve">
+    <value>章</value>
+  </data>
+  <data name="detailview_Bookmark.Text" xml:space="preserve">
+    <value>ブックマーク</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>接続されているアニメーションの詳細ページを追加します。</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>blu-ray フォルダーを開く</value>
+  </data>
+  <data name="SetPodcastPlaylist" xml:space="preserve">
+    <value>お気に入りのソースとしてポッド キャストを使用します。</value>
+  </data>
+  <data name="Subscribe" xml:space="preserve">
+    <value>購読</value>
+  </data>
+  <data name="Podcast_CD.SecondaryButtonText" xml:space="preserve">
+    <value>シャットダウン</value>
+  </data>
+  <data name="Podcast_CD.PrimaryButtonText" xml:space="preserve">
+    <value>検索</value>
+  </data>
+  <data name="Podcast_CD_TITLE.Text" xml:space="preserve">
+    <value>ポッド キャスト マネージャー</value>
+  </data>
+  <data name="CM_Open_Podcast" xml:space="preserve">
+    <value>ポッド キャスト マネージャー</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>お気に入りのソースとしてポッド キャストを使用します。</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="EnterSearchOrFeedUrl_TextBlock.Text" xml:space="preserve">
+    <value>ポッド キャストを検索またはフィードの Url を入力してください。</value>
+  </data>
+  <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
+    <value>ポッド キャストを検索またはフィードの Url を入力してください。</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>ポッド キャストのソースを追加します。</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>リモート制御を許可します。</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="CD_Remote_Listen_Success" xml:space="preserve">
+    <value>リモート管理を有効に</value>
+  </data>
+  <data name="CD_Remote_Listen_Fail" xml:space="preserve">
+    <value>リモート コントロールが起動に失敗します。</value>
+  </data>
+  <data name="ScorpioPlayerRemote" xml:space="preserve">
+    <value>リモート コント ローラー</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>蠍座プレーヤー Xbox 1 つのリモート コント ローラー/Windows 10 PC 版。</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
+    <value>リモート コント ローラーの iPhone/計算されました。</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDroid" xml:space="preserve">
+    <value>リモート コント ローラーのアンドロイド</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
+    <value>リモート コント ローラー Windows Phone</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>リモート コント ローラーとしてあなたの iPhone/iPad/Andriod 携帯電話を使用します。</value>
+  </data>
+  <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
+    <value>リモート制御の停止</value>
   </data>
 </root>

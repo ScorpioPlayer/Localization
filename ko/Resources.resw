@@ -2244,9 +2244,6 @@
   <data name="SkipCD_beginMinute.Header" xml:space="preserve">
     <value>분</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>건너뛰기 재생 기능 추가</value>
-  </data>
   <data name="CM_Open_skipFeature" xml:space="preserve">
     <value>건너뛰기 기능을 사용</value>
   </data>
@@ -2303,9 +2300,6 @@
   </data>
   <data name="Load" xml:space="preserve">
     <value>로드</value>
-  </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>외부 오디오 지원 추가</value>
   </data>
   <data name="CM_Open_Twitch" xml:space="preserve">
     <value>Twitch Streaming</value>
@@ -2424,9 +2418,6 @@
   <data name="CM_Track_histogram" xml:space="preserve">
     <value>히스토그램</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>add Twitch Streaming support</value>
-  </data>
   <data name="CM_Open_Youtube" xml:space="preserve">
     <value>Youtube 스트리밍</value>
   </data>
@@ -2438,9 +2429,6 @@
   </data>
   <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
     <value>끄세요</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>Youtube 스트리밍 지원 추가</value>
   </data>
   <data name="GID_Scale_Slider.Header" xml:space="preserve">
     <value>배율</value>
@@ -2471,9 +2459,6 @@
   </data>
   <data name="GenGIF_Abort" xml:space="preserve">
     <value>중단 하는 GIF 생성</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>GIF 이미지 메이커 추가</value>
   </data>
   <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
     <value>텍스트 글꼴 크기</value>
@@ -2568,14 +2553,8 @@
   <data name="WM_FolderContainsNofile" xml:space="preserve">
     <value>폴더는 비어</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>미디어 정보를 가져올</value>
-  </data>
   <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
     <value>새로 고침</value>
-  </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>미디어 정보를 가져올</value>
   </data>
   <data name="IsServerValidAsyncContent" xml:space="preserve">
     <value>응용 프로그램 구형 마이크로 소프트 응용 프로그램 스토어를 통해 업데이트 하시기 바랍니다, 웹사이트에서 다운로드.</value>
@@ -2664,7 +2643,7 @@
   <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
     <value>사용</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
+  <data name="Meta_UpdateInfo10" xml:space="preserve">
     <value>라이브 번역 자막 기능 추가</value>
   </data>
   <data name="CM_StartScreenCaptureClient" xml:space="preserve">
@@ -2672,5 +2651,194 @@
   </data>
   <data name="CM_StopScreenCaptureClient" xml:space="preserve">
     <value>화면 캡처 클라이언트 중지</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>미디어 파일 정보 가져오기</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>미디어 파일 정보 가져오기</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>자동 인출 온라인 미디어 정보</value>
+  </data>
+  <data name="InternetMovieDatabaseEnabled" xml:space="preserve">
+    <value>자동 인출 온라인 미디어 정보</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleInit" xml:space="preserve">
+    <value>번역 서비스 초기화</value>
+  </data>
+  <data name="WM_LiveTranslateInitialization" xml:space="preserve">
+    <value>번역 서비스 초기화</value>
+  </data>
+  <data name="CM_RestartApp" xml:space="preserve">
+    <value>응용 프로그램 다시 시작</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.Header" xml:space="preserve">
+    <value>TV 안전 영역을 사용 하지 않도록 설정</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="OpenFolderInFileExplorer" xml:space="preserve">
+    <value>파일 탐색기에서 폴더 열기</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>이미지 자막에 메모리 누수 문제를 해결</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>자동 인출 영화 정보 기능 추가</value>
+  </data>
+  <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
+    <value>IMDb ID</value>
+  </data>
+  <data name="BatchSetIMDbId" xml:space="preserve">
+    <value>일괄은 IMDb ID 설정</value>
+  </data>
+  <data name="Input_CD.PrimaryButtonText" xml:space="preserve">
+    <value>확실한가요</value>
+  </data>
+  <data name="Input_CD.SecondaryButtonText" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="Input_CD_TITLE.Text" xml:space="preserve">
+    <value>입력</value>
+  </data>
+  <data name="InputBatchIMDbId" xml:space="preserve">
+    <value>전체 재생 목록 IMDb ID 변경: </value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.Header" xml:space="preserve">
+    <value>아크릴 효과 무시</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.Header" xml:space="preserve">
+    <value>테마 이미지를 사용 하 여</value>
+  </data>
+  <data name="PlaylistActionButton_AutoLoadLastFileInFolder" xml:space="preserve">
+    <value>자동 재생 마지막 재생 파일 폴더 열 때</value>
+  </data>
+  <data name="detailview_play_button.Text" xml:space="preserve">
+    <value>플레이 시작</value>
+  </data>
+  <data name="detailview_director_textblock.Text" xml:space="preserve">
+    <value>감독</value>
+  </data>
+  <data name="StartPlay" xml:space="preserve">
+    <value>플레이 시작</value>
+  </data>
+  <data name="ResumePlay" xml:space="preserve">
+    <value>재생을 다시 시작</value>
+  </data>
+  <data name="detailview_plot.Text" xml:space="preserve">
+    <value>줄거리</value>
+  </data>
+  <data name="detailview_actors.Text" xml:space="preserve">
+    <value>배우</value>
+  </data>
+  <data name="detailview_Writer.Text" xml:space="preserve">
+    <value>작가진</value>
+  </data>
+  <data name="detailview_Chapter.Text" xml:space="preserve">
+    <value>장</value>
+  </data>
+  <data name="detailview_Bookmark.Text" xml:space="preserve">
+    <value>책갈피</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>세부 정보 페이지와 연결 된 애니메이션 추가</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>오픈 블루-레이 폴더</value>
+  </data>
+  <data name="SetPodcastPlaylist" xml:space="preserve">
+    <value>포드 캐스트를 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="Subscribe" xml:space="preserve">
+    <value>구독</value>
+  </data>
+  <data name="Podcast_CD.SecondaryButtonText" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="Podcast_CD.PrimaryButtonText" xml:space="preserve">
+    <value>검색</value>
+  </data>
+  <data name="Podcast_CD_TITLE.Text" xml:space="preserve">
+    <value>팟캐스트 관리자</value>
+  </data>
+  <data name="CM_Open_Podcast" xml:space="preserve">
+    <value>팟캐스트 관리자</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>포드 캐스트를 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="EnterSearchOrFeedUrl_TextBlock.Text" xml:space="preserve">
+    <value>팟캐스트를 찾거나 피드 Url을 입력</value>
+  </data>
+  <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
+    <value>팟캐스트를 찾거나 피드 Url을 입력</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>포드 캐스트 소스 추가</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>원격 제어 허용</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="CD_Remote_Listen_Success" xml:space="preserve">
+    <value>원격 제어 사용</value>
+  </data>
+  <data name="CD_Remote_Listen_Fail" xml:space="preserve">
+    <value>원격 제어 시작 되지</value>
+  </data>
+  <data name="ScorpioPlayerRemote" xml:space="preserve">
+    <value>원격 컨트롤러</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>전갈 자리 플레이어 Xbox 1에 대 한 원격 컨트롤러 / 창 10 PC 버전.</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
+    <value>원격 컨트롤러 아이폰/iPad</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDroid" xml:space="preserve">
+    <value>원격 컨트롤러 안 드 로이드</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
+    <value>원격 컨트롤러 Windows Phone</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value> 당신의 아이폰/iPad/Andriod 전화를 사용 하 여 원격 컨트롤러</value>
+  </data>
+  <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
+    <value>원격 제어 중지</value>
   </data>
 </root>

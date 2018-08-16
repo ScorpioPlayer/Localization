@@ -694,7 +694,7 @@
     <value>Che cosa è nuovo in questa versione</value>
   </data>
   <data name="SD_RateMe" xml:space="preserve">
-    <value>Tasso</value>
+    <value>valuta</value>
   </data>
   <data name="SD_Close" xml:space="preserve">
     <value>Chiudere</value>
@@ -1093,7 +1093,7 @@
     <value>che cosa è nuovo in questa versione</value>
   </data>
   <data name="Meta_RateMe" xml:space="preserve">
-    <value>Tasso</value>
+    <value>valuta</value>
   </data>
   <data name="Meta_Close" xml:space="preserve">
     <value>Chiudere</value>
@@ -2244,9 +2244,6 @@
   <data name="SkipCD_beginMinute.Header" xml:space="preserve">
     <value>Minuti</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>aggiungere funzionalità di riproduzione Skip</value>
-  </data>
   <data name="CM_Open_skipFeature" xml:space="preserve">
     <value>Abilitare la funzione skip</value>
   </data>
@@ -2303,9 +2300,6 @@
   </data>
   <data name="Load" xml:space="preserve">
     <value>carico</value>
-  </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>aggiungere il supporto di Audio esterno</value>
   </data>
   <data name="CM_Open_Twitch" xml:space="preserve">
     <value>Twitch Streaming</value>
@@ -2424,9 +2418,6 @@
   <data name="CM_Track_histogram" xml:space="preserve">
     <value>Istogramma</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>add Twitch Streaming support</value>
-  </data>
   <data name="CM_Open_Youtube" xml:space="preserve">
     <value>YouTube in Streaming</value>
   </data>
@@ -2438,9 +2429,6 @@
   </data>
   <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
     <value>Chiudere</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>aggiungere il supporto di Youtube in Streaming</value>
   </data>
   <data name="GID_Scale_Slider.Header" xml:space="preserve">
     <value>Rapporto di scala</value>
@@ -2471,9 +2459,6 @@
   </data>
   <data name="GenGIF_Abort" xml:space="preserve">
     <value>Generare GIF interrotta</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>aggiungere GIF image maker</value>
   </data>
   <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
     <value>Dimensione del Font di testo</value>
@@ -2568,14 +2553,8 @@
   <data name="WM_FolderContainsNofile" xml:space="preserve">
     <value>Cartella è vuota</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>Recuperare informazioni multimediali</value>
-  </data>
   <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
     <value>Aggiornamento</value>
-  </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>Recuperare informazioni multimediali</value>
   </data>
   <data name="IsServerValidAsyncContent" xml:space="preserve">
     <value>applicazione obsoleti, per favore aggiornamento tramite Microsoft App Store, scaricare dal sito Web.</value>
@@ -2664,7 +2643,7 @@
   <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
     <value>Attiva</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
+  <data name="Meta_UpdateInfo10" xml:space="preserve">
     <value>Aggiungere Live tradurre sottotitoli funzionalità</value>
   </data>
   <data name="CM_StartScreenCaptureClient" xml:space="preserve">
@@ -2672,5 +2651,194 @@
   </data>
   <data name="CM_StopScreenCaptureClient" xml:space="preserve">
     <value>Arrestare Client cattura schermo</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>Recuperare informazioni di File multimediali</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>Recuperare informazioni di File multimediali</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Auto recupero Media Online Info</value>
+  </data>
+  <data name="InternetMovieDatabaseEnabled" xml:space="preserve">
+    <value>Auto recupero Media Online Info</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleInit" xml:space="preserve">
+    <value>Inizializzare il servizio di traduzione</value>
+  </data>
+  <data name="WM_LiveTranslateInitialization" xml:space="preserve">
+    <value>Servizio di traduzione inizializzato</value>
+  </data>
+  <data name="CM_RestartApp" xml:space="preserve">
+    <value>Riavviare l'applicazione</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.Header" xml:space="preserve">
+    <value>Disabilitare la zona TV-Cassetta di sicurezza</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="OpenFolderInFileExplorer" xml:space="preserve">
+    <value>Apri cartella In Esplora File</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>risolvere il problema di perdita di memoria su immagine sottotitoli</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>aggiungere funzionalità di Movie Auto recuperare informazioni</value>
+  </data>
+  <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
+    <value>IMDb ID</value>
+  </data>
+  <data name="BatchSetIMDbId" xml:space="preserve">
+    <value>Batch impostato IMDb ID</value>
+  </data>
+  <data name="Input_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Confermare</value>
+  </data>
+  <data name="Input_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Annulla</value>
+  </data>
+  <data name="Input_CD_TITLE.Text" xml:space="preserve">
+    <value>Ingresso</value>
+  </data>
+  <data name="InputBatchIMDbId" xml:space="preserve">
+    <value>Cambiare tutta la Playlist IMDb ID per: </value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.Header" xml:space="preserve">
+    <value>Eseguire l'override acrilico effetto</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.Header" xml:space="preserve">
+    <value>Utilizzare immagine di tema</value>
+  </data>
+  <data name="PlaylistActionButton_AutoLoadLastFileInFolder" xml:space="preserve">
+    <value>Ultimo file di riproduzione riproduzione automatica quando apre cartella</value>
+  </data>
+  <data name="detailview_play_button.Text" xml:space="preserve">
+    <value>Avviare la riproduzione</value>
+  </data>
+  <data name="detailview_director_textblock.Text" xml:space="preserve">
+    <value>Direttore</value>
+  </data>
+  <data name="StartPlay" xml:space="preserve">
+    <value>Avviare la riproduzione</value>
+  </data>
+  <data name="ResumePlay" xml:space="preserve">
+    <value>Riprendere la riproduzione</value>
+  </data>
+  <data name="detailview_plot.Text" xml:space="preserve">
+    <value>Trama</value>
+  </data>
+  <data name="detailview_actors.Text" xml:space="preserve">
+    <value>Attori</value>
+  </data>
+  <data name="detailview_Writer.Text" xml:space="preserve">
+    <value>Sceneggiatori</value>
+  </data>
+  <data name="detailview_Chapter.Text" xml:space="preserve">
+    <value>Capitoli</value>
+  </data>
+  <data name="detailview_Bookmark.Text" xml:space="preserve">
+    <value>Segnalibro</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>aggiungere la pagina di dettaglio con animazione collegati</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>Aprire la cartella blu-ray</value>
+  </data>
+  <data name="SetPodcastPlaylist" xml:space="preserve">
+    <value>Podcast di uso come fonte di Preferiti</value>
+  </data>
+  <data name="Subscribe" xml:space="preserve">
+    <value>Abbonarsi</value>
+  </data>
+  <data name="Podcast_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Chiudere</value>
+  </data>
+  <data name="Podcast_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Ricerca</value>
+  </data>
+  <data name="Podcast_CD_TITLE.Text" xml:space="preserve">
+    <value>Podcast Manager</value>
+  </data>
+  <data name="CM_Open_Podcast" xml:space="preserve">
+    <value>Podcast Manager</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Podcast di uso come fonte di Preferiti</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="EnterSearchOrFeedUrl_TextBlock.Text" xml:space="preserve">
+    <value>Ricerca Podcast o immettere l'Url del Feed</value>
+  </data>
+  <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
+    <value>Ricerca Podcast o immettere l'Url del Feed</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>aggiungere Podcast fonte</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Consentire il controllo remoto</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sì</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="CD_Remote_Listen_Success" xml:space="preserve">
+    <value>Controllo remoto attivato</value>
+  </data>
+  <data name="CD_Remote_Listen_Fail" xml:space="preserve">
+    <value>Impossibile avviare il controllo remoto</value>
+  </data>
+  <data name="ScorpioPlayerRemote" xml:space="preserve">
+    <value>Regolatore a distanza</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>Telecomando per Scorpione giocatore Xbox One / versione PC Windows 10.</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
+    <value>Controller remoto iPhone/iPad</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDroid" xml:space="preserve">
+    <value>Controller remoto Android</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
+    <value>Controller remoto Windows Phone</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value> utilizzare il vostro iPhone/iPad/Andriod telefono cellulare come telecomando</value>
+  </data>
+  <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
+    <value>Telecomando ha smesso</value>
   </data>
 </root>

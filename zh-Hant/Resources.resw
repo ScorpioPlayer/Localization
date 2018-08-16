@@ -2322,9 +2322,6 @@
   <data name="SkipCD_beginMinute.Header" xml:space="preserve">
     <value>分鐘</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>添加跳過播放功能</value>
-  </data>
   <data name="CM_Open_skipFeature" xml:space="preserve">
     <value>啟用跳過功能</value>
   </data>
@@ -2381,9 +2378,6 @@
   </data>
   <data name="Load" xml:space="preserve">
     <value>加载...</value>
-  </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>添加外部音訊支援</value>
   </data>
   <data name="CM_Open_Twitch" xml:space="preserve">
     <value>Twitch 网络流</value>
@@ -2502,9 +2496,6 @@
   <data name="CM_Track_histogram" xml:space="preserve">
     <value>色階分佈圖</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>添加Twitch 流支援</value>
-  </data>
   <data name="CM_Open_Youtube" xml:space="preserve">
     <value>Youtube 流</value>
   </data>
@@ -2516,9 +2507,6 @@
   </data>
   <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
     <value>關閉</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>添加 Youtube 流支援</value>
   </data>
   <data name="GID_Scale_Slider.Header" xml:space="preserve">
     <value>縮放比例</value>
@@ -2549,9 +2537,6 @@
   </data>
   <data name="GenGIF_Abort" xml:space="preserve">
     <value>生成 GIF 中止</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>添加 GIF 圖像製作器</value>
   </data>
   <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
     <value>文本字體大小</value>
@@ -2646,14 +2631,8 @@
   <data name="WM_FolderContainsNofile" xml:space="preserve">
     <value>資料夾為空</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>獲取媒體資訊</value>
-  </data>
   <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
     <value>重新整理​​</value>
-  </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>獲取媒體資訊</value>
   </data>
   <data name="IsServerValidAsyncContent" xml:space="preserve">
     <value>應用程式已過時, 請通過 Microsoft 應用商店更新, 或從網站下載。</value>
@@ -2742,7 +2721,7 @@
   <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
     <value>啟用</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
+  <data name="Meta_UpdateInfo10" xml:space="preserve">
     <value>添加即時翻譯字幕功能</value>
   </data>
   <data name="CM_StartScreenCaptureClient" xml:space="preserve">
@@ -2750,5 +2729,194 @@
   </data>
   <data name="CM_StopScreenCaptureClient" xml:space="preserve">
     <value>停止螢幕捕獲用戶端</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>獲取媒體檔案資訊</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>獲取媒體檔案資訊</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>自動獲取線上媒體資訊</value>
+  </data>
+  <data name="InternetMovieDatabaseEnabled" xml:space="preserve">
+    <value>自動獲取線上媒體資訊</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleInit" xml:space="preserve">
+    <value>初始化翻譯服務</value>
+  </data>
+  <data name="WM_LiveTranslateInitialization" xml:space="preserve">
+    <value>已初始化翻譯服務</value>
+  </data>
+  <data name="CM_RestartApp" xml:space="preserve">
+    <value>重新開機應用程式</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.Header" xml:space="preserve">
+    <value>禁用電視安全區域</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="OpenFolderInFileExplorer" xml:space="preserve">
+    <value>在檔資源管理器中打開資料夾</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>修復圖像字幕上的記憶體洩漏問題</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>添加自動回遷影片資訊功能</value>
+  </data>
+  <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
+    <value>IMDb ID</value>
+  </data>
+  <data name="BatchSetIMDbId" xml:space="preserve">
+    <value>批量设置 IMDb ID</value>
+  </data>
+  <data name="Input_CD.PrimaryButtonText" xml:space="preserve">
+    <value>確定</value>
+  </data>
+  <data name="Input_CD.SecondaryButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Input_CD_TITLE.Text" xml:space="preserve">
+    <value>輸入</value>
+  </data>
+  <data name="InputBatchIMDbId" xml:space="preserve">
+    <value>將整個播放清單 IMDb ID 更改為:</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.Header" xml:space="preserve">
+    <value>覆蓋亚力克效果</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.Header" xml:space="preserve">
+    <value>使用主題圖像</value>
+  </data>
+  <data name="PlaylistActionButton_AutoLoadLastFileInFolder" xml:space="preserve">
+    <value>打開資料夾時自動播放上次播放檔</value>
+  </data>
+  <data name="detailview_play_button.Text" xml:space="preserve">
+    <value>開始播放</value>
+  </data>
+  <data name="detailview_director_textblock.Text" xml:space="preserve">
+    <value>導演</value>
+  </data>
+  <data name="StartPlay" xml:space="preserve">
+    <value>開始播放</value>
+  </data>
+  <data name="ResumePlay" xml:space="preserve">
+    <value>恢復播放</value>
+  </data>
+  <data name="detailview_plot.Text" xml:space="preserve">
+    <value>劇情簡介</value>
+  </data>
+  <data name="detailview_actors.Text" xml:space="preserve">
+    <value>演員</value>
+  </data>
+  <data name="detailview_Writer.Text" xml:space="preserve">
+    <value>編劇</value>
+  </data>
+  <data name="detailview_Chapter.Text" xml:space="preserve">
+    <value>章节</value>
+  </data>
+  <data name="detailview_Bookmark.Text" xml:space="preserve">
+    <value>書簽</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>添加帶有連接動畫的詳細資訊頁面</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>打開藍光資料夾</value>
+  </data>
+  <data name="SetPodcastPlaylist" xml:space="preserve">
+    <value>使用播客作為收藏源</value>
+  </data>
+  <data name="Subscribe" xml:space="preserve">
+    <value>訂閱</value>
+  </data>
+  <data name="Podcast_CD.SecondaryButtonText" xml:space="preserve">
+    <value>關閉</value>
+  </data>
+  <data name="Podcast_CD.PrimaryButtonText" xml:space="preserve">
+    <value>搜索</value>
+  </data>
+  <data name="Podcast_CD_TITLE.Text" xml:space="preserve">
+    <value>播客管理器</value>
+  </data>
+  <data name="CM_Open_Podcast" xml:space="preserve">
+    <value>播客管理器</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>使用播客作為收藏源</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="EnterSearchOrFeedUrl_TextBlock.Text" xml:space="preserve">
+    <value>搜索播客或輸入 播客 Url</value>
+  </data>
+  <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
+    <value>搜索播客或輸入 播客 Url</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>添加播客源</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>允許遠端控制</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CD_Remote_Listen_Success" xml:space="preserve">
+    <value>已啟用遠端控制</value>
+  </data>
+  <data name="CD_Remote_Listen_Fail" xml:space="preserve">
+    <value>遠端控制無法啟動</value>
+  </data>
+  <data name="ScorpioPlayerRemote" xml:space="preserve">
+    <value>遙控控制器</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>遙控控制器為天蠍播放器Xbox 一/Windows 10 PC版本。</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
+    <value>遙控遙控器 iPhone/iPad</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDroid" xml:space="preserve">
+    <value>遙控 安卓</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
+    <value>遠端控制器 Windows 電話</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>使用您的 iPhone/iPad/Andriod 電話作為遠端控制器</value>
+  </data>
+  <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
+    <value>遠端控制已停止</value>
   </data>
 </root>

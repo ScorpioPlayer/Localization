@@ -2247,9 +2247,6 @@
   <data name="SkipCD_beginMinute.Header" xml:space="preserve">
     <value>دقائق</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>إضافة "ميزة قراءة تخطي"</value>
-  </data>
   <data name="CM_Open_skipFeature" xml:space="preserve">
     <value>تمكين ميزة تخطي</value>
   </data>
@@ -2306,9 +2303,6 @@
   </data>
   <data name="Load" xml:space="preserve">
     <value>حمولة</value>
-  </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>إضافة دعم "الصوت الخارجية"</value>
   </data>
   <data name="CM_Open_Twitch" xml:space="preserve">
     <value>Twitch Streaming!</value>
@@ -2427,9 +2421,6 @@
   <data name="CM_Track_histogram" xml:space="preserve">
     <value>مدرج تكراري</value>
   </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>add Twitch Streaming support</value>
-  </data>
   <data name="CM_Open_Youtube" xml:space="preserve">
     <value>YouTube Streaming</value>
   </data>
@@ -2441,9 +2432,6 @@
   </data>
   <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
     <value>قم بإغلاق</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>إضافة دعم "يتدفقون يوتيوب"</value>
   </data>
   <data name="GID_Scale_Slider.Header" xml:space="preserve">
     <value>نسبة القياس</value>
@@ -2474,9 +2462,6 @@
   </data>
   <data name="GenGIF_Abort" xml:space="preserve">
     <value>إنشاء GIF إحباط</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>إضافة صانع صورة GIF</value>
   </data>
   <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
     <value>حجم خط النص</value>
@@ -2571,12 +2556,6 @@
   <data name="WM_FolderContainsNofile" xml:space="preserve">
     <value>المجلد فارغ</value>
   </data>
-  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
-    <value>إحضار معلومات الوسائط</value>
-  </data>
-  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
-    <value>إحضار معلومات الوسائط</value>
-  </data>
   <data name="IsServerValidAsyncContent" xml:space="preserve">
     <value>تطبيق قديمة، الرجاء تحديث عن طريق مايكروسوفت المتجر، وتحميل من موقع على شبكة الإنترنت.</value>
   </data>
@@ -2664,7 +2643,7 @@
   <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
     <value>تمكين</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
+  <data name="Meta_UpdateInfo10" xml:space="preserve">
     <value>إضافة "ميزة الترجمة ترجمة العيش"</value>
   </data>
   <data name="CM_StartScreenCaptureClient" xml:space="preserve">
@@ -2672,5 +2651,194 @@
   </data>
   <data name="CM_StopScreenCaptureClient" xml:space="preserve">
     <value>إيقاف تشغيل عميل التقاط الشاشة</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>إحضار معلومات ملف الوسائط</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>إحضار معلومات ملف الوسائط</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>معلومات تلقائية إحضار وسائل الإعلام على الإنترنت</value>
+  </data>
+  <data name="InternetMovieDatabaseEnabled" xml:space="preserve">
+    <value>معلومات تلقائية إحضار وسائل الإعلام على الإنترنت</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleInit" xml:space="preserve">
+    <value>تهيئة خدمة الترجمة</value>
+  </data>
+  <data name="WM_LiveTranslateInitialization" xml:space="preserve">
+    <value>تهيئة خدمة الترجمة</value>
+  </data>
+  <data name="CM_RestartApp" xml:space="preserve">
+    <value>إعادة تشغيل التطبيق</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.Header" xml:space="preserve">
+    <value>تعطيل منطقة آمنة للتلفزيون</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="OpenFolderInFileExplorer" xml:space="preserve">
+    <value>فتح مجلد في مستكشف الملفات</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>إصلاح مشكلة تسرب الذاكرة على "ترجمة الصورة"</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>إضافة ميزة معلومات "الفيلم جلب السيارات"</value>
+  </data>
+  <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
+    <value>معرف IMDb</value>
+  </data>
+  <data name="BatchSetIMDbId" xml:space="preserve">
+    <value>دفعة تعيين معرف IMDb</value>
+  </data>
+  <data name="Input_CD.PrimaryButtonText" xml:space="preserve">
+    <value>تأكيد</value>
+  </data>
+  <data name="Input_CD.SecondaryButtonText" xml:space="preserve">
+    <value>إلغاء الأمر</value>
+  </data>
+  <data name="Input_CD_TITLE.Text" xml:space="preserve">
+    <value>الإدخال</value>
+  </data>
+  <data name="InputBatchIMDbId" xml:space="preserve">
+    <value>تغيير معرف IMDb التشغيل كاملة إلى: </value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.Header" xml:space="preserve">
+    <value>تجاوز تأثير اﻷكريليك</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام موضوع الصورة</value>
+  </data>
+  <data name="PlaylistActionButton_AutoLoadLastFileInFolder" xml:space="preserve">
+    <value>السيارات تلعب آخر تشغيل الملف عند فتح المجلد</value>
+  </data>
+  <data name="detailview_play_button.Text" xml:space="preserve">
+    <value>بدء تشغيل</value>
+  </data>
+  <data name="detailview_director_textblock.Text" xml:space="preserve">
+    <value>المدير</value>
+  </data>
+  <data name="StartPlay" xml:space="preserve">
+    <value>بدء تشغيل</value>
+  </data>
+  <data name="ResumePlay" xml:space="preserve">
+    <value>استئناف اللعب</value>
+  </data>
+  <data name="detailview_plot.Text" xml:space="preserve">
+    <value>الرواية</value>
+  </data>
+  <data name="detailview_actors.Text" xml:space="preserve">
+    <value>الجهات الفاعلة</value>
+  </data>
+  <data name="detailview_Writer.Text" xml:space="preserve">
+    <value>الكتّاب</value>
+  </data>
+  <data name="detailview_Chapter.Text" xml:space="preserve">
+    <value>الفصول</value>
+  </data>
+  <data name="detailview_Bookmark.Text" xml:space="preserve">
+    <value>الإشارة المرجعية</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>إضافة صفحة التفاصيل مع الرسوم المتحركة متصل</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>فتح مجلد قرص بلو رأي</value>
+  </data>
+  <data name="SetPodcastPlaylist" xml:space="preserve">
+    <value>استخدام دبليو كمصدر للمفضلة</value>
+  </data>
+  <data name="Subscribe" xml:space="preserve">
+    <value>اشتراك</value>
+  </data>
+  <data name="Podcast_CD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="Podcast_CD.PrimaryButtonText" xml:space="preserve">
+    <value>البحث عن</value>
+  </data>
+  <data name="Podcast_CD_TITLE.Text" xml:space="preserve">
+    <value>إدارة بودكاست</value>
+  </data>
+  <data name="CM_Open_Podcast" xml:space="preserve">
+    <value>إدارة بودكاست</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام دبليو كمصدر للمفضلة</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="EnterSearchOrFeedUrl_TextBlock.Text" xml:space="preserve">
+    <value>البحث بودكاست أو أدخل عنوان Url لتغذية</value>
+  </data>
+  <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
+    <value>البحث بودكاست أو أدخل عنوان Url لتغذية</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>إضافة مصدر بودكاست</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>السماح بالتحكم عن بُعد</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CD_Remote_Listen_Success" xml:space="preserve">
+    <value>تمكين التحكم عن بعد</value>
+  </data>
+  <data name="CD_Remote_Listen_Fail" xml:space="preserve">
+    <value>فشل في بدء تشغيل جهاز التحكم عن بعد</value>
+  </data>
+  <data name="ScorpioPlayerRemote" xml:space="preserve">
+    <value>وحدة تحكم عن بعد</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>وحدة تحكم عن بعد العقرب إكس بوكس لاعب واحد/نسخة ويندوز 10 أجهزة الكمبيوتر.</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
+    <value>وحدة تحكم عن بعد فون/باد</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDroid" xml:space="preserve">
+    <value>الروبوت التحكم عن بعد</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
+    <value>وحدة تحكم عن بعد Windows Phone</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value> استخدام الخاص بك أي فون/باد/Andriod الهاتف "جهاز تحكم عن بعد"</value>
+  </data>
+  <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
+    <value>جهاز التحكم عن بعد توقف</value>
   </data>
 </root>
