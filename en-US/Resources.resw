@@ -1318,7 +1318,7 @@
     <value>Disabled</value>
   </data>
   <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>add Auto Fetch Movie information feature</value>
+    <value>stability improve</value>
   </data>
   <data name="Effects_Manager_SharpenToggleSwitch.Header" xml:space="preserve">
     <value>Sharpen</value>
@@ -1366,10 +1366,10 @@
     <value>Yes</value>
   </data>
   <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>add Live Translate Subtitle Feature</value>
+    <value></value>
   </data>
   <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>add sub folder support</value>
+    <value></value>
   </data>
   <data name="Effects_Manager_EmbossToggleSwitch.Header" xml:space="preserve">
     <value>Emboss</value>
@@ -1387,10 +1387,10 @@
     <value>Disabled</value>
   </data>
   <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>fix memory leak issue on Image Subtitles</value>
+    <value>fix multiple window crash issue</value>
   </data>
   <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>add detail page with connected animation</value>
+    <value>ability to disable HDR color space</value>
   </data>
   <data name="CD_Socket_TITLE.Text" xml:space="preserve">
     <value>Scorpio Network Streaming</value>
@@ -1561,10 +1561,10 @@
     <value>remote host settings for Scorpio Network Streaming is required</value>
   </data>
   <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>open blu-ray folder</value>
+    <value></value>
   </data>
   <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value> use your iPhone/iPad/Andriod Phone as Remote Controller</value>
+    <value>add preserve origin text in live translating</value>
   </data>
   <data name="Meta_UpdateInfo8" xml:space="preserve">
     <value></value>
@@ -1630,7 +1630,7 @@
     <value></value>
   </data>
   <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>add Podcast Source</value>
+    <value>update version number</value>
   </data>
   <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
     <value>Use Glow Effect</value>
@@ -2864,5 +2864,26 @@
   </data>
   <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
     <value>Remote Control Stopped</value>
+  </data>
+  <data name="CM_DisableHDR" xml:space="preserve">
+    <value>Disable HDR Color Space</value>
+  </data>
+  <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
+    <value>Preserve origin text</value>
+  </data>
+  <data name="CM_ShowDanmuButton" xml:space="preserve">
+    <value>Show Barrage Subtitle Button</value>
+  </data>
+  <data name="CM_ShowChangePlaybackRateButton" xml:space="preserve">
+    <value>Show Playback Rate Button</value>
+  </data>
+  <data name="CM_ShowAutoSuggestBoxButton" xml:space="preserve">
+    <value>Show Search Box</value>
+  </data>
+  <data name="CM_Show360VideoPlaybackButton" xml:space="preserve">
+    <value>Show 360° Video Playback Button</value>
+  </data>
+  <data name="CM_ShowNextFrameButton" xml:space="preserve">
+    <value>Show Next Frame button</value>
   </data>
 </root>

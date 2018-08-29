@@ -2559,9 +2559,6 @@
   <data name="IsServerValidAsyncContent" xml:space="preserve">
     <value>应用程序已过时, 请通过 Microsoft 應用商店更新, 或从网站下载。</value>
   </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>添加子文件夹支持</value>
-  </data>
   <data name="CM_UseSeekPreviewer" xml:space="preserve">
     <value>使用查找预览</value>
   </data>
@@ -2643,9 +2640,6 @@
   <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
     <value>启用</value>
   </data>
-  <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>添加实时翻译字幕功能</value>
-  </data>
   <data name="CM_StartScreenCaptureClient" xml:space="preserve">
     <value>启动屏幕捕获客户端</value>
   </data>
@@ -2690,12 +2684,6 @@
   </data>
   <data name="OpenFolderInFileExplorer" xml:space="preserve">
     <value>在文件资源管理器中打开文件夹</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>修复图像字幕上的内存泄漏问题</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>添加自动获取影片信息功能</value>
   </data>
   <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
     <value>IMDb ID</value>
@@ -2763,12 +2751,6 @@
   <data name="detailview_Bookmark.Text" xml:space="preserve">
     <value>书签</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>添加带有连接动画的详细信息页面</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>打开蓝光文件夹</value>
-  </data>
   <data name="SetPodcastPlaylist" xml:space="preserve">
     <value>使用播客作为收藏源</value>
   </data>
@@ -2802,9 +2784,6 @@
   <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
     <value>搜索播客或输入 播客 Url</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>添加播客源</value>
-  </data>
   <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
     <value>允许远程控制</value>
   </data>
@@ -2835,10 +2814,43 @@
   <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
     <value>手机控制器 Windows 手机</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>使用您的 iPhone/iPad/Andriod 电话作为远程控制器</value>
-  </data>
   <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
     <value>远程控制已停止</value>
+  </data>
+  <data name="CM_DisableHDR" xml:space="preserve">
+    <value>禁用 HDR 颜色空间</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>禁用 HDR 颜色空间的能力</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>更新版本号</value>
+  </data>
+  <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
+    <value>保留源文本</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>在实时翻译中添加保留源文本</value>
+  </data>
+  <data name="CM_ShowDanmuButton" xml:space="preserve">
+    <value>显示弹幕按钮</value>
+  </data>
+  <data name="CM_ShowChangePlaybackRateButton" xml:space="preserve">
+    <value>显示播放速率按钮</value>
+  </data>
+  <data name="CM_ShowAutoSuggestBoxButton" xml:space="preserve">
+    <value>显示通用搜索框</value>
+  </data>
+  <data name="CM_Show360VideoPlaybackButton" xml:space="preserve">
+    <value>显示 360° 视频播放按钮</value>
+  </data>
+  <data name="CM_ShowNextFrameButton" xml:space="preserve">
+    <value>显示下一帧控制按钮</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>稳定性提高</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>修复多个窗口崩溃问题</value>
   </data>
 </root>

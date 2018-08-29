@@ -2637,9 +2637,6 @@
   <data name="IsServerValidAsyncContent" xml:space="preserve">
     <value>web サイトからダウンロード、アプリケーション時代遅れのしてください Microsoft App Store を通じて更新。</value>
   </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>サブ フォルダーのサポートを追加します。</value>
-  </data>
   <data name="CM_UseSeekPreviewer" xml:space="preserve">
     <value>使用を求めるプレビューアー</value>
   </data>
@@ -2721,9 +2718,6 @@
   <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
     <value>有効化</value>
   </data>
-  <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>ライブ翻訳字幕機能を追加します。</value>
-  </data>
   <data name="CM_StartScreenCaptureClient" xml:space="preserve">
     <value>画面キャプチャ クライアントを起動します。</value>
   </data>
@@ -2768,12 +2762,6 @@
   </data>
   <data name="OpenFolderInFileExplorer" xml:space="preserve">
     <value>ファイル エクスプ ローラーでフォルダーを開く</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>画像字幕でメモリ リークの問題を修正します。</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>自動フェッチ映画情報機能を追加します。</value>
   </data>
   <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
     <value>IMDb ID</value>
@@ -2841,12 +2829,6 @@
   <data name="detailview_Bookmark.Text" xml:space="preserve">
     <value>ブックマーク</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>接続されているアニメーションの詳細ページを追加します。</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>blu-ray フォルダーを開く</value>
-  </data>
   <data name="SetPodcastPlaylist" xml:space="preserve">
     <value>お気に入りのソースとしてポッド キャストを使用します。</value>
   </data>
@@ -2880,9 +2862,6 @@
   <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
     <value>ポッド キャストを検索またはフィードの Url を入力してください。</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>ポッド キャストのソースを追加します。</value>
-  </data>
   <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
     <value>リモート制御を許可します。</value>
   </data>
@@ -2913,10 +2892,43 @@
   <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
     <value>リモート コント ローラー Windows Phone</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>リモート コント ローラーとしてあなたの iPhone/iPad/Andriod 携帯電話を使用します。</value>
-  </data>
   <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
     <value>リモート制御の停止</value>
+  </data>
+  <data name="CM_DisableHDR" xml:space="preserve">
+    <value>HDR カラー スペースを無効にする</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>HDR カラー スペースを無効にする機能</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>更新のバージョン番号</value>
+  </data>
+  <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
+    <value>元のテキストを保持します。</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>ライブ翻訳に保持する起源のテキストを追加します。</value>
+  </data>
+  <data name="CM_ShowDanmuButton" xml:space="preserve">
+    <value>画面の表示] ボタン</value>
+  </data>
+  <data name="CM_ShowChangePlaybackRateButton" xml:space="preserve">
+    <value>再生率] ボタンを表示します。</value>
+  </data>
+  <data name="CM_ShowAutoSuggestBoxButton" xml:space="preserve">
+    <value>普遍的な検索ボックスを表示します。</value>
+  </data>
+  <data name="CM_Show360VideoPlaybackButton" xml:space="preserve">
+    <value>360 ° のビデオ再生ボタンを表示します。</value>
+  </data>
+  <data name="CM_ShowNextFrameButton" xml:space="preserve">
+    <value>次のフレーム コントロール ボタンを表示します。</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>安定性を向上させる</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>複数のウィンドウのクラッシュの問題を修正します。</value>
   </data>
 </root>

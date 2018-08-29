@@ -2559,9 +2559,6 @@
   <data name="IsServerValidAsyncContent" xml:space="preserve">
     <value>приложение устарел, пожалуйста обновление через Microsoft App Store, скачать с веб-сайта.</value>
   </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>добавить поддержку югу папки</value>
-  </data>
   <data name="CM_UseSeekPreviewer" xml:space="preserve">
     <value>Использование поиска Previewer</value>
   </data>
@@ -2643,9 +2640,6 @@
   <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
     <value>Включить</value>
   </data>
-  <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>Добавить Live перевести функция субтитров</value>
-  </data>
   <data name="CM_StartScreenCaptureClient" xml:space="preserve">
     <value>Запустите клиент захвата экрана</value>
   </data>
@@ -2690,12 +2684,6 @@
   </data>
   <data name="OpenFolderInFileExplorer" xml:space="preserve">
     <value>Открыть папку в проводнике</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>исправить вопрос утечки памяти на изображение субтитры</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>добавить функцию автоматического извлечения фильм информации</value>
   </data>
   <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
     <value>IMDb ID</value>
@@ -2763,12 +2751,6 @@
   <data name="detailview_Bookmark.Text" xml:space="preserve">
     <value>Закладка</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>Добавить страницу сведений с подключенным анимации</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>Откройте папку blu-ray</value>
-  </data>
   <data name="SetPodcastPlaylist" xml:space="preserve">
     <value>Использование подкастов в качестве источника Избранное</value>
   </data>
@@ -2802,9 +2784,6 @@
   <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
     <value>Поиск подкаст или ввести корма Url</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Добавить источник Podcast</value>
-  </data>
   <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
     <value>Возможность удаленного управления</value>
   </data>
@@ -2835,10 +2814,43 @@
   <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
     <value>Пульт дистанционного управления Windows Phone</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value> Используйте ваш iPhone/iPad/Andriod телефон в качестве пульта дистанционного управления</value>
-  </data>
   <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
     <value>Пульт дистанционного управления остановлена</value>
+  </data>
+  <data name="CM_DisableHDR" xml:space="preserve">
+    <value>Отключите HDR цветовое пространство</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>возможность отключения HDR цветового пространства</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>номер версии обновления</value>
+  </data>
+  <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
+    <value>Сохранить текст происхождения</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>добавить текст происхождения заповедник в прямом переводе</value>
+  </data>
+  <data name="CM_ShowDanmuButton" xml:space="preserve">
+    <value>Показать кнопку Subtitle шквал</value>
+  </data>
+  <data name="CM_ShowChangePlaybackRateButton" xml:space="preserve">
+    <value>Показать кнопку скорость воспроизведения</value>
+  </data>
+  <data name="CM_ShowAutoSuggestBoxButton" xml:space="preserve">
+    <value>Показать поле поиска</value>
+  </data>
+  <data name="CM_Show360VideoPlaybackButton" xml:space="preserve">
+    <value>Показать кнопку воспроизведения видео 360°</value>
+  </data>
+  <data name="CM_ShowNextFrameButton" xml:space="preserve">
+    <value>Показать кнопку следующий кадр</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>улучшения стабильности</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>Исправление нескольких окна аварии вопрос</value>
   </data>
 </root>

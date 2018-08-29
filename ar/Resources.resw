@@ -2559,9 +2559,6 @@
   <data name="IsServerValidAsyncContent" xml:space="preserve">
     <value>تطبيق قديمة، الرجاء تحديث عن طريق مايكروسوفت المتجر، وتحميل من موقع على شبكة الإنترنت.</value>
   </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>إضافة دعم المجلدات الفرعية</value>
-  </data>
   <data name="CM_UseSeekPreviewer" xml:space="preserve">
     <value>استخدام البحث المعاين</value>
   </data>
@@ -2643,9 +2640,6 @@
   <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
     <value>تمكين</value>
   </data>
-  <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>إضافة "ميزة الترجمة ترجمة العيش"</value>
-  </data>
   <data name="CM_StartScreenCaptureClient" xml:space="preserve">
     <value>بدء تشغيل عميل التقاط الشاشة</value>
   </data>
@@ -2690,12 +2684,6 @@
   </data>
   <data name="OpenFolderInFileExplorer" xml:space="preserve">
     <value>فتح مجلد في مستكشف الملفات</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>إصلاح مشكلة تسرب الذاكرة على "ترجمة الصورة"</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>إضافة ميزة معلومات "الفيلم جلب السيارات"</value>
   </data>
   <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
     <value>معرف IMDb</value>
@@ -2763,12 +2751,6 @@
   <data name="detailview_Bookmark.Text" xml:space="preserve">
     <value>الإشارة المرجعية</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>إضافة صفحة التفاصيل مع الرسوم المتحركة متصل</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>فتح مجلد قرص بلو رأي</value>
-  </data>
   <data name="SetPodcastPlaylist" xml:space="preserve">
     <value>استخدام دبليو كمصدر للمفضلة</value>
   </data>
@@ -2802,9 +2784,6 @@
   <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
     <value>البحث بودكاست أو أدخل عنوان Url لتغذية</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>إضافة مصدر بودكاست</value>
-  </data>
   <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
     <value>السماح بالتحكم عن بُعد</value>
   </data>
@@ -2835,10 +2814,43 @@
   <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
     <value>وحدة تحكم عن بعد Windows Phone</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value> استخدام الخاص بك أي فون/باد/Andriod الهاتف "جهاز تحكم عن بعد"</value>
-  </data>
   <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
     <value>جهاز التحكم عن بعد توقف</value>
+  </data>
+  <data name="CM_DisableHDR" xml:space="preserve">
+    <value>تعطيل مساحة لون HDR</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>القدرة على تعطيل مساحة لون HDR</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>رقم إصدار التحديث</value>
+  </data>
+  <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
+    <value>الحفاظ على النص الأصلي</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>إضافة الحفاظ على النص الأصلي في ترجمة حية</value>
+  </data>
+  <data name="CM_ShowDanmuButton" xml:space="preserve">
+    <value>إظهار زر الترجمة وابل</value>
+  </data>
+  <data name="CM_ShowChangePlaybackRateButton" xml:space="preserve">
+    <value>إظهار زر معدل التشغيل</value>
+  </data>
+  <data name="CM_ShowAutoSuggestBoxButton" xml:space="preserve">
+    <value>إظهار مربع البحث</value>
+  </data>
+  <data name="CM_Show360VideoPlaybackButton" xml:space="preserve">
+    <value>إظهار زر تشغيل الفيديو 360 درجة</value>
+  </data>
+  <data name="CM_ShowNextFrameButton" xml:space="preserve">
+    <value>إظهار زر "الإطار التالي"</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>تحسين الاستقرار</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>إصلاح مشكلة تحطم نافذة متعددة</value>
   </data>
 </root>

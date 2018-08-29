@@ -2559,9 +2559,6 @@
   <data name="IsServerValidAsyncContent" xml:space="preserve">
     <value>aplicativo desatualizado, por favor atualização através do Microsoft App Store, baixar do site.</value>
   </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>Adicionar sub pasta suporte</value>
-  </data>
   <data name="CM_UseSeekPreviewer" xml:space="preserve">
     <value>Utilize busca Previewer</value>
   </data>
@@ -2643,9 +2640,6 @@
   <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
     <value>Habilitar</value>
   </data>
-  <data name="Meta_UpdateInfo10" xml:space="preserve">
-    <value>Adicionar ao vivo traduzir legendas recurso</value>
-  </data>
   <data name="CM_StartScreenCaptureClient" xml:space="preserve">
     <value>Inicie o cliente de captura de tela</value>
   </data>
@@ -2690,12 +2684,6 @@
   </data>
   <data name="OpenFolderInFileExplorer" xml:space="preserve">
     <value>Abrir a pasta no explorador de arquivos</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>corrigir o problema de vazamento de memória na legenda da imagem</value>
-  </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>Adicionar o recurso de Auto Movie buscar informações</value>
   </data>
   <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
     <value>ID do IMDb</value>
@@ -2763,12 +2751,6 @@
   <data name="detailview_Bookmark.Text" xml:space="preserve">
     <value>Indicador</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>Adicionar página de detalhes com animação conectada</value>
-  </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>Abra a pasta de blu-ray</value>
-  </data>
   <data name="SetPodcastPlaylist" xml:space="preserve">
     <value>Podcasts de utilização como fonte de favoritos</value>
   </data>
@@ -2802,9 +2784,6 @@
   <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
     <value>Pesquisa Podcast ou digite a Url do Feed</value>
   </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Adicionar fonte de Podcast</value>
-  </data>
   <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
     <value>Permitir o controle remoto</value>
   </data>
@@ -2835,10 +2814,43 @@
   <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
     <value>Controlador remoto Windows Phone</value>
   </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value> Use seu iPhone/iPad/Andriod telefone como controlador remoto</value>
-  </data>
   <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
     <value>Controle remoto parado</value>
+  </data>
+  <data name="CM_DisableHDR" xml:space="preserve">
+    <value>Desative o espaço de cor HDR</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>capacidade de desativar o espaço de cor HDR</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>número de versão de atualização</value>
+  </data>
+  <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
+    <value>Preservar o texto de origem</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>Adicionar texto de origem de preservar em traduzir ao vivo</value>
+  </data>
+  <data name="CM_ShowDanmuButton" xml:space="preserve">
+    <value>Mostrar botão de legenda de barragem</value>
+  </data>
+  <data name="CM_ShowChangePlaybackRateButton" xml:space="preserve">
+    <value>Mostrar botão de taxa de reprodução</value>
+  </data>
+  <data name="CM_ShowAutoSuggestBoxButton" xml:space="preserve">
+    <value>Mostrar caixa de pesquisa</value>
+  </data>
+  <data name="CM_Show360VideoPlaybackButton" xml:space="preserve">
+    <value>Mostrar botão de reprodução de vídeo de 360°</value>
+  </data>
+  <data name="CM_ShowNextFrameButton" xml:space="preserve">
+    <value>Mostrar botão próximo quadro</value>
+  </data>
+  <data name="Meta_UpdateInfo5" xml:space="preserve">
+    <value>melhorar a estabilidade</value>
+  </data>
+  <data name="Meta_UpdateInfo4" xml:space="preserve">
+    <value>corrigir problema de acidente múltiplo janela</value>
   </data>
 </root>
