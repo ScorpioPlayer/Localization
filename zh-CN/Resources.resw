@@ -1056,9 +1056,6 @@
   <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OffContent" xml:space="preserve">
     <value>否</value>
   </data>
-  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
-    <value>缓冲时间（毫秒）</value>
-  </data>
   <data name="SYS_PIP" xml:space="preserve">
     <value>画中画</value>
   </data>
@@ -1881,9 +1878,6 @@
   <data name="Seconds" xml:space="preserve">
     <value>秒</value>
   </data>
-  <data name="CM_Subtitle_Delay" xml:space="preserve">
-    <value>设置字幕时间线</value>
-  </data>
   <data name="DCD_TITLE.Text" xml:space="preserve">
     <value>字幕时间线</value>
   </data>
@@ -2304,12 +2298,6 @@
   <data name="Load" xml:space="preserve">
     <value>加载...</value>
   </data>
-  <data name="CM_Open_Twitch" xml:space="preserve">
-    <value>Twitch 网络流</value>
-  </data>
-  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
-    <value>Twitch 网络流</value>
-  </data>
   <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
     <value>关闭</value>
   </data>
@@ -2420,12 +2408,6 @@
   </data>
   <data name="CM_Track_histogram" xml:space="preserve">
     <value>色阶分布图</value>
-  </data>
-  <data name="CM_Open_Youtube" xml:space="preserve">
-    <value>Youtube 流</value>
-  </data>
-  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
-    <value>Youtube 流</value>
   </data>
   <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
     <value>打开</value>
@@ -2820,17 +2802,8 @@
   <data name="CM_DisableHDR" xml:space="preserve">
     <value>禁用 HDR 颜色空间</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>禁用 HDR 颜色空间的能力</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>更新版本号</value>
-  </data>
   <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
     <value>保留源文本</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>在实时翻译中添加保留源文本</value>
   </data>
   <data name="CM_ShowDanmuButton" xml:space="preserve">
     <value>显示弹幕按钮</value>
@@ -2847,10 +2820,478 @@
   <data name="CM_ShowNextFrameButton" xml:space="preserve">
     <value>显示下一帧控制按钮</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>稳定性提高</value>
+  <data name="SD_PivotItem3_bufferTimeLocalSlider.Header" xml:space="preserve">
+    <value>缓冲时间 本地 (ms)</value>
+  </data>
+  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
+    <value>缓冲时间 网络 (ms)</value>
+  </data>
+  <data name="CM_Open_Samba" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_SMBConnectionString1_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS 连接字符串1</value>
+  </data>
+  <data name="Samba_CD_TITLE.Text" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_CD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="BindSambaToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>使用 SMB/CIFS 作为收藏源</value>
+  </data>
+  <data name="Samba_CD_PivotItem1.Header" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="Samba_SMBLocalPort_TextBlock.Header" xml:space="preserve">
+    <value>SMB/CIFS 本地端口</value>
+  </data>
+  <data name="SetSAMBA" xml:space="preserve">
+    <value>使用 SMB/CIFS 作为收藏源</value>
+  </data>
+  <data name="BindSFTPToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>使用 SFTP/SSH 作为收藏源</value>
+  </data>
+  <data name="Sftp_SFTPHostName_TextBlock.Header" xml:space="preserve">
+    <value>主机名/IP 地址</value>
+  </data>
+  <data name="Sftp_SFTPPort_TextBlock.Header" xml:space="preserve">
+    <value>远程端口</value>
+  </data>
+  <data name="Sftp_SFTPUserName_TextBlock.Header" xml:space="preserve">
+    <value>用户名</value>
+  </data>
+  <data name="Sftp_SFTPPassword_TextBlock.Header" xml:space="preserve">
+    <value>密码</value>
+  </data>
+  <data name="Sftp_SFTPEntryPath_TextBlock.Header" xml:space="preserve">
+    <value>入口路径</value>
+  </data>
+  <data name="CM_Open_Sftp" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD_TITLE.Text" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD.SecondaryButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="Sftp_CD_PivotItem1.Header" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="SetSFTP" xml:space="preserve">
+    <value>使用 SFTP/SSH 作为收藏源</value>
+  </data>
+  <data name="Samba_CD.PrimaryButtonText" xml:space="preserve">
+    <value>测试</value>
+  </data>
+  <data name="Sftp_CD.PrimaryButtonText" xml:space="preserve">
+    <value>测试</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>测试通过</value>
+  </data>
+  <data name="Fail" xml:space="preserve">
+    <value>测试失败</value>
+  </data>
+  <data name="CM_ResizePlaybackWindowsSize" xml:space="preserve">
+    <value>调整窗口大小以适应视频</value>
+  </data>
+  <data name="Samba_SMBConnectionString2_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS 连接字符串1</value>
+  </data>
+  <data name="Samba_SMBConnectionString3_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS 连接字符串2</value>
+  </data>
+  <data name="WM_Podcast_Down" xml:space="preserve">
+    <value>播客不可用</value>
+  </data>
+  <data name="CM_Open_Download" xml:space="preserve">
+    <value>下载管理器</value>
+  </data>
+  <data name="Download_CD_TITLE.Text" xml:space="preserve">
+    <value>下载管理器</value>
+  </data>
+  <data name="Download_CD_PivotItem1.Header" xml:space="preserve">
+    <value>正在下载</value>
+  </data>
+  <data name="Download_CD_PivotItem2.Header" xml:space="preserve">
+    <value>离线</value>
+  </data>
+  <data name="Download_CD_PivotItem3.Header" xml:space="preserve">
+    <value>设置</value>
+  </data>
+  <data name="CM_DownloadThisVideo" xml:space="preserve">
+    <value>下载此文件</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>Youtube</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>Youtube</value>
+  </data>
+  <data name="Download_CD.SecondaryButtonText" xml:space="preserve">
+    <value>隐藏</value>
+  </data>
+  <data name="CM_DownloadThisPlayList" xml:space="preserve">
+    <value>下载此播放列表</value>
+  </data>
+  <data name="CannotDownload" xml:space="preserve">
+    <value>无法下载</value>
+  </data>
+  <data name="NotSupport" xml:space="preserve">
+    <value>不支持</value>
+  </data>
+  <data name="Transcode_CD_PivotItem1.Header" xml:space="preserve">
+    <value>合并工具</value>
+  </data>
+  <data name="Transcode_CD_PivotItem2.Header" xml:space="preserve">
+    <value>自定义转码</value>
+  </data>
+  <data name="T_CD_SelectSource.Content" xml:space="preserve">
+    <value>选择视频文件</value>
+  </data>
+  <data name="T_CD_SelectOutput.Content" xml:space="preserve">
+    <value>设置输出文件</value>
+  </data>
+  <data name="EnableMrfCrf444.Content" xml:space="preserve">
+    <value>启用 MRFCRF444 视频处理算法 (禁用硬件加速)</value>
+  </data>
+  <data name="T_CD_UseHevc.Content" xml:space="preserve">
+    <value>使用 HEVC/H265 编解码器</value>
+  </data>
+  <data name="T_CD_VideoSettings.Text" xml:space="preserve">
+    <value>视频设置</value>
+  </data>
+  <data name="T_CD_VideoW.Text" xml:space="preserve">
+    <value>视频宽度</value>
+  </data>
+  <data name="T_CD_VideoH.Text" xml:space="preserve">
+    <value>视频高度</value>
+  </data>
+  <data name="T_CD_VideoBPS.Text" xml:space="preserve">
+    <value>每样位数</value>
+  </data>
+  <data name="T_CD_SampleRate.Text" xml:space="preserve">
+    <value>采样率</value>
+  </data>
+  <data name="T_CD_BitRate.Text" xml:space="preserve">
+    <value>比特率</value>
+  </data>
+  <data name="T_CD_FrameRate.Text" xml:space="preserve">
+    <value>帧速率</value>
+  </data>
+  <data name="T_CD_ChannelCount.Text" xml:space="preserve">
+    <value>频道计数</value>
+  </data>
+  <data name="T_CD_AudioSettings.Text" xml:space="preserve">
+    <value>音频设置</value>
+  </data>
+  <data name="T_CD_Play.Content" xml:space="preserve">
+    <value>播放</value>
+  </data>
+  <data name="T_CD_Pause.Content" xml:space="preserve">
+    <value>暂停</value>
+  </data>
+  <data name="T_CD_Stop.Content" xml:space="preserve">
+    <value>停止</value>
+  </data>
+  <data name="T_CD_Transcode.Content" xml:space="preserve">
+    <value>转码</value>
+  </data>
+  <data name="T_CD_Cancel.Content" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="TranscodeCanceled" xml:space="preserve">
+    <value>转码取消</value>
+  </data>
+  <data name="Progress" xml:space="preserve">
+    <value>进展</value>
+  </data>
+  <data name="TranscodeCompleted" xml:space="preserve">
+    <value>转码完成</value>
+  </data>
+  <data name="Codecnotfound" xml:space="preserve">
+    <value>找不到编解码器</value>
+  </data>
+  <data name="Invalidprofile" xml:space="preserve">
+    <value>无效的配置文件</value>
+  </data>
+  <data name="Unknownfailure" xml:space="preserve">
+    <value>未知故障</value>
+  </data>
+  <data name="Transcode_CD_PivotItem3.Header" xml:space="preserve">
+    <value>媒体编码配置文件</value>
+  </data>
+  <data name="T_CD_Create.Content" xml:space="preserve">
+    <value>创建</value>
+  </data>
+  <data name="T_CD_CreateFromFile.Text" xml:space="preserve">
+    <value>从文件创建媒体编码配置文件</value>
+  </data>
+  <data name="T_CD_CreateFromStream.Text" xml:space="preserve">
+    <value>从当前播放媒体读取媒体编码配置文件</value>
+  </data>
+  <data name="T_CD_AudioBitrate.Header" xml:space="preserve">
+    <value>音频比特率</value>
+  </data>
+  <data name="T_CD_AudioBitsPerSample.Header" xml:space="preserve">
+    <value>每个示例的音频位数</value>
+  </data>
+  <data name="T_CD_AudioChannelCount.Header" xml:space="preserve">
+    <value>音频通道计数</value>
+  </data>
+  <data name="T_CD_AudioSampleRate.Header" xml:space="preserve">
+    <value>音频采样率</value>
+  </data>
+  <data name="T_CD_VideoWidth.Header" xml:space="preserve">
+    <value>视频宽度</value>
+  </data>
+  <data name="T_CD_VideoHeight.Header" xml:space="preserve">
+    <value>视频高度</value>
+  </data>
+  <data name="T_CD_VideoBitrate.Header" xml:space="preserve">
+    <value>视频比特率</value>
+  </data>
+  <data name="T_CD_VideoFrameRateNumerator.Header" xml:space="preserve">
+    <value>视频帧率分子</value>
+  </data>
+  <data name="T_CD_VideoFrameRateDenominator.Header" xml:space="preserve">
+    <value>视频帧率分母</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioNumerator.Header" xml:space="preserve">
+    <value>视频像素长宽比分子</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioDenominator.Header" xml:space="preserve">
+    <value>视频像素纵横比分母</value>
+  </data>
+  <data name="T_CD_VideoTemplateQuality.Header" xml:space="preserve">
+    <value>质量</value>
+  </data>
+  <data name="T_CD_AudioTemplate.Header" xml:space="preserve">
+    <value>音频格式</value>
+  </data>
+  <data name="T_CD_VideoTemplate.Header" xml:space="preserve">
+    <value>视频格式</value>
+  </data>
+  <data name="T_CD_AlwaysReencode.Content" xml:space="preserve">
+    <value>总是重新编码</value>
+  </data>
+  <data name="T_CD_HardwareAccelerationEnabled.Content" xml:space="preserve">
+    <value>启用硬件加速</value>
+  </data>
+  <data name="T_CD_SAVE_Profile.Content" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="T_CD_ProfileName.PlaceholderText" xml:space="preserve">
+    <value>媒体编码配置文件名称</value>
+  </data>
+  <data name="MustCreateFormatTemplateFirst" xml:space="preserve">
+    <value>必须首先创建格式模板</value>
+  </data>
+  <data name="ProfileFileNameCanNotEmpty" xml:space="preserve">
+    <value>配置文件文件名不能为空</value>
+  </data>
+  <data name="T_CD_TestFromFile.Text" xml:space="preserve">
+    <value>从文件测试媒体编码配置文件</value>
+  </data>
+  <data name="T_CD_TestFromStream.Text" xml:space="preserve">
+    <value>从当前播放媒体测试媒体编码配置文件</value>
+  </data>
+  <data name="T_CD_DELETE_Profile.Content" xml:space="preserve">
+    <value>删除</value>
+  </data>
+  <data name="Transcode_CD_PivotItem4.Header" xml:space="preserve">
+    <value>转换</value>
+  </data>
+  <data name="CM_TranscodeThisVideo" xml:space="preserve">
+    <value>转码此文件</value>
+  </data>
+  <data name="CannotTranscode" xml:space="preserve">
+    <value>不能转码</value>
+  </data>
+  <data name="CM_TranscodeThisPlayList" xml:space="preserve">
+    <value>转码此播放列表</value>
+  </data>
+  <data name="T_CD_ConcurrentTranscodeCount.Header" xml:space="preserve">
+    <value>并发转码计数</value>
+  </data>
+  <data name="T_CD_ConcurrentDownloadCount.Header" xml:space="preserve">
+    <value>并发下载计数</value>
+  </data>
+  <data name="T_CD_TranscodeIncludeSkip.Content" xml:space="preserve">
+    <value>剪裁媒体文件时间线使用跳过功能</value>
+  </data>
+  <data name="CM_Playback_MixedReality" xml:space="preserve">
+    <value>尝试使用 Windows 混合现实模式</value>
+  </data>
+  <data name="WM_Scanned" xml:space="preserve">
+    <value>扫描</value>
+  </data>
+  <data name="CD_Socket.PrimaryButtonText" xml:space="preserve">
+    <value>测试</value>
+  </data>
+  <data name="VideoQualityCannotBeAuto" xml:space="preserve">
+    <value>必须指定视频质量</value>
+  </data>
+  <data name="CM_EncodingSubtitle" xml:space="preserve">
+    <value>使用编码重新打开</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="hevcVideoExtensionButton_Installed" xml:space="preserve">
+    <value>下载 HEVC 视频扩展 (已安装)</value>
+  </data>
+  <data name="hevcVideoExtensionButton_not_installed" xml:space="preserve">
+    <value>下载 HEVC 视频扩展</value>
+  </data>
+  <data name="Brightness" xml:space="preserve">
+    <value>亮度</value>
+  </data>
+  <data name="PlaybackRate" xml:space="preserve">
+    <value>倍速播放</value>
+  </data>
+  <data name="Playback" xml:space="preserve">
+    <value>播放</value>
+  </data>
+  <data name="Playlist" xml:space="preserve">
+    <value>播放列表</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.Header" xml:space="preserve">
+    <value>.webm 文件始终使用系统解码器</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="WM_ThisFileHaveNoAudio" xml:space="preserve">
+    <value>此视频没有音轨</value>
+  </data>
+  <data name="WM_DoYourWantLoadUpExteranlAudio" xml:space="preserve">
+    <value>是否要加载外部音频</value>
+  </data>
+  <data name="WM_IsVideoOnly_Cancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="WM_IsVideoOnly_Load_Audio" xml:space="preserve">
+    <value>选择音频文件</value>
+  </data>
+  <data name="WM_IsVideoOnly_Stop_Show" xml:space="preserve">
+    <value>别再出现了</value>
+  </data>
+  <data name="SkipCD_JumpForwardSetting.Text" xml:space="preserve">
+    <value>向前跳转</value>
+  </data>
+  <data name="SkipCD_JumpBackSetting.Text" xml:space="preserve">
+    <value>跳回</value>
+  </data>
+  <data name="AudioHardwareAcclerated" xml:space="preserve">
+    <value>音频硬件加速</value>
+  </data>
+  <data name="AudioNotHardwareAcclerated" xml:space="preserve">
+    <value>音频软件解码</value>
+  </data>
+  <data name="VideoHardwareAcclerated" xml:space="preserve">
+    <value>视频硬件加速</value>
+  </data>
+  <data name="VideoNotHardwareAcclerated" xml:space="preserve">
+    <value>视频软件解码</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.Header" xml:space="preserve">
+    <value>在标题栏上显示视频音频解码模式信息</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CM_ShowAdvanceDecodingInfoOnTitlebar" xml:space="preserve">
+    <value>在标题栏上显示视频音频解码模式信息</value>
+  </data>
+  <data name="CM_HideTransportControlOnLeave" xml:space="preserve">
+    <value>光标离开时隐藏控制栏</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.Header" xml:space="preserve">
+    <value>需要指针模式 (可能需要重新启动应用程序)</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OnContent" xml:space="preserve">
+    <value>自动</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
+    <value>当请求时</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>添加. m3u 播放列表支持</value>
   </data>
   <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>修复多个窗口崩溃问题</value>
+    <value>uhd 蓝光文件夹, .iso 播放增强</value>
+  </data>
+  <data name="CM_ShowStopButton" xml:space="preserve">
+    <value>显示“停止”按钮</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>使用音轨同步设置</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>设置字幕/音频时间轴</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.Header" xml:space="preserve">
+    <value>实时回放</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="BluRayFolderInvalid" xml:space="preserve">
+    <value>请选择包含 "BDMV" 文件夹的文件夹</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>调整音频时间线</value>
+  </data>
+  <data name="CM_Open_Bluray_Folder" xml:space="preserve">
+    <value>蓝光文件夹</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>性能改进和修复的错误</value>
+  </data>
+  <data name="audioBalanceSlider.Header" xml:space="preserve">
+    <value>音频平衡</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>调整音频平衡</value>
   </data>
 </root>

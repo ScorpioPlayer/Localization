@@ -1059,9 +1059,6 @@
   <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OffContent" xml:space="preserve">
     <value>لا</value>
   </data>
-  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
-    <value>زمن التخزين المؤقت (مللي ثانية)</value>
-  </data>
   <data name="SYS_PIP" xml:space="preserve">
     <value>صورة داخل صورة (دوماً في المقدمة)</value>
   </data>
@@ -1881,9 +1878,6 @@
   <data name="Seconds" xml:space="preserve">
     <value>ثوانٍ</value>
   </data>
-  <data name="CM_Subtitle_Delay" xml:space="preserve">
-    <value>تعيين العنوان الفرعي المخطط الزمني</value>
-  </data>
   <data name="DCD_TITLE.Text" xml:space="preserve">
     <value>الترجمة الجدول الزمني</value>
   </data>
@@ -2021,9 +2015,6 @@
   </data>
   <data name="WM_Link_No_File" xml:space="preserve">
     <value>لا يمكن استخراج الفيديو من الرابط</value>
-  </data>
-  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
-    <value>حفظ باسم</value>
   </data>
   <data name="CM_Open_Folder" xml:space="preserve">
     <value>فتح مجلد</value>
@@ -2304,12 +2295,6 @@
   <data name="Load" xml:space="preserve">
     <value>حمولة</value>
   </data>
-  <data name="CM_Open_Twitch" xml:space="preserve">
-    <value>Twitch Streaming!</value>
-  </data>
-  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
-    <value>Twitch Streaming!</value>
-  </data>
   <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
     <value>قم بإغلاق</value>
   </data>
@@ -2420,12 +2405,6 @@
   </data>
   <data name="CM_Track_histogram" xml:space="preserve">
     <value>مدرج تكراري</value>
-  </data>
-  <data name="CM_Open_Youtube" xml:space="preserve">
-    <value>YouTube Streaming</value>
-  </data>
-  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
-    <value>YouTube Streaming</value>
   </data>
   <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
     <value>فتح</value>
@@ -2820,17 +2799,8 @@
   <data name="CM_DisableHDR" xml:space="preserve">
     <value>تعطيل مساحة لون HDR</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>القدرة على تعطيل مساحة لون HDR</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>رقم إصدار التحديث</value>
-  </data>
   <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
     <value>الحفاظ على النص الأصلي</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>إضافة الحفاظ على النص الأصلي في ترجمة حية</value>
   </data>
   <data name="CM_ShowDanmuButton" xml:space="preserve">
     <value>إظهار زر الترجمة وابل</value>
@@ -2847,10 +2817,481 @@
   <data name="CM_ShowNextFrameButton" xml:space="preserve">
     <value>إظهار زر "الإطار التالي"</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>تحسين الاستقرار</value>
+  <data name="SD_PivotItem3_bufferTimeLocalSlider.Header" xml:space="preserve">
+    <value>المخزن المؤقت المحلي الوقت (مللي ثانية)</value>
+  </data>
+  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
+    <value>المخزن المؤقت وقت الشبكة (مللي ثانية)</value>
+  </data>
+  <data name="CM_Open_Samba" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_SMBConnectionString1_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>سلسلة اتصال SMB/CIFS 1</value>
+  </data>
+  <data name="Samba_CD_TITLE.Text" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_CD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="BindSambaToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام SMB/CIFS كمصدر للمفضلة</value>
+  </data>
+  <data name="Samba_CD_PivotItem1.Header" xml:space="preserve">
+    <value>إعداد</value>
+  </data>
+  <data name="Samba_SMBLocalPort_TextBlock.Header" xml:space="preserve">
+    <value>المنفذ المحلي SMB/CIFS</value>
+  </data>
+  <data name="SetSAMBA" xml:space="preserve">
+    <value>استخدام SMB/CIFS كمصدر للمفضلة</value>
+  </data>
+  <data name="BindSFTPToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام سفتب/سة كمصدر للمفضلة</value>
+  </data>
+  <data name="Sftp_SFTPHostName_TextBlock.Header" xml:space="preserve">
+    <value>اسم المضيف/IP عنوان</value>
+  </data>
+  <data name="Sftp_SFTPPort_TextBlock.Header" xml:space="preserve">
+    <value>منفذ بعيد</value>
+  </data>
+  <data name="Sftp_SFTPUserName_TextBlock.Header" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="Sftp_SFTPPassword_TextBlock.Header" xml:space="preserve">
+    <value>كلمة المرور</value>
+  </data>
+  <data name="Sftp_SFTPEntryPath_TextBlock.Header" xml:space="preserve">
+    <value>مسار الإدخال</value>
+  </data>
+  <data name="CM_Open_Sftp" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD_TITLE.Text" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD.SecondaryButtonText" xml:space="preserve">
+    <value>قم بإغلاق</value>
+  </data>
+  <data name="Sftp_CD_PivotItem1.Header" xml:space="preserve">
+    <value>إعداد</value>
+  </data>
+  <data name="SetSFTP" xml:space="preserve">
+    <value>استخدام سفتب/سة كمصدر للمفضلة</value>
+  </data>
+  <data name="Samba_CD.PrimaryButtonText" xml:space="preserve">
+    <value>اختبار</value>
+  </data>
+  <data name="Sftp_CD.PrimaryButtonText" xml:space="preserve">
+    <value>اختبار</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>تجاوز الاختبار</value>
+  </data>
+  <data name="Fail" xml:space="preserve">
+    <value>فشل اختبار</value>
+  </data>
+  <data name="CM_ResizePlaybackWindowsSize" xml:space="preserve">
+    <value>تغيير حجم الإطار لاحتواء الفيديو</value>
+  </data>
+  <data name="Samba_SMBConnectionString2_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>سلسلة اتصال SMB/CIFS 1</value>
+  </data>
+  <data name="Samba_SMBConnectionString3_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>سلسلة اتصال SMB/CIFS 2</value>
+  </data>
+  <data name="WM_Podcast_Down" xml:space="preserve">
+    <value>بودكاست غير متوفر</value>
+  </data>
+  <data name="CM_Open_Download" xml:space="preserve">
+    <value>مدير تحميل</value>
+  </data>
+  <data name="Download_CD_TITLE.Text" xml:space="preserve">
+    <value>مدير تحميل</value>
+  </data>
+  <data name="Download_CD_PivotItem1.Header" xml:space="preserve">
+    <value>تنزيل</value>
+  </data>
+  <data name="Download_CD_PivotItem2.Header" xml:space="preserve">
+    <value>غير متصل</value>
+  </data>
+  <data name="Download_CD_PivotItem3.Header" xml:space="preserve">
+    <value>إعداد</value>
+  </data>
+  <data name="CM_DownloadThisVideo" xml:space="preserve">
+    <value>تنزيل هذا الملف</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>Youtube</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>Youtube</value>
+  </data>
+  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
+    <value>حفظ باسم</value>
+  </data>
+  <data name="Download_CD.SecondaryButtonText" xml:space="preserve">
+    <value>إخفاء</value>
+  </data>
+  <data name="CM_DownloadThisPlayList" xml:space="preserve">
+    <value>تحميل قائمة التشغيل هذه</value>
+  </data>
+  <data name="CannotDownload" xml:space="preserve">
+    <value>لا يمكن تحميل</value>
+  </data>
+  <data name="NotSupport" xml:space="preserve">
+    <value>عدم دعم</value>
+  </data>
+  <data name="Transcode_CD_PivotItem1.Header" xml:space="preserve">
+    <value>الجمع بين أداة</value>
+  </data>
+  <data name="Transcode_CD_PivotItem2.Header" xml:space="preserve">
+    <value>فيرت مخصصة</value>
+  </data>
+  <data name="T_CD_SelectSource.Content" xml:space="preserve">
+    <value>اختيار ملف الفيديو</value>
+  </data>
+  <data name="T_CD_SelectOutput.Content" xml:space="preserve">
+    <value>ملف الإخراج المحدد</value>
+  </data>
+  <data name="EnableMrfCrf444.Content" xml:space="preserve">
+    <value>تمكين خوارزمية معالجة الفيديو MRFCRF444 (تعطيل تسريع الأجهزة)</value>
+  </data>
+  <data name="T_CD_UseHevc.Content" xml:space="preserve">
+    <value>استخدام الترميز شفت/H265</value>
+  </data>
+  <data name="T_CD_VideoSettings.Text" xml:space="preserve">
+    <value>إعدادات الفيديو</value>
+  </data>
+  <data name="T_CD_VideoW.Text" xml:space="preserve">
+    <value>عرض الفيديو</value>
+  </data>
+  <data name="T_CD_VideoH.Text" xml:space="preserve">
+    <value>ارتفاع الفيديو</value>
+  </data>
+  <data name="T_CD_VideoBPS.Text" xml:space="preserve">
+    <value>بت لكل عينة</value>
+  </data>
+  <data name="T_CD_SampleRate.Text" xml:space="preserve">
+    <value>معدل العينة</value>
+  </data>
+  <data name="T_CD_BitRate.Text" xml:space="preserve">
+    <value>معدل البت</value>
+  </data>
+  <data name="T_CD_FrameRate.Text" xml:space="preserve">
+    <value>معدل الإطارات</value>
+  </data>
+  <data name="T_CD_ChannelCount.Text" xml:space="preserve">
+    <value>عدد القنوات</value>
+  </data>
+  <data name="T_CD_AudioSettings.Text" xml:space="preserve">
+    <value>إعدادات الصوت</value>
+  </data>
+  <data name="T_CD_Play.Content" xml:space="preserve">
+    <value>اللعب</value>
+  </data>
+  <data name="T_CD_Pause.Content" xml:space="preserve">
+    <value>إيقاف مؤقت</value>
+  </data>
+  <data name="T_CD_Stop.Content" xml:space="preserve">
+    <value>إيقاف</value>
+  </data>
+  <data name="T_CD_Transcode.Content" xml:space="preserve">
+    <value>فيرت</value>
+  </data>
+  <data name="T_CD_Cancel.Content" xml:space="preserve">
+    <value>إلغاء الأمر</value>
+  </data>
+  <data name="TranscodeCanceled" xml:space="preserve">
+    <value>إلغاء فيرت</value>
+  </data>
+  <data name="Progress" xml:space="preserve">
+    <value>التقدم المحرز</value>
+  </data>
+  <data name="TranscodeCompleted" xml:space="preserve">
+    <value>أكمل فيرت</value>
+  </data>
+  <data name="Codecnotfound" xml:space="preserve">
+    <value>لم يتم العثور على برنامج الترميز</value>
+  </data>
+  <data name="Invalidprofile" xml:space="preserve">
+    <value>ملف التعريف غير صحيح</value>
+  </data>
+  <data name="Unknownfailure" xml:space="preserve">
+    <value>فشل غير معروف</value>
+  </data>
+  <data name="Transcode_CD_PivotItem3.Header" xml:space="preserve">
+    <value>ملف ترميز وسائل الإعلام</value>
+  </data>
+  <data name="T_CD_Create.Content" xml:space="preserve">
+    <value>&amp;إنشاء</value>
+  </data>
+  <data name="T_CD_CreateFromFile.Text" xml:space="preserve">
+    <value>إنشاء وسائط ترميز ملف التعريف من الملف</value>
+  </data>
+  <data name="T_CD_CreateFromStream.Text" xml:space="preserve">
+    <value>قراءة الوسائط ترميز الشخصية من تشغيل الوسائط الحالية</value>
+  </data>
+  <data name="T_CD_AudioBitrate.Header" xml:space="preserve">
+    <value>معدل البت الصوت</value>
+  </data>
+  <data name="T_CD_AudioBitsPerSample.Header" xml:space="preserve">
+    <value>بت الصوت لكل عينة</value>
+  </data>
+  <data name="T_CD_AudioChannelCount.Header" xml:space="preserve">
+    <value>عد القناة السمعية</value>
+  </data>
+  <data name="T_CD_AudioSampleRate.Header" xml:space="preserve">
+    <value>معدل عينة الصوت</value>
+  </data>
+  <data name="T_CD_VideoWidth.Header" xml:space="preserve">
+    <value>عرض الفيديو</value>
+  </data>
+  <data name="T_CD_VideoHeight.Header" xml:space="preserve">
+    <value>ارتفاع الفيديو</value>
+  </data>
+  <data name="T_CD_VideoBitrate.Header" xml:space="preserve">
+    <value>الفيديو معدل البت</value>
+  </data>
+  <data name="T_CD_VideoFrameRateNumerator.Header" xml:space="preserve">
+    <value>البسط فراميراتي الفيديو</value>
+  </data>
+  <data name="T_CD_VideoFrameRateDenominator.Header" xml:space="preserve">
+    <value>قاسم فراميراتي الفيديو</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioNumerator.Header" xml:space="preserve">
+    <value>البسط نسبة العرض إلى الارتفاع بكسل فيديو</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioDenominator.Header" xml:space="preserve">
+    <value>قاسم نسبة العرض إلى الارتفاع بكسل فيديو</value>
+  </data>
+  <data name="T_CD_VideoTemplateQuality.Header" xml:space="preserve">
+    <value>الكمية</value>
+  </data>
+  <data name="T_CD_AudioTemplate.Header" xml:space="preserve">
+    <value>‏‏تنسيق الصوت</value>
+  </data>
+  <data name="T_CD_VideoTemplate.Header" xml:space="preserve">
+    <value>تنسيق الفيديو:</value>
+  </data>
+  <data name="T_CD_AlwaysReencode.Content" xml:space="preserve">
+    <value>دائماً إعادة ترميز</value>
+  </data>
+  <data name="T_CD_HardwareAccelerationEnabled.Content" xml:space="preserve">
+    <value>تمكين تسريع الأجهزة</value>
+  </data>
+  <data name="T_CD_SAVE_Profile.Content" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="T_CD_ProfileName.PlaceholderText" xml:space="preserve">
+    <value>اسم التشكيل الجانبي ترميز الوسائط</value>
+  </data>
+  <data name="MustCreateFormatTemplateFirst" xml:space="preserve">
+    <value>يجب إنشاء قالب الشكل أولاً</value>
+  </data>
+  <data name="ProfileFileNameCanNotEmpty" xml:space="preserve">
+    <value>الشخصية "الملف اسم لا يمكن" أن يكون فارغاً</value>
+  </data>
+  <data name="T_CD_TestFromFile.Text" xml:space="preserve">
+    <value>اختبار وسائط ترميز ملف التعريف من الملف</value>
+  </data>
+  <data name="T_CD_TestFromStream.Text" xml:space="preserve">
+    <value>اختبار وسائط ترميز الشخصية من تشغيل الوسائط الحالية</value>
+  </data>
+  <data name="T_CD_DELETE_Profile.Content" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="Transcode_CD_PivotItem4.Header" xml:space="preserve">
+    <value>تحويل الترميز</value>
+  </data>
+  <data name="CM_TranscodeThisVideo" xml:space="preserve">
+    <value>فيرت هذا الملف</value>
+  </data>
+  <data name="CannotTranscode" xml:space="preserve">
+    <value>لا يمكن فيرت</value>
+  </data>
+  <data name="CM_TranscodeThisPlayList" xml:space="preserve">
+    <value>فيرت قائمة التشغيل هذه</value>
+  </data>
+  <data name="T_CD_ConcurrentTranscodeCount.Header" xml:space="preserve">
+    <value>عد فيرت المتزامنة</value>
+  </data>
+  <data name="T_CD_ConcurrentDownloadCount.Header" xml:space="preserve">
+    <value>عدد مرات التنزيل المتزامنة</value>
+  </data>
+  <data name="T_CD_TranscodeIncludeSkip.Content" xml:space="preserve">
+    <value>تقليم ميزة تخطي استخدام المخطط الزمني ملف الوسائط</value>
+  </data>
+  <data name="CM_Playback_MixedReality" xml:space="preserve">
+    <value>حاول استخدام Windows وضع واقع مختلط</value>
+  </data>
+  <data name="WM_Scanned" xml:space="preserve">
+    <value>ممسوح ضوئيًا</value>
+  </data>
+  <data name="CD_Socket.PrimaryButtonText" xml:space="preserve">
+    <value>اختبار</value>
+  </data>
+  <data name="VideoQualityCannotBeAuto" xml:space="preserve">
+    <value>يجب أن تحدد جودة الفيديو</value>
+  </data>
+  <data name="CM_EncodingSubtitle" xml:space="preserve">
+    <value>فتح باستخدام ترميز</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="hevcVideoExtensionButton_Installed" xml:space="preserve">
+    <value>تحميل ملحق شفت الفيديو (مثبت)</value>
+  </data>
+  <data name="hevcVideoExtensionButton_not_installed" xml:space="preserve">
+    <value>تحميل ملحق شفت الفيديو</value>
+  </data>
+  <data name="Brightness" xml:space="preserve">
+    <value>سطوع</value>
+  </data>
+  <data name="PlaybackRate" xml:space="preserve">
+    <value>معدل التشغيل</value>
+  </data>
+  <data name="Playback" xml:space="preserve">
+    <value>قراءة</value>
+  </data>
+  <data name="Playlist" xml:space="preserve">
+    <value>قائمة التشغيل</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.Header" xml:space="preserve">
+    <value>دائماً استخدم الملف.webm فك النظام</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="WM_ThisFileHaveNoAudio" xml:space="preserve">
+    <value>هذا الفيديو قد لا يوجد مسار الصوت</value>
+  </data>
+  <data name="WM_DoYourWantLoadUpExteranlAudio" xml:space="preserve">
+    <value>هل تريد تحميل "الصوت الخارجية"</value>
+  </data>
+  <data name="WM_IsVideoOnly_Cancel" xml:space="preserve">
+    <value>إلغاء الأمر</value>
+  </data>
+  <data name="WM_IsVideoOnly_Load_Audio" xml:space="preserve">
+    <value>حدد ملف الصوت</value>
+  </data>
+  <data name="WM_IsVideoOnly_Stop_Show" xml:space="preserve">
+    <value>لا تظهر مرة أخرى</value>
+  </data>
+  <data name="SkipCD_JumpForwardSetting.Text" xml:space="preserve">
+    <value>القفز إلى الأمام</value>
+  </data>
+  <data name="SkipCD_JumpBackSetting.Text" xml:space="preserve">
+    <value>القفز إلى الوراء</value>
+  </data>
+  <data name="AudioHardwareAcclerated" xml:space="preserve">
+    <value>تسريع أجهزة الصوت</value>
+  </data>
+  <data name="AudioNotHardwareAcclerated" xml:space="preserve">
+    <value>فك ترميز البرامج الصوتية</value>
+  </data>
+  <data name="VideoHardwareAcclerated" xml:space="preserve">
+    <value>تسريع أجهزة الفيديو</value>
+  </data>
+  <data name="VideoNotHardwareAcclerated" xml:space="preserve">
+    <value>فك ترميز البرامج الفيديو</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.Header" xml:space="preserve">
+    <value>إظهار الصوت والفيديو فك "وضع معلومات" على شريط العناوين</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CM_ShowAdvanceDecodingInfoOnTitlebar" xml:space="preserve">
+    <value>إظهار الصوت والفيديو فك "وضع معلومات" على شريط العناوين</value>
+  </data>
+  <data name="CM_HideTransportControlOnLeave" xml:space="preserve">
+    <value>إخفاء عنصر تحكم شريط عندما ترك المؤشر</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.Header" xml:space="preserve">
+    <value>ويتطلب "وضع المؤشر" (قد تحتاج إلى إعادة تشغيل التطبيق)</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OnContent" xml:space="preserve">
+    <value>تلقائي</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
+    <value>عند طلب</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>إضافة دعم التشغيل.m3u</value>
   </data>
   <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>إصلاح مشكلة تحطم نافذة متعددة</value>
+    <value>ترقية بلو رأي مجلد،. تعزيز تشغيل ISO</value>
+  </data>
+  <data name="CM_ShowStopButton" xml:space="preserve">
+    <value>إظهار زر الإيقاف</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>استخدم مسار الصوت مزامنة الإعداد</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>تعيين العنوان الفرعي/الصوت المخطط الزمني</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.Header" xml:space="preserve">
+    <value>تشغيل الوقت الحقيقي</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="BluRayFolderInvalid" xml:space="preserve">
+    <value>الرجاء تحديد مجلد الذي يحتوي على المجلد "BDMV"</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>ضبط الصوت في المخطط الزمني</value>
+  </data>
+  <data name="CM_Open_Bluray_Folder" xml:space="preserve">
+    <value>بلو رأي مجلد</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>لتحسين الأداء، والبق الثابتة</value>
+  </data>
+  <data name="audioBalanceSlider.Header" xml:space="preserve">
+    <value>توازن الصوت</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>لضبط توازن الصوت</value>
   </data>
 </root>

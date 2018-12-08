@@ -1131,9 +1131,6 @@
   <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OffContent" xml:space="preserve">
     <value>かどうか</value>
   </data>
-  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
-    <value>バッファー時間 (ミリ秒)</value>
-  </data>
   <data name="SYS_PIP" xml:space="preserve">
     <value>絵画</value>
   </data>
@@ -1956,9 +1953,6 @@
   <data name="Seconds" xml:space="preserve">
     <value>秒</value>
   </data>
-  <data name="CM_Subtitle_Delay" xml:space="preserve">
-    <value>設定字幕タイムライン</value>
-  </data>
   <data name="DCD_TITLE.Text" xml:space="preserve">
     <value>字幕のタイムライン</value>
   </data>
@@ -2096,9 +2090,6 @@
   </data>
   <data name="WM_Link_No_File" xml:space="preserve">
     <value>リンクからビデオを抽出すること</value>
-  </data>
-  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
-    <value>名前を付けて保存</value>
   </data>
   <data name="CM_Open_Folder" xml:space="preserve">
     <value>フォルダーを開く</value>
@@ -2379,12 +2370,6 @@
   <data name="Load" xml:space="preserve">
     <value>読み込み</value>
   </data>
-  <data name="CM_Open_Twitch" xml:space="preserve">
-    <value>Twitch Streaming</value>
-  </data>
-  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
-    <value>Twitch Streaming</value>
-  </data>
   <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
     <value>シャットダウン</value>
   </data>
@@ -2495,12 +2480,6 @@
   </data>
   <data name="CM_Track_histogram" xml:space="preserve">
     <value>ヒストグラム</value>
-  </data>
-  <data name="CM_Open_Youtube" xml:space="preserve">
-    <value>YouTube Streaming</value>
-  </data>
-  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
-    <value>YouTube Streaming</value>
   </data>
   <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
     <value>開けて下さい</value>
@@ -2898,17 +2877,8 @@
   <data name="CM_DisableHDR" xml:space="preserve">
     <value>HDR カラー スペースを無効にする</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>HDR カラー スペースを無効にする機能</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>更新のバージョン番号</value>
-  </data>
   <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
     <value>元のテキストを保持します。</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>ライブ翻訳に保持する起源のテキストを追加します。</value>
   </data>
   <data name="CM_ShowDanmuButton" xml:space="preserve">
     <value>画面の表示] ボタン</value>
@@ -2925,10 +2895,481 @@
   <data name="CM_ShowNextFrameButton" xml:space="preserve">
     <value>次のフレーム コントロール ボタンを表示します。</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>安定性を向上させる</value>
+  <data name="SD_PivotItem3_bufferTimeLocalSlider.Header" xml:space="preserve">
+    <value>バッファー時間ローカル (ms)</value>
+  </data>
+  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
+    <value>バッファー時間ネットワーク (ms)</value>
+  </data>
+  <data name="CM_Open_Samba" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_SMBConnectionString1_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS 接続文字列 1</value>
+  </data>
+  <data name="Samba_CD_TITLE.Text" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_CD.SecondaryButtonText" xml:space="preserve">
+    <value>シャットダウン</value>
+  </data>
+  <data name="BindSambaToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>お気に入りのソースとして SMB/CIFS を使用します。</value>
+  </data>
+  <data name="Samba_CD_PivotItem1.Header" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="Samba_SMBLocalPort_TextBlock.Header" xml:space="preserve">
+    <value>SMB/CIFS ローカル ポート</value>
+  </data>
+  <data name="SetSAMBA" xml:space="preserve">
+    <value>お気に入りのソースとして SMB/CIFS を使用します。</value>
+  </data>
+  <data name="BindSFTPToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>お気に入りのソースとして SFTP/SSH を使用します。</value>
+  </data>
+  <data name="Sftp_SFTPHostName_TextBlock.Header" xml:space="preserve">
+    <value>ホスト名/IP アドレス</value>
+  </data>
+  <data name="Sftp_SFTPPort_TextBlock.Header" xml:space="preserve">
+    <value>リモート ポート</value>
+  </data>
+  <data name="Sftp_SFTPUserName_TextBlock.Header" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="Sftp_SFTPPassword_TextBlock.Header" xml:space="preserve">
+    <value>パスワード</value>
+  </data>
+  <data name="Sftp_SFTPEntryPath_TextBlock.Header" xml:space="preserve">
+    <value>エントリのパス</value>
+  </data>
+  <data name="CM_Open_Sftp" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD_TITLE.Text" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD.SecondaryButtonText" xml:space="preserve">
+    <value>シャットダウン</value>
+  </data>
+  <data name="Sftp_CD_PivotItem1.Header" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="SetSFTP" xml:space="preserve">
+    <value>お気に入りのソースとして SFTP/SSH を使用します。</value>
+  </data>
+  <data name="Samba_CD.PrimaryButtonText" xml:space="preserve">
+    <value>テスト</value>
+  </data>
+  <data name="Sftp_CD.PrimaryButtonText" xml:space="preserve">
+    <value>テスト</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>テスト パス</value>
+  </data>
+  <data name="Fail" xml:space="preserve">
+    <value>テストに失敗しました</value>
+  </data>
+  <data name="CM_ResizePlaybackWindowsSize" xml:space="preserve">
+    <value>ビデオに合わせてウィンドウのサイズを変更します。</value>
+  </data>
+  <data name="Samba_SMBConnectionString2_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS 接続文字列 1</value>
+  </data>
+  <data name="Samba_SMBConnectionString3_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS 接続文字列 2</value>
+  </data>
+  <data name="WM_Podcast_Down" xml:space="preserve">
+    <value>ポッド キャストは使用できません。</value>
+  </data>
+  <data name="CM_Open_Download" xml:space="preserve">
+    <value>マネージャーをダウンロードします。</value>
+  </data>
+  <data name="Download_CD_TITLE.Text" xml:space="preserve">
+    <value>マネージャーをダウンロードします。</value>
+  </data>
+  <data name="Download_CD_PivotItem1.Header" xml:space="preserve">
+    <value>ダウンロード</value>
+  </data>
+  <data name="Download_CD_PivotItem2.Header" xml:space="preserve">
+    <value>オフライン</value>
+  </data>
+  <data name="Download_CD_PivotItem3.Header" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="CM_DownloadThisVideo" xml:space="preserve">
+    <value>このファイルをダウンロードします。</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>Youtube</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>Youtube</value>
+  </data>
+  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
+    <value>名前を付けて保存</value>
+  </data>
+  <data name="Download_CD.SecondaryButtonText" xml:space="preserve">
+    <value>非表示</value>
+  </data>
+  <data name="CM_DownloadThisPlayList" xml:space="preserve">
+    <value>この再生リストをダウンロードします。</value>
+  </data>
+  <data name="CannotDownload" xml:space="preserve">
+    <value>ダウンロードできません。</value>
+  </data>
+  <data name="NotSupport" xml:space="preserve">
+    <value>サポートしていません</value>
+  </data>
+  <data name="Transcode_CD_PivotItem1.Header" xml:space="preserve">
+    <value>ツールを組み合わせてください。</value>
+  </data>
+  <data name="Transcode_CD_PivotItem2.Header" xml:space="preserve">
+    <value>カスタムのトランス コード</value>
+  </data>
+  <data name="T_CD_SelectSource.Content" xml:space="preserve">
+    <value>動画ファイルを選ぶ</value>
+  </data>
+  <data name="T_CD_SelectOutput.Content" xml:space="preserve">
+    <value>設定出力ファイル</value>
+  </data>
+  <data name="EnableMrfCrf444.Content" xml:space="preserve">
+    <value>MRFCRF444 ビデオ処理アルゴリズム (ハードウェア アクセラレーションを無効にします) を有効にします。</value>
+  </data>
+  <data name="T_CD_UseHevc.Content" xml:space="preserve">
+    <value>HEVC/H265 コーデックを使用します。</value>
+  </data>
+  <data name="T_CD_VideoSettings.Text" xml:space="preserve">
+    <value>ビデオの設定</value>
+  </data>
+  <data name="T_CD_VideoW.Text" xml:space="preserve">
+    <value>ビデオの幅</value>
+  </data>
+  <data name="T_CD_VideoH.Text" xml:space="preserve">
+    <value>ビデオの高さ</value>
+  </data>
+  <data name="T_CD_VideoBPS.Text" xml:space="preserve">
+    <value>サンプルあたりのビット数</value>
+  </data>
+  <data name="T_CD_SampleRate.Text" xml:space="preserve">
+    <value>サンプル レート</value>
+  </data>
+  <data name="T_CD_BitRate.Text" xml:space="preserve">
+    <value>ビット レート</value>
+  </data>
+  <data name="T_CD_FrameRate.Text" xml:space="preserve">
+    <value>フレーム レート</value>
+  </data>
+  <data name="T_CD_ChannelCount.Text" xml:space="preserve">
+    <value>チャンネル数</value>
+  </data>
+  <data name="T_CD_AudioSettings.Text" xml:space="preserve">
+    <value>オーディオ設定</value>
+  </data>
+  <data name="T_CD_Play.Content" xml:space="preserve">
+    <value>再生</value>
+  </data>
+  <data name="T_CD_Pause.Content" xml:space="preserve">
+    <value>一時停止</value>
+  </data>
+  <data name="T_CD_Stop.Content" xml:space="preserve">
+    <value>ストップ</value>
+  </data>
+  <data name="T_CD_Transcode.Content" xml:space="preserve">
+    <value>トランス コード</value>
+  </data>
+  <data name="T_CD_Cancel.Content" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="TranscodeCanceled" xml:space="preserve">
+    <value>トランス コードをキャンセル</value>
+  </data>
+  <data name="Progress" xml:space="preserve">
+    <value>進行状況</value>
+  </data>
+  <data name="TranscodeCompleted" xml:space="preserve">
+    <value>トランス コード完了</value>
+  </data>
+  <data name="Codecnotfound" xml:space="preserve">
+    <value>コーデックが見つかりません</value>
+  </data>
+  <data name="Invalidprofile" xml:space="preserve">
+    <value>無効なプロファイル</value>
+  </data>
+  <data name="Unknownfailure" xml:space="preserve">
+    <value>不明なエラー</value>
+  </data>
+  <data name="Transcode_CD_PivotItem3.Header" xml:space="preserve">
+    <value>メディア エンコード プロファイル</value>
+  </data>
+  <data name="T_CD_Create.Content" xml:space="preserve">
+    <value>作成</value>
+  </data>
+  <data name="T_CD_CreateFromFile.Text" xml:space="preserve">
+    <value>ファイルからプロファイルをエンコード メディアを作成します。</value>
+  </data>
+  <data name="T_CD_CreateFromStream.Text" xml:space="preserve">
+    <value>現在のメディアの再生からプロファイルをエンコード メディアを読む</value>
+  </data>
+  <data name="T_CD_AudioBitrate.Header" xml:space="preserve">
+    <value>オーディオ ビット レート</value>
+  </data>
+  <data name="T_CD_AudioBitsPerSample.Header" xml:space="preserve">
+    <value>1 サンプルあたりのオーディオ ビット</value>
+  </data>
+  <data name="T_CD_AudioChannelCount.Header" xml:space="preserve">
+    <value>オーディオ チャンネル数</value>
+  </data>
+  <data name="T_CD_AudioSampleRate.Header" xml:space="preserve">
+    <value>オーディオ サンプル レート</value>
+  </data>
+  <data name="T_CD_VideoWidth.Header" xml:space="preserve">
+    <value>ビデオの幅</value>
+  </data>
+  <data name="T_CD_VideoHeight.Header" xml:space="preserve">
+    <value>ビデオの高さ</value>
+  </data>
+  <data name="T_CD_VideoBitrate.Header" xml:space="preserve">
+    <value>ビデオ ビット レート</value>
+  </data>
+  <data name="T_CD_VideoFrameRateNumerator.Header" xml:space="preserve">
+    <value>ビデオのフレーム レートの分子</value>
+  </data>
+  <data name="T_CD_VideoFrameRateDenominator.Header" xml:space="preserve">
+    <value>ビデオのフレーム レートの分母</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioNumerator.Header" xml:space="preserve">
+    <value>ビデオのピクセル縦横比の分子</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioDenominator.Header" xml:space="preserve">
+    <value>ビデオのピクセル縦横比の分母</value>
+  </data>
+  <data name="T_CD_VideoTemplateQuality.Header" xml:space="preserve">
+    <value>品質</value>
+  </data>
+  <data name="T_CD_AudioTemplate.Header" xml:space="preserve">
+    <value>オーディオ フォーマット</value>
+  </data>
+  <data name="T_CD_VideoTemplate.Header" xml:space="preserve">
+    <value>ビデオ フォーマット</value>
+  </data>
+  <data name="T_CD_AlwaysReencode.Content" xml:space="preserve">
+    <value>常に再エンコードします。</value>
+  </data>
+  <data name="T_CD_HardwareAccelerationEnabled.Content" xml:space="preserve">
+    <value>ハードウェア アクセラレーションを有効に</value>
+  </data>
+  <data name="T_CD_SAVE_Profile.Content" xml:space="preserve">
+    <value>保存</value>
+  </data>
+  <data name="T_CD_ProfileName.PlaceholderText" xml:space="preserve">
+    <value>メディア エンコード プロファイル名</value>
+  </data>
+  <data name="MustCreateFormatTemplateFirst" xml:space="preserve">
+    <value>最初の書式テンプレートを作成する必要があります。</value>
+  </data>
+  <data name="ProfileFileNameCanNotEmpty" xml:space="preserve">
+    <value>できませんプロファイル ファイル名を空にします。</value>
+  </data>
+  <data name="T_CD_TestFromFile.Text" xml:space="preserve">
+    <value>プロファイルをファイルからのエンコード テスト メディア</value>
+  </data>
+  <data name="T_CD_TestFromStream.Text" xml:space="preserve">
+    <value>メディアのエンコーディング プロファイルから現在のメディアの再生をテストします。</value>
+  </data>
+  <data name="T_CD_DELETE_Profile.Content" xml:space="preserve">
+    <value>削除</value>
+  </data>
+  <data name="Transcode_CD_PivotItem4.Header" xml:space="preserve">
+    <value>トランス コード</value>
+  </data>
+  <data name="CM_TranscodeThisVideo" xml:space="preserve">
+    <value>このファイルをトランス コード</value>
+  </data>
+  <data name="CannotTranscode" xml:space="preserve">
+    <value>トランス コードことはできません。</value>
+  </data>
+  <data name="CM_TranscodeThisPlayList" xml:space="preserve">
+    <value>トランス コード再生リスト</value>
+  </data>
+  <data name="T_CD_ConcurrentTranscodeCount.Header" xml:space="preserve">
+    <value>同時変換数</value>
+  </data>
+  <data name="T_CD_ConcurrentDownloadCount.Header" xml:space="preserve">
+    <value>同時ダウンロード数</value>
+  </data>
+  <data name="T_CD_TranscodeIncludeSkip.Content" xml:space="preserve">
+    <value>スキップ機能を使用するメディア ・ ファイルのタイムラインをトリムします。</value>
+  </data>
+  <data name="CM_Playback_MixedReality" xml:space="preserve">
+    <value>使用 Windows 混合現実モードを試してみる</value>
+  </data>
+  <data name="WM_Scanned" xml:space="preserve">
+    <value>スキャン</value>
+  </data>
+  <data name="CD_Socket.PrimaryButtonText" xml:space="preserve">
+    <value>テスト</value>
+  </data>
+  <data name="VideoQualityCannotBeAuto" xml:space="preserve">
+    <value>ビデオの品質を指定する必要があります。</value>
+  </data>
+  <data name="CM_EncodingSubtitle" xml:space="preserve">
+    <value>エンコードを再開します。</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="hevcVideoExtensionButton_Installed" xml:space="preserve">
+    <value>ダウンロード (インストール) HEVC ビデオ拡張</value>
+  </data>
+  <data name="hevcVideoExtensionButton_not_installed" xml:space="preserve">
+    <value>HEVC ビデオ拡張をダウンロードします。</value>
+  </data>
+  <data name="Brightness" xml:space="preserve">
+    <value>明るさ</value>
+  </data>
+  <data name="PlaybackRate" xml:space="preserve">
+    <value>再生レート</value>
+  </data>
+  <data name="Playback" xml:space="preserve">
+    <value>再生</value>
+  </data>
+  <data name="Playlist" xml:space="preserve">
+    <value>再生リスト</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.Header" xml:space="preserve">
+    <value>.webm ファイルは常にシステムのデコーダーを使用します。</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="WM_ThisFileHaveNoAudio" xml:space="preserve">
+    <value>このビデオがオーディオ トラックを持ってないです。</value>
+  </data>
+  <data name="WM_DoYourWantLoadUpExteranlAudio" xml:space="preserve">
+    <value>外部オーディオを読み込むようにしたいです。</value>
+  </data>
+  <data name="WM_IsVideoOnly_Cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="WM_IsVideoOnly_Load_Audio" xml:space="preserve">
+    <value>オーディオ ファイルを選択します</value>
+  </data>
+  <data name="WM_IsVideoOnly_Stop_Show" xml:space="preserve">
+    <value>次回から表示しません。</value>
+  </data>
+  <data name="SkipCD_JumpForwardSetting.Text" xml:space="preserve">
+    <value>前方ジャンプします。</value>
+  </data>
+  <data name="SkipCD_JumpBackSetting.Text" xml:space="preserve">
+    <value>ジャンプ バック</value>
+  </data>
+  <data name="AudioHardwareAcclerated" xml:space="preserve">
+    <value>オーディオ ハードウェア加速</value>
+  </data>
+  <data name="AudioNotHardwareAcclerated" xml:space="preserve">
+    <value>オーディオ ソフトウェア デコード</value>
+  </data>
+  <data name="VideoHardwareAcclerated" xml:space="preserve">
+    <value>ビデオカードのハードウェアアクセラレーション</value>
+  </data>
+  <data name="VideoNotHardwareAcclerated" xml:space="preserve">
+    <value>ビデオ ソフトウェア デコード</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.Header" xml:space="preserve">
+    <value>タイトルバーのモード情報をデコードのビデオ オーディオを表示します。</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="CM_ShowAdvanceDecodingInfoOnTitlebar" xml:space="preserve">
+    <value>タイトルバーのモード情報をデコードのビデオ オーディオを表示します。</value>
+  </data>
+  <data name="CM_HideTransportControlOnLeave" xml:space="preserve">
+    <value>カーソルが離れるときバー コントロールを非表示します。</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.Header" xml:space="preserve">
+    <value>ポインター モード (アプリ再起動が必要可能性があります) が必要です。</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OnContent" xml:space="preserve">
+    <value>自動的に</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
+    <value>要求されたとき</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>.m3u 再生リストのサポートを追加します。</value>
   </data>
   <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>複数のウィンドウのクラッシュの問題を修正します。</value>
+    <value>UHD blu-ray フォルダー。ISO 再生強化</value>
+  </data>
+  <data name="CM_ShowStopButton" xml:space="preserve">
+    <value>[中止] ボタンを表示する</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>オーディオ トラックを使用して、設定を同期</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>字幕を設定/オーディオのタイムライン</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.Header" xml:space="preserve">
+    <value>リアルタイム再生</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="BluRayFolderInvalid" xml:space="preserve">
+    <value>「BDMV」フォルダーにはが含まれているフォルダーを選択してください</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>オーディオのタイムラインを調整します。</value>
+  </data>
+  <data name="CM_Open_Bluray_Folder" xml:space="preserve">
+    <value>Blu-ray フォルダー</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>パフォーマンスの向上とバグの修正</value>
+  </data>
+  <data name="audioBalanceSlider.Header" xml:space="preserve">
+    <value>オーディオ バランス</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>オーディオ バランスを調整します。</value>
   </data>
 </root>

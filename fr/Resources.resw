@@ -1056,9 +1056,6 @@
   <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OffContent" xml:space="preserve">
     <value>N°</value>
   </data>
-  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
-    <value>Durée du tampon (ms)</value>
-  </data>
   <data name="SYS_PIP" xml:space="preserve">
     <value>Image dans l’image (toujours sur le dessus)</value>
   </data>
@@ -1881,9 +1878,6 @@
   <data name="Seconds" xml:space="preserve">
     <value>Secondes</value>
   </data>
-  <data name="CM_Subtitle_Delay" xml:space="preserve">
-    <value>Chronologie de sous-titre Set</value>
-  </data>
   <data name="DCD_TITLE.Text" xml:space="preserve">
     <value>Chronologie de sous-titre</value>
   </data>
@@ -2021,9 +2015,6 @@
   </data>
   <data name="WM_Link_No_File" xml:space="preserve">
     <value>ne peut pas extraire vidéos de lien</value>
-  </data>
-  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
-    <value>Enregistrer sous</value>
   </data>
   <data name="CM_Open_Folder" xml:space="preserve">
     <value>Ouvrir le dossier</value>
@@ -2301,12 +2292,6 @@
   <data name="Load" xml:space="preserve">
     <value>charger</value>
   </data>
-  <data name="CM_Open_Twitch" xml:space="preserve">
-    <value>Twitch Streaming!</value>
-  </data>
-  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
-    <value>Twitch Streaming!</value>
-  </data>
   <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
     <value>Fermer</value>
   </data>
@@ -2417,12 +2402,6 @@
   </data>
   <data name="CM_Track_histogram" xml:space="preserve">
     <value>Histogramme</value>
-  </data>
-  <data name="CM_Open_Youtube" xml:space="preserve">
-    <value>YouTube en Streaming</value>
-  </data>
-  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
-    <value>YouTube en Streaming</value>
   </data>
   <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
     <value>Ouvert</value>
@@ -2820,17 +2799,8 @@
   <data name="CM_DisableHDR" xml:space="preserve">
     <value>Désactiver l’espace de couleurs HDR</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>possibilité de désactiver l’espace de couleurs HDR</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Numéro de version de mise à jour</value>
-  </data>
   <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
     <value>Conserver le texte d’origine</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>Ajouter du texte d’origine chasse gardée dans la traduction direct</value>
   </data>
   <data name="CM_ShowDanmuButton" xml:space="preserve">
     <value>Afficher le bouton sous-titres de Barrage</value>
@@ -2847,10 +2817,481 @@
   <data name="CM_ShowNextFrameButton" xml:space="preserve">
     <value>Afficher le bouton image suivante</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>améliorer la stabilité</value>
+  <data name="SD_PivotItem3_bufferTimeLocalSlider.Header" xml:space="preserve">
+    <value>Mémoire tampon temps Local (ms)</value>
+  </data>
+  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
+    <value>Mémoire tampon réseau de Time (ms)</value>
+  </data>
+  <data name="CM_Open_Samba" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_SMBConnectionString1_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Chaîne de connexion SMB/CIFS 1</value>
+  </data>
+  <data name="Samba_CD_TITLE.Text" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Fermer</value>
+  </data>
+  <data name="BindSambaToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Utilisez SMB/CIFS comme Source de favoris</value>
+  </data>
+  <data name="Samba_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Réglage</value>
+  </data>
+  <data name="Samba_SMBLocalPort_TextBlock.Header" xml:space="preserve">
+    <value>Port Local SMB/CIFS</value>
+  </data>
+  <data name="SetSAMBA" xml:space="preserve">
+    <value>Utilisez SMB/CIFS comme Source de favoris</value>
+  </data>
+  <data name="BindSFTPToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Utiliser SFTP/SSH comme Source de favoris</value>
+  </data>
+  <data name="Sftp_SFTPHostName_TextBlock.Header" xml:space="preserve">
+    <value>Nom d’hôte / adresse IP</value>
+  </data>
+  <data name="Sftp_SFTPPort_TextBlock.Header" xml:space="preserve">
+    <value>Port à distance</value>
+  </data>
+  <data name="Sftp_SFTPUserName_TextBlock.Header" xml:space="preserve">
+    <value>Nom d’utilisateur</value>
+  </data>
+  <data name="Sftp_SFTPPassword_TextBlock.Header" xml:space="preserve">
+    <value>Mot de passe</value>
+  </data>
+  <data name="Sftp_SFTPEntryPath_TextBlock.Header" xml:space="preserve">
+    <value>Chemins d’entrée</value>
+  </data>
+  <data name="CM_Open_Sftp" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD_TITLE.Text" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Fermer</value>
+  </data>
+  <data name="Sftp_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Réglage</value>
+  </data>
+  <data name="SetSFTP" xml:space="preserve">
+    <value>Utiliser SFTP/SSH comme Source de favoris</value>
+  </data>
+  <data name="Samba_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="Sftp_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Test Pass</value>
+  </data>
+  <data name="Fail" xml:space="preserve">
+    <value>Échec du test</value>
+  </data>
+  <data name="CM_ResizePlaybackWindowsSize" xml:space="preserve">
+    <value>Redimensionner la fenêtre pour s’adapter à vidéo</value>
+  </data>
+  <data name="Samba_SMBConnectionString2_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Chaîne de connexion SMB/CIFS 1</value>
+  </data>
+  <data name="Samba_SMBConnectionString3_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Chaîne de connexion SMB/CIFS 2</value>
+  </data>
+  <data name="WM_Podcast_Down" xml:space="preserve">
+    <value>Podcast n’est pas disponible</value>
+  </data>
+  <data name="CM_Open_Download" xml:space="preserve">
+    <value>Gestionnaire de téléchargement</value>
+  </data>
+  <data name="Download_CD_TITLE.Text" xml:space="preserve">
+    <value>Gestionnaire de téléchargement</value>
+  </data>
+  <data name="Download_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Téléchargement</value>
+  </data>
+  <data name="Download_CD_PivotItem2.Header" xml:space="preserve">
+    <value>En mode hors connexion</value>
+  </data>
+  <data name="Download_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Réglage</value>
+  </data>
+  <data name="CM_DownloadThisVideo" xml:space="preserve">
+    <value>Télécharger ce fichier</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>Youtube</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>Youtube</value>
+  </data>
+  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
+    <value>Enregistrer sous</value>
+  </data>
+  <data name="Download_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Masquer</value>
+  </data>
+  <data name="CM_DownloadThisPlayList" xml:space="preserve">
+    <value>TELECHARGER cette PlayList</value>
+  </data>
+  <data name="CannotDownload" xml:space="preserve">
+    <value>Impossible de télécharger</value>
+  </data>
+  <data name="NotSupport" xml:space="preserve">
+    <value>Pas de prise en charge</value>
+  </data>
+  <data name="Transcode_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Combiner l’outil</value>
+  </data>
+  <data name="Transcode_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Transcode personnalisé</value>
+  </data>
+  <data name="T_CD_SelectSource.Content" xml:space="preserve">
+    <value>Choisissez le fichier vidéo</value>
+  </data>
+  <data name="T_CD_SelectOutput.Content" xml:space="preserve">
+    <value>Fichier de sortie réglée</value>
+  </data>
+  <data name="EnableMrfCrf444.Content" xml:space="preserve">
+    <value>Activer l’algorithme de traitement vidéo MRFCRF444 (désactive l’accélération matérielle)</value>
+  </data>
+  <data name="T_CD_UseHevc.Content" xml:space="preserve">
+    <value>Utilisez le Codec HEVC/H265</value>
+  </data>
+  <data name="T_CD_VideoSettings.Text" xml:space="preserve">
+    <value>Paramètres vidéo</value>
+  </data>
+  <data name="T_CD_VideoW.Text" xml:space="preserve">
+    <value>Largeur de la vidéo</value>
+  </data>
+  <data name="T_CD_VideoH.Text" xml:space="preserve">
+    <value>Hauteur de la vidéo</value>
+  </data>
+  <data name="T_CD_VideoBPS.Text" xml:space="preserve">
+    <value>Bits par échantillon</value>
+  </data>
+  <data name="T_CD_SampleRate.Text" xml:space="preserve">
+    <value>Fréquence d’échantillonnage</value>
+  </data>
+  <data name="T_CD_BitRate.Text" xml:space="preserve">
+    <value>Débit binaire</value>
+  </data>
+  <data name="T_CD_FrameRate.Text" xml:space="preserve">
+    <value>Fréquence d’images</value>
+  </data>
+  <data name="T_CD_ChannelCount.Text" xml:space="preserve">
+    <value>Nombre de voies</value>
+  </data>
+  <data name="T_CD_AudioSettings.Text" xml:space="preserve">
+    <value>Paramètres audio</value>
+  </data>
+  <data name="T_CD_Play.Content" xml:space="preserve">
+    <value>Jouer</value>
+  </data>
+  <data name="T_CD_Pause.Content" xml:space="preserve">
+    <value>Pause</value>
+  </data>
+  <data name="T_CD_Stop.Content" xml:space="preserve">
+    <value>Stop</value>
+  </data>
+  <data name="T_CD_Transcode.Content" xml:space="preserve">
+    <value>Transcoder</value>
+  </data>
+  <data name="T_CD_Cancel.Content" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="TranscodeCanceled" xml:space="preserve">
+    <value>Transcode annulée</value>
+  </data>
+  <data name="Progress" xml:space="preserve">
+    <value>Progrès</value>
+  </data>
+  <data name="TranscodeCompleted" xml:space="preserve">
+    <value>Transcodage terminé</value>
+  </data>
+  <data name="Codecnotfound" xml:space="preserve">
+    <value>Codec non trouvé</value>
+  </data>
+  <data name="Invalidprofile" xml:space="preserve">
+    <value>Profil non valide</value>
+  </data>
+  <data name="Unknownfailure" xml:space="preserve">
+    <value>Panne inconnue</value>
+  </data>
+  <data name="Transcode_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Profil d’encodage Media</value>
+  </data>
+  <data name="T_CD_Create.Content" xml:space="preserve">
+    <value>&amp;Créer...</value>
+  </data>
+  <data name="T_CD_CreateFromFile.Text" xml:space="preserve">
+    <value>Créer le profil du fichier d’encodage de médias</value>
+  </data>
+  <data name="T_CD_CreateFromStream.Text" xml:space="preserve">
+    <value>Profil de courant Playing Media d’encodage, lire</value>
+  </data>
+  <data name="T_CD_AudioBitrate.Header" xml:space="preserve">
+    <value>Bitrate Audio</value>
+  </data>
+  <data name="T_CD_AudioBitsPerSample.Header" xml:space="preserve">
+    <value>Audio Bits par échantillon</value>
+  </data>
+  <data name="T_CD_AudioChannelCount.Header" xml:space="preserve">
+    <value>Nombre de canaux audio</value>
+  </data>
+  <data name="T_CD_AudioSampleRate.Header" xml:space="preserve">
+    <value>Taux d’échantillonnage audio</value>
+  </data>
+  <data name="T_CD_VideoWidth.Header" xml:space="preserve">
+    <value>Largeur de la vidéo</value>
+  </data>
+  <data name="T_CD_VideoHeight.Header" xml:space="preserve">
+    <value>Hauteur de la vidéo</value>
+  </data>
+  <data name="T_CD_VideoBitrate.Header" xml:space="preserve">
+    <value>Vidéo Bitrate</value>
+  </data>
+  <data name="T_CD_VideoFrameRateNumerator.Header" xml:space="preserve">
+    <value>Vidéo FrameRate numérateur</value>
+  </data>
+  <data name="T_CD_VideoFrameRateDenominator.Header" xml:space="preserve">
+    <value>Vidéo FrameRate dénominateur</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioNumerator.Header" xml:space="preserve">
+    <value>Vidéo Pixel Aspect Ratio numérateur</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioDenominator.Header" xml:space="preserve">
+    <value>Dénominateur du Ratio d’Aspect vidéo Pixel</value>
+  </data>
+  <data name="T_CD_VideoTemplateQuality.Header" xml:space="preserve">
+    <value>Qualité</value>
+  </data>
+  <data name="T_CD_AudioTemplate.Header" xml:space="preserve">
+    <value>Format audio</value>
+  </data>
+  <data name="T_CD_VideoTemplate.Header" xml:space="preserve">
+    <value>Format vidéo</value>
+  </data>
+  <data name="T_CD_AlwaysReencode.Content" xml:space="preserve">
+    <value>Toujours ré-encoder</value>
+  </data>
+  <data name="T_CD_HardwareAccelerationEnabled.Content" xml:space="preserve">
+    <value>Accélération matérielle activée</value>
+  </data>
+  <data name="T_CD_SAVE_Profile.Content" xml:space="preserve">
+    <value>Enregistrer</value>
+  </data>
+  <data name="T_CD_ProfileName.PlaceholderText" xml:space="preserve">
+    <value>Profil d’encodage Nom_du_média</value>
+  </data>
+  <data name="MustCreateFormatTemplateFirst" xml:space="preserve">
+    <value>Devez créer le modèle de Format tout d’abord</value>
+  </data>
+  <data name="ProfileFileNameCanNotEmpty" xml:space="preserve">
+    <value>Profil File Name ne peut pas être vide</value>
+  </data>
+  <data name="T_CD_TestFromFile.Text" xml:space="preserve">
+    <value>Test de profil du fichier d’encodage de médias</value>
+  </data>
+  <data name="T_CD_TestFromStream.Text" xml:space="preserve">
+    <value>Profil de courant Playing Media d’encodage de médias d’essai</value>
+  </data>
+  <data name="T_CD_DELETE_Profile.Content" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="Transcode_CD_PivotItem4.Header" xml:space="preserve">
+    <value>Transcodage</value>
+  </data>
+  <data name="CM_TranscodeThisVideo" xml:space="preserve">
+    <value>Transcoder ce fichier</value>
+  </data>
+  <data name="CannotTranscode" xml:space="preserve">
+    <value>Ne peut pas transcoder</value>
+  </data>
+  <data name="CM_TranscodeThisPlayList" xml:space="preserve">
+    <value>Transcode cette PlayList</value>
+  </data>
+  <data name="T_CD_ConcurrentTranscodeCount.Header" xml:space="preserve">
+    <value>Comte de transcoder simultanées</value>
+  </data>
+  <data name="T_CD_ConcurrentDownloadCount.Header" xml:space="preserve">
+    <value>Nombre de téléchargement simultanés</value>
+  </data>
+  <data name="T_CD_TranscodeIncludeSkip.Content" xml:space="preserve">
+    <value>Garniture Media File chronologie utilisation Skip Feature</value>
+  </data>
+  <data name="CM_Playback_MixedReality" xml:space="preserve">
+    <value>Essayez d’utiliser Windows réalité mixte Mode</value>
+  </data>
+  <data name="WM_Scanned" xml:space="preserve">
+    <value>Analysé</value>
+  </data>
+  <data name="CD_Socket.PrimaryButtonText" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="VideoQualityCannotBeAuto" xml:space="preserve">
+    <value>Devez spécifier la qualité vidéo</value>
+  </data>
+  <data name="CM_EncodingSubtitle" xml:space="preserve">
+    <value>Rouvrir avec codage</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="hevcVideoExtensionButton_Installed" xml:space="preserve">
+    <value>Télécharger l’Extension vidéo HEVC (installée)</value>
+  </data>
+  <data name="hevcVideoExtensionButton_not_installed" xml:space="preserve">
+    <value>Télécharger Extension vidéo HEVC</value>
+  </data>
+  <data name="Brightness" xml:space="preserve">
+    <value>Luminosité</value>
+  </data>
+  <data name="PlaybackRate" xml:space="preserve">
+    <value>Taux de lecture</value>
+  </data>
+  <data name="Playback" xml:space="preserve">
+    <value>Lecture</value>
+  </data>
+  <data name="Playlist" xml:space="preserve">
+    <value>Playlist</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.Header" xml:space="preserve">
+    <value>.WebM fichier toujours utiliser système décodeur</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="WM_ThisFileHaveNoAudio" xml:space="preserve">
+    <value>Cette vidéo n’ont aucune piste audio</value>
+  </data>
+  <data name="WM_DoYourWantLoadUpExteranlAudio" xml:space="preserve">
+    <value>Voulez-vous charger Audio externe</value>
+  </data>
+  <data name="WM_IsVideoOnly_Cancel" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="WM_IsVideoOnly_Load_Audio" xml:space="preserve">
+    <value>Sélectionnez le fichier audio</value>
+  </data>
+  <data name="WM_IsVideoOnly_Stop_Show" xml:space="preserve">
+    <value>Ne plus afficher</value>
+  </data>
+  <data name="SkipCD_JumpForwardSetting.Text" xml:space="preserve">
+    <value>Passez dans ce cas-là</value>
+  </data>
+  <data name="SkipCD_JumpBackSetting.Text" xml:space="preserve">
+    <value>Revenir en arrière</value>
+  </data>
+  <data name="AudioHardwareAcclerated" xml:space="preserve">
+    <value>accélération matérielle audio</value>
+  </data>
+  <data name="AudioNotHardwareAcclerated" xml:space="preserve">
+    <value>décodage audio logiciel</value>
+  </data>
+  <data name="VideoHardwareAcclerated" xml:space="preserve">
+    <value>accélération matérielle vidéo</value>
+  </data>
+  <data name="VideoNotHardwareAcclerated" xml:space="preserve">
+    <value>décodage vidéo logiciel</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.Header" xml:space="preserve">
+    <value>Voir la vidéo audio décodage Mode Infomation sur la barre de titre</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="CM_ShowAdvanceDecodingInfoOnTitlebar" xml:space="preserve">
+    <value>Voir la vidéo audio décodage Mode Infomation sur la barre de titre</value>
+  </data>
+  <data name="CM_HideTransportControlOnLeave" xml:space="preserve">
+    <value>masquer le contrôle barre quand le curseur quitter</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.Header" xml:space="preserve">
+    <value>Nécessite le Mode pointeur (peut nécessité une app de redémarrer)</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OnContent" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
+    <value>À la demande</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>Ajouter le support de playlist .m3u</value>
   </data>
   <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>Difficulté plusieurs problème de crash de fenêtre</value>
+    <value>UHD Blu-ray dossier. Amélioration de la lecture d’ISO</value>
+  </data>
+  <data name="CM_ShowStopButton" xml:space="preserve">
+    <value>Afficher le bouton Arrêter</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Utiliser la piste Audio Sync réglage</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>Régler sous-titre / Audio Timeline</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.Header" xml:space="preserve">
+    <value>Lecture en temps réel</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OnContent" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OffContent" xml:space="preserve">
+    <value>N°</value>
+  </data>
+  <data name="BluRayFolderInvalid" xml:space="preserve">
+    <value>Veuillez sélectionner un dossier qui contient le dossier « BDMV »</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>régler le montage audio</value>
+  </data>
+  <data name="CM_Open_Bluray_Folder" xml:space="preserve">
+    <value>Blu-ray dossier</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>amélioration du rendement et des bugs corrigés</value>
+  </data>
+  <data name="audioBalanceSlider.Header" xml:space="preserve">
+    <value>Balance audio</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>ajuster la balance audio</value>
   </data>
 </root>

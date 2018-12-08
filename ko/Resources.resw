@@ -1053,9 +1053,6 @@
   <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OffContent" xml:space="preserve">
     <value>여부</value>
   </data>
-  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
-    <value>버퍼 시간 (밀리초)</value>
-  </data>
   <data name="SYS_PIP" xml:space="preserve">
     <value>그림</value>
   </data>
@@ -1878,9 +1875,6 @@
   <data name="Seconds" xml:space="preserve">
     <value>초</value>
   </data>
-  <data name="CM_Subtitle_Delay" xml:space="preserve">
-    <value>설정된 자막 타임 라인</value>
-  </data>
   <data name="DCD_TITLE.Text" xml:space="preserve">
     <value>자막 타임 라인</value>
   </data>
@@ -2018,9 +2012,6 @@
   </data>
   <data name="WM_Link_No_File" xml:space="preserve">
     <value>링크에서 동영상을 추출 하지 수 없습니다.</value>
-  </data>
-  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
-    <value>다른 이름으로 저장</value>
   </data>
   <data name="CM_Open_Folder" xml:space="preserve">
     <value>폴더 열기</value>
@@ -2301,12 +2292,6 @@
   <data name="Load" xml:space="preserve">
     <value>로드</value>
   </data>
-  <data name="CM_Open_Twitch" xml:space="preserve">
-    <value>Twitch Streaming</value>
-  </data>
-  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
-    <value>Twitch Streaming</value>
-  </data>
   <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
     <value>끄세요</value>
   </data>
@@ -2417,12 +2402,6 @@
   </data>
   <data name="CM_Track_histogram" xml:space="preserve">
     <value>히스토그램</value>
-  </data>
-  <data name="CM_Open_Youtube" xml:space="preserve">
-    <value>Youtube 스트리밍</value>
-  </data>
-  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
-    <value>Youtube 스트리밍</value>
   </data>
   <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
     <value>그거 여세요</value>
@@ -2820,17 +2799,8 @@
   <data name="CM_DisableHDR" xml:space="preserve">
     <value>HDR 색상 공간을 사용 하지 않도록</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>HDR 색상 공간을 사용 하지 않도록 설정 하는 기능</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>버전 번호 업데이트</value>
-  </data>
   <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
     <value>원본 텍스트를 보존</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>라이브 번역 보존 원본 텍스트 추가</value>
   </data>
   <data name="CM_ShowDanmuButton" xml:space="preserve">
     <value>표시 화면 버튼</value>
@@ -2847,10 +2817,481 @@
   <data name="CM_ShowNextFrameButton" xml:space="preserve">
     <value>다음 프레임 컨트롤 버튼 표시</value>
   </data>
-  <data name="Meta_UpdateInfo5" xml:space="preserve">
-    <value>안정성 향상</value>
+  <data name="SD_PivotItem3_bufferTimeLocalSlider.Header" xml:space="preserve">
+    <value>버퍼 시간 로컬 (ms)</value>
+  </data>
+  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
+    <value>버퍼 시간 네트워크 (ms)</value>
+  </data>
+  <data name="CM_Open_Samba" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_SMBConnectionString1_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS 연결 문자열 1</value>
+  </data>
+  <data name="Samba_CD_TITLE.Text" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_CD.SecondaryButtonText" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="BindSambaToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>SMB/CIFS를 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="Samba_CD_PivotItem1.Header" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="Samba_SMBLocalPort_TextBlock.Header" xml:space="preserve">
+    <value>SMB/CIFS 로컬 포트</value>
+  </data>
+  <data name="SetSAMBA" xml:space="preserve">
+    <value>SMB/CIFS를 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="BindSFTPToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>SFTP/SSH 즐겨찾기 소스 사용</value>
+  </data>
+  <data name="Sftp_SFTPHostName_TextBlock.Header" xml:space="preserve">
+    <value>호스트 이름 / IP 주소</value>
+  </data>
+  <data name="Sftp_SFTPPort_TextBlock.Header" xml:space="preserve">
+    <value>원격 포트</value>
+  </data>
+  <data name="Sftp_SFTPUserName_TextBlock.Header" xml:space="preserve">
+    <value>사용자 이름</value>
+  </data>
+  <data name="Sftp_SFTPPassword_TextBlock.Header" xml:space="preserve">
+    <value>암호</value>
+  </data>
+  <data name="Sftp_SFTPEntryPath_TextBlock.Header" xml:space="preserve">
+    <value>항목 경로</value>
+  </data>
+  <data name="CM_Open_Sftp" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD_TITLE.Text" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD.SecondaryButtonText" xml:space="preserve">
+    <value>끄세요</value>
+  </data>
+  <data name="Sftp_CD_PivotItem1.Header" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="SetSFTP" xml:space="preserve">
+    <value>SFTP/SSH 즐겨찾기 소스 사용</value>
+  </data>
+  <data name="Samba_CD.PrimaryButtonText" xml:space="preserve">
+    <value>테스트</value>
+  </data>
+  <data name="Sftp_CD.PrimaryButtonText" xml:space="preserve">
+    <value>테스트</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>테스트 통과</value>
+  </data>
+  <data name="Fail" xml:space="preserve">
+    <value>테스트 실패</value>
+  </data>
+  <data name="CM_ResizePlaybackWindowsSize" xml:space="preserve">
+    <value>비디오에 맞게 창 크기 조정</value>
+  </data>
+  <data name="Samba_SMBConnectionString2_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS 연결 문자열 1</value>
+  </data>
+  <data name="Samba_SMBConnectionString3_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS 연결 문자열 2</value>
+  </data>
+  <data name="WM_Podcast_Down" xml:space="preserve">
+    <value>포드 캐스트를 사용할 수 없습니다</value>
+  </data>
+  <data name="CM_Open_Download" xml:space="preserve">
+    <value>다운로드 관리자</value>
+  </data>
+  <data name="Download_CD_TITLE.Text" xml:space="preserve">
+    <value>다운로드 관리자</value>
+  </data>
+  <data name="Download_CD_PivotItem1.Header" xml:space="preserve">
+    <value>다운로드</value>
+  </data>
+  <data name="Download_CD_PivotItem2.Header" xml:space="preserve">
+    <value>오프 라인</value>
+  </data>
+  <data name="Download_CD_PivotItem3.Header" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="CM_DownloadThisVideo" xml:space="preserve">
+    <value>이 파일을 다운로드</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>Youtube</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>Youtube</value>
+  </data>
+  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
+    <value>다른 이름으로 저장</value>
+  </data>
+  <data name="Download_CD.SecondaryButtonText" xml:space="preserve">
+    <value>숨기기</value>
+  </data>
+  <data name="CM_DownloadThisPlayList" xml:space="preserve">
+    <value>이 재생 목록 다운로드</value>
+  </data>
+  <data name="CannotDownload" xml:space="preserve">
+    <value>다운로드 수 없습니다.</value>
+  </data>
+  <data name="NotSupport" xml:space="preserve">
+    <value>지원 하지</value>
+  </data>
+  <data name="Transcode_CD_PivotItem1.Header" xml:space="preserve">
+    <value>결합 도구</value>
+  </data>
+  <data name="Transcode_CD_PivotItem2.Header" xml:space="preserve">
+    <value>사용자 정의 변환</value>
+  </data>
+  <data name="T_CD_SelectSource.Content" xml:space="preserve">
+    <value>비디오 파일 선택</value>
+  </data>
+  <data name="T_CD_SelectOutput.Content" xml:space="preserve">
+    <value>설정된 출력 파일</value>
+  </data>
+  <data name="EnableMrfCrf444.Content" xml:space="preserve">
+    <value>(하드웨어 가속 비활성화) MRFCRF444 영상 처리 알고리즘을 사용 하도록 설정</value>
+  </data>
+  <data name="T_CD_UseHevc.Content" xml:space="preserve">
+    <value>HEVC/H265 코덱 사용</value>
+  </data>
+  <data name="T_CD_VideoSettings.Text" xml:space="preserve">
+    <value>비디오 설정</value>
+  </data>
+  <data name="T_CD_VideoW.Text" xml:space="preserve">
+    <value>비디오 너비</value>
+  </data>
+  <data name="T_CD_VideoH.Text" xml:space="preserve">
+    <value>비디오 높이</value>
+  </data>
+  <data name="T_CD_VideoBPS.Text" xml:space="preserve">
+    <value>샘플 당 비트</value>
+  </data>
+  <data name="T_CD_SampleRate.Text" xml:space="preserve">
+    <value>샘플 속도</value>
+  </data>
+  <data name="T_CD_BitRate.Text" xml:space="preserve">
+    <value>비트 전송률</value>
+  </data>
+  <data name="T_CD_FrameRate.Text" xml:space="preserve">
+    <value>프레임 속도</value>
+  </data>
+  <data name="T_CD_ChannelCount.Text" xml:space="preserve">
+    <value>채널 수</value>
+  </data>
+  <data name="T_CD_AudioSettings.Text" xml:space="preserve">
+    <value>오디오 설정</value>
+  </data>
+  <data name="T_CD_Play.Content" xml:space="preserve">
+    <value>플레이</value>
+  </data>
+  <data name="T_CD_Pause.Content" xml:space="preserve">
+    <value>일시 중지</value>
+  </data>
+  <data name="T_CD_Stop.Content" xml:space="preserve">
+    <value>정지</value>
+  </data>
+  <data name="T_CD_Transcode.Content" xml:space="preserve">
+    <value>코드 변환</value>
+  </data>
+  <data name="T_CD_Cancel.Content" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="TranscodeCanceled" xml:space="preserve">
+    <value>코드 변환 취소</value>
+  </data>
+  <data name="Progress" xml:space="preserve">
+    <value>진행</value>
+  </data>
+  <data name="TranscodeCompleted" xml:space="preserve">
+    <value>변환 완료</value>
+  </data>
+  <data name="Codecnotfound" xml:space="preserve">
+    <value>코덱을 찾을 수 없습니다</value>
+  </data>
+  <data name="Invalidprofile" xml:space="preserve">
+    <value>잘못 된 프로필</value>
+  </data>
+  <data name="Unknownfailure" xml:space="preserve">
+    <value>알 수 없는 오류</value>
+  </data>
+  <data name="Transcode_CD_PivotItem3.Header" xml:space="preserve">
+    <value>미디어 인코딩 프로필</value>
+  </data>
+  <data name="T_CD_Create.Content" xml:space="preserve">
+    <value>만들기</value>
+  </data>
+  <data name="T_CD_CreateFromFile.Text" xml:space="preserve">
+    <value>미디어 인코딩 파일에서 프로필 만들기</value>
+  </data>
+  <data name="T_CD_CreateFromStream.Text" xml:space="preserve">
+    <value>인코딩 프로필 현재 미디어를 재생 하는 미디어 읽기</value>
+  </data>
+  <data name="T_CD_AudioBitrate.Header" xml:space="preserve">
+    <value>오디오 비트 전송률</value>
+  </data>
+  <data name="T_CD_AudioBitsPerSample.Header" xml:space="preserve">
+    <value>오디오 샘플 당 비트</value>
+  </data>
+  <data name="T_CD_AudioChannelCount.Header" xml:space="preserve">
+    <value>오디오 채널 수</value>
+  </data>
+  <data name="T_CD_AudioSampleRate.Header" xml:space="preserve">
+    <value>오디오 샘플 속도</value>
+  </data>
+  <data name="T_CD_VideoWidth.Header" xml:space="preserve">
+    <value>비디오 너비</value>
+  </data>
+  <data name="T_CD_VideoHeight.Header" xml:space="preserve">
+    <value>비디오 높이</value>
+  </data>
+  <data name="T_CD_VideoBitrate.Header" xml:space="preserve">
+    <value>비디오 비트 전송률</value>
+  </data>
+  <data name="T_CD_VideoFrameRateNumerator.Header" xml:space="preserve">
+    <value>비디오 프레임 속도 분자</value>
+  </data>
+  <data name="T_CD_VideoFrameRateDenominator.Header" xml:space="preserve">
+    <value>비디오 프레임 속도 분모</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioNumerator.Header" xml:space="preserve">
+    <value>비디오 픽셀 종횡비 분자</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioDenominator.Header" xml:space="preserve">
+    <value>비디오 픽셀 종횡비 분모</value>
+  </data>
+  <data name="T_CD_VideoTemplateQuality.Header" xml:space="preserve">
+    <value>품질</value>
+  </data>
+  <data name="T_CD_AudioTemplate.Header" xml:space="preserve">
+    <value>오디오 포맷</value>
+  </data>
+  <data name="T_CD_VideoTemplate.Header" xml:space="preserve">
+    <value>비디오 포맷</value>
+  </data>
+  <data name="T_CD_AlwaysReencode.Content" xml:space="preserve">
+    <value>항상 다시 인코딩</value>
+  </data>
+  <data name="T_CD_HardwareAccelerationEnabled.Content" xml:space="preserve">
+    <value>하드웨어 가속 사용</value>
+  </data>
+  <data name="T_CD_SAVE_Profile.Content" xml:space="preserve">
+    <value>저장</value>
+  </data>
+  <data name="T_CD_ProfileName.PlaceholderText" xml:space="preserve">
+    <value>미디어 인코딩 프로 파일 이름</value>
+  </data>
+  <data name="MustCreateFormatTemplateFirst" xml:space="preserve">
+    <value>먼저 형식 서식 파일을 만들어야 합니다.</value>
+  </data>
+  <data name="ProfileFileNameCanNotEmpty" xml:space="preserve">
+    <value>빈 수 프로필 파일 이름 수</value>
+  </data>
+  <data name="T_CD_TestFromFile.Text" xml:space="preserve">
+    <value>미디어 파일에서 프로 파일을 인코딩 테스트</value>
+  </data>
+  <data name="T_CD_TestFromStream.Text" xml:space="preserve">
+    <value>미디어 미디어를 재생 하는 전류에서 프로 파일을 인코딩 테스트</value>
+  </data>
+  <data name="T_CD_DELETE_Profile.Content" xml:space="preserve">
+    <value>삭제</value>
+  </data>
+  <data name="Transcode_CD_PivotItem4.Header" xml:space="preserve">
+    <value>코드 변환</value>
+  </data>
+  <data name="CM_TranscodeThisVideo" xml:space="preserve">
+    <value>이 파일 변환</value>
+  </data>
+  <data name="CannotTranscode" xml:space="preserve">
+    <value>변환 수 없습니다.</value>
+  </data>
+  <data name="CM_TranscodeThisPlayList" xml:space="preserve">
+    <value>이 재생 목록 변환</value>
+  </data>
+  <data name="T_CD_ConcurrentTranscodeCount.Header" xml:space="preserve">
+    <value>동시 변환 수</value>
+  </data>
+  <data name="T_CD_ConcurrentDownloadCount.Header" xml:space="preserve">
+    <value>동시 다운로드 수</value>
+  </data>
+  <data name="T_CD_TranscodeIncludeSkip.Content" xml:space="preserve">
+    <value>트림 미디어 파일 타임 라인 사용 건너뛰기 기능</value>
+  </data>
+  <data name="CM_Playback_MixedReality" xml:space="preserve">
+    <value>사용 Windows 혼합된 현실 모드 시도</value>
+  </data>
+  <data name="WM_Scanned" xml:space="preserve">
+    <value>스캔</value>
+  </data>
+  <data name="CD_Socket.PrimaryButtonText" xml:space="preserve">
+    <value>테스트</value>
+  </data>
+  <data name="VideoQualityCannotBeAuto" xml:space="preserve">
+    <value>비디오 품질을 지정 해야 합니다.</value>
+  </data>
+  <data name="CM_EncodingSubtitle" xml:space="preserve">
+    <value>인코딩으로 다시</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="hevcVideoExtensionButton_Installed" xml:space="preserve">
+    <value>HEVC 비디오 확장 (설치) 다운로드</value>
+  </data>
+  <data name="hevcVideoExtensionButton_not_installed" xml:space="preserve">
+    <value>HEVC 비디오 확장 다운로드</value>
+  </data>
+  <data name="Brightness" xml:space="preserve">
+    <value>밝기</value>
+  </data>
+  <data name="PlaybackRate" xml:space="preserve">
+    <value>재생 속도</value>
+  </data>
+  <data name="Playback" xml:space="preserve">
+    <value>플레이</value>
+  </data>
+  <data name="Playlist" xml:space="preserve">
+    <value>재생 목록</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.Header" xml:space="preserve">
+    <value>.webm 파일은 항상 시스템 디코더를 사용</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="WM_ThisFileHaveNoAudio" xml:space="preserve">
+    <value>이 비디오는 아무 오디오 트랙</value>
+  </data>
+  <data name="WM_DoYourWantLoadUpExteranlAudio" xml:space="preserve">
+    <value>외부 오디오를 로드 할 시겠습니까?</value>
+  </data>
+  <data name="WM_IsVideoOnly_Cancel" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="WM_IsVideoOnly_Load_Audio" xml:space="preserve">
+    <value>오디오 파일을 선택</value>
+  </data>
+  <data name="WM_IsVideoOnly_Stop_Show" xml:space="preserve">
+    <value>다시 표시 하지 않음</value>
+  </data>
+  <data name="SkipCD_JumpForwardSetting.Text" xml:space="preserve">
+    <value>앞으로 점프</value>
+  </data>
+  <data name="SkipCD_JumpBackSetting.Text" xml:space="preserve">
+    <value>다시 점프</value>
+  </data>
+  <data name="AudioHardwareAcclerated" xml:space="preserve">
+    <value>오디오 하드웨어 가속</value>
+  </data>
+  <data name="AudioNotHardwareAcclerated" xml:space="preserve">
+    <value>오디오 소프트웨어 디코딩</value>
+  </data>
+  <data name="VideoHardwareAcclerated" xml:space="preserve">
+    <value>비디오 하드웨어 가속</value>
+  </data>
+  <data name="VideoNotHardwareAcclerated" xml:space="preserve">
+    <value>비디오 소프트웨어 디코딩</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.Header" xml:space="preserve">
+    <value>보기 표시줄에 모드 정보를 디코딩 비디오 오디오</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="CM_ShowAdvanceDecodingInfoOnTitlebar" xml:space="preserve">
+    <value>보기 표시줄에 모드 정보를 디코딩 비디오 오디오</value>
+  </data>
+  <data name="CM_HideTransportControlOnLeave" xml:space="preserve">
+    <value>커서를 떠날 때 바 컨트롤 숨기기</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.Header" xml:space="preserve">
+    <value>포인터 모드 (수 있습니다 필요한 다시 시작 애플 리 케이 션) 필요</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OnContent" xml:space="preserve">
+    <value>자동으로</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
+    <value>요청 하는 경우</value>
+  </data>
+  <data name="Meta_UpdateInfo7" xml:space="preserve">
+    <value>.m3u 재생 목록 지원 추가</value>
   </data>
   <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>여러 창 충돌 문제 수정</value>
+    <value>UHD 블루레이 폴더. ISO 재생 향상</value>
+  </data>
+  <data name="CM_ShowStopButton" xml:space="preserve">
+    <value>중지 단추 표시</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>오디오 트랙을 사용 하 여 설정 동기화</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>자막 설정 / 오디오 타임 라인</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.Header" xml:space="preserve">
+    <value>실시간으로 재생</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="BluRayFolderInvalid" xml:space="preserve">
+    <value>"BDMV" 폴더를 포함 하는 폴더를 선택 하십시오</value>
+  </data>
+  <data name="Meta_UpdateInfo6" xml:space="preserve">
+    <value>오디오 타임 라인 조정</value>
+  </data>
+  <data name="CM_Open_Bluray_Folder" xml:space="preserve">
+    <value>블루-레이 폴더</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>성능 향상 및 버그 수정</value>
+  </data>
+  <data name="audioBalanceSlider.Header" xml:space="preserve">
+    <value>오디오 균형</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>오디오 밸런스 조정</value>
   </data>
 </root>
