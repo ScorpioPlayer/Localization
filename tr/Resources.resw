@@ -1,0 +1,3390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="SD_TITLE.Text" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="SD_PivotItem1.Header" xml:space="preserve">
+    <value>Genel</value>
+  </data>
+  <data name="SD_PivotItem2.Header" xml:space="preserve">
+    <value>Altyazı</value>
+  </data>
+  <data name="SD_PivotItem3_Header.Text" xml:space="preserve">
+    <value>Peşin</value>
+  </data>
+  <data name="SD_PivotItem4.Header" xml:space="preserve">
+    <value>Hakkında</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.Header" xml:space="preserve">
+    <value>Akıcı tasarımı kullanın</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Akıcı tasarım</value>
+  </data>
+  <data name="SD_PivotItem1_UseLightThemeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Karanlık</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.Header" xml:space="preserve">
+    <value>Hareketini kullanın</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_UseGestureToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.Header" xml:space="preserve">
+    <value>Çalma ilerlemesini hatırlıyorum</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_RememberLastPositionToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.Header" xml:space="preserve">
+    <value>Öğe sesi kullan</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.OnContent" xml:space="preserve">
+    <value>Üzerinde</value>
+  </data>
+  <data name="SD_PivotItem1_UseSoundToggleSwitch.OffContent" xml:space="preserve">
+    <value>Otomatik</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.Header" xml:space="preserve">
+    <value>Auto Download Subtitle--dan enterne</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem2_AutoDownLoadSubtitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.Header" xml:space="preserve">
+    <value>Birincil altyazı altında ikincil altyazı</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem2_SecondaryUnderPrimarySutitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>Altyazı arka plan vardır</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>Altyazı beyaz arka planı vardır</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>Beyaz</value>
+  </data>
+  <data name="SD_PivotItem2_UseSutitleBlackBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>Siyah</value>
+  </data>
+  <data name="SD_PivotItem2_sutitleSlider.Header" xml:space="preserve">
+    <value>Altyazı opaklık</value>
+  </data>
+  <data name="SD_PivotItem2_sutitleBackgroundSlider.Header" xml:space="preserve">
+    <value>Altyazı Background Opacity</value>
+  </data>
+  <data name="SD_PivotItem2_primarySubtitleFontSizeSlider.Header" xml:space="preserve">
+    <value>Birincil altyazı Font boyutu</value>
+  </data>
+  <data name="SD_PivotItem2_secondarySubtitleFontSizeSlider.Header" xml:space="preserve">
+    <value>İkincil altyazı Font boyutu</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.Header" xml:space="preserve">
+    <value>Birincil altyazı yalnızca bir satır göster</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowOneLineOnlyToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.Header" xml:space="preserve">
+    <value>İlk satırı birincil göster</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.OnContent" xml:space="preserve">
+    <value>İlk satırı</value>
+  </data>
+  <data name="SD_PivotItem3_PrimaryShowFirstLineToggleSwitch.OffContent" xml:space="preserve">
+    <value>Son satır</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.Header" xml:space="preserve">
+    <value>İnce zaman çerçevesi göster</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Göster</value>
+  </data>
+  <data name="SD_PivotItem3_ShowSubtitleTimeRangeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Göstermek değil</value>
+  </data>
+  <data name="CM_Close" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="CM_OpenFile" xml:space="preserve">
+    <value>Dosyasını aç...</value>
+  </data>
+  <data name="CM_Open" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="CM_Open_Uri" xml:space="preserve">
+    <value>Ağ akışı</value>
+  </data>
+  <data name="CM_Open_Folder" xml:space="preserve">
+    <value>Klasörü aç</value>
+  </data>
+  <data name="CM_Recent" xml:space="preserve">
+    <value>Son kayıttan yürütme</value>
+  </data>
+  <data name="CM_Recent_ClearHistory" xml:space="preserve">
+    <value>Geçmişi Temizle</value>
+  </data>
+  <data name="CM_Recent_DisableHistory" xml:space="preserve">
+    <value>Parça tarih değil yapmak</value>
+  </data>
+  <data name="CM_Favorite" xml:space="preserve">
+    <value>Sık Kullanılanlar</value>
+  </data>
+  <data name="CM_Favorite_File" xml:space="preserve">
+    <value>Dosya...</value>
+  </data>
+  <data name="CM_Favorite_Folder" xml:space="preserve">
+    <value>Klasör...</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Vertical" xml:space="preserve">
+    <value>Dikey</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Horizontal" xml:space="preserve">
+    <value>Yatay</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Left90" xml:space="preserve">
+    <value>Sola 90° C</value>
+  </data>
+  <data name="CM_Graghic_Rotation_Right90" xml:space="preserve">
+    <value>Doğru 90° C</value>
+  </data>
+  <data name="CM_Graghic_Rotation_180" xml:space="preserve">
+    <value>180° C döndürme</value>
+  </data>
+  <data name="CM_Graghic_Rotation_DefaultAngle" xml:space="preserve">
+    <value>Varsayılan açı</value>
+  </data>
+  <data name="CM_Graghic_FullScreen" xml:space="preserve">
+    <value>Tam ekran</value>
+  </data>
+  <data name="CM_Graghic_PIP" xml:space="preserve">
+    <value>Resim içinde resim (Alway üst)</value>
+  </data>
+  <data name="CM_Graghic_OriginalSize" xml:space="preserve">
+    <value>Orijinal Ebadı</value>
+  </data>
+  <data name="CM_Graghic_Fill" xml:space="preserve">
+    <value>Dolgu</value>
+  </data>
+  <data name="CM_Graghic_Default" xml:space="preserve">
+    <value>Varsayılan</value>
+  </data>
+  <data name="CM_Graghic_UniformToFill" xml:space="preserve">
+    <value>Üniforma doldurmak için</value>
+  </data>
+  <data name="CM_Graghic_FreeTransform" xml:space="preserve">
+    <value>Serbest dönüştürme</value>
+  </data>
+  <data name="CM_Sound" xml:space="preserve">
+    <value>Ses</value>
+  </data>
+  <data name="CM_Sound_SystemDefault" xml:space="preserve">
+    <value>Varsayılan</value>
+  </data>
+  <data name="CM_Sound_LeftChannel" xml:space="preserve">
+    <value>Sol Kanal</value>
+  </data>
+  <data name="CM_Sound_RightChannel" xml:space="preserve">
+    <value>Sağ kanal</value>
+  </data>
+  <data name="CM_Sound_Track" xml:space="preserve">
+    <value>Parça</value>
+  </data>
+  <data name="CM_Playback" xml:space="preserve">
+    <value>Kayıttan yürütme</value>
+  </data>
+  <data name="CM_Playback_Loop_Audio" xml:space="preserve">
+    <value>Döngü geçerli müzik</value>
+  </data>
+  <data name="CM_Playback_Loop_Video" xml:space="preserve">
+    <value>Döngü geçerli Video</value>
+  </data>
+  <data name="CM_Playback_Loop_CurrentList" xml:space="preserve">
+    <value>Döngü geçerli çalma listesi</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint" xml:space="preserve">
+    <value>Bir noktaya ayarla</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint" xml:space="preserve">
+    <value>Set B noktası</value>
+  </data>
+  <data name="CM_Playback_Loop_APoint" xml:space="preserve">
+    <value>Bir nokta</value>
+  </data>
+  <data name="CM_Playback_Loop_BPoint" xml:space="preserve">
+    <value>B noktası</value>
+  </data>
+  <data name="CM_Playback_ForceDecodeAudio" xml:space="preserve">
+    <value>Kuvvet ses kod çözme</value>
+  </data>
+  <data name="CM_Playback_ForceDecodeVideo" xml:space="preserve">
+    <value>Kuvvet kod çözme Video</value>
+  </data>
+  <data name="CM_Playback_UseSystemDecoder" xml:space="preserve">
+    <value>Sistem Decoder kullanın</value>
+  </data>
+  <data name="CM_Playback_FastenPlaybackRate" xml:space="preserve">
+    <value>Kayıttan yürütme hızı tutturmak</value>
+  </data>
+  <data name="CM_Playback_SlowDownPlaybackRate" xml:space="preserve">
+    <value>Kayıttan yürütme hızını yavaşlatmak</value>
+  </data>
+  <data name="CM_Playback_StartABLoop" xml:space="preserve">
+    <value>A-B döngü başlar</value>
+  </data>
+  <data name="CM_Playback_StopABLoop" xml:space="preserve">
+    <value>A-B döngü durdurmak</value>
+  </data>
+  <data name="CM_MediaInfo" xml:space="preserve">
+    <value>Ortam bilgisi</value>
+  </data>
+  <data name="CM_Settings" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="CM_EnterLockMode" xml:space="preserve">
+    <value>Kilit modu girin</value>
+  </data>
+  <data name="CM_ExitLockMode" xml:space="preserve">
+    <value>Kilit modundan çık</value>
+  </data>
+  <data name="TCCM_RememberTransportControlPostion" xml:space="preserve">
+    <value>Aktarım Denetim konumu hatırlıyorum</value>
+  </data>
+  <data name="TCCM_RememberTransportControlPostion_Reset" xml:space="preserve">
+    <value>TransportControl pozisyonu Sıfırla</value>
+  </data>
+  <data name="CM_Subtitle" xml:space="preserve">
+    <value>Altyazı</value>
+  </data>
+  <data name="CM_Subtitle_Disable" xml:space="preserve">
+    <value>Altyazı devre dışı bırakma</value>
+  </data>
+  <data name="CM_Subtitle_Style" xml:space="preserve">
+    <value>Alt başlık stili ayarı</value>
+  </data>
+  <data name="CM_Subtitle_SmartMathingDownload" xml:space="preserve">
+    <value>İnternetten indirmek</value>
+  </data>
+  <data name="CM_Subtitle_Item" xml:space="preserve">
+    <value>Altyazı</value>
+  </data>
+  <data name="WM_CurrentPlaying" xml:space="preserve">
+    <value>Oyun geçerli</value>
+  </data>
+  <data name="WM_PlayRateChangedTo" xml:space="preserve">
+    <value>Oynatma hızını değiştirildi</value>
+  </data>
+  <data name="MV_FreeTransform_Reset.Text" xml:space="preserve">
+    <value>Sıfırlama</value>
+  </data>
+  <data name="MV_FreeTransform_Save.Text" xml:space="preserve">
+    <value>Kaydet</value>
+  </data>
+  <data name="MV_FreeTransform_Confirm.Text" xml:space="preserve">
+    <value>Onayla</value>
+  </data>
+  <data name="MV_FreeTransform_Advance.Text" xml:space="preserve">
+    <value>Peşin</value>
+  </data>
+  <data name="MV_FreeTransform_ZoomOut.Text" xml:space="preserve">
+    <value>Vınlamak dışarı</value>
+  </data>
+  <data name="MV_FreeTransform_Center.Text" xml:space="preserve">
+    <value>Merkezi</value>
+  </data>
+  <data name="MV_FreeTransform_ZoomIn.Text" xml:space="preserve">
+    <value>Yakınlaştır</value>
+  </data>
+  <data name="MI.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="MI_VideoType.Text" xml:space="preserve">
+    <value>Video türü</value>
+  </data>
+  <data name="MI_VideoBitrate.Text" xml:space="preserve">
+    <value>Video bit hızı</value>
+  </data>
+  <data name="MI_AudioBitrate.Text" xml:space="preserve">
+    <value>Ses bit hızı</value>
+  </data>
+  <data name="MI_VideoFramerate.Text" xml:space="preserve">
+    <value>Video kare hızı</value>
+  </data>
+  <data name="MI_Resolution.Text" xml:space="preserve">
+    <value>Çözünürlük</value>
+  </data>
+  <data name="MI_SubType.Text" xml:space="preserve">
+    <value>Alt türü</value>
+  </data>
+  <data name="MI_Type.Text" xml:space="preserve">
+    <value>Türü</value>
+  </data>
+  <data name="MI_FileSize.Text" xml:space="preserve">
+    <value>Dosya boyutu</value>
+  </data>
+  <data name="MI_Duration.Text" xml:space="preserve">
+    <value>Süresi</value>
+  </data>
+  <data name="MI_VideoCodecName.Text" xml:space="preserve">
+    <value>Video Codec adı</value>
+  </data>
+  <data name="MI_AudioCodecName.Text" xml:space="preserve">
+    <value>Radyo sinyalleriyle iletilen şifre adı</value>
+  </data>
+  <data name="MV_TP_AddFolderAsFavorite.Content" xml:space="preserve">
+    <value>Favori klasör ekle</value>
+  </data>
+  <data name="WM_CurrentSubtitle" xml:space="preserve">
+    <value>Geçerli altyazı</value>
+  </data>
+  <data name="WM_Delay" xml:space="preserve">
+    <value>Gecikme</value>
+  </data>
+  <data name="WM_DecodeType" xml:space="preserve">
+    <value>HD</value>
+  </data>
+  <data name="WM_SubtileNotFound" xml:space="preserve">
+    <value>Hiçbir altyazı bulundu</value>
+  </data>
+  <data name="WM_SubtitleFound" xml:space="preserve">
+    <value>Altyazı Found, indiriyor...</value>
+  </data>
+  <data name="WM_SubtitleDownloadSuccess_Part1" xml:space="preserve">
+    <value>Altyazı indir başarı, toplam</value>
+  </data>
+  <data name="WM_SubtitleDownloadSuccess_Part2" xml:space="preserve">
+    <value>dosyaları</value>
+  </data>
+  <data name="WM_CanNotOpenFile" xml:space="preserve">
+    <value>Dosyayı açamıyor</value>
+  </data>
+  <data name="WM_UseSystemDecoder" xml:space="preserve">
+    <value>Sistem Decoder kullanın</value>
+  </data>
+  <data name="WM_NoNextFileCanPlay" xml:space="preserve">
+    <value>Oynamak için sonraki dosya</value>
+  </data>
+  <data name="WM_Volume" xml:space="preserve">
+    <value>Birim</value>
+  </data>
+  <data name="WM_FileNotExist" xml:space="preserve">
+    <value>Dosya yok</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part1" xml:space="preserve">
+    <value>Gösteren birincil altyazı</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part2" xml:space="preserve">
+    <value>olarak gecikme</value>
+  </data>
+  <data name="WM_ShowPrimarySubtitle_Part3" xml:space="preserve">
+    <value>MS</value>
+  </data>
+  <data name="WM_PrimarySubtitleDelayAs" xml:space="preserve">
+    <value>Birincil altyazı gecikmesi ayarlamak</value>
+  </data>
+  <data name="CM_Subtitle_Load" xml:space="preserve">
+    <value>Yük altyazı</value>
+  </data>
+  <data name="MV_PanePivot_Item1.Header" xml:space="preserve">
+    <value>Son</value>
+  </data>
+  <data name="MV_PanePivot_Item2.Header" xml:space="preserve">
+    <value>Sık Kullanılanlar</value>
+  </data>
+  <data name="MV_PanePivot_Item3.Header" xml:space="preserve">
+    <value>Çalma listesi</value>
+  </data>
+  <data name="CM_Start_Loop" xml:space="preserve">
+    <value>A-B durdu</value>
+  </data>
+  <data name="CM_Stop_Loop" xml:space="preserve">
+    <value>A-B başladı</value>
+  </data>
+  <data name="CM_SecondarySubtitle" xml:space="preserve">
+    <value>İkincil altyazı</value>
+  </data>
+  <data name="SD_PivotItem3_screenLuminanceSlider.Header" xml:space="preserve">
+    <value>Video parlaklık</value>
+  </data>
+  <data name="CM_Graghic_Effect" xml:space="preserve">
+    <value>Etkisi</value>
+  </data>
+  <data name="CM_Graghic_Effect_OldMovie" xml:space="preserve">
+    <value>Kısa Not</value>
+  </data>
+  <data name="WM_MediaFailed" xml:space="preserve">
+    <value>Medya başarısız oldu</value>
+  </data>
+  <data name="WM_TryReadEmbbedSubtitle" xml:space="preserve">
+    <value>Denemek yük embbed altyazı</value>
+  </data>
+  <data name="WM_LoadingFolder" xml:space="preserve">
+    <value>Yükleme klasörü...</value>
+  </data>
+  <data name="WM_LoadingFolderCompleted" xml:space="preserve">
+    <value>Yüklü klasörü</value>
+  </data>
+  <data name="WM_LoadingFolderFailed" xml:space="preserve">
+    <value>Klasör, hiçbir ortam dosyasını kayıttan çalmak için açılamıyor</value>
+  </data>
+  <data name="WM_OnlyOnFileOrFolder" xml:space="preserve">
+    <value>Lütfen bir dosya veya tek bir klasör bırakın</value>
+  </data>
+  <data name="SYS_NewWindow" xml:space="preserve">
+    <value>Yeni pencere</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.Header" xml:space="preserve">
+    <value>Deneyin özü .mkv video embbed altyazı</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_ReadMkvEmbbedSubtitleToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="MV_TP_AddFileAsFavorite.Content" xml:space="preserve">
+    <value>Favori dosya Ekle</value>
+  </data>
+  <data name="CM_Playback_Shuffling" xml:space="preserve">
+    <value>Karıştırma</value>
+  </data>
+  <data name="MI_AspectRatio.Text" xml:space="preserve">
+    <value>En-boy oranı</value>
+  </data>
+  <data name="Screenshot_Saved_Part1" xml:space="preserve">
+    <value>Dosya </value>
+  </data>
+  <data name="Screenshot_Saved_Part2" xml:space="preserve">
+    <value>Kaydedilen</value>
+  </data>
+  <data name="CM_Graghic_Screenshot" xml:space="preserve">
+    <value>Ekran görüntüsü</value>
+  </data>
+  <data name="CM_Graghic_Screenshot_SaveAs" xml:space="preserve">
+    <value>Farklı Kaydet...</value>
+  </data>
+  <data name="CM_Sound_RenderDevice" xml:space="preserve">
+    <value>Ses için işlemek...</value>
+  </data>
+  <data name="CM_Sound_RenderDevice_default" xml:space="preserve">
+    <value>Sistem varsayılanı</value>
+  </data>
+  <data name="MV_TP_StepNextFrame.Content" xml:space="preserve">
+    <value>Sonraki kare</value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.Header" xml:space="preserve">
+    <value>Dil (app yeniden)</value>
+  </data>
+  <data name="SD_PivotItem1_UseEnglish.OffContent" xml:space="preserve">
+    <value>Otomatik</value>
+  </data>
+  <data name="Cast_Disconnected" xml:space="preserve">
+    <value>Bağlantı kesildi</value>
+  </data>
+  <data name="Cast_Connected" xml:space="preserve">
+    <value>Bağlı</value>
+  </data>
+  <data name="Cast_Rendering" xml:space="preserve">
+    <value>İşleme</value>
+  </data>
+  <data name="Cast_Disconnecting" xml:space="preserve">
+    <value>Bağlantıyı kesme</value>
+  </data>
+  <data name="Cast_Connecting" xml:space="preserve">
+    <value>Bağlanma</value>
+  </data>
+  <data name="Cast_Error" xml:space="preserve">
+    <value>Bağlantı hatası oluştu</value>
+  </data>
+  <data name="CM_Playback_Casting_Stop" xml:space="preserve">
+    <value>Döküm durdurmak</value>
+  </data>
+  <data name="CM_Playback_Casting_Start" xml:space="preserve">
+    <value>Medya için döküm...</value>
+  </data>
+  <data name="SD_PivotItem1_CreateTransparentTile.Header" xml:space="preserve">
+    <value>Şeffaf döşemesi oluşturmak</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.Header" xml:space="preserve">
+    <value>Arka plan çalma video</value>
+  </data>
+  <data name="MV_PanePivot_Item2_ShowFileOrFolderToggleSwitch.OnContent" xml:space="preserve">
+    <value>Klasör</value>
+  </data>
+  <data name="MV_PanePivot_Item2_ShowFileOrFolderToggleSwitch.OffContent" xml:space="preserve">
+    <value>Dosya</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_BTN" xml:space="preserve">
+    <value>ÖMÜR ABONE ÜCRETİ</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO3MONTH_BTN" xml:space="preserve">
+    <value>3-AY ABONE ÜCRETİ</value>
+  </data>
+  <data name="SD_PivotItem3_ADDON_NetworkError.Text" xml:space="preserve">
+    <value>ağ hatası, lütfen yeniden deneyin.</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_BTN.Content" xml:space="preserve">
+    <value>1 saat deneme</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message" xml:space="preserve">
+    <value>1 saat için varsayılanı aşağıdaki ayarları zaman içinde döndürür</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message_Confirm" xml:space="preserve">
+    <value>Onayla</value>
+  </data>
+  <data name="SCORPIOPLAYERPRO_TRIAL_Message_Close" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="CM_Graghic_BRIGHTNESS" xml:space="preserve">
+    <value>Parlaklık</value>
+  </data>
+  <data name="MSD_TITLE.Text" xml:space="preserve">
+    <value>UPNP DLNA aygıtları</value>
+  </data>
+  <data name="MSD.PrimaryButtonText" xml:space="preserve">
+    <value>Reflesh</value>
+  </data>
+  <data name="CM_Open_MediaServer" xml:space="preserve">
+    <value>DLNA</value>
+  </data>
+  <data name="MSD.SecondaryButtonText" xml:space="preserve">
+    <value>Onayla</value>
+  </data>
+  <data name="NO_DLNA.Text" xml:space="preserve">
+    <value>Hiçbir DLNA aygıtı bulundu, lütfen tıklayın Yenile düğmesini</value>
+  </data>
+  <data name="CM_Graghic" xml:space="preserve">
+    <value>Grafiği</value>
+  </data>
+  <data name="CM_Graghic_Rotation" xml:space="preserve">
+    <value>Grafik döndürme</value>
+  </data>
+  <data name="WM_CUE_FOUND" xml:space="preserve">
+    <value>.cue dosya bulundu</value>
+  </data>
+  <data name="WM_CUE_ASSOCIATE_FAILED" xml:space="preserve">
+    <value>.cue ortak ses dosyası bulunamadı, aynı adı kullanmanız gerekir</value>
+  </data>
+  <data name="WM_CUE_FAILED" xml:space="preserve">
+    <value>.Cue ayrıştırma başarısız</value>
+  </data>
+  <data name="WM_CUE_MUST_OPEN_WITH_FOLDER" xml:space="preserve">
+    <value>.Cue klasörü açmanız gerekir</value>
+  </data>
+  <data name="CM_Open_EQ" xml:space="preserve">
+    <value>EQ</value>
+  </data>
+  <data name="CD_E_TITLE.Text" xml:space="preserve">
+    <value>Ekolayzır</value>
+  </data>
+  <data name="CD_Equalizer.PrimaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="CNE_PRESET.Text" xml:space="preserve">
+    <value>Ses için hazır ayarı</value>
+  </data>
+  <data name="PS_none" xml:space="preserve">
+    <value>Hiçbiri</value>
+  </data>
+  <data name="PS_acoustic" xml:space="preserve">
+    <value>Akustik</value>
+  </data>
+  <data name="PS_bass_boost" xml:space="preserve">
+    <value>Bas Kuvvetlendirme</value>
+  </data>
+  <data name="PS_classical" xml:space="preserve">
+    <value>Klasik</value>
+  </data>
+  <data name="PS_dance" xml:space="preserve">
+    <value>Dans</value>
+  </data>
+  <data name="PS_electronic" xml:space="preserve">
+    <value>Elektronik</value>
+  </data>
+  <data name="PS_hip_hop" xml:space="preserve">
+    <value>Hip hop</value>
+  </data>
+  <data name="PS_jazz" xml:space="preserve">
+    <value>Caz</value>
+  </data>
+  <data name="PS_loudness" xml:space="preserve">
+    <value>Ses gücü</value>
+  </data>
+  <data name="PS_pop" xml:space="preserve">
+    <value>Pop</value>
+  </data>
+  <data name="PS_r_b" xml:space="preserve">
+    <value>RB</value>
+  </data>
+  <data name="PS_rock" xml:space="preserve">
+    <value>Kaya</value>
+  </data>
+  <data name="PS_speech" xml:space="preserve">
+    <value>Konuşma</value>
+  </data>
+  <data name="PS_treble_boost" xml:space="preserve">
+    <value>Tiz artırmak</value>
+  </data>
+  <data name="PS_vocal_boost" xml:space="preserve">
+    <value>Ses artırma</value>
+  </data>
+  <data name="PS_custom" xml:space="preserve">
+    <value>Özel</value>
+  </data>
+  <data name="WhatsNew.Content" xml:space="preserve">
+    <value>Bu sürümde yeni ne var</value>
+  </data>
+  <data name="SD_RateMe" xml:space="preserve">
+    <value>Oranı</value>
+  </data>
+  <data name="SD_Close" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="CM_Favorite_Manager" xml:space="preserve">
+    <value>Yöneticisi</value>
+  </data>
+  <data name="FD_PivotItem1.Header" xml:space="preserve">
+    <value>Gözat</value>
+  </data>
+  <data name="FD_PivotItem2.Header" xml:space="preserve">
+    <value>Klasörler</value>
+  </data>
+  <data name="FD_PivotItem3.Header" xml:space="preserve">
+    <value>Dosyaları</value>
+  </data>
+  <data name="FD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="FD.PrimaryButtonText" xml:space="preserve">
+    <value>Gözat</value>
+  </data>
+  <data name="FD_MUST_FOLDERS_WARNING" xml:space="preserve">
+    <value>Alt klasörler içeren bir klasör seçmeniz gerekir</value>
+  </data>
+  <data name="FD_BTN_P_BROWSE" xml:space="preserve">
+    <value>Gözat</value>
+  </data>
+  <data name="FD_BTN_P_ADD_TO_FAVORITE" xml:space="preserve">
+    <value>Favori ekle</value>
+  </data>
+  <data name="FD_BTN_P_REMOVE_FROM_FAVORITE" xml:space="preserve">
+    <value>Kaldırmak</value>
+  </data>
+  <data name="FD_TITLE.Text" xml:space="preserve">
+    <value>Sık Kullanılanlar Yöneticisi</value>
+  </data>
+  <data name="FD_RecursiveCheckBox.Content" xml:space="preserve">
+    <value>Özyinelemeli olarak</value>
+  </data>
+  <data name="MV_TP_OpenManager.Content" xml:space="preserve">
+    <value>Sık Kullanılanlar Yöneticisi</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.Header" xml:space="preserve">
+    <value>Sonraki Kare düğmesini göster</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_ShowNextFrameButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CM_Open_VISUALIZER" xml:space="preserve">
+    <value>Görselleştirme</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.Header" xml:space="preserve">
+    <value>Müzik görselleştirme</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_ShowVisualizationoggleSwitch.OffContent" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="MV_TP_ToggleSearch.Content" xml:space="preserve">
+    <value>Arama</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER" xml:space="preserve">
+    <value>Gelişmiş baskı - hadsiz sayı-in sık kilidini!</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER_Confirm" xml:space="preserve">
+    <value>Kilidini</value>
+  </data>
+  <data name="LIMIT_EXCEED_FOLDER_Close" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="AutoSuggestBox.PlaceholderText" xml:space="preserve">
+    <value>Arama</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.Header" xml:space="preserve">
+    <value>Oyun ilerleme dolaşım</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_IsRoamingToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="WM_Bookmark_AddSuccess" xml:space="preserve">
+    <value>Yer işareti eklendi</value>
+  </data>
+  <data name="WM_Bookmark_RemoveSuccess" xml:space="preserve">
+    <value>Yer işareti kaldırıldı</value>
+  </data>
+  <data name="WM_Bookmark_Loaded" xml:space="preserve">
+    <value>Yer işareti yüklü</value>
+  </data>
+  <data name="CM_Bookmard_Point" xml:space="preserve">
+    <value>Açık zaman noktası</value>
+  </data>
+  <data name="CM_Bookmark_AddPoint" xml:space="preserve">
+    <value>Zaman noktası eklemek</value>
+  </data>
+  <data name="CM_Bookmard_AB_Point" xml:space="preserve">
+    <value>Açık Video klip</value>
+  </data>
+  <data name="CM_Bookmard_Remove_List" xml:space="preserve">
+    <value>Kaldır</value>
+  </data>
+  <data name="CM_Bookmard_Rename_List" xml:space="preserve">
+    <value>Yeniden Adlandır</value>
+  </data>
+  <data name="CM_Bookmark" xml:space="preserve">
+    <value>Yer işareti/bölüm</value>
+  </data>
+  <data name="CM_Bookmark_AddAB" xml:space="preserve">
+    <value>Video klip ekle</value>
+  </data>
+  <data name="BCD_TITLE.Text" xml:space="preserve">
+    <value>Yer işaretini yeniden adlandırmak</value>
+  </data>
+  <data name="BCD.SecondaryButtonText" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="BCD.PrimaryButtonText" xml:space="preserve">
+    <value>Onayla</value>
+  </data>
+  <data name="WM_Bookmark_Rename_Success" xml:space="preserve">
+    <value>Yer işareti adı</value>
+  </data>
+  <data name="CM_Bookmard_Manage" xml:space="preserve">
+    <value>Yönetmek</value>
+  </data>
+  <data name="LIMIT_EXCEED_BOOKMARK" xml:space="preserve">
+    <value>Gelişmiş baskı - hadsiz sayı-in yer imleri kilidini!</value>
+  </data>
+  <data name="CM_Playback_Loop_ResetAB" xml:space="preserve">
+    <value>A-B temizleyin</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.Header" xml:space="preserve">
+    <value>Ses çalma ilerlemesini hatırlıyorum</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_RememberAudioProgressToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.Header" xml:space="preserve">
+    <value>Özyinelemeli olarak</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.OffContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="FD_RecursiveToggleSwitch.OnContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="WM_SUCCESS_ADD_FILE_TO_FAVORITE" xml:space="preserve">
+    <value>Başarı dosya Favorilerime Ekle</value>
+  </data>
+  <data name="WM_SUCCESS_REMOVE_FILE_TO_FAVORITE" xml:space="preserve">
+    <value>Başarı dosya Sık Kullanılanlardan Kaldır</value>
+  </data>
+  <data name="WM_SUCCESS_ADD_FOLDER_TO_FAVORITE" xml:space="preserve">
+    <value>Başarı sık kullanılanlara klasör ekle</value>
+  </data>
+  <data name="WM_SUCCESS_REMOVE_FOLDER_TO_FAVORITE" xml:space="preserve">
+    <value>Başarı klasörü Sık Kullanılanlar'dan kaldırmak</value>
+  </data>
+  <data name="ADD_FILE_FAVORITE" xml:space="preserve">
+    <value>Sık Kullanılanlara Ekle</value>
+  </data>
+  <data name="REMOVE_FILE_FAVORITE" xml:space="preserve">
+    <value>Kaldırmak</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Alt başlığı metni seçilebilir</value>
+  </data>
+  <data name="IsSubtitleSelectionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="IsSubtitleSelectionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="OpenFolder" xml:space="preserve">
+    <value>Klasörü aç</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.Header" xml:space="preserve">
+    <value>Sistem Decoder kullanın</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.Header" xml:space="preserve">
+    <value>Kuvvet kod çözme Video</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeVideoToggleSwitch.OffContent" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.Header" xml:space="preserve">
+    <value>Kuvvet ses kod çözme</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_ForceDecodeAudioToggleSwitch.OffContent" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_SystemDecodeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="MV_TP_OpenFolder.Content" xml:space="preserve">
+    <value>Klasörü aç</value>
+  </data>
+  <data name="MV_TP_OpenFIle.Content" xml:space="preserve">
+    <value>Açık dosya</value>
+  </data>
+  <data name="CM_Open_WebDAV" xml:space="preserve">
+    <value>WebDAV</value>
+  </data>
+  <data name="WebDAV_TITLE.Text" xml:space="preserve">
+    <value>WebDAV (Beta)</value>
+  </data>
+  <data name="NO_WebDAV.Text" xml:space="preserve">
+    <value>WebDAV bulundu.</value>
+  </data>
+  <data name="WebDAV_Settings.Header" xml:space="preserve">
+    <value>WebDAV ayarları</value>
+  </data>
+  <data name="WebDAV_WebDAVBaseURI.Text" xml:space="preserve">
+    <value>Sunucu bitiş noktası</value>
+  </data>
+  <data name="WebDAV_WebDAVUsername.Text" xml:space="preserve">
+    <value>Kullanıcı adı</value>
+  </data>
+  <data name="WebDAV_WebDAVPassword.Text" xml:space="preserve">
+    <value>Şifre</value>
+  </data>
+  <data name="WebDAV_Warning.Text" xml:space="preserve">
+    <value>WebDAV özelliğini değil tam olarak hazır, açık dosya anlamına gelir tam dosya indirmek için lütfen çok büyük dosyayı açmayın.</value>
+  </data>
+  <data name="WebDAV_WebDAVNote.Text" xml:space="preserve">
+    <value>Not</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.Header" xml:space="preserve">
+    <value>360 ° Video oynatma düğmesini göster</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3__360VideoPlaybackToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CM_Bookmard_ChapterList" xml:space="preserve">
+    <value>Açık Bölüm</value>
+  </data>
+  <data name="CM_Open_NewWindow" xml:space="preserve">
+    <value>Yeni pencere</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.Header" xml:space="preserve">
+    <value>Arama kutusunu göster</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAutoSuggestBoxButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CM_Opacity" xml:space="preserve">
+    <value>Opaklık</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.Header" xml:space="preserve">
+    <value>Görüntü altyazı boyutu ayarlamak</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem2_AdjustImageSubtitleSizeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem2_ImageSubtitleSizeSizeSlider.Header" xml:space="preserve">
+    <value>Görüntü altyazı boyutu</value>
+  </data>
+  <data name="SD_PivotItem3_PrimarySubtitlePositionSlider.Header" xml:space="preserve">
+    <value>Birincil altyazı pozisyon</value>
+  </data>
+  <data name="SD_PivotItem3_SeconderySubtitlePositionSlider.Header" xml:space="preserve">
+    <value>İkincil altyazı pozisyon</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.Header" xml:space="preserve">
+    <value>Varsayılan FontFamily kullanın</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem2_UseDefaultFontFamilyToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem1_GlobalStretchModeComboBox.Header" xml:space="preserve">
+    <value>Genel grafik modu</value>
+  </data>
+  <data name="WM_SubtitleSearching" xml:space="preserve">
+    <value>Altyazı aranıyor...</value>
+  </data>
+  <data name="PBCD.PrimaryButtonText" xml:space="preserve">
+    <value>Onayla</value>
+  </data>
+  <data name="PBCD.SecondaryButtonText" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="PBCD_TITLE.Text" xml:space="preserve">
+    <value>Çalma listesi adı</value>
+  </data>
+  <data name="MV_TP_NewPlaylist.Content" xml:space="preserve">
+    <value>Yeni çalma listesi</value>
+  </data>
+  <data name="AddToPlaylist" xml:space="preserve">
+    <value>Çalma listesine ekle</value>
+  </data>
+  <data name="WM_Playlist_Empty" xml:space="preserve">
+    <value>Çalma listesi boştur</value>
+  </data>
+  <data name="MV_TP_RenamePlaylist.Content" xml:space="preserve">
+    <value>Şarkı listesini yeniden adlandır</value>
+  </data>
+  <data name="RemoveFromPlaylist" xml:space="preserve">
+    <value>Çalma listesinden kaldır</value>
+  </data>
+  <data name="MV_TP_RemovePlaylist.Content" xml:space="preserve">
+    <value>Çalma listesini sil</value>
+  </data>
+  <data name="ClearRecentButton.Content" xml:space="preserve">
+    <value>Tümünü temizle</value>
+  </data>
+  <data name="ADDON_CanNotBuyAdvanceInTrialVersion_TextBlock.Text" xml:space="preserve">
+    <value>Deneme sürümde Premium satın değil</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.Header" xml:space="preserve">
+    <value>Özel renk kullanma</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem2_UseCustomFontColorToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CM_Playlist" xml:space="preserve">
+    <value>Çalma listesi</value>
+  </data>
+  <data name="MV_TP_AddToPlaylist.Content" xml:space="preserve">
+    <value>Çalma listesine ekle</value>
+  </data>
+  <data name="SelectMultiple" xml:space="preserve">
+    <value>Seçin</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.Header" xml:space="preserve">
+    <value>Özel arka plan resmi kullan</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_UseCustomBackgroundToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_bufferTimeSlider.Header" xml:space="preserve">
+    <value>Arabellek zaman ağ (ms)</value>
+  </data>
+  <data name="SYS_PIP" xml:space="preserve">
+    <value>Resim içinde resim (Alway üst)</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.Header" xml:space="preserve">
+    <value>Kullanım önizleyicide aramak</value>
+  </data>
+  <data name="HD_TITLE_TEXT.Text" xml:space="preserve">
+    <value>Yüklü Codec bilgi</value>
+  </data>
+  <data name="HD_PivotItem1.Header" xml:space="preserve">
+    <value>Video kod çözücü</value>
+  </data>
+  <data name="HD_PivotItem2.Header" xml:space="preserve">
+    <value>Video Encoder</value>
+  </data>
+  <data name="HD_PivotItem3.Header" xml:space="preserve">
+    <value>Ses kod çözücü</value>
+  </data>
+  <data name="HD_PivotItem4.Header" xml:space="preserve">
+    <value>Ses kodlayıcı</value>
+  </data>
+  <data name="CM_HardwareInfo" xml:space="preserve">
+    <value>Yüklü Codec bilgi</value>
+  </data>
+  <data name="HD.PrimaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Meta_WhatsNew" xml:space="preserve">
+    <value>Bu sürümde yeni ne var</value>
+  </data>
+  <data name="Meta_RateMe" xml:space="preserve">
+    <value>Oranı</value>
+  </data>
+  <data name="Meta_Close" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Meta_Message1" xml:space="preserve">
+    <value>Geribildirim önemlidir!</value>
+  </data>
+  <data name="Meta_Message2" xml:space="preserve">
+    <value>Eğer senin bu app gibi iyi bir oran vermek veya gözden geçirme bu app daha iyi yapacak.</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
+    <value>H265/HEVC donanım ivmesini kullanır</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CM_Graghic_Effect_Displacement" xml:space="preserve">
+    <value>Deplasman</value>
+  </data>
+  <data name="CM_Graghic_Effect_DynamicBlur" xml:space="preserve">
+    <value>Dinamik görüntü</value>
+  </data>
+  <data name="CM_Graghic_Effect_RotatedTiles" xml:space="preserve">
+    <value>Döndürülmüş fayans</value>
+  </data>
+  <data name="CM_Graghic_Effect_GrayScale" xml:space="preserve">
+    <value>Gri tonlama</value>
+  </data>
+  <data name="CM_Graghic_Effect_Invert" xml:space="preserve">
+    <value>Ters çevir</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix" xml:space="preserve">
+    <value>Renk matrisi</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_On" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_Off" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="CD_CM_TITLE.Text" xml:space="preserve">
+    <value>Renk matrisi</value>
+  </data>
+  <data name="CM_Graghic_Effect_ColorMatrix_Custom" xml:space="preserve">
+    <value>Özel</value>
+  </data>
+  <data name="CD_ColorMatrix.PrimaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="CM_Slider_hue.Header" xml:space="preserve">
+    <value>renk tonu</value>
+  </data>
+  <data name="CM_Slider_saturation.Header" xml:space="preserve">
+    <value>Doygunluk</value>
+  </data>
+  <data name="CM_Slider_brightness.Header" xml:space="preserve">
+    <value>parlaklık</value>
+  </data>
+  <data name="hevcVideoExtensionButton.Content" xml:space="preserve">
+    <value>HEVC Video uzantısı indir</value>
+  </data>
+  <data name="hevcVideoExtensionButton_ToolTip.Content" xml:space="preserve">
+    <value>Donanımınız destekliyorsa Windows 10 sonbahar Creator güncelleştirme, Microsoft kaldırmak HEVC lüzum o yüzden el ile kod çözücü, codec bileşeni Microsoft Store üzerinden, indir.</value>
+  </data>
+  <data name="SD_PivotItem1_SetDefaultMediaPlayer.Header" xml:space="preserve">
+    <value>Varsayılan medya oynatıcı</value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.Header" xml:space="preserve">
+    <value>Neler oluyor yeni gösteri güncelleme</value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_ShowWhatsNew.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SortBy" xml:space="preserve">
+    <value>Sıralama ölçütü</value>
+  </data>
+  <data name="Menu_FileName" xml:space="preserve">
+    <value>Dosya adı</value>
+  </data>
+  <data name="Menu_Size" xml:space="preserve">
+    <value>Dosya boyutu</value>
+  </data>
+  <data name="Menu_Date" xml:space="preserve">
+    <value>Dosya tarihi</value>
+  </data>
+  <data name="Menu_Duration" xml:space="preserve">
+    <value>Süresi</value>
+  </data>
+  <data name="CD_Effects.PrimaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="CD_Effects_TITLE.Text" xml:space="preserve">
+    <value>Video efektleri yöneticisi</value>
+  </data>
+  <data name="CM_Graghic_Effect_EffectManager" xml:space="preserve">
+    <value>Efektleri yöneticisi</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.Header" xml:space="preserve">
+    <value>Kısa Not</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_MemoToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.Header" xml:space="preserve">
+    <value>Dinamik görüntü</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.Header" xml:space="preserve">
+    <value>Döndürülmüş fayans</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.Header" xml:space="preserve">
+    <value>Gri tonlama</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.Header" xml:space="preserve">
+    <value>Ters çevir</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.Header" xml:space="preserve">
+    <value>Deplasman</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_DisplacementToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_DynamicBlurToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_RotatedTilesToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_GrayScaleToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_InvertToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="Effects_Manager_ColorMatrixToggleSwitch.Header" xml:space="preserve">
+    <value>Renk matrisi</value>
+  </data>
+  <data name="CM_Slider_PixelsPerTile.Header" xml:space="preserve">
+    <value>Piksel / kiremit</value>
+  </data>
+  <data name="CM_Slider_Amount.Header" xml:space="preserve">
+    <value>Deplasman miktarı</value>
+  </data>
+  <data name="CM_Slider_DisplacementX.Header" xml:space="preserve">
+    <value>Motor hacmi X</value>
+  </data>
+  <data name="CM_Slider_DisplacementY.Header" xml:space="preserve">
+    <value>Deplasman Y</value>
+  </data>
+  <data name="CM_Slider_BlurAmount.Header" xml:space="preserve">
+    <value>Bir miktar bulanıklık</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.Header" xml:space="preserve">
+    <value>Pozlama</value>
+  </data>
+  <data name="CM_Slider_Exposure.Header" xml:space="preserve">
+    <value>Maruz kalma miktarı</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_ExposureToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="CM_Slider_Contrast.Header" xml:space="preserve">
+    <value>Kontrast</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.Header" xml:space="preserve">
+    <value>Kontrast</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_ContrastToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.Header" xml:space="preserve">
+    <value>Keskinleştirme</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_SharpenToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="CM_Slider_Sharpen.Header" xml:space="preserve">
+    <value>Keskinleştirme</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.Header" xml:space="preserve">
+    <value>Morfoloji</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_MorphologyToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.Header" xml:space="preserve">
+    <value>Morfoloji modu</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Aşındırmak</value>
+  </data>
+  <data name="Effects_Manager_MorphologyModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Dilate</value>
+  </data>
+  <data name="CM_Slider_Morphology_Height.Header" xml:space="preserve">
+    <value>Morfoloji yüksekliği</value>
+  </data>
+  <data name="CM_Slider_Morphology_Width.Header" xml:space="preserve">
+    <value>Morfoloji genişliği</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.Header" xml:space="preserve">
+    <value>Oynatma oranı düğmesini göster</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem1_ShowChangePlaybackRateButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.Header" xml:space="preserve">
+    <value>Kabartma</value>
+  </data>
+  <data name="CM_Slider_EmbossAmount.Header" xml:space="preserve">
+    <value>Miktar kabartma</value>
+  </data>
+  <data name="CM_Slider_EmbossAngle.Header" xml:space="preserve">
+    <value>Açı kabartma</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.OnContent" xml:space="preserve">
+    <value>Etkin</value>
+  </data>
+  <data name="Effects_Manager_EmbossToggleSwitch.OffContent" xml:space="preserve">
+    <value>Engelli</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>4 K performans kullanım akrep Media Server v3.0 akış geliştirmek</value>
+  </data>
+  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
+    <value>Akrep medya sunucusu</value>
+  </data>
+  <data name="CM_Open_Socket" xml:space="preserve">
+    <value>Akrep medya sunucusu</value>
+  </data>
+  <data name="CD_Socket_RemoteHostName.Text" xml:space="preserve">
+    <value>Uzak ana makine adı / IP adresi</value>
+  </data>
+  <data name="CD_Socket_RemotePort.Text" xml:space="preserve">
+    <value>Uzaktan bağlantı noktası</value>
+  </data>
+  <data name="CD_Socket_Connect_Button.Content" xml:space="preserve">
+    <value>Bağlanmak</value>
+  </data>
+  <data name="CD_Socket_Disonnect_Button.Content" xml:space="preserve">
+    <value>Bağlantıyı kes</value>
+  </data>
+  <data name="CD_Socket_Refresh_Button.Content" xml:space="preserve">
+    <value>Medya dosya bilgilerini getir</value>
+  </data>
+  <data name="CD_Socket_ConnectionTimedOut" xml:space="preserve">
+    <value>değil uzak sunucuyla bağlantı, uzak ana bilgisayar adı ve uzak bağlantı noktası doğru olduğundan emin olun</value>
+  </data>
+  <data name="CD_Socket_Connected" xml:space="preserve">
+    <value>uzak sunucuya bağlı</value>
+  </data>
+  <data name="SCD_PivotItem1.Header" xml:space="preserve">
+    <value>Klasörler</value>
+  </data>
+  <data name="SCD_PivotItem2.Header" xml:space="preserve">
+    <value>Dosyaları</value>
+  </data>
+  <data name="CD_Socket.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="CD_Socket_PrimaryButtonText_Connect" xml:space="preserve">
+    <value>Bağlanmak</value>
+  </data>
+  <data name="CD_Socket_PrimaryButtonText_Disconnect" xml:space="preserve">
+    <value>Bağlantıyı kes</value>
+  </data>
+  <data name="CD_Socket_LocalHostName.Text" xml:space="preserve">
+    <value>Yerel ana bilgisayar adı / IP adresi</value>
+  </data>
+  <data name="CD_Socket_LocalPort.Text" xml:space="preserve">
+    <value>Dinleme bağlantı noktası</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.Header" xml:space="preserve">
+    <value>Medya sunucusu olarak işlev görmesine</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.OnContent" xml:space="preserve">
+    <value>Yerel ağımdaki Favorilerime paylaşmak</value>
+  </data>
+  <data name="CD_Socket_IsScorpioNetworkingStreamServerToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CD_Socket_Invalid_HostName" xml:space="preserve">
+    <value>Geçersiz ana bilgisayar adı veya IP adresi</value>
+  </data>
+  <data name="CD_Socket_Listen_Success" xml:space="preserve">
+    <value>Bağlantı noktasında başarı dinle</value>
+  </data>
+  <data name="CD_Socket_Listen_Fail" xml:space="preserve">
+    <value>Başarısız medya sunucusu olarak işlev görmesine, ana bilgisayar adı ve bağlantı noktası geçerli olduğundan emin olun.</value>
+  </data>
+  <data name="CD_Socket_HelpButton.Content" xml:space="preserve">
+    <value>Yardım</value>
+  </data>
+  <data name="SocketNetworkingStream_Message" xml:space="preserve">
+    <value>Akrep Media Server sık video veya ses, yerel ağ veya Internet veya akrep oyuncu arasında akrep oyuncu sunucu yazılımı ile üzerinden de dahil olmak üzere medya akışını sağlayabilirsiniz benzersiz bir özelliktir. Çapraz akış PC, Xbox, Windows 10 cep telefonu, arasında etkinleştirmek ve diğer pencere eşiği 10 aygıt, medya sunucusu etkin pencere modunda gerekir olarak akrep oyuncu zaman hareket modu veya arka plan modu en aza indirmek değil, Linux, MacOS için akrep Media Server uygulaması indirebilirsiniz, Windows 7, 10 8, 8.1, liman işçisi ve daha fazla http://scorpioplayer.com, teşekkürler bilgi edinin.</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Akış</value>
+  </data>
+  <data name="CM_Open_FTP" xml:space="preserve">
+    <value>FTP</value>
+  </data>
+  <data name="FTP_TITLE.Text" xml:space="preserve">
+    <value>FTP</value>
+  </data>
+  <data name="FTP_Settings.Header" xml:space="preserve">
+    <value>FTP ayarı</value>
+  </data>
+  <data name="NO_FTP.Text" xml:space="preserve">
+    <value>Hiçbir FTP sunucu bulundu</value>
+  </data>
+  <data name="FTP_Warning.Text" xml:space="preserve">
+    <value>FTP özelliği değil tam olarak hazır, açık dosya anlamına gelir tam dosya indirmek için lütfen çok büyük dosyayı açmayın.</value>
+  </data>
+  <data name="CM_Open_SMB" xml:space="preserve">
+    <value>SMB</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>Akarsu ağı</value>
+  </data>
+  <data name="UCD.PrimaryButtonText" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="UCD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="UCD_Enter_message_textblock.Text" xml:space="preserve">
+    <value>Lütfen bir ağ URL girin:</value>
+  </data>
+  <data name="Downloading" xml:space="preserve">
+    <value>İndirme</value>
+  </data>
+  <data name="exampleTextBlock.Text" xml:space="preserve">
+    <value>örnek</value>
+  </data>
+  <data name="SCD_PivotItem4.Header" xml:space="preserve">
+    <value>Önbellek</value>
+  </data>
+  <data name="Cache" xml:space="preserve">
+    <value>Önbellek</value>
+  </data>
+  <data name="ClearCacheButton.Content" xml:space="preserve">
+    <value>Önbelleği temizle</value>
+  </data>
+  <data name="WM_CacheFolderDeleted" xml:space="preserve">
+    <value>Önbelleği Temizle tamamlandı</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.Header" xml:space="preserve">
+    <value>indirilen sonra açmak</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="CD_Socket_SocketOpenAfterDownloadedToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="WM_ReadFromCache" xml:space="preserve">
+    <value>önbellekten okunan</value>
+  </data>
+  <data name="WM_DownloadCompleted" xml:space="preserve">
+    <value>karşıdan yükleme tamamlandı</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Akrep Media Server sık kaynağı olarak kullanma</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="WM_load_socket_folder_fail" xml:space="preserve">
+    <value>Akrep Media Server klasör yükleme başarısız oldu</value>
+  </data>
+  <data name="WM_load_socket_folder" xml:space="preserve">
+    <value>Akrep Media Server klasör yükleme tamamlandı</value>
+  </data>
+  <data name="WM_load_socket_file_fail" xml:space="preserve">
+    <value>Akrep Media Server dosyaları yükleme başarısız oldu</value>
+  </data>
+  <data name="WM_load_socket_file" xml:space="preserve">
+    <value>Akrep Media Server dosyaları yükleme tamamlandı</value>
+  </data>
+  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
+    <value>uzak ana bilgisayar ayarları akrep Streaming Server için gereklidir</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
+    <value>Düzen ölçeklendirmeyi devre dışı bırak</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="TrySetDisableLayoutScalingSuccess" xml:space="preserve">
+    <value>Set devre dışı bırak düzen başarı ölçekleme</value>
+  </data>
+  <data name="TrySetDisableLayoutScalingFail" xml:space="preserve">
+    <value>Set devre dışı bırak düzeni başarısız ölçekleme</value>
+  </data>
+  <data name="WM_SubtitleNotFound" xml:space="preserve">
+    <value>Altyazı bulunamadı.</value>
+  </data>
+  <data name="WM_SubtitleNotFoundAudio" xml:space="preserve">
+    <value>Şarkı sözleri bulunamadı.</value>
+  </data>
+  <data name="chi" xml:space="preserve">
+    <value>Çince</value>
+  </data>
+  <data name="WM_not_support" xml:space="preserve">
+    <value>değil destek</value>
+  </data>
+  <data name="CM_TransportControlShowDuration" xml:space="preserve">
+    <value>Gösteri süresi</value>
+  </data>
+  <data name="Commom_Seconds" xml:space="preserve">
+    <value>Saniye</value>
+  </data>
+  <data name="CM_Track_face" xml:space="preserve">
+    <value>Yüzleri izlemek</value>
+  </data>
+  <data name="WM_decode_fail_switching_codec" xml:space="preserve">
+    <value>şifresini çözmek başarısız oldu, denemek anahtar şifre</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.Header" xml:space="preserve">
+    <value>Baraj altyazı düğmesini göster</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_ShowDanmuButtonToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="MV_Danmu.Content" xml:space="preserve">
+    <value>Baraj</value>
+  </data>
+  <data name="MV_TP_Danmu_Explain.Content" xml:space="preserve">
+    <value>Baraj altyazı dosya lüzum-e doğru var olmak yüklü, bu özelliği kullanabilmek için örnek .xml veya .json biçiminde olan destek, blibli.com ile uyumlu / acfun.com</value>
+  </data>
+  <data name="WM_danmu_subtitle_loaded" xml:space="preserve">
+    <value>Baraj altyazı yüklendi</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>Akrep Media Server Şimdi desteği liman işçisi NAS sunucusu üzerinde x86 yükleme</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
+    <value>Parlama efekti kullanmak</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem2_UseGlowTextToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem2_GlowAmountSlider.Header" xml:space="preserve">
+    <value>Kızdırma tutar</value>
+  </data>
+  <data name="SD_PivotItem3_PrimarySubtitleFontWeightSlider.Header" xml:space="preserve">
+    <value>Birincil altyazı yazı tipi genişliği</value>
+  </data>
+  <data name="CM_Subtitle_Subhub" xml:space="preserve">
+    <value>Altyazı arama paneli</value>
+  </data>
+  <data name="SUCD_TITLE.Text" xml:space="preserve">
+    <value>Altyazı arama paneli</value>
+  </data>
+  <data name="SUCD.PrimaryButtonText" xml:space="preserve">
+    <value>Arama</value>
+  </data>
+  <data name="SUCD.SecondaryButtonText" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="SUCD_Query.Header" xml:space="preserve">
+    <value>Metin arama</value>
+  </data>
+  <data name="SUCD_FileHash.Header" xml:space="preserve">
+    <value>Karma</value>
+  </data>
+  <data name="SUCD_Episode.Header" xml:space="preserve">
+    <value>Bölüm</value>
+  </data>
+  <data name="SUCD_Season.Header" xml:space="preserve">
+    <value>Sezon</value>
+  </data>
+  <data name="SUCD_ImdbId.Header" xml:space="preserve">
+    <value>IMDB kimliği</value>
+  </data>
+  <data name="Afrikaans" xml:space="preserve">
+    <value>Afrikaner</value>
+  </data>
+  <data name="Albanian" xml:space="preserve">
+    <value>Arnavutça</value>
+  </data>
+  <data name="Arabic" xml:space="preserve">
+    <value>Arapça</value>
+  </data>
+  <data name="Armenian" xml:space="preserve">
+    <value>Ermenice</value>
+  </data>
+  <data name="Basque" xml:space="preserve">
+    <value>Bask dili</value>
+  </data>
+  <data name="Belarusian" xml:space="preserve">
+    <value>Beyaz Rusça</value>
+  </data>
+  <data name="Bengali" xml:space="preserve">
+    <value>Bengali</value>
+  </data>
+  <data name="Bosnian" xml:space="preserve">
+    <value>Boşnakça</value>
+  </data>
+  <data name="Bulgarian" xml:space="preserve">
+    <value>Bulgarca</value>
+  </data>
+  <data name="Burmese" xml:space="preserve">
+    <value>Birmanya</value>
+  </data>
+  <data name="Catalan" xml:space="preserve">
+    <value>Katalanca</value>
+  </data>
+  <data name="Chinese (simplified)" xml:space="preserve">
+    <value>Çince (Basitleştirilmiş)</value>
+  </data>
+  <data name="Chinese (traditional)" xml:space="preserve">
+    <value>Çince (Geleneksel)</value>
+  </data>
+  <data name="Chinese bilingual" xml:space="preserve">
+    <value>Çinli çift dilli</value>
+  </data>
+  <data name="Croatian" xml:space="preserve">
+    <value>Hırvatça</value>
+  </data>
+  <data name="Czech" xml:space="preserve">
+    <value>Çekçe</value>
+  </data>
+  <data name="Danish" xml:space="preserve">
+    <value>Danca</value>
+  </data>
+  <data name="Dutch" xml:space="preserve">
+    <value>Hollanda dili</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>İngilizce</value>
+  </data>
+  <data name="Esperanto" xml:space="preserve">
+    <value>Esperanto</value>
+  </data>
+  <data name="Estonian" xml:space="preserve">
+    <value>Estonca</value>
+  </data>
+  <data name="Finnish" xml:space="preserve">
+    <value>Fince</value>
+  </data>
+  <data name="French" xml:space="preserve">
+    <value>Fransızca</value>
+  </data>
+  <data name="Galician" xml:space="preserve">
+    <value>Galiçya lehçesi</value>
+  </data>
+  <data name="Georgian" xml:space="preserve">
+    <value>Gürcüce</value>
+  </data>
+  <data name="German" xml:space="preserve">
+    <value>Almanca</value>
+  </data>
+  <data name="Greek" xml:space="preserve">
+    <value>Yunanca</value>
+  </data>
+  <data name="Hebrew" xml:space="preserve">
+    <value>İbranice</value>
+  </data>
+  <data name="Hindi" xml:space="preserve">
+    <value>Hintçe</value>
+  </data>
+  <data name="Hungarian" xml:space="preserve">
+    <value>Macarca</value>
+  </data>
+  <data name="Icelandic" xml:space="preserve">
+    <value>İzlanda dili</value>
+  </data>
+  <data name="Indonesian" xml:space="preserve">
+    <value>Endonezya dili</value>
+  </data>
+  <data name="Italian" xml:space="preserve">
+    <value>İtalyanca</value>
+  </data>
+  <data name="Japanese" xml:space="preserve">
+    <value>Japonca</value>
+  </data>
+  <data name="Kazakh" xml:space="preserve">
+    <value>Kazakça</value>
+  </data>
+  <data name="Khmer" xml:space="preserve">
+    <value>Khmer</value>
+  </data>
+  <data name="Korean" xml:space="preserve">
+    <value>Kore dili</value>
+  </data>
+  <data name="Latvian" xml:space="preserve">
+    <value>Letonca</value>
+  </data>
+  <data name="Lithuanian" xml:space="preserve">
+    <value>Litvanca</value>
+  </data>
+  <data name="Luxembourgish" xml:space="preserve">
+    <value>Lüksemburg dili</value>
+  </data>
+  <data name="Macedonian" xml:space="preserve">
+    <value>Makedonya</value>
+  </data>
+  <data name="Malay" xml:space="preserve">
+    <value>Malay dili</value>
+  </data>
+  <data name="Malayalam" xml:space="preserve">
+    <value>Malayalam dili</value>
+  </data>
+  <data name="Manipuri" xml:space="preserve">
+    <value>Manipuri</value>
+  </data>
+  <data name="Mongolian" xml:space="preserve">
+    <value>Moğolca</value>
+  </data>
+  <data name="Montenegrin" xml:space="preserve">
+    <value>Karadağ</value>
+  </data>
+  <data name="Norwegian" xml:space="preserve">
+    <value>Norveç dili</value>
+  </data>
+  <data name="Occitan" xml:space="preserve">
+    <value>Oksitanca</value>
+  </data>
+  <data name="Persian" xml:space="preserve">
+    <value>Farsça</value>
+  </data>
+  <data name="Polish" xml:space="preserve">
+    <value>Lehçe</value>
+  </data>
+  <data name="Portuguese" xml:space="preserve">
+    <value>Portekizce</value>
+  </data>
+  <data name="Portuguese (BR)" xml:space="preserve">
+    <value>Portekizce (BR)</value>
+  </data>
+  <data name="Romanian" xml:space="preserve">
+    <value>Rumence</value>
+  </data>
+  <data name="Russian" xml:space="preserve">
+    <value>Rusça</value>
+  </data>
+  <data name="Serbian" xml:space="preserve">
+    <value>Sırp</value>
+  </data>
+  <data name="Sinhalese" xml:space="preserve">
+    <value>Sinhalese</value>
+  </data>
+  <data name="Slovak" xml:space="preserve">
+    <value>Slovakça</value>
+  </data>
+  <data name="Slovenian" xml:space="preserve">
+    <value>Slovence</value>
+  </data>
+  <data name="Spanish" xml:space="preserve">
+    <value>İspanyolca</value>
+  </data>
+  <data name="Swahili" xml:space="preserve">
+    <value>Svahili dili</value>
+  </data>
+  <data name="Swedish" xml:space="preserve">
+    <value>İsveç dili</value>
+  </data>
+  <data name="Syriac" xml:space="preserve">
+    <value>Süryanice</value>
+  </data>
+  <data name="Tagalog" xml:space="preserve">
+    <value>"Tagalog"</value>
+  </data>
+  <data name="Tamil" xml:space="preserve">
+    <value>Tamil dili</value>
+  </data>
+  <data name="Telugu" xml:space="preserve">
+    <value>Telugu dili</value>
+  </data>
+  <data name="Thai" xml:space="preserve">
+    <value>Tay dili</value>
+  </data>
+  <data name="Turkish" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="Ukrainian" xml:space="preserve">
+    <value>Ukrayna dili</value>
+  </data>
+  <data name="Urdu" xml:space="preserve">
+    <value>Urduca</value>
+  </data>
+  <data name="Vietnamese" xml:space="preserve">
+    <value>Vietnam dili</value>
+  </data>
+  <data name="Breton" xml:space="preserve">
+    <value>Breton</value>
+  </data>
+  <data name="Hash" xml:space="preserve">
+    <value>Karma</value>
+  </data>
+  <data name="FullText" xml:space="preserve">
+    <value>Metin</value>
+  </data>
+  <data name="Imdb" xml:space="preserve">
+    <value>IMDB</value>
+  </data>
+  <data name="Subhub_languages_combox.Header" xml:space="preserve">
+    <value>Dil</value>
+  </data>
+  <data name="Subhub_SearchMethod_combox.Header" xml:space="preserve">
+    <value>Arama yöntemi</value>
+  </data>
+  <data name="WM_subtitle_loaded" xml:space="preserve">
+    <value>Geçerli altyazı</value>
+  </data>
+  <data name="WM_file_corrupted" xml:space="preserve">
+    <value>Dosya bozuk</value>
+  </data>
+  <data name="Embed" xml:space="preserve">
+    <value>Katıştır</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="SD_PivotItem3_GlobalSubtitleDelayMilliseconds.Header" xml:space="preserve">
+    <value>Küresel altyazı gecikme süresi (milisaniye cinsinden)</value>
+  </data>
+  <data name="Milliseconds" xml:space="preserve">
+    <value>Milisaniye</value>
+  </data>
+  <data name="Seconds" xml:space="preserve">
+    <value>Saniye</value>
+  </data>
+  <data name="CM_Subtitle_Delay" xml:space="preserve">
+    <value>Ayarla altyazı / ses zaman çizelgesi</value>
+  </data>
+  <data name="DCD.PrimaryButtonText" xml:space="preserve">
+    <value>Sıfırlama</value>
+  </data>
+  <data name="DCD_TITLE.Text" xml:space="preserve">
+    <value>Altyazı zaman çizelgesi</value>
+  </data>
+  <data name="CM_ExportSubtitle" xml:space="preserve">
+    <value>Verme dosyası</value>
+  </data>
+  <data name="WM_Subtitle_Exported" xml:space="preserve">
+    <value>İhraç altyazı</value>
+  </data>
+  <data name="WM_Subtitle_Exported_Failed" xml:space="preserve">
+    <value>Altyazı verme başarısız oldu</value>
+  </data>
+  <data name="DCD_Subtitle_Reset_Button" xml:space="preserve">
+    <value>Sıfırlama</value>
+  </data>
+  <data name="DCD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.Header" xml:space="preserve">
+    <value>Avans ayarı kod çözme kullanın</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_UseAdvanceDecodingSettingToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.Header" xml:space="preserve">
+    <value>Video çıkışı izin Nv12 piksel biçimi</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowNv12ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.Header" xml:space="preserve">
+    <value>Video çıkışı izin Bgra8 piksel biçimi</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowBgra8ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.Header" xml:space="preserve">
+    <value>Video çıkış izin 10 bit piksel biçimi</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllow10bitToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.Header" xml:space="preserve">
+    <value>Video çıkışı izin IYUV piksel biçimi</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_VideoOutputAllowIyuvToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.Header" xml:space="preserve">
+    <value>Donanım HEVC hızlandırmak</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoHEVCToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.Header" xml:space="preserve">
+    <value>Donanım H264Hi10P hızlandırmak</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264Hi10PToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.Header" xml:space="preserve">
+    <value>Donanım hızlandırmak H264</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoH264ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.Header" xml:space="preserve">
+    <value>Donanım hızlandırmak AAC</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioAACToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.Header" xml:space="preserve">
+    <value>Donanım hızlandırmak MP3</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughAudioMP3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="PlaylistActionButton_BringIntoView" xml:space="preserve">
+    <value>Geçerli çalınıyor göster</value>
+  </data>
+  <data name="WM_Caching_Stopped" xml:space="preserve">
+    <value>Getirme için klasör önbellek bilgisi durdu</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.Header" xml:space="preserve">
+    <value>Klasörü açtıktan sonra önbelleğe alma devre dışı bırakma</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_DisableCacheFetchOnFolderOpenedToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="PlaylistActionButton_DisableCacheFetchOnFolderOpened" xml:space="preserve">
+    <value>Klasörü açtıktan sonra önbelleğe alma devre dışı bırakma</value>
+  </data>
+  <data name="PlaylistActionButton_ClearCahe" xml:space="preserve">
+    <value>Önbelleği temizle</value>
+  </data>
+  <data name="PlaylistActionButton_GenCache" xml:space="preserve">
+    <value>Medya dosya bilgilerini getir</value>
+  </data>
+  <data name="WM_Link_No_File" xml:space="preserve">
+    <value>video bağlantı--dan hulâsa olamaz</value>
+  </data>
+  <data name="UCD_download_youtube_button.Content" xml:space="preserve">
+    <value>Farklı Kaydet</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.Header" xml:space="preserve">
+    <value>Ses dosyası her zaman kullanım sistem Decoder (için arka plan müzik çalma)</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForAudioToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CM_Sound_BoostUp" xml:space="preserve">
+    <value>+ 5 dB</value>
+  </data>
+  <data name="CM_Sound_BoostDown" xml:space="preserve">
+    <value>-5 dB</value>
+  </data>
+  <data name="SD_PivotItem5.Header" xml:space="preserve">
+    <value>UI/UX</value>
+  </data>
+  <data name="SD_PivotItem6.Header" xml:space="preserve">
+    <value>Kısayol tuşları</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Action.Header" xml:space="preserve">
+    <value>Eylem</value>
+  </data>
+  <data name="Hotkeys_dataGrid_columnName_Hotkey.Header" xml:space="preserve">
+    <value>Hotkey</value>
+  </data>
+  <data name="HotkeyAction_volume_down" xml:space="preserve">
+    <value>Ses seviyesini azaltma</value>
+  </data>
+  <data name="HotkeyAction_volume_up" xml:space="preserve">
+    <value>Ses seviyesi açma</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_full_screen" xml:space="preserve">
+    <value>Tam ekran</value>
+  </data>
+  <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
+    <value>Çıkış tam ekran</value>
+  </data>
+  <data name="HotkeyAction_action_short_forward_jump" xml:space="preserve">
+    <value>Kısa ileri atlama</value>
+  </data>
+  <data name="HotkeyAction_action_short_backwards_jump" xml:space="preserve">
+    <value>Geriye doğru atlama kısa</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_pane_open_status" xml:space="preserve">
+    <value>Bölmesi</value>
+  </data>
+  <data name="HotkeyAction_next" xml:space="preserve">
+    <value>Sonraki</value>
+  </data>
+  <data name="HotkeyAction_action_previous" xml:space="preserve">
+    <value>Önceki</value>
+  </data>
+  <data name="HotkeyAction_action_toggle_play_status" xml:space="preserve">
+    <value>Duraklat / oynamak</value>
+  </data>
+  <data name="HotkeyAction_action_reset_playbackRate" xml:space="preserve">
+    <value>Normal oranı</value>
+  </data>
+  <data name="HotkeyAction_action_add_playbackRate" xml:space="preserve">
+    <value>Daha hızlı</value>
+  </data>
+  <data name="HotkeyAction_action_reduce_playbackRate" xml:space="preserve">
+    <value>Daha yavaş</value>
+  </data>
+  <data name="HotkeyAction_action_stop" xml:space="preserve">
+    <value>Dur</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Çalma listesi sık kaynak olarak akış kullanmak</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="UCD_PivotItem1.Header" xml:space="preserve">
+    <value>Açık ağ ortamı</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>Akış Playlist Yöneticisi</value>
+  </data>
+  <data name="UCD_PivotItem3.Header" xml:space="preserve">
+    <value>Editör</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Kaydet</value>
+  </data>
+  <data name="Open" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <data name="UCD_PivotItem2_Import_Button.Content" xml:space="preserve">
+    <value>Alma</value>
+  </data>
+  <data name="UCD_PivotItem2_Example_TextBlock.Text" xml:space="preserve">
+    <value>Örnek</value>
+  </data>
+  <data name="UCD_PivotItem2_Create_Button.Content" xml:space="preserve">
+    <value>Oluşturmak</value>
+  </data>
+  <data name="RoamingSync" xml:space="preserve">
+    <value>Gezici veri eşitleme tamamlandı</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>Akrep Media Server sık kaynağı olarak kullanma</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>Çalma listesi sık kaynak olarak akış kullanmak</value>
+  </data>
+  <data name="SetLocal" xml:space="preserve">
+    <value>Yerel depolama alanını sık kaynağı olarak kullanmak</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.Header" xml:space="preserve">
+    <value>Her zaman sistem Decoder MP4 için kullanın</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_AlwaysUseSystemDecoderForMP4ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Sık Kullanılanlar kaynağı olarak kullanmak DLNA</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_BindDLNAToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="MV_TP_Refresh_DLNA.Content" xml:space="preserve">
+    <value>Yenileme</value>
+  </data>
+  <data name="MV_TP_Open_DLNA_Folder.Content" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="SetDLNA" xml:space="preserve">
+    <value>Sık Kullanılanlar kaynağı olarak kullanmak DLNA</value>
+  </data>
+  <data name="MV_TP_StepPreviousFrame.Content" xml:space="preserve">
+    <value>Önceki çerçeve</value>
+  </data>
+  <data name="SkipCD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="SkipCD_TITLE.Text" xml:space="preserve">
+    <value>Atla oynatma</value>
+  </data>
+  <data name="CM_SKIP" xml:space="preserve">
+    <value>Atla</value>
+  </data>
+  <data name="CM_Open_Skip" xml:space="preserve">
+    <value>Atla Kur</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Atla özelliği etkinleştirmek</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SkipCD_SkipFeatureEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Skip Intro (başlamak)</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SkipCD_SkipBeginEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Atla biten (sonunda)</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SkipCD_SkipEndEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Bölüm başlıkları</value>
+  </data>
+  <data name="SkipCD_SkipChapterEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SkipCD_beginHour.Header" xml:space="preserve">
+    <value>Saat</value>
+  </data>
+  <data name="SkipCD_beginSecond.Header" xml:space="preserve">
+    <value>Saniye</value>
+  </data>
+  <data name="SkipCD_endHour.Header" xml:space="preserve">
+    <value>Saat</value>
+  </data>
+  <data name="SkipCD_endSecond.Header" xml:space="preserve">
+    <value>Saniye</value>
+  </data>
+  <data name="SkipCD_endMinute.Header" xml:space="preserve">
+    <value>Dakika</value>
+  </data>
+  <data name="SkipCD_beginMinute.Header" xml:space="preserve">
+    <value>Dakika</value>
+  </data>
+  <data name="CM_Open_skipFeature" xml:space="preserve">
+    <value>Atla özelliği etkinleştirmek</value>
+  </data>
+  <data name="CM_Open_skipBegin" xml:space="preserve">
+    <value>Skip Intro</value>
+  </data>
+  <data name="CM_Open_skipEnd" xml:space="preserve">
+    <value>Atla sonu</value>
+  </data>
+  <data name="CM_Open_skipChapter" xml:space="preserve">
+    <value>Bölüm atlamak</value>
+  </data>
+  <data name="Hours" xml:space="preserve">
+    <value>Saat</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>Dakika</value>
+  </data>
+  <data name="CM_Misc" xml:space="preserve">
+    <value>Misc</value>
+  </data>
+  <data name="CM_ExitApplicationIn30Minutes" xml:space="preserve">
+    <value>30 dakikada uygulamadan çıkın</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_forward" xml:space="preserve">
+    <value>Hareket noktası B 0.1 saniye ileri</value>
+  </data>
+  <data name="CM_Playback_Loop_SetBPoint_backward" xml:space="preserve">
+    <value>Hareket noktası B 0.1 saniye geriye dönük</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_forward" xml:space="preserve">
+    <value>Hareket noktası A 0.1 saniye ileri</value>
+  </data>
+  <data name="CM_Playback_Loop_SetAPoint_backward" xml:space="preserve">
+    <value>Geriye doğru bir 0,1 saniye noktasını taşıma</value>
+  </data>
+  <data name="CM_WhenOpenFileAddToFavorites" xml:space="preserve">
+    <value>Dosya açıldığında sık kullanılanlara ekle</value>
+  </data>
+  <data name="CM_WhenOpenFolderAddToFavorites" xml:space="preserve">
+    <value>Klasör açıldığında sık kullanılanlara ekle</value>
+  </data>
+  <data name="SkipCD_SkipSyncSubtitleEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Senkronizasyon altyazı zaman çizelgesi</value>
+  </data>
+  <data name="IsAudioOnly" xml:space="preserve">
+    <value>Yalnızca ses</value>
+  </data>
+  <data name="IsVideoOnly" xml:space="preserve">
+    <value>Sadece video</value>
+  </data>
+  <data name="CM_ExternalAudio" xml:space="preserve">
+    <value>Harici ses</value>
+  </data>
+  <data name="Load" xml:space="preserve">
+    <value>Yük...</value>
+  </data>
+  <data name="CM_Open_Twitch" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Twitch_CD_TITLE.Text" xml:space="preserve">
+    <value>Twitch</value>
+  </data>
+  <data name="Twitch_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Twitch_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Arama</value>
+  </data>
+  <data name="Twitch_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Geçmiş</value>
+  </data>
+  <data name="Twitch_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Arama sonucu</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Arama</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1.Header" xml:space="preserve">
+    <value>Kanal</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem2.Header" xml:space="preserve">
+    <value>URL'leri</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem3.Header" xml:space="preserve">
+    <value>Kimlikleri</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_ChannelName_textblock.Text" xml:space="preserve">
+    <value>Kanal adı:</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock.Text" xml:space="preserve">
+    <value>Bir veya daha fazla seğirme video URL metin yapıştırın. Her url yeni bir satır yerleştirildiğinden emin olun. </value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock.Text" xml:space="preserve">
+    <value>Bir veya daha fazla seğirme video kimlikleri aşağıdaki metin kutusuna yapıştırın. Her kimlik yeni bir satır yerleştirildiğinden emin olun.</value>
+  </data>
+  <data name="AppRestartFailure" xml:space="preserve">
+    <value>Lütfen uygulamayı el ile yeniden başlatın.</value>
+  </data>
+  <data name="loadFromCalendarDatePicker.Header" xml:space="preserve">
+    <value>Yüklemek</value>
+  </data>
+  <data name="loadToCalendarDatePicker.Header" xml:space="preserve">
+    <value>Yük</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_VideoType_textblock.Text" xml:space="preserve">
+    <value>Video türü</value>
+  </data>
+  <data name="BroadcastRadioButton.Content" xml:space="preserve">
+    <value>Yayın</value>
+  </data>
+  <data name="HighlightRadioButton.Content" xml:space="preserve">
+    <value>Vurgulamak</value>
+  </data>
+  <data name="UploadRadioButton.Content" xml:space="preserve">
+    <value>Karşıya yükleme</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_LoadLastVods_Slider.Header" xml:space="preserve">
+    <value>Son Videolar</value>
+  </data>
+  <data name="OnlyTodayRadioButton.Content" xml:space="preserve">
+    <value>Sadece bugün</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_Urls_textblock2.Text" xml:space="preserve">
+    <value>Örnek: https://www.twitch.tv/videos/123456789</value>
+  </data>
+  <data name="Twitch_CD_PivotItem1_Search_PivotItem1_IDs_textblock2.Text" xml:space="preserve">
+    <value>Örnek: 123456789</value>
+  </data>
+  <data name="SuggestionLoadExternalAudio" xml:space="preserve">
+    <value>Bu video ses parça içeren, lütfen ses kaydı seçin ve yükleyin.</value>
+  </data>
+  <data name="Unload" xml:space="preserve">
+    <value>Bellekten kaldırma</value>
+  </data>
+  <data name="Transcode_CD_TITLE.Text" xml:space="preserve">
+    <value>Video ses birleştirmek Transcode aracı</value>
+  </data>
+  <data name="CM_VideoAudioCombineTranscodeTool" xml:space="preserve">
+    <value>Video ses birleştirmek Transcode aracı</value>
+  </data>
+  <data name="Transcode_Video_button.Content" xml:space="preserve">
+    <value>Sürükleyin veya Video dosyası seç</value>
+  </data>
+  <data name="Transcode_Audio_button.Content" xml:space="preserve">
+    <value>Sürükleyin veya ses dosyası seç</value>
+  </data>
+  <data name="CM_Transcode_Video_button" xml:space="preserve">
+    <value>Sürükleyin veya Video dosyası seç</value>
+  </data>
+  <data name="CM_Transcode_Audio_button" xml:space="preserve">
+    <value>Sürükleyin veya ses dosyası seç</value>
+  </data>
+  <data name="Transcode_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Başlat</value>
+  </data>
+  <data name="Transcode_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="TranscodeFailed" xml:space="preserve">
+    <value>Kaydetme başarısız oldu</value>
+  </data>
+  <data name="TranscodeSuccess" xml:space="preserve">
+    <value>Kaydedilen dosya başarılı</value>
+  </data>
+  <data name="TranscodeProgress" xml:space="preserve">
+    <value>Dosya kaydediliyor... İlerleme durumu:</value>
+  </data>
+  <data name="CM_Track_histogram" xml:space="preserve">
+    <value>Çubuk grafik</value>
+  </data>
+  <data name="CM_Open_Youtube" xml:space="preserve">
+    <value>YouTube</value>
+  </data>
+  <data name="Youtube_CD_TITLE.Text" xml:space="preserve">
+    <value>YouTube</value>
+  </data>
+  <data name="Youtube_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="Youtube_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="GID_FramePerSecond_Slider.Header" xml:space="preserve">
+    <value>Saniyede kare</value>
+  </data>
+  <data name="GID_Scale_Slider.Header" xml:space="preserve">
+    <value>Ölçekleme oranı</value>
+  </data>
+  <data name="CM_Open_Gif" xml:space="preserve">
+    <value>GIF görüntüsü oluşturmak</value>
+  </data>
+  <data name="Gid_CD_TITLE.Text" xml:space="preserve">
+    <value>GIF imaj Maker</value>
+  </data>
+  <data name="CanNotCreateGif" xml:space="preserve">
+    <value>GIF görüntüsü oluşturmak mümkün değil</value>
+  </data>
+  <data name="Gif_CD.PrimaryButtonText" xml:space="preserve">
+    <value>GIF oluşturmak</value>
+  </data>
+  <data name="Gif_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="GID_SAVE_BUTTON.Content" xml:space="preserve">
+    <value>Farklı Kaydet</value>
+  </data>
+  <data name="GenerateGIF" xml:space="preserve">
+    <value>GIF oluşturmak</value>
+  </data>
+  <data name="GenGIF_Abort" xml:space="preserve">
+    <value>İptal edildi GIF oluşturmak</value>
+  </data>
+  <data name="GID_TextFontSize_Slider.Header" xml:space="preserve">
+    <value>Metin yazı tipi boyutu</value>
+  </data>
+  <data name="GID_TextMarginLeft_Slider.Header" xml:space="preserve">
+    <value>Metin kenar boşluğu sol</value>
+  </data>
+  <data name="GID_TextMarginTop_Slider.Header" xml:space="preserve">
+    <value>Metin kenar boşluğu Top</value>
+  </data>
+  <data name="TextOverlayToggleSwitch.Header" xml:space="preserve">
+    <value>Metin yerleşimi</value>
+  </data>
+  <data name="Insert_text_Expander_TextBlock.Text" xml:space="preserve">
+    <value>yazı tipi ailesi altyazı özelliğini ayarla</value>
+  </data>
+  <data name="Extension_CD_TITLE.Text" xml:space="preserve">
+    <value>Uzantı Yöneticisi</value>
+  </data>
+  <data name="Extension_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="CM_ExtensionManager" xml:space="preserve">
+    <value>Uzantı Yöneticisi</value>
+  </data>
+  <data name="CM_AppRecording" xml:space="preserve">
+    <value>Uygulama kaydı</value>
+  </data>
+  <data name="CM_StartRecording" xml:space="preserve">
+    <value>Kaydı Başlat</value>
+  </data>
+  <data name="CM_StopRecording" xml:space="preserve">
+    <value>Kaydı Durdur</value>
+  </data>
+  <data name="CM_PickRecordingFolder" xml:space="preserve">
+    <value>Klasörüne</value>
+  </data>
+  <data name="AppRecordingManagerNotSupport" xml:space="preserve">
+    <value>Uygulama değil destek kayıt</value>
+  </data>
+  <data name="CM_AppRecordingOpenOnCompleted" xml:space="preserve">
+    <value>Kayıt tamamlandı sonra dosyayı aç</value>
+  </data>
+  <data name="AppRecordingManagerCompleted" xml:space="preserve">
+    <value>Uygulama kayıt başarılı</value>
+  </data>
+  <data name="AppRecordingManagerFailed" xml:space="preserve">
+    <value>Uygulama kayıt başarısız oldu</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_start" xml:space="preserve">
+    <value>Kaydı Başlat</value>
+  </data>
+  <data name="HotkeyAction_action_apprecording_stop" xml:space="preserve">
+    <value>Kaydı Durdur</value>
+  </data>
+  <data name="WM_find_no_text" xml:space="preserve">
+    <value>Hiçbir metin bulunamadı</value>
+  </data>
+  <data name="CM_OCRText_CopyTo" xml:space="preserve">
+    <value>görüntü metni sonra panoya kopyala tanımak</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.Header" xml:space="preserve">
+    <value>OCR resim altyazı sonra metin olarak işlemek</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem2_TryExtractTextFromImageSubtitleAndRenderToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
+    <value>görüntü metni sonra panoya kopyala tanımak</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>Akrep medya sunucusu</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>Akrep Media Server akrep oyuncu için bir arkadaşı uygulaması, her yerde, her zaman, cihaz yüksek kalitede ham güç akışı temel soket, hafif sunucu içerik medyanıza sağlar. Olup olmadığını Windows 10 Dizüstü aygıtı sizin oturma odası Xbox Console, ya da Download Video Streaming medya dışarı yan cep telefonunuza ev.  ödeme https://scorpioplayer.com/Docs yalın daha!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>IOS Platform akrep oyuncu deneyim getirmek, işlevsellik, ama şimdi için değil UWP sürüm olarak zengin olabilir convient. </value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>İPhone için akrep çalar</value>
+  </data>
+  <data name="WM_FolderContainsNofile" xml:space="preserve">
+    <value>Klasör boş olmadıkça</value>
+  </data>
+  <data name="IsServerValidAsyncContent" xml:space="preserve">
+    <value>Uygulama modası geçmiş, lütfen Microsoft App Store üzerinden güncelleme, Web sitesinden indirin.</value>
+  </data>
+  <data name="CM_UseSeekPreviewer" xml:space="preserve">
+    <value>Kullanım önizleyicide aramak</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitle" xml:space="preserve">
+    <value>Canlı çevirmek</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleTo" xml:space="preserve">
+    <value>Çevir</value>
+  </data>
+  <data name="Bangla" xml:space="preserve">
+    <value>Bangla</value>
+  </data>
+  <data name="Bosnian (Latin)" xml:space="preserve">
+    <value>Boşnakça (Latin)</value>
+  </data>
+  <data name="Chinese Simplified" xml:space="preserve">
+    <value>Basitleştirilmiş Çince</value>
+  </data>
+  <data name="Chinese Traditional" xml:space="preserve">
+    <value>Geleneksel Çince</value>
+  </data>
+  <data name="Cantonese (Traditional)" xml:space="preserve">
+    <value>Kanton (Geleneksel)</value>
+  </data>
+  <data name="Fijian" xml:space="preserve">
+    <value>Fiji</value>
+  </data>
+  <data name="Filipino" xml:space="preserve">
+    <value>Filipin dili</value>
+  </data>
+  <data name="Haitian Creole" xml:space="preserve">
+    <value>Haitice</value>
+  </data>
+  <data name="Hmong Daw" xml:space="preserve">
+    <value>Hmong Daw</value>
+  </data>
+  <data name="Kiswahili" xml:space="preserve">
+    <value>Kiswahili</value>
+  </data>
+  <data name="Klingon" xml:space="preserve">
+    <value>Klingon</value>
+  </data>
+  <data name="Klingon (pIqaD)" xml:space="preserve">
+    <value>Klingon (pIqaD)</value>
+  </data>
+  <data name="Malagasy" xml:space="preserve">
+    <value>Madagaskar</value>
+  </data>
+  <data name="Maltese" xml:space="preserve">
+    <value>Malta dili</value>
+  </data>
+  <data name="Yucatec Maya" xml:space="preserve">
+    <value>Yucatec Maya</value>
+  </data>
+  <data name="Norwegian Bokmål" xml:space="preserve">
+    <value>Norveç Bokmål</value>
+  </data>
+  <data name="Querétaro Otomi" xml:space="preserve">
+    <value>Querétaro Otomi</value>
+  </data>
+  <data name="Samoan" xml:space="preserve">
+    <value>Samoalı</value>
+  </data>
+  <data name="Serbian (Cyrillic)" xml:space="preserve">
+    <value>Sırpça (Kiril)</value>
+  </data>
+  <data name="Serbian (Latin)" xml:space="preserve">
+    <value>Sırpça (Latin)</value>
+  </data>
+  <data name="Tahitian" xml:space="preserve">
+    <value>Tahiti</value>
+  </data>
+  <data name="Tongan" xml:space="preserve">
+    <value>Tonga</value>
+  </data>
+  <data name="Welsh" xml:space="preserve">
+    <value>Galce</value>
+  </data>
+  <data name="CM_EnableLiveTranslateSubtitle" xml:space="preserve">
+    <value>Etkinleştir</value>
+  </data>
+  <data name="CM_StartScreenCaptureClient" xml:space="preserve">
+    <value>Ekran yakalama istemcisini başlatın</value>
+  </data>
+  <data name="CM_StopScreenCaptureClient" xml:space="preserve">
+    <value>Ekran yakalama istemci durdurmak</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Otomatik getirme Online medya bilgi</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_InternetMovieDatabaseEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="InternetMovieDatabaseEnabled" xml:space="preserve">
+    <value>Otomatik getirme Online medya bilgi</value>
+  </data>
+  <data name="CM_LiveTranslateSubtitleInit" xml:space="preserve">
+    <value>Çeviri hizmeti başlatılamıyor</value>
+  </data>
+  <data name="WM_LiveTranslateInitialization" xml:space="preserve">
+    <value>Çeviri hizmeti başlatıldı</value>
+  </data>
+  <data name="CM_RestartApp" xml:space="preserve">
+    <value>Uygulamayı yeniden başlatın</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.Header" xml:space="preserve">
+    <value>TV güvenli alan devre dışı bırakma</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_EnableFullScreenModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="OpenFolderInFileExplorer" xml:space="preserve">
+    <value>Dosya Explorer klasör aç</value>
+  </data>
+  <data name="MD_ImdbIdTextBox.Header" xml:space="preserve">
+    <value>IMDB kimliği</value>
+  </data>
+  <data name="BatchSetIMDbId" xml:space="preserve">
+    <value>Toplu IMDB kimliği ayarla</value>
+  </data>
+  <data name="Input_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Onayla</value>
+  </data>
+  <data name="Input_CD.SecondaryButtonText" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="Input_CD_TITLE.Text" xml:space="preserve">
+    <value>Giriş</value>
+  </data>
+  <data name="InputBatchIMDbId" xml:space="preserve">
+    <value>Tüm çalma listesi IMDB kimliği için değiştirin: </value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.Header" xml:space="preserve">
+    <value>Tema resmi kullan</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem2_UseFallbackImageBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.Header" xml:space="preserve">
+    <value>Akrilik etkisi geçersiz kılmak</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem2_UseThemeImageIgnoreAcrylicBrushToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="PlaylistActionButton_AutoLoadLastFileInFolder" xml:space="preserve">
+    <value>Otomatik oyun son kayıttan yürütme dosya klasör açıldığında</value>
+  </data>
+  <data name="detailview_play_button.Text" xml:space="preserve">
+    <value>Başlangıç oyun</value>
+  </data>
+  <data name="detailview_director_textblock.Text" xml:space="preserve">
+    <value>Yönetmen</value>
+  </data>
+  <data name="StartPlay" xml:space="preserve">
+    <value>Başlangıç oyun</value>
+  </data>
+  <data name="ResumePlay" xml:space="preserve">
+    <value>Oyun devam</value>
+  </data>
+  <data name="detailview_plot.Text" xml:space="preserve">
+    <value>Arsa</value>
+  </data>
+  <data name="detailview_actors.Text" xml:space="preserve">
+    <value>Aktörler</value>
+  </data>
+  <data name="detailview_Writer.Text" xml:space="preserve">
+    <value>Yazarlar</value>
+  </data>
+  <data name="detailview_Chapter.Text" xml:space="preserve">
+    <value>Bölüm</value>
+  </data>
+  <data name="detailview_Bookmark.Text" xml:space="preserve">
+    <value>Yer işareti</value>
+  </data>
+  <data name="SetPodcastPlaylist" xml:space="preserve">
+    <value>Podcast sık kaynağı olarak kullanmak</value>
+  </data>
+  <data name="Subscribe" xml:space="preserve">
+    <value>Abone</value>
+  </data>
+  <data name="Podcast_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Podcast_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Arama</value>
+  </data>
+  <data name="Podcast_CD_TITLE.Text" xml:space="preserve">
+    <value>Podcast Yöneticisi</value>
+  </data>
+  <data name="CM_Open_Podcast" xml:space="preserve">
+    <value>Podcast Yöneticisi</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Podcast sık kaynağı olarak kullanmak</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_BindPodcastPlaylistToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="EnterSearchOrFeedUrl_TextBlock.Text" xml:space="preserve">
+    <value>Podcast arama veya besleme Url girin</value>
+  </data>
+  <data name="AutoSuggestBox_Podcast.PlaceholderText" xml:space="preserve">
+    <value>Podcast arama veya besleme Url girin</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Uzaktan denetime izin ver</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_RemoteControlEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CD_Remote_Listen_Success" xml:space="preserve">
+    <value>Uzaktan denetim etkin</value>
+  </data>
+  <data name="CD_Remote_Listen_Fail" xml:space="preserve">
+    <value>Uzaktan kumanda başarısız başlatmak için</value>
+  </data>
+  <data name="ScorpioPlayerRemote" xml:space="preserve">
+    <value>Uzaktan kumanda</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>Akrep oyuncu Xbox bir uzaktan kumanda / Windows 10 PC sürümü.</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
+    <value>Uzak denetleyicisi iPhone/iPad</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDroid" xml:space="preserve">
+    <value>Uzaktan kumanda Android</value>
+  </data>
+  <data name="ScorpioPlayerRemoteiOSUWP" xml:space="preserve">
+    <value>Uzaktan kumanda Windows Phone</value>
+  </data>
+  <data name="CD_Remote_Listen_Disabled" xml:space="preserve">
+    <value>Uzaktan kumanda durdu</value>
+  </data>
+  <data name="CM_DisableHDR" xml:space="preserve">
+    <value>HDR renk alanı devre dışı bırakma</value>
+  </data>
+  <data name="CM_EnableLiveTranslatePreserveOrigin" xml:space="preserve">
+    <value>Kaynak metni korumak</value>
+  </data>
+  <data name="CM_ShowDanmuButton" xml:space="preserve">
+    <value>Baraj altyazı düğmesini göster</value>
+  </data>
+  <data name="CM_ShowChangePlaybackRateButton" xml:space="preserve">
+    <value>Oynatma oranı düğmesini göster</value>
+  </data>
+  <data name="CM_ShowAutoSuggestBoxButton" xml:space="preserve">
+    <value>Arama kutusunu göster</value>
+  </data>
+  <data name="CM_Show360VideoPlaybackButton" xml:space="preserve">
+    <value>360 ° Video oynatma düğmesini göster</value>
+  </data>
+  <data name="CM_ShowNextFrameButton" xml:space="preserve">
+    <value>Sonraki Kare düğmesini göster</value>
+  </data>
+  <data name="SD_PivotItem3_bufferTimeLocalSlider.Header" xml:space="preserve">
+    <value>Arabellek zaman yerel (ms)</value>
+  </data>
+  <data name="CM_Open_Samba" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_SMBConnectionString1_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS bağlantı dizesi 1</value>
+  </data>
+  <data name="Samba_SMBConnectionString2_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS bağlantı dizesi 1</value>
+  </data>
+  <data name="Samba_SMBConnectionString3_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>SMB/CIFS bağlantı dizesi 2</value>
+  </data>
+  <data name="Samba_CD_TITLE.Text" xml:space="preserve">
+    <value>SMB/CIFS</value>
+  </data>
+  <data name="Samba_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="Samba_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="BindSambaToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>SMB/CIFS sık kaynağı olarak kullanma</value>
+  </data>
+  <data name="Samba_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Ayarı</value>
+  </data>
+  <data name="Samba_SMBLocalPort_TextBlock.Header" xml:space="preserve">
+    <value>SMB/CIFS yerel bağlantı noktası</value>
+  </data>
+  <data name="SetSAMBA" xml:space="preserve">
+    <value>SMB/CIFS sık kaynağı olarak kullanma</value>
+  </data>
+  <data name="BindSFTPToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>SFTP/SSH sık kaynağı olarak kullanma</value>
+  </data>
+  <data name="Sftp_SFTPHostName_TextBlock.Header" xml:space="preserve">
+    <value>Ana bilgisayar adı / IP adresi</value>
+  </data>
+  <data name="Sftp_SFTPPort_TextBlock.Header" xml:space="preserve">
+    <value>Uzaktan bağlantı noktası</value>
+  </data>
+  <data name="Sftp_SFTPUserName_TextBlock.Header" xml:space="preserve">
+    <value>Kullanıcı adı</value>
+  </data>
+  <data name="Sftp_SFTPPassword_TextBlock.Header" xml:space="preserve">
+    <value>Şifre</value>
+  </data>
+  <data name="Sftp_SFTPEntryPath_TextBlock.Header" xml:space="preserve">
+    <value>Giriş yolu</value>
+  </data>
+  <data name="CM_Open_Sftp" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD_TITLE.Text" xml:space="preserve">
+    <value>SFTP/SSH</value>
+  </data>
+  <data name="Sftp_CD.PrimaryButtonText" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="Sftp_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Sftp_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Ayarı</value>
+  </data>
+  <data name="SetSFTP" xml:space="preserve">
+    <value>SFTP/SSH sık kaynağı olarak kullanma</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Test Pass</value>
+  </data>
+  <data name="Fail" xml:space="preserve">
+    <value>Sınaması başarısız oldu</value>
+  </data>
+  <data name="CM_ResizePlaybackWindowsSize" xml:space="preserve">
+    <value>Videoyu sığdırmak için pencereyi yeniden boyutlandırın</value>
+  </data>
+  <data name="WM_Podcast_Down" xml:space="preserve">
+    <value>Podcast mevcut değil</value>
+  </data>
+  <data name="CM_Open_Download" xml:space="preserve">
+    <value>Download müdür</value>
+  </data>
+  <data name="Download_CD_TITLE.Text" xml:space="preserve">
+    <value>Download müdür</value>
+  </data>
+  <data name="Download_CD.SecondaryButtonText" xml:space="preserve">
+    <value>Gizle</value>
+  </data>
+  <data name="Download_CD_PivotItem1.Header" xml:space="preserve">
+    <value>İndirme</value>
+  </data>
+  <data name="Download_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Çevrimdışı</value>
+  </data>
+  <data name="Download_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Ayarı</value>
+  </data>
+  <data name="CM_DownloadThisVideo" xml:space="preserve">
+    <value>Download bu eğe</value>
+  </data>
+  <data name="CM_DownloadThisPlayList" xml:space="preserve">
+    <value>Bu çalma listesi download</value>
+  </data>
+  <data name="CannotDownload" xml:space="preserve">
+    <value>Cant'download</value>
+  </data>
+  <data name="NotSupport" xml:space="preserve">
+    <value>Değil destek</value>
+  </data>
+  <data name="Transcode_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Aracı birleştirmek</value>
+  </data>
+  <data name="Transcode_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Özel Transcode</value>
+  </data>
+  <data name="T_CD_SelectSource.Content" xml:space="preserve">
+    <value>Video dosyası seç</value>
+  </data>
+  <data name="T_CD_SelectOutput.Content" xml:space="preserve">
+    <value>Set çıkış dosyası</value>
+  </data>
+  <data name="EnableMrfCrf444.Content" xml:space="preserve">
+    <value>MRFCRF444 video işleme algoritması (donanım ivmesini devre dışı bırakır) etkinleştirmek</value>
+  </data>
+  <data name="T_CD_UseHevc.Content" xml:space="preserve">
+    <value>HEVC/H265 codec bileşenini kullanma</value>
+  </data>
+  <data name="T_CD_VideoSettings.Text" xml:space="preserve">
+    <value>Video ayarları</value>
+  </data>
+  <data name="T_CD_VideoW.Text" xml:space="preserve">
+    <value>Video genişliği</value>
+  </data>
+  <data name="T_CD_VideoH.Text" xml:space="preserve">
+    <value>Video yüksekliği</value>
+  </data>
+  <data name="T_CD_VideoBPS.Text" xml:space="preserve">
+    <value>Örnek başına bit</value>
+  </data>
+  <data name="T_CD_SampleRate.Text" xml:space="preserve">
+    <value>Örnek hızı</value>
+  </data>
+  <data name="T_CD_BitRate.Text" xml:space="preserve">
+    <value>Bit hızı</value>
+  </data>
+  <data name="T_CD_FrameRate.Text" xml:space="preserve">
+    <value>Kare hızı</value>
+  </data>
+  <data name="T_CD_ChannelCount.Text" xml:space="preserve">
+    <value>Kanal sayısı</value>
+  </data>
+  <data name="T_CD_AudioSettings.Text" xml:space="preserve">
+    <value>Ses ayarları</value>
+  </data>
+  <data name="T_CD_Play.Content" xml:space="preserve">
+    <value>Oyun</value>
+  </data>
+  <data name="T_CD_Pause.Content" xml:space="preserve">
+    <value>Duraklat</value>
+  </data>
+  <data name="T_CD_Stop.Content" xml:space="preserve">
+    <value>Dur</value>
+  </data>
+  <data name="T_CD_Transcode.Content" xml:space="preserve">
+    <value>Transcode</value>
+  </data>
+  <data name="T_CD_Cancel.Content" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="TranscodeCanceled" xml:space="preserve">
+    <value>Transcode iptal</value>
+  </data>
+  <data name="Progress" xml:space="preserve">
+    <value>İlerleme</value>
+  </data>
+  <data name="TranscodeCompleted" xml:space="preserve">
+    <value>Transcode tamamlandı</value>
+  </data>
+  <data name="Codecnotfound" xml:space="preserve">
+    <value>Codec bileşeni bulunamadı</value>
+  </data>
+  <data name="Invalidprofile" xml:space="preserve">
+    <value>Geçersiz profil</value>
+  </data>
+  <data name="Unknownfailure" xml:space="preserve">
+    <value>Bilinmeyen hata oluştu</value>
+  </data>
+  <data name="Transcode_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Media kodlama profili</value>
+  </data>
+  <data name="T_CD_AudioTemplate.Header" xml:space="preserve">
+    <value>Ses formatı</value>
+  </data>
+  <data name="T_CD_VideoTemplate.Header" xml:space="preserve">
+    <value>Video formatı</value>
+  </data>
+  <data name="T_CD_Create.Content" xml:space="preserve">
+    <value>Oluşturmak</value>
+  </data>
+  <data name="T_CD_CreateFromFile.Text" xml:space="preserve">
+    <value>Kodlama profili dosyadan medya oluşturma</value>
+  </data>
+  <data name="T_CD_CreateFromStream.Text" xml:space="preserve">
+    <value>Kodlama profili medya oynamayı akımdan okunamıyor</value>
+  </data>
+  <data name="T_CD_AudioBitrate.Header" xml:space="preserve">
+    <value>Ses bit hızı</value>
+  </data>
+  <data name="T_CD_AudioBitsPerSample.Header" xml:space="preserve">
+    <value>Ses, örnek başına bit</value>
+  </data>
+  <data name="T_CD_AudioChannelCount.Header" xml:space="preserve">
+    <value>Ses kanal sayısı</value>
+  </data>
+  <data name="T_CD_AudioSampleRate.Header" xml:space="preserve">
+    <value>Ses örnekleme hızı</value>
+  </data>
+  <data name="T_CD_VideoWidth.Header" xml:space="preserve">
+    <value>Video genişliği</value>
+  </data>
+  <data name="T_CD_VideoHeight.Header" xml:space="preserve">
+    <value>Video yüksekliği</value>
+  </data>
+  <data name="T_CD_VideoBitrate.Header" xml:space="preserve">
+    <value>Video bit hızı</value>
+  </data>
+  <data name="T_CD_VideoFrameRateNumerator.Header" xml:space="preserve">
+    <value>Video kare hızı pay değeri</value>
+  </data>
+  <data name="T_CD_VideoFrameRateDenominator.Header" xml:space="preserve">
+    <value>Video kare hızı payda</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioNumerator.Header" xml:space="preserve">
+    <value>Video piksel en boy oranı Numaratör</value>
+  </data>
+  <data name="T_CD_VideoPixelAspectRatioDenominator.Header" xml:space="preserve">
+    <value>Video piksel en boy oranı payda</value>
+  </data>
+  <data name="T_CD_VideoTemplateQuality.Header" xml:space="preserve">
+    <value>Kalite</value>
+  </data>
+  <data name="T_CD_AlwaysReencode.Content" xml:space="preserve">
+    <value>Her zaman yeniden kodlamak</value>
+  </data>
+  <data name="T_CD_HardwareAccelerationEnabled.Content" xml:space="preserve">
+    <value>Donanım ivmesi etkin</value>
+  </data>
+  <data name="T_CD_SAVE_Profile.Content" xml:space="preserve">
+    <value>Kaydet</value>
+  </data>
+  <data name="T_CD_ProfileName.PlaceholderText" xml:space="preserve">
+    <value>Ortam kodlama profili adı</value>
+  </data>
+  <data name="MustCreateFormatTemplateFirst" xml:space="preserve">
+    <value>Biçimi şablon önce oluşturmanız gerekir</value>
+  </data>
+  <data name="ProfileFileNameCanNotEmpty" xml:space="preserve">
+    <value>Profili dosya adı boş olamaz</value>
+  </data>
+  <data name="T_CD_TestFromFile.Text" xml:space="preserve">
+    <value>Test Media kodlama profili dosya</value>
+  </data>
+  <data name="T_CD_TestFromStream.Text" xml:space="preserve">
+    <value>Kodlama profili medya oynamayı akımdan medya test</value>
+  </data>
+  <data name="T_CD_DELETE_Profile.Content" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <data name="Transcode_CD_PivotItem4.Header" xml:space="preserve">
+    <value>Kod dönüştürme</value>
+  </data>
+  <data name="CM_TranscodeThisVideo" xml:space="preserve">
+    <value>Transcode resimi</value>
+  </data>
+  <data name="CannotTranscode" xml:space="preserve">
+    <value>Transcode olamaz</value>
+  </data>
+  <data name="CM_TranscodeThisPlayList" xml:space="preserve">
+    <value>Transcode bu çalma listesi</value>
+  </data>
+  <data name="T_CD_ConcurrentTranscodeCount.Header" xml:space="preserve">
+    <value>Eşzamanlı Transcode sayısı</value>
+  </data>
+  <data name="T_CD_ConcurrentDownloadCount.Header" xml:space="preserve">
+    <value>Eşzamanlı indirme sayısı</value>
+  </data>
+  <data name="T_CD_TranscodeIncludeSkip.Content" xml:space="preserve">
+    <value>Medya dosya zaman çizelgesi kullanılacak atla özelliğin döşeme</value>
+  </data>
+  <data name="CM_Playback_MixedReality" xml:space="preserve">
+    <value>Windows karışık Reality modu kullan deneyin</value>
+  </data>
+  <data name="WM_Scanned" xml:space="preserve">
+    <value>İnceden inceye gözden geçirmek</value>
+  </data>
+  <data name="CD_Socket.PrimaryButtonText" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="VideoQualityCannotBeAuto" xml:space="preserve">
+    <value>Video kalitesi belirtmeniz gerekir</value>
+  </data>
+  <data name="CM_EncodingSubtitle" xml:space="preserve">
+    <value>Kodlama ile yeniden</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_UsePreviewerToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_IsSubtitleSelectionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_BackgroundPlaybackVideoToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="hevcVideoExtensionButton_Installed" xml:space="preserve">
+    <value>HEVC Video uzantısı (yüklü) İndir</value>
+  </data>
+  <data name="hevcVideoExtensionButton_not_installed" xml:space="preserve">
+    <value>HEVC Video uzantısı indir</value>
+  </data>
+  <data name="Brightness" xml:space="preserve">
+    <value>Parlaklık</value>
+  </data>
+  <data name="PlaybackRate" xml:space="preserve">
+    <value>Kayıttan yürütme hızı</value>
+  </data>
+  <data name="Playback" xml:space="preserve">
+    <value>Kayıttan yürütme</value>
+  </data>
+  <data name="Playlist" xml:space="preserve">
+    <value>Çalma listesi</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.Header" xml:space="preserve">
+    <value>.webm dosyasını her zaman sistem Decoder kullanın</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_OnXboxAlwaysUseSystemDecoderForWebmToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="WM_ThisFileHaveNoAudio" xml:space="preserve">
+    <value>Bu video var Hayır radyo sinyalleriyle iletilen iz</value>
+  </data>
+  <data name="WM_DoYourWantLoadUpExteranlAudio" xml:space="preserve">
+    <value>Harici ses yüklemek ister</value>
+  </data>
+  <data name="WM_IsVideoOnly_Cancel" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="WM_IsVideoOnly_Load_Audio" xml:space="preserve">
+    <value>Ses dosyası seçin</value>
+  </data>
+  <data name="WM_IsVideoOnly_Stop_Show" xml:space="preserve">
+    <value>Bir daha gösterme</value>
+  </data>
+  <data name="SkipCD_JumpForwardSetting.Text" xml:space="preserve">
+    <value>İleri atlama</value>
+  </data>
+  <data name="SkipCD_JumpBackSetting.Text" xml:space="preserve">
+    <value>Geri atlama</value>
+  </data>
+  <data name="AudioHardwareAcclerated" xml:space="preserve">
+    <value>ses donanım ivmesi</value>
+  </data>
+  <data name="AudioNotHardwareAcclerated" xml:space="preserve">
+    <value>ses yazılım kod çözme</value>
+  </data>
+  <data name="VideoHardwareAcclerated" xml:space="preserve">
+    <value>video donanım ivmesini</value>
+  </data>
+  <data name="VideoNotHardwareAcclerated" xml:space="preserve">
+    <value>video yazılım kod çözme</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.Header" xml:space="preserve">
+    <value>video ses modu bilgi başlık çubuğu üzerinde kod çözme göster</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_ShowAdvanceDecodingInfoOnTitlebarToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CM_ShowAdvanceDecodingInfoOnTitlebar" xml:space="preserve">
+    <value>video ses modu bilgi başlık çubuğu üzerinde kod çözme göster</value>
+  </data>
+  <data name="CM_HideTransportControlOnLeave" xml:space="preserve">
+    <value>Ne zaman imleç terk Bar denetimi gizle</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.Header" xml:space="preserve">
+    <value>İşaretçi modu (app yeniden) gerektirir</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OnContent" xml:space="preserve">
+    <value>Otomatik</value>
+  </data>
+  <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
+    <value>İstendiğinde</value>
+  </data>
+  <data name="CM_ShowStopButton" xml:space="preserve">
+    <value>Durdur düğmesini göster</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Radyo sinyalleriyle iletilen iz kullanın eşitleme ayarı</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_IsAudioManualSyncEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.Header" xml:space="preserve">
+    <value>Gerçek zamanlı kayıttan yürütme</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_RealTimePlaybackToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="BluRayFolderInvalid" xml:space="preserve">
+    <value>Lütfen "BDMV" klasörü içeren bir klasör seçin</value>
+  </data>
+  <data name="CM_Open_Bluray_Folder" xml:space="preserve">
+    <value>Blu-ray klasör</value>
+  </data>
+  <data name="audioBalanceSlider.Header" xml:space="preserve">
+    <value>Ses ayarı</value>
+  </data>
+  <data name="CM_ShowBitRateInfoOnTransportControl" xml:space="preserve">
+    <value>Gerçek zamanlı Bit oranı bilgi göster</value>
+  </data>
+  <data name="WM_SELECTING_SUBTITLE" xml:space="preserve">
+    <value>Altyazı seçme</value>
+  </data>
+  <data name="WM_Buffering" xml:space="preserve">
+    <value>Arabelleğe alma</value>
+  </data>
+  <data name="WM_Buffered" xml:space="preserve">
+    <value>Arabelleğe alma tamamlandı</value>
+  </data>
+  <data name="resetapp.Content" xml:space="preserve">
+    <value>Uygulama ayarlarını sıfırlama</value>
+  </data>
+  <data name="WM_ResetAppTitle" xml:space="preserve">
+    <value>Varsayılan olarak uygulama ayarlarını sıfırlamak istediğinizden emin misiniz</value>
+  </data>
+  <data name="WM_ResetAppDetail" xml:space="preserve">
+    <value>Bu işlem değil geriye doğru olmaz, dahil ayarı gezici Gezici Kullanıcı çalma listesi, silinecek imleri vs. </value>
+  </data>
+  <data name="WM_ResetApp_Include_Roaming" xml:space="preserve">
+    <value>Dolaşım ayarları içerir</value>
+  </data>
+  <data name="WM_ResetApp_LocalOnly" xml:space="preserve">
+    <value>Yalnızca yerel ayarları</value>
+  </data>
+  <data name="CM_TotalTimeRemainTime" xml:space="preserve">
+    <value>Yerine göstermek toplam süre kalma süresi</value>
+  </data>
+  <data name="CM_Chapter_Next" xml:space="preserve">
+    <value>Sonraki bölüm</value>
+  </data>
+  <data name="CM_Chapter_Previous" xml:space="preserve">
+    <value>Önceki bölüm</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Yerel depolama alanını sık kaynağı olarak kullanmak</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="open_manual.Content" xml:space="preserve">
+    <value>Kullanım Kılavuzu</value>
+  </data>
+  <data name="CM_InteractiveMovie" xml:space="preserve">
+    <value>Etkileşimli film</value>
+  </data>
+  <data name="CM_InteractiveMovieMode" xml:space="preserve">
+    <value>Etkileşimli mod</value>
+  </data>
+  <data name="CM_InteractiveDebugMode" xml:space="preserve">
+    <value>Hata ayıklama modu</value>
+  </data>
+  <data name="CM_InteractiveMovieLoad" xml:space="preserve">
+    <value>Başlatma</value>
+  </data>
+  <data name="CM_InteractiveMovieRestart" xml:space="preserve">
+    <value>Yeniden başlatma</value>
+  </data>
+  <data name="CM_Segmengts" xml:space="preserve">
+    <value>Segmentleri</value>
+  </data>
+  <data name="TraditionalChinese" xml:space="preserve">
+    <value>Geleneksel Çince</value>
+  </data>
+  <data name="WM_DoYourWantGoBack" xml:space="preserve">
+    <value>Geri dönmek istiyor musunuz</value>
+  </data>
+  <data name="WM_GoBack" xml:space="preserve">
+    <value>Geri Git</value>
+  </data>
+  <data name="CM_InteractiveGaplessMode" xml:space="preserve">
+    <value>Gapless Playback (devre dışı arama)</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.Header" xml:space="preserve">
+    <value>Işık Tema</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Sık Kullanılanlar kaynağı olarak kullanmak NFS</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SetNFS" xml:space="preserve">
+    <value>Sık Kullanılanlar kaynağı olarak kullanmak NFS</value>
+  </data>
+  <data name="NFS_CD_TITLE.Text" xml:space="preserve">
+    <value>NFS</value>
+  </data>
+  <data name="CM_RememberLastPlaybackAudioTrack" xml:space="preserve">
+    <value>Seçili ses izi hatırlıyorum</value>
+  </data>
+  <data name="detailview_Resources.Text" xml:space="preserve">
+    <value>Kaynaklar</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>Kopya</value>
+  </data>
+  <data name="AddTaskToAria2" xml:space="preserve">
+    <value>Aria2 için indirme görev ekleyin</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC adresi</value>
+  </data>
+  <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 salgılar</value>
+  </data>
+</root>
