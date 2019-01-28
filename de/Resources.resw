@@ -1188,9 +1188,6 @@
   <data name="Menu_Duration" xml:space="preserve">
     <value>Dauer</value>
   </data>
-  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
-    <value>H265/HEVC/HDR-Hardwarebeschleunigung verwenden</value>
-  </data>
   <data name="CD_Effects.PrimaryButtonText" xml:space="preserve">
     <value>In der Nähe</value>
   </data>
@@ -1362,12 +1359,6 @@
   <data name="Effects_Manager_EmbossToggleSwitch.OffContent" xml:space="preserve">
     <value>Behinderte</value>
   </data>
-  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
-    <value>Skorpion-Netzwerk-Streaming</value>
-  </data>
-  <data name="CM_Open_Socket" xml:space="preserve">
-    <value>Skorpion-Netzwerk-Streaming</value>
-  </data>
   <data name="CD_Socket_RemotePort.Text" xml:space="preserve">
     <value>Remote-Port</value>
   </data>
@@ -1428,14 +1419,8 @@
   <data name="CD_Socket_HelpButton.Content" xml:space="preserve">
     <value>Hilfe</value>
   </data>
-  <data name="SocketNetworkingStream_Message" xml:space="preserve">
-    <value>Scorpio Vernetzung Stream ist eine einzigartige Funktion, die Ihre Favoriten Medien wie video oder audio, über lokales Netzwerk oder Internet zwischen Skorpion Spieler oder mit Skorpion-Player Serversoftware streamen kann. Aktivieren Kreuz streaming zwischen Ihrem PC, Xbox, Windows 10 Mobile Phone, und andere Windows-10-Geräte, beim Skorpion-Player fungieren als Media-Server, die sie im aktiven Fenster-Modus muss nicht minimieren oder Hintergrundmodus, Sie können Skorpion Vernetzung Stream app für Linux herunterladen, MacOS, Windows 7, 10, 8, 8.1 und erfahren Sie mehr von http://scorpioplayer.com, vielen Dank.</value>
-  </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
     <value>Download</value>
-  </data>
-  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
-    <value>Streaming-</value>
   </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.Header" xml:space="preserve">
     <value> </value>
@@ -1503,29 +1488,11 @@
   <data name="WM_DownloadCompleted" xml:space="preserve">
     <value>Download abgeschlossen</value>
   </data>
-  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>Verwenden Sie Skorpion-Netzwerk-Streaming als Favoriten Quelle</value>
-  </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>Ja</value>
   </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OffContent" xml:space="preserve">
     <value>Nein</value>
-  </data>
-  <data name="WM_load_socket_folder_fail" xml:space="preserve">
-    <value>Skorpion-Netzwerk-Streaming Ordner laden fehlgeschlagen</value>
-  </data>
-  <data name="WM_load_socket_folder" xml:space="preserve">
-    <value>Skorpion-Netzwerk-Streaming Ordner laden abgeschlossen</value>
-  </data>
-  <data name="WM_load_socket_file_fail" xml:space="preserve">
-    <value>Skorpion-Netzwerk-Streaming Dateien laden fehlgeschlagen</value>
-  </data>
-  <data name="WM_load_socket_file" xml:space="preserve">
-    <value>Skorpion-Netzwerk-Streaming Dateien laden abgeschlossen</value>
-  </data>
-  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
-    <value>Remote-Hosteinstellungen für Skorpion Netzwerk-Streaming ist erforderlich</value>
   </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>Deaktivieren Layoutskalierung</value>
@@ -2088,9 +2055,6 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>Vollbild schließen</value>
   </data>
-  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>Verwenden Sie Streaming-Playlist als Favoriten Quelle</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>Ja</value>
   </data>
@@ -2099,12 +2063,6 @@
   </data>
   <data name="UCD_PivotItem1.Header" xml:space="preserve">
     <value>Offenes Netzwerkmedien</value>
-  </data>
-  <data name="UCD_PivotItem2.Header" xml:space="preserve">
-    <value>Streaming-Playlist Manager</value>
-  </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>Netzwerk-Streaming</value>
   </data>
   <data name="UCD_PivotItem3.Header" xml:space="preserve">
     <value>Editor</value>
@@ -2129,12 +2087,6 @@
   </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>Roaming-Datensynchronisierung abgeschlossen</value>
-  </data>
-  <data name="SetScorpioStreaming" xml:space="preserve">
-    <value>Verwenden Sie Skorpion-Netzwerk-Streaming als Favoriten Quelle</value>
-  </data>
-  <data name="SetStreamingPlaylist" xml:space="preserve">
-    <value>Verwenden Sie Streaming-Playlist als Favoriten Quelle</value>
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>Lokalen Speicher als Favoriten verwenden</value>
@@ -2517,18 +2469,6 @@
   <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
     <value>erkennen Sie, Bildtext dann in Zwischenablage kopieren</value>
   </data>
-  <data name="ScorpioStreamingServer" xml:space="preserve">
-    <value>Scorpio Streaming Server</value>
-  </data>
-  <data name="ScorpioPlayeriOS" xml:space="preserve">
-    <value>Scorpio Player for iPhone</value>
-  </data>
-  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
-    <value>Scorpio Streaming Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
-  </data>
-  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
-    <value>Bring the Scorpio Player Experience to iOS Platform, functionality may not rich as UWP version for now, but it convient. </value>
-  </data>
   <data name="WM_FolderContainsNofile" xml:space="preserve">
     <value>Der Ordner ist leer</value>
   </data>
@@ -2780,9 +2720,6 @@
   </data>
   <data name="ScorpioPlayerRemote" xml:space="preserve">
     <value>Remote-Controller</value>
-  </data>
-  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
-    <value>Fernbedienung für Skorpion Spieler Xbox One / Windows 10-PC-Version.</value>
   </data>
   <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
     <value>Remote Controller iPhone/iPad</value>
@@ -3246,12 +3183,6 @@
   <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
     <value>Wenn angefordert</value>
   </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>M3U-Playlist-Unterstützung hinzufügen</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>UHD Blu-Ray-Ordner. ISO-Wiedergabe-Erweiterung</value>
-  </data>
   <data name="CM_ShowStopButton" xml:space="preserve">
     <value>Schaltfläche "Abbrechen" anzeigen</value>
   </data>
@@ -3279,19 +3210,199 @@
   <data name="BluRayFolderInvalid" xml:space="preserve">
     <value>Bitte wählen Sie einen Ordner "BDMV" Ordner enthält</value>
   </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>passen Sie die audio-timeline</value>
-  </data>
   <data name="CM_Open_Bluray_Folder" xml:space="preserve">
     <value>Blu-Ray-Ordner</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>Verbesserung der Performance und Bugs behoben</value>
   </data>
   <data name="audioBalanceSlider.Header" xml:space="preserve">
     <value>Audio-Balance</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>Audio-Balance einstellen</value>
+  <data name="CM_ShowBitRateInfoOnTransportControl" xml:space="preserve">
+    <value>Zeige Echtzeit Bit Rate Infos</value>
+  </data>
+  <data name="WM_SELECTING_SUBTITLE" xml:space="preserve">
+    <value>Auswahl der Untertitel</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
+    <value>H265/HEVC Hardwarebeschleunigung verwenden</value>
+  </data>
+  <data name="WM_Buffering" xml:space="preserve">
+    <value>Pufferung</value>
+  </data>
+  <data name="WM_Buffered" xml:space="preserve">
+    <value>Pufferung abgeschlossen</value>
+  </data>
+  <data name="resetapp.Content" xml:space="preserve">
+    <value>App-Einstellungen zurücksetzen</value>
+  </data>
+  <data name="WM_ResetAppTitle" xml:space="preserve">
+    <value>Sind Sie sicher, Appeinstellungen auf die Standardwerte zurückzusetzen</value>
+  </data>
+  <data name="WM_ResetApp_Include_Roaming" xml:space="preserve">
+    <value>Enthalten Roamingeinstellungen</value>
+  </data>
+  <data name="WM_ResetApp_LocalOnly" xml:space="preserve">
+    <value>Nur lokale Einstellungen</value>
+  </data>
+  <data name="WM_ResetAppDetail" xml:space="preserve">
+    <value>Dieser Prozess kann nicht nicht rückwärts, umfassen roaming Einstellung löscht servergespeicherte Benutzer Playlist, Lesezeichen etc.. </value>
+  </data>
+  <data name="CM_TotalTimeRemainTime" xml:space="preserve">
+    <value>Gesamtdauer der Show statt bleiben Dauer</value>
+  </data>
+  <data name="CM_Chapter_Next" xml:space="preserve">
+    <value>Nächstes Kapitel</value>
+  </data>
+  <data name="CM_Chapter_Previous" xml:space="preserve">
+    <value>Vorheriges Kapitel</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Lokalen Speicher als Favoriten verwenden</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="open_manual.Content" xml:space="preserve">
+    <value>User Manual</value>
+  </data>
+  <data name="CM_InteractiveMovie" xml:space="preserve">
+    <value>Interaktiver Film</value>
+  </data>
+  <data name="CM_InteractiveMovieMode" xml:space="preserve">
+    <value>Interaktiver Modus</value>
+  </data>
+  <data name="CM_InteractiveDebugMode" xml:space="preserve">
+    <value>Debugmodus</value>
+  </data>
+  <data name="CM_InteractiveMovieLoad" xml:space="preserve">
+    <value>Initialisierung</value>
+  </data>
+  <data name="CM_InteractiveMovieRestart" xml:space="preserve">
+    <value>Neu starten</value>
+  </data>
+  <data name="CM_Segmengts" xml:space="preserve">
+    <value>Segmente</value>
+  </data>
+  <data name="TraditionalChinese" xml:space="preserve">
+    <value>Chinesisch (traditionell)</value>
+  </data>
+  <data name="WM_DoYourWantGoBack" xml:space="preserve">
+    <value>Möchten Sie zurück zu gehen</value>
+  </data>
+  <data name="WM_GoBack" xml:space="preserve">
+    <value>Zurück</value>
+  </data>
+  <data name="CM_InteractiveGaplessMode" xml:space="preserve">
+    <value>Gapless Playback (suchen Menschen mit Behinderungen)</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.Header" xml:space="preserve">
+    <value>Helles Design</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Verwendung NFS als Favoriten</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="SetNFS" xml:space="preserve">
+    <value>Verwendung NFS als Favoriten</value>
+  </data>
+  <data name="NFS_CD_TITLE.Text" xml:space="preserve">
+    <value>NFS</value>
+  </data>
+  <data name="CM_RememberLastPlaybackAudioTrack" xml:space="preserve">
+    <value>Denken Sie daran, ausgewählte Audio-Tracks</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Streaming-</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>Netzwerk-Streaming</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Verwenden Sie Streaming-Playlist als Favoriten Quelle</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>Streaming-Playlist Manager</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>Verwenden Sie Streaming-Playlist als Favoriten Quelle</value>
+  </data>
+  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
+    <value>Scorpio-Medienserver</value>
+  </data>
+  <data name="CM_Open_Socket" xml:space="preserve">
+    <value>Scorpio-Medienserver</value>
+  </data>
+  <data name="SocketNetworkingStream_Message" xml:space="preserve">
+    <value>Scorpio-Medienserver ist eine einzigartige Funktion, die Ihre Favoriten Medien wie video oder audio, über lokales Netzwerk oder Internet zwischen Skorpion Spieler oder mit Skorpion-Player Serversoftware streamen kann. Aktivieren Kreuz streaming zwischen Ihrem PC, Xbox, Windows 10 Mobile Phone, und andere Windows-10-Geräte, beim Skorpion-Player fungieren als Media-Server, die sie im aktiven Fenster-Modus muss nicht minimieren oder Hintergrundmodus, Sie können Skorpion Media Server app herunterladen, für Linux, MacOS, Windows 7, 10, 8, 8.1, Docker und erfahren Sie mehr von http://scorpioplayer.com, vielen Dank.</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Scorpio-Medienserver als Favoriten verwenden</value>
+  </data>
+  <data name="WM_load_socket_folder_fail" xml:space="preserve">
+    <value>Skorpion Media Server Ordner laden fehlgeschlagen</value>
+  </data>
+  <data name="WM_load_socket_folder" xml:space="preserve">
+    <value>Skorpion Media Server Ordner laden abgeschlossen</value>
+  </data>
+  <data name="WM_load_socket_file_fail" xml:space="preserve">
+    <value>Skorpion Media Server Dateien laden fehlgeschlagen</value>
+  </data>
+  <data name="WM_load_socket_file" xml:space="preserve">
+    <value>Skorpion Media Server Dateien laden abgeschlossen</value>
+  </data>
+  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
+    <value>Remote-Host-Einstellungen für Skorpion Streaming Server ist erforderlich</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>Scorpio-Medienserver als Favoriten verwenden</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>Scorpio-Medienserver</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>Skorpion-Media-Server ist eine begleitende app für Skorpion Spieler, zulassen, dass Sie genießen Sie Ihre Medieninhalte überall und jederzeit, Kreuz Gerät qualitativ hochwertige Streaming-rohen Kraft basieren auf Sockel, leichte Server. Ob Sie Windows 10 Laptop-Gerät Video zu Ihrem Wohnzimmer Xbox Konsole oder Download Streaming zu Hause Ihre Medien drausen auf Ihr Handy.  Kasse https://scorpioplayer.com/Docs, schlanke mehr!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>Die Skorpion-Spielerlebnis zu iOS Plattform zu bringen, Funktionalität kann nicht reich als UWP-Version für jetzt, aber es Convient. </value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>Skorpion-Player für iPhone</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>Fernbedienung für Skorpion Spieler Xbox One / Windows 10-PC-Version.</value>
+  </data>
+  <data name="detailview_Resources.Text" xml:space="preserve">
+    <value>Ressourcen</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>Verbesserung der 4K Streaming-Leistung Verwendung Skorpion Media Server V3. 0</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>Scorpio-Medienserver jetzt unterstützt Docker auf X86 NAS-Server installieren</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>Kopie</value>
+  </data>
+  <data name="AddTaskToAria2" xml:space="preserve">
+    <value>Aria2 Downloadaufgabe hinzufügen</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC Adresse</value>
+  </data>
+  <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 absondern</value>
   </data>
 </root>

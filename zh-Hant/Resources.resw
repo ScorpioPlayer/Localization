@@ -1263,9 +1263,6 @@
   <data name="Menu_Duration" xml:space="preserve">
     <value>持續時間</value>
   </data>
-  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
-    <value>使用 H265/HEVC/HDR 硬體加速</value>
-  </data>
   <data name="CD_Effects.PrimaryButtonText" xml:space="preserve">
     <value>關閉</value>
   </data>
@@ -1437,12 +1434,6 @@
   <data name="Effects_Manager_EmbossToggleSwitch.OffContent" xml:space="preserve">
     <value>禁用</value>
   </data>
-  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
-    <value>天蠍網路流</value>
-  </data>
-  <data name="CM_Open_Socket" xml:space="preserve">
-    <value>天蠍網路流</value>
-  </data>
   <data name="CD_Socket_RemotePort.Text" xml:space="preserve">
     <value>遠端埠</value>
   </data>
@@ -1503,14 +1494,8 @@
   <data name="CD_Socket_HelpButton.Content" xml:space="preserve">
     <value>説明</value>
   </data>
-  <data name="SocketNetworkingStream_Message" xml:space="preserve">
-    <value>天蠍網路流是一個獨特的功能, 可以流您的我的最愛媒體, 包括視頻或音訊, 通過本地網路或互聯網之間的天蠍播放機, 或與天蠍播放伺服器軟體。在您的 PC、Xbox、windows 10 手機和其他 windows 10 設備之間啟用交叉流, 當天蠍播放機作為媒體伺服器時, 它必須在使用中視窗模式下不最小化模式或背景模式, 您可以下載天蠍座網路流應用程式為 Linux,MacOS, Windows 7, 10 8, 8.1 和從 HTTP://scorpioplayer.com 學習更多, 謝謝。</value>
-  </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
     <value>下載</value>
-  </data>
-  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
-    <value>串流</value>
   </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.Header" xml:space="preserve">
     <value> </value>
@@ -1578,29 +1563,11 @@
   <data name="WM_DownloadCompleted" xml:space="preserve">
     <value>下載已完成</value>
   </data>
-  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>使用天蠍網路流作為收藏源</value>
-  </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>是</value>
   </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OffContent" xml:space="preserve">
     <value>否</value>
-  </data>
-  <data name="WM_load_socket_folder_fail" xml:space="preserve">
-    <value>天蠍網路流資料夾載入失敗</value>
-  </data>
-  <data name="WM_load_socket_folder" xml:space="preserve">
-    <value>天蠍網路流資料夾載入完成</value>
-  </data>
-  <data name="WM_load_socket_file_fail" xml:space="preserve">
-    <value>天蠍網路流檔載入失敗</value>
-  </data>
-  <data name="WM_load_socket_file" xml:space="preserve">
-    <value>天蠍網路流檔載入完成</value>
-  </data>
-  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
-    <value>需要天蠍網路流的遠端主機設置</value>
   </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>禁用佈局縮放</value>
@@ -2169,9 +2136,6 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>退出全屏</value>
   </data>
-  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>使用直播源播放清單作為收藏源</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>是</value>
   </data>
@@ -2180,12 +2144,6 @@
   </data>
   <data name="UCD_PivotItem1.Header" xml:space="preserve">
     <value>打開網路媒體</value>
-  </data>
-  <data name="UCD_PivotItem2.Header" xml:space="preserve">
-    <value>直播源播放清單管理器</value>
-  </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>網路流</value>
   </data>
   <data name="UCD_PivotItem3.Header" xml:space="preserve">
     <value>編輯器</value>
@@ -2210,12 +2168,6 @@
   </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>已完成漫遊資料同步</value>
-  </data>
-  <data name="SetScorpioStreaming" xml:space="preserve">
-    <value>使用天蠍網路流作為收藏源</value>
-  </data>
-  <data name="SetStreamingPlaylist" xml:space="preserve">
-    <value>使用直播源播放清單作為收藏源</value>
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>使用本機存放區作為收藏源</value>
@@ -2598,18 +2550,6 @@
   <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
     <value>識別圖像文本, 然後複製到剪貼簿</value>
   </data>
-  <data name="ScorpioStreamingServer" xml:space="preserve">
-    <value>天蠍網路流伺服器</value>
-  </data>
-  <data name="ScorpioPlayeriOS" xml:space="preserve">
-    <value>天蠍播放機 iPhone</value>
-  </data>
-  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
-    <value>天蝎网络流服务器是天蝎播放器的同伴应用程序, 允许您随时随地享受您的媒体内容, 随时随地, 跨设备高品质的流式, 轻量服务器。无论是串流到你的 Windows 10 笔记本电脑设备视频到您的客厅 Xbox 游戏主机, 或下载您的媒体到您的手机在家之外。 在 https://scorpioplayer.com/Docs 了解更多!</value>
-  </data>
-  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
-    <value>將天蠍播放機體驗帶到 iOS 平臺, 功能可能不如 UWP 版本豐富 , 但它方便。</value>
-  </data>
   <data name="WM_FolderContainsNofile" xml:space="preserve">
     <value>資料夾為空</value>
   </data>
@@ -2861,9 +2801,6 @@
   </data>
   <data name="ScorpioPlayerRemote" xml:space="preserve">
     <value>遙控控制器</value>
-  </data>
-  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
-    <value>遙控控制器為天蠍播放器Xbox 一/Windows 10 PC版本。</value>
   </data>
   <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
     <value>遙控遙控器 iPhone/iPad</value>
@@ -3324,12 +3261,6 @@
   <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
     <value>當請求時</value>
   </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>添加. m3u 播放清單支援</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>uhd 藍光資料夾,。iso 播放增強</value>
-  </data>
   <data name="CM_ShowStopButton" xml:space="preserve">
     <value>顯示 [停止] 按鈕</value>
   </data>
@@ -3357,19 +3288,199 @@
   <data name="BluRayFolderInvalid" xml:space="preserve">
     <value>請選擇包含 "BDMV" 資料夾的資料夾</value>
   </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>調整音訊時間表</value>
-  </data>
   <data name="CM_Open_Bluray_Folder" xml:space="preserve">
     <value>藍光資料夾</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>性能改進和修復的錯誤</value>
   </data>
   <data name="audioBalanceSlider.Header" xml:space="preserve">
     <value>音訊平衡</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>調整音訊平衡</value>
+  <data name="CM_ShowBitRateInfoOnTransportControl" xml:space="preserve">
+    <value>顯示即時位元速率資訊</value>
+  </data>
+  <data name="WM_SELECTING_SUBTITLE" xml:space="preserve">
+    <value>選擇字幕</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
+    <value>使用 H265/HEVC 硬體加速</value>
+  </data>
+  <data name="WM_Buffering" xml:space="preserve">
+    <value>正在緩衝...</value>
+  </data>
+  <data name="WM_Buffered" xml:space="preserve">
+    <value>緩衝已完成</value>
+  </data>
+  <data name="resetapp.Content" xml:space="preserve">
+    <value>重置應用設置</value>
+  </data>
+  <data name="WM_ResetAppTitle" xml:space="preserve">
+    <value>是否確定將應用設置重置為預設值</value>
+  </data>
+  <data name="WM_ResetApp_Include_Roaming" xml:space="preserve">
+    <value>包括漫遊設置</value>
+  </data>
+  <data name="WM_ResetApp_LocalOnly" xml:space="preserve">
+    <value>僅本地設置</value>
+  </data>
+  <data name="WM_ResetAppDetail" xml:space="preserve">
+    <value>這個過程不能逆轉, 包括漫遊設置將刪除漫遊使用者播放清單, 書簽等。</value>
+  </data>
+  <data name="CM_TotalTimeRemainTime" xml:space="preserve">
+    <value>顯示總持續時間, 而不是剩餘持續時間</value>
+  </data>
+  <data name="CM_Chapter_Next" xml:space="preserve">
+    <value>下一章</value>
+  </data>
+  <data name="CM_Chapter_Previous" xml:space="preserve">
+    <value>上一章</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>使用本機存放區作為收藏源</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="open_manual.Content" xml:space="preserve">
+    <value>使用者手冊</value>
+  </data>
+  <data name="CM_InteractiveMovie" xml:space="preserve">
+    <value>互動電影</value>
+  </data>
+  <data name="CM_InteractiveMovieMode" xml:space="preserve">
+    <value>互動模式</value>
+  </data>
+  <data name="CM_InteractiveDebugMode" xml:space="preserve">
+    <value>偵錯模式</value>
+  </data>
+  <data name="CM_InteractiveMovieLoad" xml:space="preserve">
+    <value>初始化</value>
+  </data>
+  <data name="CM_InteractiveMovieRestart" xml:space="preserve">
+    <value>重新啟動</value>
+  </data>
+  <data name="CM_Segmengts" xml:space="preserve">
+    <value>片段</value>
+  </data>
+  <data name="TraditionalChinese" xml:space="preserve">
+    <value>繁體中文</value>
+  </data>
+  <data name="WM_DoYourWantGoBack" xml:space="preserve">
+    <value>你想回去嗎？</value>
+  </data>
+  <data name="WM_GoBack" xml:space="preserve">
+    <value>返回</value>
+  </data>
+  <data name="CM_InteractiveGaplessMode" xml:space="preserve">
+    <value>無間隙播放 (尋求禁用)</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.Header" xml:space="preserve">
+    <value>燈光主題</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>使用 NFS 作為我的最愛源</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SetNFS" xml:space="preserve">
+    <value>使用 NFS 作為我的最愛源</value>
+  </data>
+  <data name="NFS_CD_TITLE.Text" xml:space="preserve">
+    <value>NFS</value>
+  </data>
+  <data name="CM_RememberLastPlaybackAudioTrack" xml:space="preserve">
+    <value>記住選定的音軌</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>串流</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>网址</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>使用直播源清單作為我的最愛源</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>直播源清單管理器</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>使用直播源清單作為我的最愛源</value>
+  </data>
+  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
+    <value>天蠍媒體伺服器</value>
+  </data>
+  <data name="CM_Open_Socket" xml:space="preserve">
+    <value>天蠍媒體伺服器</value>
+  </data>
+  <data name="SocketNetworkingStream_Message" xml:space="preserve">
+    <value>天蠍媒體伺服器是一個獨特的功能, 可以流媒體, 包括視頻或音訊, 通過本地網路或互聯網之間的天蠍播放機, 或與天蠍播放機伺服器軟體。啟用電腦、xbox、windows 10 行動電話和其他 windows 10 設備之間的交叉流, 當 scorpio 播放機充當媒體伺服器時, 它必須在使用中視窗模式下不最小化模式或後臺模式, 您可以下載用於 linux、macos 的天蠍座媒體伺服器應用程式,視窗 7, 10 8, 8.1, docker 和學習更多從 HTTP://scorpioplayer.com, 謝謝。</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>使用天蠍媒體伺服器作為我的最愛源</value>
+  </data>
+  <data name="WM_load_socket_folder_fail" xml:space="preserve">
+    <value>天蠍媒體伺服器資料夾載入失敗</value>
+  </data>
+  <data name="WM_load_socket_folder" xml:space="preserve">
+    <value>天蠍媒體伺服器資料夾載入已完成</value>
+  </data>
+  <data name="WM_load_socket_file_fail" xml:space="preserve">
+    <value>天蠍媒體伺服器檔載入失敗</value>
+  </data>
+  <data name="WM_load_socket_file" xml:space="preserve">
+    <value>天蠍媒體伺服器檔載入已完成</value>
+  </data>
+  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
+    <value>天蠍流媒體伺服器的遠端主機設置是必需的</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>使用天蠍媒體伺服器作為我的最愛源</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>天蠍媒體伺服器</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>天蠍媒體伺服器是天蠍座播放機的配套應用程式, 讓您隨時隨地享受您的媒體內容, 跨設備高品質的流媒體原始電源基礎在 socket, 重量輕的伺服器。無論是將 windows 10 筆記本電腦設備視頻資料流到您的客廳 xbox 主控台, 還是將媒體下載到手機的側面。 結帳 HTTPs://scorpioplayer.com/Docs 傾斜更多!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>將天蠍播放器體驗帶到 ios 平臺, 功能可能目前並不像 uwp 版本那樣豐富, 但它很方便。</value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>天蝎播放器 for iPhone</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>用於天蠍播放器 xbox one/windows 10 pc 版本的遙控器。</value>
+  </data>
+  <data name="detailview_Resources.Text" xml:space="preserve">
+    <value>資源</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>提高4k 流媒體性能使用天蠍媒體伺服器 v3.0</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>天蠍媒體伺服器現在支援在 x86 nas 伺服器上安裝 docker</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>複製</value>
+  </data>
+  <data name="AddTaskToAria2" xml:space="preserve">
+    <value>將下載任務添加到 aria2</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
+    <value>aria2 jsonrpc 位址</value>
+  </data>
+  <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
+    <value>密匙</value>
   </data>
 </root>

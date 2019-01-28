@@ -1117,7 +1117,7 @@
     <value>if your like this app, give it a good rate or review will make this app better.</value>
   </data>
   <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
-    <value>Use H265/HEVC/HDR Hardware Acceleration</value>
+    <value>Use H265/HEVC Hardware Acceleration</value>
   </data>
   <data name="SD_PivotItem1_UseHevcToggleSwitch.OnContent" xml:space="preserve">
     <value>Yes</value>
@@ -1369,7 +1369,7 @@
     <value></value>
   </data>
   <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>add .m3u playlist support</value>
+    <value></value>
   </data>
   <data name="Effects_Manager_EmbossToggleSwitch.Header" xml:space="preserve">
     <value>Emboss</value>
@@ -1387,16 +1387,16 @@
     <value>Disabled</value>
   </data>
   <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>UHD Blu-ray folder,.ISO playback enhancement</value>
-  </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
     <value></value>
   </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>improve 4K streaming performence use Scorpio Media Server v3.0</value>
+  </data>
   <data name="CD_Socket_TITLE.Text" xml:space="preserve">
-    <value>Scorpio Network Streaming</value>
+    <value>Scorpio Media Server</value>
   </data>
   <data name="CM_Open_Socket" xml:space="preserve">
-    <value>Scorpio Network Streaming</value>
+    <value>Scorpio Media Server</value>
   </data>
   <data name="CD_Socket_RemoteHostName.Text" xml:space="preserve">
     <value>Remote Host Name / IP Address</value>
@@ -1462,7 +1462,7 @@
     <value>Help</value>
   </data>
   <data name="SocketNetworkingStream_Message" xml:space="preserve">
-    <value>Scorpio Networking Stream is a unique feature that can stream your Favorites Media including video or audio, via local network or internet between Scorpio Player, or with Scorpio Player Server software. Enable cross streaming between your PC, Xbox, Windows 10 Mobile Phone, and other Windows 10 Devices, When Scorpio Player act as Media Server it must in active window mode not minimize mode or background mode, you can download Scorpio Networking Stream app for Linux, MacOS, Windows 7, 10 8, 8.1 and learn more from http://scorpioplayer.com, thanks.</value>
+    <value>Scorpio Media Server is a unique feature that can stream your Favorites Media including video or audio, via local network or internet between Scorpio Player, or with Scorpio Player Server software. Enable cross streaming between your PC, Xbox, Windows 10 Mobile Phone, and other Windows 10 Devices, When Scorpio Player act as Media Server it must in active window mode not minimize mode or background mode, you can download Scorpio Media Server app for Linux, MacOS, Windows 7, 10 8, 8.1, Docker and learn more from http://scorpioplayer.com, thanks.</value>
   </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.Header" xml:space="preserve">
     <value> </value>
@@ -1537,7 +1537,7 @@
     <value>download completed</value>
   </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>Use Scorpio Network Streaming as Favorites Source</value>
+    <value>Use Scorpio Media Server as Favorites Source</value>
   </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>Yes</value>
@@ -1546,28 +1546,28 @@
     <value>No</value>
   </data>
   <data name="WM_load_socket_folder_fail" xml:space="preserve">
-    <value>Scorpio Network Streaming Folder Load Failed</value>
+    <value>Scorpio Media Server Folder Load Failed</value>
   </data>
   <data name="WM_load_socket_folder" xml:space="preserve">
-    <value>Scorpio Network Streaming Folder Load Completed</value>
+    <value>Scorpio Media Server Folder Load Completed</value>
   </data>
   <data name="WM_load_socket_file_fail" xml:space="preserve">
-    <value>Scorpio Network Streaming Files Load Failed</value>
+    <value>Scorpio Media Server Files Load Failed</value>
   </data>
   <data name="WM_load_socket_file" xml:space="preserve">
-    <value>Scorpio Network Streaming Files Load Completed</value>
+    <value>Scorpio Media Server Files Load Completed</value>
   </data>
   <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
-    <value>remote host settings for Scorpio Network Streaming is required</value>
+    <value>remote host settings for Scorpio Streaming Server is required</value>
   </data>
   <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>adjust audio timeline</value>
+    <value></value>
   </data>
   <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>performance improvement and bugs fixed</value>
+    <value></value>
   </data>
   <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>adjust audio balance</value>
+    <value></value>
   </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>Disable Layout Scaling</value>
@@ -1630,7 +1630,7 @@
     <value></value>
   </data>
   <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value></value>
+    <value>Scorpio Media Server now support Docker install on x86 NAS server</value>
   </data>
   <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
     <value>Use Glow Effect</value>
@@ -2188,7 +2188,7 @@
     <value>Roaming Data Sync Completed</value>
   </data>
   <data name="SetScorpioStreaming" xml:space="preserve">
-    <value>Use Scorpio Network Streaming as Favorites Source</value>
+    <value>Use Scorpio Media Server as Favorites Source</value>
   </data>
   <data name="SetStreamingPlaylist" xml:space="preserve">
     <value>Use Streaming Playlist as Favorites Source</value>
@@ -2593,10 +2593,10 @@
     <value>recognize image text then copy to clipboard</value>
   </data>
   <data name="ScorpioStreamingServer" xml:space="preserve">
-    <value>Scorpio Streaming Server</value>
+    <value>Scorpio Media Server</value>
   </data>
   <data name="ScorpioStreamingServerDescription" xml:space="preserve">
-    <value>Scorpio Streaming Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
+    <value>Scorpio Media Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
   </data>
   <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
     <value>Bring the Scorpio Player Experience to iOS Platform, functionality may not rich as UWP version for now, but it convient. </value>
@@ -3287,7 +3287,7 @@
     <value>show video audio decoding Mode Infomation on titlebar</value>
   </data>
   <data name="CM_HideTransportControlOnLeave" xml:space="preserve">
-    <value>hide control bar when cursor leave</value>
+    <value>Hide control bar when cursor leave</value>
   </data>
   <data name="SD_PivotItem1_UsePointerToggleSwitch.Header" xml:space="preserve">
     <value>Requires Pointer Mode (may need restart app)</value>
@@ -3327,5 +3327,125 @@
   </data>
   <data name="audioBalanceSlider.Header" xml:space="preserve">
     <value>Audio Balance</value>
+  </data>
+  <data name="CM_ShowBitRateInfoOnTransportControl" xml:space="preserve">
+    <value>Show Real Time Bit Rate Info</value>
+  </data>
+  <data name="WM_SELECTING_SUBTITLE" xml:space="preserve">
+    <value>Selecting Subtitle</value>
+  </data>
+  <data name="WM_Buffering" xml:space="preserve">
+    <value>Buffering</value>
+  </data>
+  <data name="WM_Buffered" xml:space="preserve">
+    <value>Buffering Completed</value>
+  </data>
+  <data name="resetapp.Content" xml:space="preserve">
+    <value>Reset App Settings</value>
+  </data>
+  <data name="WM_ResetAppTitle" xml:space="preserve">
+    <value>Are you sure to reset app settings to default</value>
+  </data>
+  <data name="WM_ResetAppDetail" xml:space="preserve">
+    <value>this process can't not be reverse, include roaming setting will delete roaming user playlist, bookmarks etc. </value>
+  </data>
+  <data name="WM_ResetApp_Include_Roaming" xml:space="preserve">
+    <value>Include Roaming Settings</value>
+  </data>
+  <data name="WM_ResetApp_LocalOnly" xml:space="preserve">
+    <value>Only Local Settings</value>
+  </data>
+  <data name="CM_TotalTimeRemainTime" xml:space="preserve">
+    <value>Show total duration instead of remain duration</value>
+  </data>
+  <data name="CM_Chapter_Next" xml:space="preserve">
+    <value>Next Chapter</value>
+  </data>
+  <data name="CM_Chapter_Previous" xml:space="preserve">
+    <value>Previous Chapter</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Use Local Storage as Favorites Source</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="open_manual.Content" xml:space="preserve">
+    <value>User Manual</value>
+  </data>
+  <data name="CM_InteractiveMovie" xml:space="preserve">
+    <value>Interactive Movie</value>
+  </data>
+  <data name="CM_InteractiveMovieMode" xml:space="preserve">
+    <value>Interactive Mode</value>
+  </data>
+  <data name="CM_InteractiveDebugMode" xml:space="preserve">
+    <value>Debug Mode</value>
+  </data>
+  <data name="CM_InteractiveMovieLoad" xml:space="preserve">
+    <value>Initialization</value>
+  </data>
+  <data name="CM_InteractiveMovieRestart" xml:space="preserve">
+    <value>Restart</value>
+  </data>
+  <data name="CM_Segmengts" xml:space="preserve">
+    <value>Segments</value>
+  </data>
+  <data name="TraditionalChinese" xml:space="preserve">
+    <value>Traditional Chinese</value>
+  </data>
+  <data name="WM_DoYourWantGoBack" xml:space="preserve">
+    <value>Do you want to go back</value>
+  </data>
+  <data name="WM_GoBack" xml:space="preserve">
+    <value>Go Back</value>
+  </data>
+  <data name="CM_InteractiveGaplessMode" xml:space="preserve">
+    <value>Gapless Playback (Seek Disabled)</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.Header" xml:space="preserve">
+    <value>Light Theme</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Use NFS as Favorites Source</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="SetNFS" xml:space="preserve">
+    <value>Use NFS as Favorites Source</value>
+  </data>
+  <data name="NFS_CD_TITLE.Text" xml:space="preserve">
+    <value>NFS</value>
+  </data>
+  <data name="CM_RememberLastPlaybackAudioTrack" xml:space="preserve">
+    <value>Remember Selected Audio Track</value>
+  </data>
+  <data name="detailview_Resources.Text" xml:space="preserve">
+    <value>Resources</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="AddTaskToAria2" xml:space="preserve">
+    <value>Add download task to aria2</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC Address</value>
+  </data>
+  <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 Secrete</value>
   </data>
 </root>

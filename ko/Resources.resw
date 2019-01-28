@@ -1185,9 +1185,6 @@
   <data name="Menu_Duration" xml:space="preserve">
     <value>기간</value>
   </data>
-  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
-    <value>H265/HEVC/HDR 하드웨어 가속을 사용 하 여</value>
-  </data>
   <data name="CD_Effects.PrimaryButtonText" xml:space="preserve">
     <value>끄세요</value>
   </data>
@@ -1359,12 +1356,6 @@
   <data name="Effects_Manager_EmbossToggleSwitch.OffContent" xml:space="preserve">
     <value>사용 안 함</value>
   </data>
-  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
-    <value>전갈 자리 네트워크 스트리밍</value>
-  </data>
-  <data name="CM_Open_Socket" xml:space="preserve">
-    <value>전갈 자리 네트워크 스트리밍</value>
-  </data>
   <data name="CD_Socket_RemotePort.Text" xml:space="preserve">
     <value>원격 포트</value>
   </data>
@@ -1425,14 +1416,8 @@
   <data name="CD_Socket_HelpButton.Content" xml:space="preserve">
     <value>도움말</value>
   </data>
-  <data name="SocketNetworkingStream_Message" xml:space="preserve">
-    <value>전갈 자리 네트워킹 스트림 비디오 또는 오디오, 로컬 네트워크 또는 인터넷 전갈 선수 또는 전갈 자리 플레이어 서버 소프트웨어를 포함 하 여 즐겨찾기 미디어를 스트리밍할 수 있는 독특한 기능입니다. 당신의 PC, x 박스, 윈도우 10 휴대 전화, 사이 교차 스트리밍 사용 및 다른 Windows 10 장치, 미디어 서버 활성 창 모드로 해야 할 때 전갈 선수 역할 최소화 하지 모드 또는 배경 모드, 리눅스, 전갈 자리 네트워킹 스트림 애플 리 케이 션을 다운로드할 수 있습니다. 맥 Os, 윈도우 7 10 8, 8.1 자세한 http://scorpioplayer.com에서 감사 합니다.</value>
-  </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
     <value>다운로드</value>
-  </data>
-  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
-    <value>스트리밍</value>
   </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.Header" xml:space="preserve">
     <value> </value>
@@ -1500,29 +1485,11 @@
   <data name="WM_DownloadCompleted" xml:space="preserve">
     <value>다운로드 완료</value>
   </data>
-  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>즐겨찾기 소스 스트리밍 전갈 네트워크를 사용 하 여</value>
-  </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>은</value>
   </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OffContent" xml:space="preserve">
     <value>여부</value>
-  </data>
-  <data name="WM_load_socket_folder_fail" xml:space="preserve">
-    <value>전갈 자리 네트워크 스트리밍 폴더 로드 실패</value>
-  </data>
-  <data name="WM_load_socket_folder" xml:space="preserve">
-    <value>전갈 자리 네트워크 폴더 로드 완료 스트리밍</value>
-  </data>
-  <data name="WM_load_socket_file_fail" xml:space="preserve">
-    <value>전갈 자리 네트워크 스트리밍 파일 로드 실패</value>
-  </data>
-  <data name="WM_load_socket_file" xml:space="preserve">
-    <value>전갈 자리 네트워크 스트리밍 파일 로드 완료</value>
-  </data>
-  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
-    <value>전갈 자리 네트워크 스트리밍에 대 한 원격 호스트 설정 필수임</value>
   </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>레이아웃 크기 조정 사용 안 함</value>
@@ -2088,9 +2055,6 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>전체화면 종료</value>
   </data>
-  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>스트리밍 재생 목록을 즐겨찾기 소스로 사용</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>은</value>
   </data>
@@ -2099,12 +2063,6 @@
   </data>
   <data name="UCD_PivotItem1.Header" xml:space="preserve">
     <value>오픈 네트워크 미디어</value>
-  </data>
-  <data name="UCD_PivotItem2.Header" xml:space="preserve">
-    <value>스트리밍 재생 목록 관리자</value>
-  </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>네트워크 스트리밍</value>
   </data>
   <data name="UCD_PivotItem3.Header" xml:space="preserve">
     <value>편집기</value>
@@ -2129,12 +2087,6 @@
   </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>로밍 데이터 동기화 완료</value>
-  </data>
-  <data name="SetScorpioStreaming" xml:space="preserve">
-    <value>즐겨찾기 소스 스트리밍 전갈 네트워크를 사용 하 여</value>
-  </data>
-  <data name="SetStreamingPlaylist" xml:space="preserve">
-    <value>스트리밍 재생 목록을 즐겨찾기 소스로 사용</value>
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>로컬 저장소를 사용 하 여 즐겨찾기 소스</value>
@@ -2517,18 +2469,6 @@
   <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
     <value>이미지 텍스트 다음 클립보드로 복사를 인식</value>
   </data>
-  <data name="ScorpioStreamingServer" xml:space="preserve">
-    <value>Scorpio Streaming Server</value>
-  </data>
-  <data name="ScorpioPlayeriOS" xml:space="preserve">
-    <value>Scorpio Player for iPhone</value>
-  </data>
-  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
-    <value>Scorpio Streaming Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
-  </data>
-  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
-    <value>Bring the Scorpio Player Experience to iOS Platform, functionality may not rich as UWP version for now, but it convient. </value>
-  </data>
   <data name="WM_FolderContainsNofile" xml:space="preserve">
     <value>폴더는 비어</value>
   </data>
@@ -2780,9 +2720,6 @@
   </data>
   <data name="ScorpioPlayerRemote" xml:space="preserve">
     <value>원격 컨트롤러</value>
-  </data>
-  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
-    <value>전갈 자리 플레이어 Xbox 1에 대 한 원격 컨트롤러 / 창 10 PC 버전.</value>
   </data>
   <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
     <value>원격 컨트롤러 아이폰/iPad</value>
@@ -3246,12 +3183,6 @@
   <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
     <value>요청 하는 경우</value>
   </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>.m3u 재생 목록 지원 추가</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>UHD 블루레이 폴더. ISO 재생 향상</value>
-  </data>
   <data name="CM_ShowStopButton" xml:space="preserve">
     <value>중지 단추 표시</value>
   </data>
@@ -3279,19 +3210,199 @@
   <data name="BluRayFolderInvalid" xml:space="preserve">
     <value>"BDMV" 폴더를 포함 하는 폴더를 선택 하십시오</value>
   </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>오디오 타임 라인 조정</value>
-  </data>
   <data name="CM_Open_Bluray_Folder" xml:space="preserve">
     <value>블루-레이 폴더</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>성능 향상 및 버그 수정</value>
   </data>
   <data name="audioBalanceSlider.Header" xml:space="preserve">
     <value>오디오 균형</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>오디오 밸런스 조정</value>
+  <data name="CM_ShowBitRateInfoOnTransportControl" xml:space="preserve">
+    <value>실시간으로 비트 레이트 정보 보기</value>
+  </data>
+  <data name="WM_SELECTING_SUBTITLE" xml:space="preserve">
+    <value>자막 선택</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
+    <value>H265/HEVC 하드웨어 가속을 사용 하 여</value>
+  </data>
+  <data name="WM_Buffering" xml:space="preserve">
+    <value>버퍼링</value>
+  </data>
+  <data name="WM_Buffered" xml:space="preserve">
+    <value>버퍼링 완료</value>
+  </data>
+  <data name="resetapp.Content" xml:space="preserve">
+    <value>응용 프로그램 설정 다시 설정</value>
+  </data>
+  <data name="WM_ResetAppTitle" xml:space="preserve">
+    <value>응용 프로그램 설정을 기본값으로 다시 설정 해야 당신은</value>
+  </data>
+  <data name="WM_ResetApp_Include_Roaming" xml:space="preserve">
+    <value>로밍 설정 포함</value>
+  </data>
+  <data name="WM_ResetApp_LocalOnly" xml:space="preserve">
+    <value>로컬 설정</value>
+  </data>
+  <data name="WM_ResetAppDetail" xml:space="preserve">
+    <value>이 프로세스 수 없습니다 하지 역, 포함 설정 로밍, 로밍 사용자 재생 목록 삭제 됩니다 북마크 등. </value>
+  </data>
+  <data name="CM_TotalTimeRemainTime" xml:space="preserve">
+    <value>대신 쇼 총 기간 유지 기간</value>
+  </data>
+  <data name="CM_Chapter_Next" xml:space="preserve">
+    <value>다음 장</value>
+  </data>
+  <data name="CM_Chapter_Previous" xml:space="preserve">
+    <value>이전 장</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>로컬 저장소를 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="open_manual.Content" xml:space="preserve">
+    <value>사용자 설명서</value>
+  </data>
+  <data name="CM_InteractiveMovie" xml:space="preserve">
+    <value>인터랙티브 영화</value>
+  </data>
+  <data name="CM_InteractiveMovieMode" xml:space="preserve">
+    <value>대화형 모드</value>
+  </data>
+  <data name="CM_InteractiveDebugMode" xml:space="preserve">
+    <value>디버그 모드</value>
+  </data>
+  <data name="CM_InteractiveMovieLoad" xml:space="preserve">
+    <value>초기화</value>
+  </data>
+  <data name="CM_InteractiveMovieRestart" xml:space="preserve">
+    <value>다시 시작</value>
+  </data>
+  <data name="CM_Segmengts" xml:space="preserve">
+    <value>세그먼트</value>
+  </data>
+  <data name="TraditionalChinese" xml:space="preserve">
+    <value>중국어 (번체)</value>
+  </data>
+  <data name="WM_DoYourWantGoBack" xml:space="preserve">
+    <value>다시가 고 싶지</value>
+  </data>
+  <data name="WM_GoBack" xml:space="preserve">
+    <value>돌아 가</value>
+  </data>
+  <data name="CM_InteractiveGaplessMode" xml:space="preserve">
+    <value>끊김 없는 재생 (탐색 사용 안 함)</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.Header" xml:space="preserve">
+    <value>밝은 테마</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>NFS 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>은</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>여부</value>
+  </data>
+  <data name="SetNFS" xml:space="preserve">
+    <value>NFS 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="NFS_CD_TITLE.Text" xml:space="preserve">
+    <value>NFS</value>
+  </data>
+  <data name="CM_RememberLastPlaybackAudioTrack" xml:space="preserve">
+    <value>선택한 오디오 트랙을 기억</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>스트리밍</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>네트워크 스트리밍</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>스트리밍 재생 목록을 즐겨찾기 소스로 사용</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>스트리밍 재생 목록 관리자</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>스트리밍 재생 목록을 즐겨찾기 소스로 사용</value>
+  </data>
+  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
+    <value>전갈 자리 미디어 서버</value>
+  </data>
+  <data name="CM_Open_Socket" xml:space="preserve">
+    <value>전갈 자리 미디어 서버</value>
+  </data>
+  <data name="SocketNetworkingStream_Message" xml:space="preserve">
+    <value>전갈 자리 미디어 서버는 비디오 또는 오디오, 로컬 네트워크 또는 인터넷 전갈 선수 또는 전갈 자리 플레이어 서버 소프트웨어를 포함 하 여 즐겨찾기 미디어를 스트리밍할 수 있습니다 독특한 기능입니다. 당신의 PC, x 박스, 윈도우 10 휴대 전화, 사이 교차 스트리밍 사용 및 다른 Windows 10 장치, 미디어 서버 활성 창 모드로 해야 할 때 전갈 선수 역할 최소화 하지 모드 또는 배경 모드, 리눅스, 맥 Os, 전갈 자리 미디어 서버 애플 리 케이 션을 다운로드할 수 있습니다. 윈도 즈 7, 10의 8, 8.1, 독 노동자 자세한 http://scorpioplayer.com에서 감사 합니다.</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>전갈 자리 미디어 서버를 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="WM_load_socket_folder_fail" xml:space="preserve">
+    <value>전갈 자리 미디어 서버 폴더 로드 실패</value>
+  </data>
+  <data name="WM_load_socket_folder" xml:space="preserve">
+    <value>전갈 자리 미디어 서버 폴더 로드 완료</value>
+  </data>
+  <data name="WM_load_socket_file_fail" xml:space="preserve">
+    <value>전갈 자리 미디어 서버 파일 로드 실패</value>
+  </data>
+  <data name="WM_load_socket_file" xml:space="preserve">
+    <value>전갈 자리 미디어 서버 파일 로드 완료</value>
+  </data>
+  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
+    <value>전갈 자리 스트리밍 서버에 대 한 원격 호스트 설정 필수임</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>전갈 자리 미디어 서버를 사용 하 여 즐겨찾기 소스</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>전갈 자리 미디어 서버</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>전갈 자리 미디어 서버 전갈 선수에 대 한 동반자 애플 리 케이 션, 어디서 나, 언제 든 지, 동력 스트리밍 장치 고품질 크로스 기반 소켓, 경량 서버 콘텐츠 미디어를 즐길 수 있도록. 윈도우 10 노트북 장치 거실 Xbox 콘솔, 또는 다운로드를 비디오를 스트리밍 여부 측면 미디어 귀하의 휴대 전화에 집.  린 더 체크 아웃 https://scorpioplayer.com/Docs!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>Ios 플랫폼 전갈 선수 경험을가지고, 기능을 지금, 그것은 하지 UWP 버전으로 풍부한 수 convient. </value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>아이폰에 대 한 전갈 자리 플레이어</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>전갈 자리 플레이어 Xbox 1에 대 한 원격 컨트롤러 / 창 10 PC 버전.</value>
+  </data>
+  <data name="detailview_Resources.Text" xml:space="preserve">
+    <value>리소스</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>4k 성능 사용 전갈 자리 미디어 서버 v3.0 스트리밍 개선</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>전갈 자리 미디어 서버 지금 지원 독 노동자 NAS 서버에 x86 설치</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>복사</value>
+  </data>
+  <data name="AddTaskToAria2" xml:space="preserve">
+    <value>다운로드 작업 aria2을 추가</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC 주소</value>
+  </data>
+  <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 분 비</value>
   </data>
 </root>

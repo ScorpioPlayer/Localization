@@ -1263,9 +1263,6 @@
   <data name="Menu_Duration" xml:space="preserve">
     <value>期間</value>
   </data>
-  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
-    <value>H265/HEVC/HDR ハードウェア アクセラレーションを使用します。</value>
-  </data>
   <data name="CD_Effects.PrimaryButtonText" xml:space="preserve">
     <value>シャットダウン</value>
   </data>
@@ -1437,12 +1434,6 @@
   <data name="Effects_Manager_EmbossToggleSwitch.OffContent" xml:space="preserve">
     <value>無効になっています。</value>
   </data>
-  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
-    <value>蠍座ネットワーク ストリーミング</value>
-  </data>
-  <data name="CM_Open_Socket" xml:space="preserve">
-    <value>蠍座ネットワーク ストリーミング</value>
-  </data>
   <data name="CD_Socket_RemotePort.Text" xml:space="preserve">
     <value>リモート ポート</value>
   </data>
@@ -1503,14 +1494,8 @@
   <data name="CD_Socket_HelpButton.Content" xml:space="preserve">
     <value>ヘルプ</value>
   </data>
-  <data name="SocketNetworkingStream_Message" xml:space="preserve">
-    <value>蠍座ネットワーク ストリームは、ビデオまたはオーディオの蠍座プレーヤー サーバー ソフトウェアをローカル ネットワークまたは蠍座プレーヤー間またはインターネット経由でを含むお気に入りメディアをストリーム配信することができますユニークな機能です。あなたの PC、Xbox、Windows 10 携帯電話間でクロスのストリーミングを有効にして他の Windows 10 デバイス、それはアクティブなウィンドウ モードにする必要がありますメディア サーバーとしてときに蠍座のプレーヤー法を最小化モードまたはバック グラウンド モード、Linux 用の蠍座ネットワーク ストリーム アプリをダウンロードすることができます。MacOS、Windows 7 10 8 8.1、おかげで http://scorpioplayer.com からより多くを学ぶ。</value>
-  </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
     <value>ダウンロード</value>
-  </data>
-  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
-    <value>ストリーミング</value>
   </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.Header" xml:space="preserve">
     <value> </value>
@@ -1578,29 +1563,11 @@
   <data name="WM_DownloadCompleted" xml:space="preserve">
     <value>ダウンロードが完了しました</value>
   </data>
-  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>お気に入りのソースとしてストリーミング蠍座ネットワークを使用します。</value>
-  </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>は</value>
   </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OffContent" xml:space="preserve">
     <value>かどうか</value>
-  </data>
-  <data name="WM_load_socket_folder_fail" xml:space="preserve">
-    <value>蠍座ネットワークストリーミング フォルダーの読み込みに失敗しました</value>
-  </data>
-  <data name="WM_load_socket_folder" xml:space="preserve">
-    <value>蠍座ネットワーク フォルダーの読み込み完了をストリーミング</value>
-  </data>
-  <data name="WM_load_socket_file_fail" xml:space="preserve">
-    <value>蠍座ネットワーク ストリーミング ファイルの読み込みに失敗しました</value>
-  </data>
-  <data name="WM_load_socket_file" xml:space="preserve">
-    <value>蠍座ネットワーク ストリーミング ファイルのロードが完了しました</value>
-  </data>
-  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
-    <value>蠍座ネットワーク ストリーミングのリモート ホスト設定が必要</value>
   </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>レイアウト スケーリングを無効にします。</value>
@@ -2166,9 +2133,6 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>全画面表示を終了</value>
   </data>
-  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>お気に入りのソースとして再生リストのストリーミングを使用してください。</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>は</value>
   </data>
@@ -2177,12 +2141,6 @@
   </data>
   <data name="UCD_PivotItem1.Header" xml:space="preserve">
     <value>オープン ネットワーク メディア</value>
-  </data>
-  <data name="UCD_PivotItem2.Header" xml:space="preserve">
-    <value>ストリーミング再生リスト マネージャー</value>
-  </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>ストリーミング ネットワーク</value>
   </data>
   <data name="UCD_PivotItem3.Header" xml:space="preserve">
     <value>エディター</value>
@@ -2207,12 +2165,6 @@
   </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>ローミングのデータ同期が完了しました</value>
-  </data>
-  <data name="SetScorpioStreaming" xml:space="preserve">
-    <value>お気に入りのソースとしてストリーミング蠍座ネットワークを使用します。</value>
-  </data>
-  <data name="SetStreamingPlaylist" xml:space="preserve">
-    <value>お気に入りのソースとして再生リストのストリーミングを使用してください。</value>
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>お気に入りのソースとしてローカル記憶域を使用します。</value>
@@ -2595,18 +2547,6 @@
   <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
     <value>認識のイメージのテキストをクリップボードにコピー</value>
   </data>
-  <data name="ScorpioStreamingServer" xml:space="preserve">
-    <value>Scorpio Streaming Server</value>
-  </data>
-  <data name="ScorpioPlayeriOS" xml:space="preserve">
-    <value>Scorpio Player for iPhone</value>
-  </data>
-  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
-    <value>Scorpio Streaming Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
-  </data>
-  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
-    <value>Bring the Scorpio Player Experience to iOS Platform, functionality may not rich as UWP version for now, but it convient. </value>
-  </data>
   <data name="WM_FolderContainsNofile" xml:space="preserve">
     <value>フォルダーが空</value>
   </data>
@@ -2858,9 +2798,6 @@
   </data>
   <data name="ScorpioPlayerRemote" xml:space="preserve">
     <value>リモート コント ローラー</value>
-  </data>
-  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
-    <value>蠍座プレーヤー Xbox 1 つのリモート コント ローラー/Windows 10 PC 版。</value>
   </data>
   <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
     <value>リモート コント ローラーの iPhone/計算されました。</value>
@@ -3324,12 +3261,6 @@
   <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
     <value>要求されたとき</value>
   </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>.m3u 再生リストのサポートを追加します。</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>UHD blu-ray フォルダー。ISO 再生強化</value>
-  </data>
   <data name="CM_ShowStopButton" xml:space="preserve">
     <value>[中止] ボタンを表示する</value>
   </data>
@@ -3357,19 +3288,199 @@
   <data name="BluRayFolderInvalid" xml:space="preserve">
     <value>「BDMV」フォルダーにはが含まれているフォルダーを選択してください</value>
   </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>オーディオのタイムラインを調整します。</value>
-  </data>
   <data name="CM_Open_Bluray_Folder" xml:space="preserve">
     <value>Blu-ray フォルダー</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>パフォーマンスの向上とバグの修正</value>
   </data>
   <data name="audioBalanceSlider.Header" xml:space="preserve">
     <value>オーディオ バランス</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>オーディオ バランスを調整します。</value>
+  <data name="CM_ShowBitRateInfoOnTransportControl" xml:space="preserve">
+    <value>リアルタイム ビット レート情報を表示します。</value>
+  </data>
+  <data name="WM_SELECTING_SUBTITLE" xml:space="preserve">
+    <value>サブタイトルを選択します。</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
+    <value>H265/HEVC ハードウェア アクセラレーションを使用します。</value>
+  </data>
+  <data name="WM_Buffering" xml:space="preserve">
+    <value>バッファリング</value>
+  </data>
+  <data name="WM_Buffered" xml:space="preserve">
+    <value>バッファリング完了</value>
+  </data>
+  <data name="resetapp.Content" xml:space="preserve">
+    <value>アプリの設定をリセットします。</value>
+  </data>
+  <data name="WM_ResetAppTitle" xml:space="preserve">
+    <value>アプリの設定をデフォルトにリセットするがよろしい</value>
+  </data>
+  <data name="WM_ResetApp_Include_Roaming" xml:space="preserve">
+    <value>ローミング設定が含まれて</value>
+  </data>
+  <data name="WM_ResetApp_LocalOnly" xml:space="preserve">
+    <value>ローカル設定のみ</value>
+  </data>
+  <data name="WM_ResetAppDetail" xml:space="preserve">
+    <value>このプロセスことはできませんないリバースは、ローミング ユーザーのプレイリストが削除されますローミング設定ブックマークなど。</value>
+  </data>
+  <data name="CM_TotalTimeRemainTime" xml:space="preserve">
+    <value>期間のままの代わりにショーの合計時間</value>
+  </data>
+  <data name="CM_Chapter_Next" xml:space="preserve">
+    <value>次の章</value>
+  </data>
+  <data name="CM_Chapter_Previous" xml:space="preserve">
+    <value>前の章</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>お気に入りのソースとしてローカル記憶域を使用します。</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="open_manual.Content" xml:space="preserve">
+    <value>ユーザー マニュアル</value>
+  </data>
+  <data name="CM_InteractiveMovie" xml:space="preserve">
+    <value>インタラクティブ ムービー</value>
+  </data>
+  <data name="CM_InteractiveMovieMode" xml:space="preserve">
+    <value>対話モード</value>
+  </data>
+  <data name="CM_InteractiveDebugMode" xml:space="preserve">
+    <value>デバッグ モード</value>
+  </data>
+  <data name="CM_InteractiveMovieLoad" xml:space="preserve">
+    <value>初期化</value>
+  </data>
+  <data name="CM_InteractiveMovieRestart" xml:space="preserve">
+    <value>再起動</value>
+  </data>
+  <data name="CM_Segmengts" xml:space="preserve">
+    <value>セグメント</value>
+  </data>
+  <data name="TraditionalChinese" xml:space="preserve">
+    <value>繁体字中国語</value>
+  </data>
+  <data name="WM_DoYourWantGoBack" xml:space="preserve">
+    <value>戻りたいです。</value>
+  </data>
+  <data name="WM_GoBack" xml:space="preserve">
+    <value>戻ってください</value>
+  </data>
+  <data name="CM_InteractiveGaplessMode" xml:space="preserve">
+    <value>ギャップレス再生 (障害者のシーク)</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.Header" xml:space="preserve">
+    <value>薄い色のテーマ</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>お気に入りのソースとして使用 NFS</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SetNFS" xml:space="preserve">
+    <value>お気に入りのソースとして使用 NFS</value>
+  </data>
+  <data name="NFS_CD_TITLE.Text" xml:space="preserve">
+    <value>NFS</value>
+  </data>
+  <data name="CM_RememberLastPlaybackAudioTrack" xml:space="preserve">
+    <value>選択したオーディオ トラックを覚えています。</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>ストリーミング</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>ストリーミング ネットワーク</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>お気に入りのソースとして再生リストのストリーミングを使用してください。</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>ストリーミング再生リスト マネージャー</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>お気に入りのソースとして再生リストのストリーミングを使用してください。</value>
+  </data>
+  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
+    <value>蠍座メディア サーバー</value>
+  </data>
+  <data name="CM_Open_Socket" xml:space="preserve">
+    <value>蠍座メディア サーバー</value>
+  </data>
+  <data name="SocketNetworkingStream_Message" xml:space="preserve">
+    <value>蠍座のメディア サーバーは、ビデオまたはオーディオの蠍座プレーヤー サーバー ソフトウェアをローカル ネットワークまたは蠍座プレーヤー間またはインターネット経由でを含むお気に入りメディアをストリーム配信することができますユニークな機能です。あなたの PC、Xbox、Windows 10 携帯電話間でクロスのストリーミングを有効にして他の Windows 10 デバイス、それはアクティブなウィンドウ モードにする必要がありますメディア サーバーとしてときに蠍座のプレーヤー法を最小化モードまたはバック グラウンド モード、Linux、MacOS の蠍座メディア サーバー アプリをダウンロードすることができます。Windows 7、10 8 8.1、港湾労働者、おかげで http://scorpioplayer.com からより多くを学ぶ。</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>蠍座メディア サーバーのお気に入りソースとして使用します。</value>
+  </data>
+  <data name="WM_load_socket_folder_fail" xml:space="preserve">
+    <value>蠍座メディア サーバー フォルダーの読み込みに失敗しました</value>
+  </data>
+  <data name="WM_load_socket_folder" xml:space="preserve">
+    <value>蠍座メディア サーバー フォルダーの読み込み完了</value>
+  </data>
+  <data name="WM_load_socket_file_fail" xml:space="preserve">
+    <value>蠍座メディア サーバー ファイル読み込みに失敗しました</value>
+  </data>
+  <data name="WM_load_socket_file" xml:space="preserve">
+    <value>蠍座メディア サーバー ファイルの読み込み完了</value>
+  </data>
+  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
+    <value>蠍座のストリーミング サーバーにリモート ホストの設定が必要</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>蠍座メディア サーバーのお気に入りソースとして使用します。</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>蠍座メディア サーバー</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>蠍座のメディア サーバーは蠍座のプレーヤーのためのコンパニオン アプリケーション、あなたのメディアをどこでも、いつでも、生のパワーをストリーミング デバイス高品質クロス ベース ソケット、軽量サーバーのコンテンツを楽しむことができます。Windows 10 ラップトップ デバイス ビデオを居間 Xbox コンソールまたはダウンロードをストリーミングするかどうか、メディア側はあなたの携帯電話にホームします。 無駄のない以上にチェック アウト https://scorpioplayer.com/Docs!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>機能は今のところそれ UWP バージョンとして金持ちではない可能性があります、iOS プラットフォームに蠍座プレーヤー経験をもたらすうえ。</value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>IPhone のための蠍座のプレーヤー</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>蠍座プレーヤー Xbox 1 つのリモート コント ローラー/Windows 10 PC 版。</value>
+  </data>
+  <data name="detailview_Resources.Text" xml:space="preserve">
+    <value>リソース</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>4 K ストリーミング パフォーマンス使用蠍座メディア サーバー v3.0 を改善します。</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>X86 にインストール蠍座メディア サーバー今サポート港湾労働者の NAS サーバー</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>コピー</value>
+  </data>
+  <data name="AddTaskToAria2" xml:space="preserve">
+    <value>Aria2 にダウンロード タスクを追加します。</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC アドレス</value>
+  </data>
+  <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 を分泌します。</value>
   </data>
 </root>

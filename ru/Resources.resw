@@ -1188,9 +1188,6 @@
   <data name="Menu_Duration" xml:space="preserve">
     <value>Продолжительность</value>
   </data>
-  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
-    <value>Использовать H265/HEVC/HDR аппаратное ускорение</value>
-  </data>
   <data name="CD_Effects.PrimaryButtonText" xml:space="preserve">
     <value>Закрыть</value>
   </data>
@@ -1362,12 +1359,6 @@
   <data name="Effects_Manager_EmbossToggleSwitch.OffContent" xml:space="preserve">
     <value>Инвалидов</value>
   </data>
-  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
-    <value>Скорпион сети потоковое</value>
-  </data>
-  <data name="CM_Open_Socket" xml:space="preserve">
-    <value>Скорпион сети потоковое</value>
-  </data>
   <data name="CD_Socket_RemotePort.Text" xml:space="preserve">
     <value>Удаленный порт</value>
   </data>
@@ -1428,14 +1419,8 @@
   <data name="CD_Socket_HelpButton.Content" xml:space="preserve">
     <value>Справка</value>
   </data>
-  <data name="SocketNetworkingStream_Message" xml:space="preserve">
-    <value>Скорпион сеть поток является уникальной особенностью, которая может передавать ваше избранное СМИ, включая видео или аудио, через локальную сеть или Интернет между Scorpio игрока, или с программным обеспечением сервера игрок Scorpio. Включить крест потоки между PC, Xbox, Windows 10 мобильный телефон и другие 10 устройств Windows, когда игрок Scorpio закон как медиа-сервер, он должен в режиме активного окна не свести к минимуму или фоновый режим, вы можете скачать Скорпион сетевой поток приложения для Linux, MacOS, Windows 7, 10-8, 8.1 и узнать больше от http://scorpioplayer.com, спасибо.</value>
-  </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.OffContent" xml:space="preserve">
     <value>Скачать</value>
-  </data>
-  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
-    <value>Потоковая передача</value>
   </data>
   <data name="CD_Socket_SocketOfflineModeToggleSwitch.Header" xml:space="preserve">
     <value> </value>
@@ -1503,29 +1488,11 @@
   <data name="WM_DownloadCompleted" xml:space="preserve">
     <value>Скачивание завершено</value>
   </data>
-  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>Использование Scorpio сети потоковое как источник Избранное</value>
-  </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>Да</value>
   </data>
   <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.OffContent" xml:space="preserve">
     <value>Нет</value>
-  </data>
-  <data name="WM_load_socket_folder_fail" xml:space="preserve">
-    <value>Скорпион сети потоковое папку загрузки не удалось</value>
-  </data>
-  <data name="WM_load_socket_folder" xml:space="preserve">
-    <value>Скорпион сети потоковое папку загрузки завершена</value>
-  </data>
-  <data name="WM_load_socket_file_fail" xml:space="preserve">
-    <value>Скорпион сети потоковое ошибка загрузки файлов</value>
-  </data>
-  <data name="WM_load_socket_file" xml:space="preserve">
-    <value>Скорпион сети потоковое загрузки файлов завершена</value>
-  </data>
-  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
-    <value>параметры удаленного хоста для Scorpio сети потоковой передачи требуется</value>
   </data>
   <data name="SD_PivotItem1_DisableLayoutScalingToggleSwitch.Header" xml:space="preserve">
     <value>Отключить масштабирование макета</value>
@@ -2088,9 +2055,6 @@
   <data name="HotkeyAction_action_unlock_screen_exit_full_screen" xml:space="preserve">
     <value>Свернуть</value>
   </data>
-  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
-    <value>Использование потокового воспроизведения как источник Избранное</value>
-  </data>
   <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.OnContent" xml:space="preserve">
     <value>Да</value>
   </data>
@@ -2099,12 +2063,6 @@
   </data>
   <data name="UCD_PivotItem1.Header" xml:space="preserve">
     <value>Откройте сетевые СМИ</value>
-  </data>
-  <data name="UCD_PivotItem2.Header" xml:space="preserve">
-    <value>Потокового воспроизведения менеджер</value>
-  </data>
-  <data name="UCD_TITLE.Text" xml:space="preserve">
-    <value>Сети потоковое</value>
   </data>
   <data name="UCD_PivotItem3.Header" xml:space="preserve">
     <value>Редактор</value>
@@ -2129,12 +2087,6 @@
   </data>
   <data name="RoamingSync" xml:space="preserve">
     <value>Роуминг данных синхронизация завершена</value>
-  </data>
-  <data name="SetScorpioStreaming" xml:space="preserve">
-    <value>Использование Scorpio сети потоковое как источник Избранное</value>
-  </data>
-  <data name="SetStreamingPlaylist" xml:space="preserve">
-    <value>Использование потокового воспроизведения как источник Избранное</value>
   </data>
   <data name="SetLocal" xml:space="preserve">
     <value>Использовать локальное хранилище как источник Избранное</value>
@@ -2520,18 +2472,6 @@
   <data name="HotkeyAction_action_ord_copy" xml:space="preserve">
     <value>признать текст изображения, а затем скопировать в буфер обмена</value>
   </data>
-  <data name="ScorpioStreamingServer" xml:space="preserve">
-    <value>Scorpio Streaming Server</value>
-  </data>
-  <data name="ScorpioPlayeriOS" xml:space="preserve">
-    <value>Scorpio Player for iPhone</value>
-  </data>
-  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
-    <value>Scorpio Streaming Server is a companion app for Scorpio Player, allow you enjoy your media content anywhere, anytime, cross device high quality streaming raw power base on Socket, light weight server. Whether Streaming you Windows 10 laptop device Video to your Living Room Xbox Console, or Download your Media out side home to your mobile phone.  checkout https://scorpioplayer.com/Docs to lean more!</value>
-  </data>
-  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
-    <value>Bring the Scorpio Player Experience to iOS Platform, functionality may not rich as UWP version for now, but it convient. </value>
-  </data>
   <data name="WM_FolderContainsNofile" xml:space="preserve">
     <value>Папка пуста</value>
   </data>
@@ -2780,9 +2720,6 @@
   </data>
   <data name="ScorpioPlayerRemote" xml:space="preserve">
     <value>Пульт дистанционного управления</value>
-  </data>
-  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
-    <value>Пульт дистанционного управления для Scorpio игрока Xbox 1 / Windows 10 PC версии.</value>
   </data>
   <data name="ScorpioPlayerRemoteiOS" xml:space="preserve">
     <value>Удаленный контроллер iPhone/iPad</value>
@@ -3246,12 +3183,6 @@
   <data name="SD_PivotItem1_UsePointerToggleSwitch.OffContent" xml:space="preserve">
     <value>При запросе</value>
   </data>
-  <data name="Meta_UpdateInfo7" xml:space="preserve">
-    <value>добавить поддержку .m3u плейлистов</value>
-  </data>
-  <data name="Meta_UpdateInfo4" xml:space="preserve">
-    <value>UHD Blu-ray папку. Повышение ISO воспроизведения</value>
-  </data>
   <data name="CM_ShowStopButton" xml:space="preserve">
     <value>Отображать кнопку «Остановить»</value>
   </data>
@@ -3279,19 +3210,199 @@
   <data name="BluRayFolderInvalid" xml:space="preserve">
     <value>Пожалуйста, выберите папку, которая содержит папку «BDMV»</value>
   </data>
-  <data name="Meta_UpdateInfo6" xml:space="preserve">
-    <value>Настройка аудио Хронология</value>
-  </data>
   <data name="CM_Open_Bluray_Folder" xml:space="preserve">
     <value>Blu-ray папку</value>
-  </data>
-  <data name="Meta_UpdateInfo3" xml:space="preserve">
-    <value>улучшение производительности и исправлены ошибки</value>
   </data>
   <data name="audioBalanceSlider.Header" xml:space="preserve">
     <value>Аудио баланс</value>
   </data>
-  <data name="Meta_UpdateInfo8" xml:space="preserve">
-    <value>Настройка аудио баланс</value>
+  <data name="CM_ShowBitRateInfoOnTransportControl" xml:space="preserve">
+    <value>Показать реального времени информация Bit Rate</value>
+  </data>
+  <data name="WM_SELECTING_SUBTITLE" xml:space="preserve">
+    <value>Выбор субтитров</value>
+  </data>
+  <data name="SD_PivotItem1_UseHevcToggleSwitch.Header" xml:space="preserve">
+    <value>Использовать H265/HEVC аппаратное ускорение</value>
+  </data>
+  <data name="WM_Buffering" xml:space="preserve">
+    <value>Буферизация</value>
+  </data>
+  <data name="WM_Buffered" xml:space="preserve">
+    <value>Буферизации завершено</value>
+  </data>
+  <data name="resetapp.Content" xml:space="preserve">
+    <value>Сброс параметров приложения</value>
+  </data>
+  <data name="WM_ResetAppTitle" xml:space="preserve">
+    <value>Вы действительно хотите сбросить настройки приложения по умолчанию</value>
+  </data>
+  <data name="WM_ResetApp_Include_Roaming" xml:space="preserve">
+    <value>Включить настройки роуминга</value>
+  </data>
+  <data name="WM_ResetApp_LocalOnly" xml:space="preserve">
+    <value>Только локальные параметры</value>
+  </data>
+  <data name="WM_ResetAppDetail" xml:space="preserve">
+    <value>Этот процесс не может не быть обратный, включают роуминг параметр будет удалять перемещаемого пользователя список воспроизведения, закладки и т.д. </value>
+  </data>
+  <data name="CM_TotalTimeRemainTime" xml:space="preserve">
+    <value>Общая продолжительность шоу вместо остаются продолжительность</value>
+  </data>
+  <data name="CM_Chapter_Next" xml:space="preserve">
+    <value>Следующая глава</value>
+  </data>
+  <data name="CM_Chapter_Previous" xml:space="preserve">
+    <value>Предыдущая глава</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Использовать локальное хранилище как источник Избранное</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem3_BindLocalToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="open_manual.Content" xml:space="preserve">
+    <value>Руководство пользователя</value>
+  </data>
+  <data name="CM_InteractiveMovie" xml:space="preserve">
+    <value>Интерактивный фильм</value>
+  </data>
+  <data name="CM_InteractiveMovieMode" xml:space="preserve">
+    <value>Интерактивный режим</value>
+  </data>
+  <data name="CM_InteractiveDebugMode" xml:space="preserve">
+    <value>Режим отладки</value>
+  </data>
+  <data name="CM_InteractiveMovieLoad" xml:space="preserve">
+    <value>Инициализация</value>
+  </data>
+  <data name="CM_InteractiveMovieRestart" xml:space="preserve">
+    <value>Перезагрузка</value>
+  </data>
+  <data name="CM_Segmengts" xml:space="preserve">
+    <value>Сегменты</value>
+  </data>
+  <data name="TraditionalChinese" xml:space="preserve">
+    <value>Традиционный китайский</value>
+  </data>
+  <data name="WM_DoYourWantGoBack" xml:space="preserve">
+    <value>Вы хотите вернуться обратно</value>
+  </data>
+  <data name="WM_GoBack" xml:space="preserve">
+    <value>Вернуться</value>
+  </data>
+  <data name="CM_InteractiveGaplessMode" xml:space="preserve">
+    <value>Непрерывное воспроизведение (искать инвалидов)</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.Header" xml:space="preserve">
+    <value>Светлая тема</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="SD_PivotItem1_LightThemeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Использование NFS в качестве источника Избранное</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OnContent" xml:space="preserve">
+    <value>Да</value>
+  </data>
+  <data name="BindNFSToFavoriteToggleSwitch.OffContent" xml:space="preserve">
+    <value>Нет</value>
+  </data>
+  <data name="SetNFS" xml:space="preserve">
+    <value>Использование NFS в качестве источника Избранное</value>
+  </data>
+  <data name="NFS_CD_TITLE.Text" xml:space="preserve">
+    <value>NFS</value>
+  </data>
+  <data name="CM_RememberLastPlaybackAudioTrack" xml:space="preserve">
+    <value>Помните, выбранной звуковой дорожки</value>
+  </data>
+  <data name="CD_Socket_SocketOfflineModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Потоковая передача</value>
+  </data>
+  <data name="UCD_TITLE.Text" xml:space="preserve">
+    <value>Сети потоковое</value>
+  </data>
+  <data name="SD_PivotItem3_BindStreamingPlaylistToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Использование потокового воспроизведения как источник Избранное</value>
+  </data>
+  <data name="UCD_PivotItem2.Header" xml:space="preserve">
+    <value>Потокового воспроизведения менеджер</value>
+  </data>
+  <data name="SetStreamingPlaylist" xml:space="preserve">
+    <value>Использование потокового воспроизведения как источник Избранное</value>
+  </data>
+  <data name="CD_Socket_TITLE.Text" xml:space="preserve">
+    <value>Скорпион-медиа-сервер</value>
+  </data>
+  <data name="CM_Open_Socket" xml:space="preserve">
+    <value>Скорпион-медиа-сервер</value>
+  </data>
+  <data name="SocketNetworkingStream_Message" xml:space="preserve">
+    <value>Скорпион Media Server является уникальной особенностью, которая может передавать ваше избранное СМИ, включая видео или аудио, через локальную сеть или Интернет между Scorpio игрока, или с программным обеспечением сервера игрок Scorpio. Включить крест потоки между PC, Xbox, Windows 10 мобильный телефон и другие 10 устройств Windows, когда игрок Scorpio закон как медиа-сервер, он должен в режиме активного окна не свести к минимуму или фоновый режим, вы можете скачать приложение Scorpio Media Server для Linux, MacOS, Windows 7, 10-8, 8.1, Докер и узнать больше от http://scorpioplayer.com, спасибо.</value>
+  </data>
+  <data name="SD_PivotItem3_BindSocketToFavoriteToggleSwitch.Header" xml:space="preserve">
+    <value>Использовать Scorpio медиа-сервер в качестве источника Избранное</value>
+  </data>
+  <data name="WM_load_socket_folder_fail" xml:space="preserve">
+    <value>Не удалось загрузить папку сервера СМИ Скорпион</value>
+  </data>
+  <data name="WM_load_socket_folder" xml:space="preserve">
+    <value>Скорпион Media Server папки нагрузки завершены</value>
+  </data>
+  <data name="WM_load_socket_file_fail" xml:space="preserve">
+    <value>Не удалось загрузить файлы сервера СМИ Скорпион</value>
+  </data>
+  <data name="WM_load_socket_file" xml:space="preserve">
+    <value>Загрузка файлов сервера Scorpio СМИ завершено</value>
+  </data>
+  <data name="WM_scorpio_network_stream_not_set" xml:space="preserve">
+    <value>параметры удаленного хоста для Scorpio потокового сервера требуется</value>
+  </data>
+  <data name="SetScorpioStreaming" xml:space="preserve">
+    <value>Использовать Scorpio медиа-сервер в качестве источника Избранное</value>
+  </data>
+  <data name="ScorpioStreamingServer" xml:space="preserve">
+    <value>Скорпион-медиа-сервер</value>
+  </data>
+  <data name="ScorpioStreamingServerDescription" xml:space="preserve">
+    <value>Скорпион-медиа-сервер является спутником приложение для Scorpio игрока, позволяют что вам понравится ваш медиа-контента, где угодно, в любое время, крест устройство высокое качество потокового сырья мощность базы на сокете, легкий вес сервера. Ли потоковое Windows 10 портативное устройство видео вашей гостиной Xbox консоль, или загрузки медиафайлов в сторону дома на свой мобильный телефон.  Извлечение https://scorpioplayer.com/Docs в lean больше!</value>
+  </data>
+  <data name="ScorpioPlayeriOSDescription" xml:space="preserve">
+    <value>Приносят опыт игрока Scorpio iOS платформы, функциональность может не богат, как UWP версия сейчас, но он convient. </value>
+  </data>
+  <data name="ScorpioPlayeriOS" xml:space="preserve">
+    <value>Скорпион-плеер для iPhone</value>
+  </data>
+  <data name="ScorpioPlayerRemoteDescription" xml:space="preserve">
+    <value>Пульт дистанционного управления для Scorpio игрока Xbox 1 / Windows 10 PC версии.</value>
+  </data>
+  <data name="detailview_Resources.Text" xml:space="preserve">
+    <value>Ресурсы</value>
+  </data>
+  <data name="Meta_UpdateInfo1" xml:space="preserve">
+    <value>улучшить 4K потокового производительность использования Scorpio Media Server v3.0</value>
+  </data>
+  <data name="Meta_UpdateInfo2" xml:space="preserve">
+    <value>Скорпион Media Server теперь поддерживает Докер установить на x86 NAS-сервер</value>
+  </data>
+  <data name="Copy" xml:space="preserve">
+    <value>Копия</value>
+  </data>
+  <data name="AddTaskToAria2" xml:space="preserve">
+    <value>Добавить задачу загрузки aria2</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC адрес</value>
+  </data>
+  <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 выделяют</value>
   </data>
 </root>
