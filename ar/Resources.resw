@@ -3387,22 +3387,295 @@
   <data name="detailview_Resources.Text" xml:space="preserve">
     <value>الموارد</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>تحسين ك 4 الجري الأداء استخدام "ملقم وسائط العقرب" v3.0</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>تثبيت "ملقم وسائط العقرب" الآن الدعم عامل الميناء على x86 ناس الخادم</value>
-  </data>
   <data name="Copy" xml:space="preserve">
     <value>نسخة</value>
   </data>
   <data name="AddTaskToAria2" xml:space="preserve">
     <value>إضافة التحميل المهمة إلى aria2</value>
   </data>
-  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
-    <value>عنوان جسونربك Aria2</value>
-  </data>
   <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
     <value>تفرز Aria2</value>
+  </data>
+  <data name="CM_Open_Aria2" xml:space="preserve">
+    <value>aria2</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام Aria2</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="WM_ExpectedCompletion" xml:space="preserve">
+    <value>الإنجاز المتوقع</value>
+  </data>
+  <data name="NotConnected" xml:space="preserve">
+    <value>غير متصل</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>استخدام شرط تخطي</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SkipPreconditionTextBox.Header" xml:space="preserve">
+    <value>عندما يحتوي اسم الملف على سلسلة</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC1_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 جسونربك العنوان 1</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC2_TextBlock.Header" xml:space="preserve">
+    <value>عنوان جسونربك Aria2 2</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>إظهار الموارد المغناطيس الفيلم على صفحة تفاصيل</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CM_ShowDownloadButton" xml:space="preserve">
+    <value>إظهار زر مدير تحميل</value>
+  </data>
+  <data name="SearchingIMDb" xml:space="preserve">
+    <value>البحث عن</value>
+  </data>
+  <data name="SearchingIMDbNotFound" xml:space="preserve">
+    <value>لم يتم العثور على نتائج</value>
+  </data>
+  <data name="SearchingIMDbNotFound2" xml:space="preserve">
+    <value>تم العثور على معلومات الفيلم، ولكن لم يتم العثور على المورد تحميل</value>
+  </data>
+  <data name="InputSearchingIMDb" xml:space="preserve">
+    <value>البحث عن معرف IMDb/عنوان الفيلم</value>
+  </data>
+  <data name="SearchIMDbId" xml:space="preserve">
+    <value>البحث عن معرف IMDb/عنوان الفيلم</value>
+  </data>
+  <data name="SynologyJsonRPC1_TextBlock.Header" xml:space="preserve">
+    <value>Synology المضيف 1</value>
+  </data>
+  <data name="SynologyJsonRPC2_TextBlock.Header" xml:space="preserve">
+    <value>Synology المضيف 2</value>
+  </data>
+  <data name="SynologyPort_TextBlock.Header" xml:space="preserve">
+    <value>ميناء Synology</value>
+  </data>
+  <data name="SynologyUserName_TextBlock.Header" xml:space="preserve">
+    <value>اسم المستخدم Synology</value>
+  </data>
+  <data name="SynologyPassword_TextBlock.Header" xml:space="preserve">
+    <value>Synology كلمة المرور</value>
+  </data>
+  <data name="AddTaskToSynologyDownloadStation" xml:space="preserve">
+    <value>إضافة مهمة إلى محطة تحميل Synology</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.Header" xml:space="preserve">
+    <value>تسريع الأجهزة WMV3</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.Header" xml:space="preserve">
+    <value>تسريع الأجهزة VC1</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.Header" xml:space="preserve">
+    <value>تسريع الأجهزة MPEG2</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.Header" xml:space="preserve">
+    <value>تسريع الأجهزة VP9</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="InputCodeToUnlockFeature" xml:space="preserve">
+    <value>رمز الإدخال لفتح الميزة</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.Header" xml:space="preserve">
+    <value>عند بدء تشغيل التطبيق الذهاب إلى المفضلة</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="CM_OnStartedGotoFavoriates" xml:space="preserve">
+    <value>عند بدء تشغيل التطبيق الذهاب إلى المفضلة</value>
+  </data>
+  <data name="LiteGuard_Interactive" xml:space="preserve">
+    <value>ميزة الفيلم التفاعلي مؤمن</value>
+  </data>
+  <data name="LiteGuard_AdvanceAudio" xml:space="preserve">
+    <value>تقدم ميزة الصوت مؤمن</value>
+  </data>
+  <data name="LiteGuard_Samba" xml:space="preserve">
+    <value>يتم تأمين ميزة SMB/CIFS</value>
+  </data>
+  <data name="LiteGuard_LiveTranslate" xml:space="preserve">
+    <value>لايف ترجمة ميزة مؤمن</value>
+  </data>
+  <data name="LiteGuard_RememberPlaybackProgress" xml:space="preserve">
+    <value>مؤمن بهذه الميزة</value>
+  </data>
+  <data name="UnlockFullVersion" xml:space="preserve">
+    <value>الترقية إلى الإصدار Premium</value>
+  </data>
+  <data name="GETSCORPIOPLAYER_BTN.Content" xml:space="preserve">
+    <value>SCORPIO PLAYER</value>
+  </data>
+  <data name="UNLOCKFULLVERSION_BTN.Content" xml:space="preserve">
+    <value>الترقية إلى الإصدار Premium</value>
+  </data>
+  <data name="LiteGuard_Subhub" xml:space="preserve">
+    <value>تم الوصول إلى حد تحميل الترجمة</value>
+  </data>
+  <data name="BroadFileAccessDescContent" xml:space="preserve">
+    <value>إلا السيارات تحميل ملف الترجمة على طول الجانب ملف الفيديو، مع نفس المجلد</value>
+  </data>
+  <data name="BroadFileAccessDesc" xml:space="preserve">
+    <value>لاعب العقرب بحاجة إلى الوصول إلى نظام الملفات</value>
+  </data>
+  <data name="WM_BroadFileAccessDescTakeMe" xml:space="preserve">
+    <value>إعداد</value>
+  </data>
+  <data name="WM_SubtitleFounded_Part1" xml:space="preserve">
+    <value>العثور على الترجمة</value>
+  </data>
+  <data name="Download_JackettHost_TextBlock.Header" xml:space="preserve">
+    <value>مضيف الملقم جاكت</value>
+  </data>
+  <data name="Download_JackettApiKey_TextBlock.Header" xml:space="preserve">
+    <value>جاكت API الرئيسية</value>
+  </data>
+  <data name="CM_Open_Jackett" xml:space="preserve">
+    <value>Jackett/Aria2</value>
+  </data>
+  <data name="Jackett_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Jackett</value>
+  </data>
+  <data name="Jackett_JackettApiKey_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Jackett API Key</value>
+  </data>
+  <data name="Jackett_JackettHost_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Jackett Server Host</value>
+  </data>
+  <data name="Jackett_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Aria2</value>
+  </data>
+  <data name="Jackett_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Synology Download Station</value>
+  </data>
+  <data name="Jackett_CD_TITLE.Text" xml:space="preserve">
+    <value>إعداد</value>
+  </data>
+  <data name="LP_CD_PivotItem1.Header" xml:space="preserve">
+    <value>فيلم</value>
+  </data>
+  <data name="LP_CD_PivotItem2.Header" xml:space="preserve">
+    <value>البرامج التلفزيونية</value>
+  </data>
+  <data name="LP_CD_PivotItem3.Header" xml:space="preserve">
+    <value>آر إس إس</value>
+  </data>
+  <data name="LP_CD_PivotItem4.Header" xml:space="preserve">
+    <value>اكتشاف</value>
+  </data>
+  <data name="LP_CD_PivotItem5.Header" xml:space="preserve">
+    <value>الموسيقى</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.Header" xml:space="preserve">
+    <value>الوضع الأمن (لتشغيل الموسيقى في الخلفية)</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="LP_CD_PivotItem6.Header" xml:space="preserve">
+    <value>قائمة التشغيل</value>
+  </data>
+  <data name="Jackett_RSSEmailTo_TextBlock.Header" xml:space="preserve">
+    <value>آر إس إس إعلام بالبريد الإلكتروني</value>
+  </data>
+  <data name="LP_RegisterBackgroundTask.Content" xml:space="preserve">
+    <value>تسجيل المهمة الخلفية</value>
+  </data>
+  <data name="LP_RunNow.Content" xml:space="preserve">
+    <value>تشغيل الآن</value>
+  </data>
+  <data name="WM_LP_TaskSuccess" xml:space="preserve">
+    <value>سجل إكمال المهمة الخلفية</value>
+  </data>
+  <data name="WM_LP_TaskFail" xml:space="preserve">
+    <value>تسجيل المعلومات الأساسية المهمة فشلت</value>
+  </data>
+  <data name="WM_LP_TaskStarted" xml:space="preserve">
+    <value>المهمة التي بدأت</value>
+  </data>
+  <data name="WM_LP_TaskCompleted" xml:space="preserve">
+    <value>إكمال المهمة</value>
+  </data>
+  <data name="Jackett_RSSEmailTo_TextBlock_LP.Header" xml:space="preserve">
+    <value>آر إس إس إعلام بالبريد الإلكتروني</value>
+  </data>
+  <data name="LP_UnRegisterBackgroundTask.Content" xml:space="preserve">
+    <value>إزالة خلفية مهمة</value>
+  </data>
+  <data name="WM_LP_TaskRemoved" xml:space="preserve">
+    <value>إزالة الخلفية إكمال المهمة</value>
+  </data>
+  <data name="Jackett_SizeGreaterThan_TextBlock_LP.Header" xml:space="preserve">
+    <value>حجم أكبر من</value>
+  </data>
+  <data name="Jackett_FileNameContain_TextBlock_LP.Header" xml:space="preserve">
+    <value>ملف يحتوي على اسم السلسلة (تقسيم بفاصلة)</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.Header" xml:space="preserve">
+    <value>إرسال البريد الإلكتروني عند إنشاء المهمة</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.OnContent" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.OffContent" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="LP_Clear123" xml:space="preserve">
+    <value>تقرير نظيف</value>
+  </data>
+  <data name="LP_RunAllNow.Content" xml:space="preserve">
+    <value>تشغيل كافة الآن</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>إضافة دعم تنسيق الترجمة.smi</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>تحديث الفيلم تصنيف عند فتح صفحة تفاصيل الفيلم</value>
   </data>
 </root>

@@ -3387,22 +3387,295 @@
   <data name="detailview_Resources.Text" xml:space="preserve">
     <value>Recursos</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>melhorar a 4K streaming de uso desempenho Escorpião Media Server v. 3.0</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Instalar o suporte de servidor de mídia do escorpião agora Docker no x86 servidor NAS</value>
-  </data>
   <data name="Copy" xml:space="preserve">
     <value>Cópia</value>
   </data>
   <data name="AddTaskToAria2" xml:space="preserve">
     <value>Adicionar a tarefa de download para aria2</value>
   </data>
-  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
-    <value>Aria2 JsonRPC endereço</value>
-  </data>
   <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
     <value>Aria2 secretam</value>
+  </data>
+  <data name="CM_Open_Aria2" xml:space="preserve">
+    <value>aria2</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.Header" xml:space="preserve">
+    <value>Use o Aria2</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="WM_ExpectedCompletion" xml:space="preserve">
+    <value>Conclusão esperada</value>
+  </data>
+  <data name="NotConnected" xml:space="preserve">
+    <value>Não conectado</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Usar o Skip pré-condição</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="SkipPreconditionTextBox.Header" xml:space="preserve">
+    <value>Quando o nome do arquivo contém String</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC1_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC endereço 1</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC2_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC endereço 2</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Mostrar o filme ímã recursos na página de detalhes</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="CM_ShowDownloadButton" xml:space="preserve">
+    <value>Mostrar botão de Gerenciador de Download</value>
+  </data>
+  <data name="SearchingIMDb" xml:space="preserve">
+    <value>À procura de</value>
+  </data>
+  <data name="SearchingIMDbNotFound" xml:space="preserve">
+    <value>Nenhum resultado encontrado</value>
+  </data>
+  <data name="SearchingIMDbNotFound2" xml:space="preserve">
+    <value>As informações do filme foi encontradas, mas o recurso de download não foi encontrado</value>
+  </data>
+  <data name="InputSearchingIMDb" xml:space="preserve">
+    <value>Pesquisar IMDb ID / título do filme</value>
+  </data>
+  <data name="SearchIMDbId" xml:space="preserve">
+    <value>Pesquisar IMDb ID / título do filme</value>
+  </data>
+  <data name="SynologyJsonRPC1_TextBlock.Header" xml:space="preserve">
+    <value>Synology Host 1</value>
+  </data>
+  <data name="SynologyJsonRPC2_TextBlock.Header" xml:space="preserve">
+    <value>Synology Host 2</value>
+  </data>
+  <data name="SynologyPort_TextBlock.Header" xml:space="preserve">
+    <value>Synology Porto</value>
+  </data>
+  <data name="SynologyUserName_TextBlock.Header" xml:space="preserve">
+    <value>Nome de usuário Synology</value>
+  </data>
+  <data name="SynologyPassword_TextBlock.Header" xml:space="preserve">
+    <value>Synology senha</value>
+  </data>
+  <data name="AddTaskToSynologyDownloadStation" xml:space="preserve">
+    <value>Adicionar a tarefa para a estação de Download Synology</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.Header" xml:space="preserve">
+    <value>Ferragem acelerar WMV3</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.Header" xml:space="preserve">
+    <value>Ferragem acelerar VC1</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.Header" xml:space="preserve">
+    <value>Acelerar a ferragem MPEG2</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.Header" xml:space="preserve">
+    <value>Ferragem acelerar VP9</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="InputCodeToUnlockFeature" xml:space="preserve">
+    <value>Entrada de código para desbloquear o recurso</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.Header" xml:space="preserve">
+    <value>Quando começou a App ir aos favoritos</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.OffContent" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="CM_OnStartedGotoFavoriates" xml:space="preserve">
+    <value>Quando começou a App ir aos favoritos</value>
+  </data>
+  <data name="LiteGuard_Interactive" xml:space="preserve">
+    <value>Característica de filme interativo está bloqueada</value>
+  </data>
+  <data name="LiteGuard_AdvanceAudio" xml:space="preserve">
+    <value>Recurso de áudio avanço está bloqueado</value>
+  </data>
+  <data name="LiteGuard_Samba" xml:space="preserve">
+    <value>SMB/CIFS recurso está bloqueado</value>
+  </data>
+  <data name="LiteGuard_LiveTranslate" xml:space="preserve">
+    <value>Ao vivo, definição da palavra recurso é bloqueado</value>
+  </data>
+  <data name="LiteGuard_RememberPlaybackProgress" xml:space="preserve">
+    <value>Esse recurso é bloqueado</value>
+  </data>
+  <data name="UnlockFullVersion" xml:space="preserve">
+    <value>Upgrade para a versão Premium</value>
+  </data>
+  <data name="GETSCORPIOPLAYER_BTN.Content" xml:space="preserve">
+    <value>SCORPIO PLAYER</value>
+  </data>
+  <data name="UNLOCKFULLVERSION_BTN.Content" xml:space="preserve">
+    <value>Upgrade para a versão Premium</value>
+  </data>
+  <data name="LiteGuard_Subhub" xml:space="preserve">
+    <value>Limite de download de legendas alcançado</value>
+  </data>
+  <data name="BroadFileAccessDescContent" xml:space="preserve">
+    <value>Somente para auto arquivo de legenda de carga ao longo de arquivo de vídeo de lado, com o na mesma pasta</value>
+  </data>
+  <data name="BroadFileAccessDesc" xml:space="preserve">
+    <value>ESCORPIÃO PLAYER PRECISAR ACESSAR SEU SISTEMA DE ARQUIVOS</value>
+  </data>
+  <data name="WM_BroadFileAccessDescTakeMe" xml:space="preserve">
+    <value>Configuração</value>
+  </data>
+  <data name="WM_SubtitleFounded_Part1" xml:space="preserve">
+    <value>Legenda encontrada</value>
+  </data>
+  <data name="Download_JackettHost_TextBlock.Header" xml:space="preserve">
+    <value>Jackett servidor Host</value>
+  </data>
+  <data name="Download_JackettApiKey_TextBlock.Header" xml:space="preserve">
+    <value>Jackett chave de API</value>
+  </data>
+  <data name="CM_Open_Jackett" xml:space="preserve">
+    <value>Jackett/Aria2</value>
+  </data>
+  <data name="Jackett_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Jackett</value>
+  </data>
+  <data name="Jackett_JackettApiKey_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Jackett API Key</value>
+  </data>
+  <data name="Jackett_JackettHost_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Jackett Server Host</value>
+  </data>
+  <data name="Jackett_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Aria2</value>
+  </data>
+  <data name="Jackett_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Synology Download Station</value>
+  </data>
+  <data name="Jackett_CD_TITLE.Text" xml:space="preserve">
+    <value>Configuração</value>
+  </data>
+  <data name="LP_CD_PivotItem1.Header" xml:space="preserve">
+    <value>FILME</value>
+  </data>
+  <data name="LP_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Programas de TV</value>
+  </data>
+  <data name="LP_CD_PivotItem3.Header" xml:space="preserve">
+    <value>RSS</value>
+  </data>
+  <data name="LP_CD_PivotItem4.Header" xml:space="preserve">
+    <value>DESCUBRA</value>
+  </data>
+  <data name="LP_CD_PivotItem5.Header" xml:space="preserve">
+    <value>MÚSICA</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.Header" xml:space="preserve">
+    <value>Modo de segurança (para reprodução de música de fundo)</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="LP_CD_PivotItem6.Header" xml:space="preserve">
+    <value>LISTA DE REPRODUÇÃO</value>
+  </data>
+  <data name="Jackett_RSSEmailTo_TextBlock.Header" xml:space="preserve">
+    <value>Notificação de RSS para E-mail</value>
+  </data>
+  <data name="LP_RegisterBackgroundTask.Content" xml:space="preserve">
+    <value>Registrar a tarefa em segundo plano</value>
+  </data>
+  <data name="LP_RunNow.Content" xml:space="preserve">
+    <value>Executar agora</value>
+  </data>
+  <data name="WM_LP_TaskSuccess" xml:space="preserve">
+    <value>Registrar a tarefa em segundo plano concluída</value>
+  </data>
+  <data name="WM_LP_TaskFail" xml:space="preserve">
+    <value>Registrar a tarefa em segundo plano falhada</value>
+  </data>
+  <data name="WM_LP_TaskStarted" xml:space="preserve">
+    <value>Tarefa iniciada</value>
+  </data>
+  <data name="WM_LP_TaskCompleted" xml:space="preserve">
+    <value>Tarefa concluída</value>
+  </data>
+  <data name="Jackett_RSSEmailTo_TextBlock_LP.Header" xml:space="preserve">
+    <value>Notificação de RSS para E-mail</value>
+  </data>
+  <data name="LP_UnRegisterBackgroundTask.Content" xml:space="preserve">
+    <value>Remover a tarefa em segundo plano</value>
+  </data>
+  <data name="WM_LP_TaskRemoved" xml:space="preserve">
+    <value>Remover fundo tarefa concluída</value>
+  </data>
+  <data name="Jackett_SizeGreaterThan_TextBlock_LP.Header" xml:space="preserve">
+    <value>Tamanho maior do que</value>
+  </data>
+  <data name="Jackett_FileNameContain_TextBlock_LP.Header" xml:space="preserve">
+    <value>Arquivo de sequência de caracteres nome Contains (separado por vírgula)</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.Header" xml:space="preserve">
+    <value>Enviar email quando a tarefa criada</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.OnContent" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.OffContent" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="LP_Clear123" xml:space="preserve">
+    <value>Limpar o relatório</value>
+  </data>
+  <data name="LP_RunAllNow.Content" xml:space="preserve">
+    <value>Executar tudo agora</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>Adicionar suporte ao formato de legendas. SMI</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>atualizar filme classificação quando abre a página de detalhes do filme</value>
   </data>
 </root>

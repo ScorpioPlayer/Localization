@@ -2740,7 +2740,7 @@
     <value>劇情簡介</value>
   </data>
   <data name="detailview_actors.Text" xml:space="preserve">
-    <value>演員</value>
+    <value>影人</value>
   </data>
   <data name="detailview_Writer.Text" xml:space="preserve">
     <value>編劇</value>
@@ -3465,22 +3465,295 @@
   <data name="detailview_Resources.Text" xml:space="preserve">
     <value>資源</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>提高4k 流媒體性能使用天蠍媒體伺服器 v3.0</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>天蠍媒體伺服器現在支援在 x86 nas 伺服器上安裝 docker</value>
-  </data>
   <data name="Copy" xml:space="preserve">
     <value>複製</value>
   </data>
   <data name="AddTaskToAria2" xml:space="preserve">
     <value>將下載任務添加到 aria2</value>
   </data>
-  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
-    <value>aria2 jsonrpc 位址</value>
-  </data>
   <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
     <value>密匙</value>
+  </data>
+  <data name="CM_Open_Aria2" xml:space="preserve">
+    <value>aria2</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.Header" xml:space="preserve">
+    <value>使用 aria2</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="WM_ExpectedCompletion" xml:space="preserve">
+    <value>預期完成時間</value>
+  </data>
+  <data name="NotConnected" xml:space="preserve">
+    <value>未連接</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>使用跳過前置條件</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SkipPreconditionTextBox.Header" xml:space="preserve">
+    <value>當檔案名包含字串時</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC1_TextBlock.Header" xml:space="preserve">
+    <value>aria2 jsonrpc 位址1</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC2_TextBlock.Header" xml:space="preserve">
+    <value>aria2 jsonrpc 位址2</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>在詳細資訊頁面上顯示電影磁力链接资源</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CM_ShowDownloadButton" xml:space="preserve">
+    <value>顯示下載管理員按鈕</value>
+  </data>
+  <data name="SearchingIMDb" xml:space="preserve">
+    <value>正在搜索</value>
+  </data>
+  <data name="SearchingIMDbNotFound" xml:space="preserve">
+    <value>未找到結果</value>
+  </data>
+  <data name="SearchingIMDbNotFound2" xml:space="preserve">
+    <value>找到影片資訊，但沒有找到下載資源</value>
+  </data>
+  <data name="InputSearchingIMDb" xml:space="preserve">
+    <value>搜索 IMDb ID / 電影標題</value>
+  </data>
+  <data name="SearchIMDbId" xml:space="preserve">
+    <value>搜索 IMDb ID / 電影標題</value>
+  </data>
+  <data name="SynologyJsonRPC1_TextBlock.Header" xml:space="preserve">
+    <value>Synology 主機1</value>
+  </data>
+  <data name="SynologyJsonRPC2_TextBlock.Header" xml:space="preserve">
+    <value>Synology 主機2</value>
+  </data>
+  <data name="SynologyPort_TextBlock.Header" xml:space="preserve">
+    <value>Synology 埠</value>
+  </data>
+  <data name="SynologyUserName_TextBlock.Header" xml:space="preserve">
+    <value>Synology 使用者名</value>
+  </data>
+  <data name="SynologyPassword_TextBlock.Header" xml:space="preserve">
+    <value>Synology 密碼</value>
+  </data>
+  <data name="AddTaskToSynologyDownloadStation" xml:space="preserve">
+    <value>將任務添加到 Synology 下載站</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.Header" xml:space="preserve">
+    <value>硬體加速 WMV3</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.Header" xml:space="preserve">
+    <value>硬體加速 VC1</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.Header" xml:space="preserve">
+    <value>硬體加速 MPEG2</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.Header" xml:space="preserve">
+    <value>硬體加速 VP9</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="InputCodeToUnlockFeature" xml:space="preserve">
+    <value>輸入解鎖功能的代碼</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.Header" xml:space="preserve">
+    <value>應用開始轉到我的最愛</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="CM_OnStartedGotoFavoriates" xml:space="preserve">
+    <value>應用開始轉到我的最愛</value>
+  </data>
+  <data name="LiteGuard_Interactive" xml:space="preserve">
+    <value>互動式電影功能已鎖定</value>
+  </data>
+  <data name="LiteGuard_AdvanceAudio" xml:space="preserve">
+    <value>已鎖定高級音訊功能</value>
+  </data>
+  <data name="LiteGuard_Samba" xml:space="preserve">
+    <value>功能已鎖定</value>
+  </data>
+  <data name="LiteGuard_LiveTranslate" xml:space="preserve">
+    <value>鎖定即時翻譯功能</value>
+  </data>
+  <data name="LiteGuard_RememberPlaybackProgress" xml:space="preserve">
+    <value>此功能已鎖定</value>
+  </data>
+  <data name="UnlockFullVersion" xml:space="preserve">
+    <value>升級到高級版本</value>
+  </data>
+  <data name="GETSCORPIOPLAYER_BTN.Content" xml:space="preserve">
+    <value>SCORPIO PLAYER</value>
+  </data>
+  <data name="UNLOCKFULLVERSION_BTN.Content" xml:space="preserve">
+    <value>升級到高級版本</value>
+  </data>
+  <data name="LiteGuard_Subhub" xml:space="preserve">
+    <value>已達到字幕下載限制</value>
+  </data>
+  <data name="BroadFileAccessDescContent" xml:space="preserve">
+    <value>僅自動載入字幕檔沿旁邊的視頻檔, 在相同的資料夾</value>
+  </data>
+  <data name="BroadFileAccessDesc" xml:space="preserve">
+    <value>請使用您的檔案系統</value>
+  </data>
+  <data name="WM_BroadFileAccessDescTakeMe" xml:space="preserve">
+    <value>去設置</value>
+  </data>
+  <data name="WM_SubtitleFounded_Part1" xml:space="preserve">
+    <value>找到字幕</value>
+  </data>
+  <data name="Download_JackettHost_TextBlock.Header" xml:space="preserve">
+    <value>Jackett 伺服器主機</value>
+  </data>
+  <data name="Download_JackettApiKey_TextBlock.Header" xml:space="preserve">
+    <value>Jackett 金鑰</value>
+  </data>
+  <data name="CM_Open_Jackett" xml:space="preserve">
+    <value>Jackett/Aria2</value>
+  </data>
+  <data name="Jackett_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Jackett</value>
+  </data>
+  <data name="Jackett_JackettApiKey_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Jackett API Key</value>
+  </data>
+  <data name="Jackett_JackettHost_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Jackett Server Host</value>
+  </data>
+  <data name="Jackett_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Aria2</value>
+  </data>
+  <data name="Jackett_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Synology Download Station</value>
+  </data>
+  <data name="Jackett_CD_TITLE.Text" xml:space="preserve">
+    <value>設置</value>
+  </data>
+  <data name="LP_CD_PivotItem1.Header" xml:space="preserve">
+    <value>電影</value>
+  </data>
+  <data name="LP_CD_PivotItem2.Header" xml:space="preserve">
+    <value>電視節目</value>
+  </data>
+  <data name="LP_CD_PivotItem3.Header" xml:space="preserve">
+    <value>RSS</value>
+  </data>
+  <data name="LP_CD_PivotItem4.Header" xml:space="preserve">
+    <value>發現</value>
+  </data>
+  <data name="LP_CD_PivotItem5.Header" xml:space="preserve">
+    <value>音樂</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.Header" xml:space="preserve">
+    <value>安全模式 (用於背景音樂播放)</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="LP_CD_PivotItem6.Header" xml:space="preserve">
+    <value>播放清單</value>
+  </data>
+  <data name="Jackett_RSSEmailTo_TextBlock.Header" xml:space="preserve">
+    <value>RSS 電子郵件通知</value>
+  </data>
+  <data name="LP_RegisterBackgroundTask.Content" xml:space="preserve">
+    <value>註冊背景工作</value>
+  </data>
+  <data name="LP_RunNow.Content" xml:space="preserve">
+    <value>立即運行</value>
+  </data>
+  <data name="WM_LP_TaskSuccess" xml:space="preserve">
+    <value>已完成註冊背景工作</value>
+  </data>
+  <data name="WM_LP_TaskFail" xml:space="preserve">
+    <value>註冊背景工作失敗</value>
+  </data>
+  <data name="WM_LP_TaskStarted" xml:space="preserve">
+    <value>任務已啟動</value>
+  </data>
+  <data name="WM_LP_TaskCompleted" xml:space="preserve">
+    <value>任務已完成</value>
+  </data>
+  <data name="Jackett_RSSEmailTo_TextBlock_LP.Header" xml:space="preserve">
+    <value>RSS 電子郵件通知</value>
+  </data>
+  <data name="LP_UnRegisterBackgroundTask.Content" xml:space="preserve">
+    <value>刪除背景工作</value>
+  </data>
+  <data name="WM_LP_TaskRemoved" xml:space="preserve">
+    <value>刪除已完成的背景工作</value>
+  </data>
+  <data name="Jackett_SizeGreaterThan_TextBlock_LP.Header" xml:space="preserve">
+    <value>大小大於</value>
+  </data>
+  <data name="Jackett_FileNameContain_TextBlock_LP.Header" xml:space="preserve">
+    <value>檔案名包含字串 (用逗號拆分)</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.Header" xml:space="preserve">
+    <value>創建任務時發送電子郵件</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.OnContent" xml:space="preserve">
+    <value>是</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.OffContent" xml:space="preserve">
+    <value>否</value>
+  </data>
+  <data name="LP_Clear123" xml:space="preserve">
+    <value>乾淨的報告</value>
+  </data>
+  <data name="LP_RunAllNow.Content" xml:space="preserve">
+    <value>立即全部運行</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>添加. smi 字幕格式支援</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>打開影片詳細資訊頁面時更新影片评分</value>
   </data>
 </root>

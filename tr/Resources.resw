@@ -1368,9 +1368,6 @@
   <data name="Effects_Manager_EmbossToggleSwitch.OffContent" xml:space="preserve">
     <value>Engelli</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>4 K performans kullanım akrep Media Server v3.0 akış geliştirmek</value>
-  </data>
   <data name="CD_Socket_TITLE.Text" xml:space="preserve">
     <value>Akrep medya sunucusu</value>
   </data>
@@ -1592,9 +1589,6 @@
   </data>
   <data name="WM_danmu_subtitle_loaded" xml:space="preserve">
     <value>Baraj altyazı yüklendi</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>Akrep Media Server Şimdi desteği liman işçisi NAS sunucusu üzerinde x86 yükleme</value>
   </data>
   <data name="SD_PivotItem2_UseGlowTextToggleSwitch.Header" xml:space="preserve">
     <value>Parlama efekti kullanmak</value>
@@ -3381,10 +3375,289 @@
   <data name="AddTaskToAria2" xml:space="preserve">
     <value>Aria2 için indirme görev ekleyin</value>
   </data>
-  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
-    <value>Aria2 JsonRPC adresi</value>
-  </data>
   <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
     <value>Aria2 salgılar</value>
+  </data>
+  <data name="CM_Open_Aria2" xml:space="preserve">
+    <value>aria2</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.Header" xml:space="preserve">
+    <value>Kullanım Aria2</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="WM_ExpectedCompletion" xml:space="preserve">
+    <value>Beklenen tamamlanma</value>
+  </data>
+  <data name="NotConnected" xml:space="preserve">
+    <value>Bağlı değil</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC1_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC adresi 1</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Atla ön koşul kullanın</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SkipPreconditionTextBox.Header" xml:space="preserve">
+    <value>Ne zaman dosya adı dizesi içeriyor</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC2_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC adresi 2</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>Ayrıntı sayfasında film mıknatıs kaynakları göster</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CM_ShowDownloadButton" xml:space="preserve">
+    <value>Download Yöneticisi düğmesini göster</value>
+  </data>
+  <data name="SearchingIMDb" xml:space="preserve">
+    <value>Arama</value>
+  </data>
+  <data name="SearchingIMDbNotFound" xml:space="preserve">
+    <value>Hiçbir sonuç bulunamadı</value>
+  </data>
+  <data name="SearchingIMDbNotFound2" xml:space="preserve">
+    <value>Film bilgisi bulunamadı ancak download kaynak bulunamadı</value>
+  </data>
+  <data name="InputSearchingIMDb" xml:space="preserve">
+    <value>Arama IMDB kimliği / film adı</value>
+  </data>
+  <data name="SearchIMDbId" xml:space="preserve">
+    <value>Arama IMDB kimliği / film adı</value>
+  </data>
+  <data name="SynologyJsonRPC1_TextBlock.Header" xml:space="preserve">
+    <value>Synology ana makine 1</value>
+  </data>
+  <data name="SynologyJsonRPC2_TextBlock.Header" xml:space="preserve">
+    <value>Synology ana bilgisayar 2</value>
+  </data>
+  <data name="SynologyPort_TextBlock.Header" xml:space="preserve">
+    <value>Synology bağlantı noktası</value>
+  </data>
+  <data name="SynologyUserName_TextBlock.Header" xml:space="preserve">
+    <value>Synology Kullanıcı adı</value>
+  </data>
+  <data name="SynologyPassword_TextBlock.Header" xml:space="preserve">
+    <value>Synology şifre</value>
+  </data>
+  <data name="AddTaskToSynologyDownloadStation" xml:space="preserve">
+    <value>Synology Download İstasyonu için görev ekleme</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.Header" xml:space="preserve">
+    <value>Donanım WMV3 hızlandırmak</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.Header" xml:space="preserve">
+    <value>Donanım VC1 hızlandırmak</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.Header" xml:space="preserve">
+    <value>Donanım hızlandırmak MPEG2</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.Header" xml:space="preserve">
+    <value>Donanım VP9 hızlandırmak</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="InputCodeToUnlockFeature" xml:space="preserve">
+    <value>Özelliği kilidini açmak için giriş kodu</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.Header" xml:space="preserve">
+    <value>App başladığında sık kullanılanlara git</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="CM_OnStartedGotoFavoriates" xml:space="preserve">
+    <value>App başladığında sık kullanılanlara git</value>
+  </data>
+  <data name="LiteGuard_Interactive" xml:space="preserve">
+    <value>Etkileşimli film özelliği kilitli</value>
+  </data>
+  <data name="LiteGuard_AdvanceAudio" xml:space="preserve">
+    <value>Önceden ses özelliği kilitli</value>
+  </data>
+  <data name="LiteGuard_Samba" xml:space="preserve">
+    <value>SMB/CIFS özelliği kilitli</value>
+  </data>
+  <data name="LiteGuard_LiveTranslate" xml:space="preserve">
+    <value>Canlı çevirmek özelliği kilitli</value>
+  </data>
+  <data name="LiteGuard_RememberPlaybackProgress" xml:space="preserve">
+    <value>Bu özellik kilitli</value>
+  </data>
+  <data name="UnlockFullVersion" xml:space="preserve">
+    <value>Premium sürümü için yükseltme</value>
+  </data>
+  <data name="GETSCORPIOPLAYER_BTN.Content" xml:space="preserve">
+    <value>SCORPIO PLAYER</value>
+  </data>
+  <data name="UNLOCKFULLVERSION_BTN.Content" xml:space="preserve">
+    <value>Premium sürümü için yükseltme</value>
+  </data>
+  <data name="LiteGuard_Subhub" xml:space="preserve">
+    <value>Altyazı indir sınırına ulaşıldı</value>
+  </data>
+  <data name="BroadFileAccessDescContent" xml:space="preserve">
+    <value>Sadece boyunca yan video dosyası, yük altyazı dosyası ile aynı klasörde otomatik olarak</value>
+  </data>
+  <data name="BroadFileAccessDesc" xml:space="preserve">
+    <value>AKREP OYUNCU İHTİYACI ERİŞİM DOSYA SİSTEMİ</value>
+  </data>
+  <data name="WM_BroadFileAccessDescTakeMe" xml:space="preserve">
+    <value>Ayarı</value>
+  </data>
+  <data name="WM_SubtitleFounded_Part1" xml:space="preserve">
+    <value>Altyazı bulundu</value>
+  </data>
+  <data name="Download_JackettHost_TextBlock.Header" xml:space="preserve">
+    <value>Jackett sunucu ana bilgisayar</value>
+  </data>
+  <data name="Download_JackettApiKey_TextBlock.Header" xml:space="preserve">
+    <value>Jackett API anahtarı</value>
+  </data>
+  <data name="CM_Open_Jackett" xml:space="preserve">
+    <value>Jackett/Aria2</value>
+  </data>
+  <data name="Jackett_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Jackett</value>
+  </data>
+  <data name="Jackett_JackettApiKey_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Jackett API Key</value>
+  </data>
+  <data name="Jackett_JackettHost_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Jackett Server Host</value>
+  </data>
+  <data name="Jackett_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Aria2</value>
+  </data>
+  <data name="Jackett_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Synology Download Station</value>
+  </data>
+  <data name="Jackett_CD_TITLE.Text" xml:space="preserve">
+    <value>Ayarı</value>
+  </data>
+  <data name="LP_CD_PivotItem1.Header" xml:space="preserve">
+    <value>FİLM</value>
+  </data>
+  <data name="LP_CD_PivotItem2.Header" xml:space="preserve">
+    <value>TV programları</value>
+  </data>
+  <data name="LP_CD_PivotItem3.Header" xml:space="preserve">
+    <value>RSS</value>
+  </data>
+  <data name="LP_CD_PivotItem4.Header" xml:space="preserve">
+    <value>KEŞFETMEK</value>
+  </data>
+  <data name="LP_CD_PivotItem5.Header" xml:space="preserve">
+    <value>MÜZİK</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.Header" xml:space="preserve">
+    <value>Güvenli mod (için arka plan müzik çalma)</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="LP_CD_PivotItem6.Header" xml:space="preserve">
+    <value>ÇALMA LİSTESİ</value>
+  </data>
+  <data name="Jackett_RSSEmailTo_TextBlock.Header" xml:space="preserve">
+    <value>RSS bildirim e-posta</value>
+  </data>
+  <data name="LP_RegisterBackgroundTask.Content" xml:space="preserve">
+    <value>Kayıt arka plan görevi</value>
+  </data>
+  <data name="LP_RunNow.Content" xml:space="preserve">
+    <value>Şimdi Çalıştır</value>
+  </data>
+  <data name="WM_LP_TaskSuccess" xml:space="preserve">
+    <value>Kayıt arka plan görevi tamamlandı</value>
+  </data>
+  <data name="WM_LP_TaskFail" xml:space="preserve">
+    <value>Kayıt arka plan görevi başarısız oldu</value>
+  </data>
+  <data name="WM_LP_TaskStarted" xml:space="preserve">
+    <value>Görev başlatıldı</value>
+  </data>
+  <data name="WM_LP_TaskCompleted" xml:space="preserve">
+    <value>Görev tamamlandı</value>
+  </data>
+  <data name="Jackett_RSSEmailTo_TextBlock_LP.Header" xml:space="preserve">
+    <value>RSS bildirim e-posta</value>
+  </data>
+  <data name="LP_UnRegisterBackgroundTask.Content" xml:space="preserve">
+    <value>Arka plan görevi Kaldır</value>
+  </data>
+  <data name="WM_LP_TaskRemoved" xml:space="preserve">
+    <value>Arka plan görev tamamlandı kaldırmak</value>
+  </data>
+  <data name="Jackett_SizeGreaterThan_TextBlock_LP.Header" xml:space="preserve">
+    <value>Boyutu daha büyük</value>
+  </data>
+  <data name="Jackett_FileNameContain_TextBlock_LP.Header" xml:space="preserve">
+    <value>Dosya adı içerir dize (virgül ile ayrılmış)</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.Header" xml:space="preserve">
+    <value>Görev oluşturduğunuzda e-posta göndermek</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.OnContent" xml:space="preserve">
+    <value>Evet</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.OffContent" xml:space="preserve">
+    <value>Hayır</value>
+  </data>
+  <data name="LP_Clear123" xml:space="preserve">
+    <value>Temiz raporu</value>
+  </data>
+  <data name="LP_RunAllNow.Content" xml:space="preserve">
+    <value>Tüm koşmak şimdi</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>Parolanız altyazı formatı desteği ekleme</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>güncelleştirmek ne zaman Puan Film Film ayrıntı sayfası açın</value>
   </data>
 </root>

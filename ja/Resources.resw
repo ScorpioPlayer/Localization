@@ -3465,22 +3465,295 @@
   <data name="detailview_Resources.Text" xml:space="preserve">
     <value>リソース</value>
   </data>
-  <data name="Meta_UpdateInfo1" xml:space="preserve">
-    <value>4 K ストリーミング パフォーマンス使用蠍座メディア サーバー v3.0 を改善します。</value>
-  </data>
-  <data name="Meta_UpdateInfo2" xml:space="preserve">
-    <value>X86 にインストール蠍座メディア サーバー今サポート港湾労働者の NAS サーバー</value>
-  </data>
   <data name="Copy" xml:space="preserve">
     <value>コピー</value>
   </data>
   <data name="AddTaskToAria2" xml:space="preserve">
     <value>Aria2 にダウンロード タスクを追加します。</value>
   </data>
-  <data name="Samba_Aria2JsonRPC_TextBlock.Header" xml:space="preserve">
-    <value>Aria2 JsonRPC アドレス</value>
-  </data>
   <data name="Samba_Aria2Secrete_TextBlock.Header" xml:space="preserve">
     <value>Aria2 を分泌します。</value>
+  </data>
+  <data name="CM_Open_Aria2" xml:space="preserve">
+    <value>aria2</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.Header" xml:space="preserve">
+    <value>Aria2 を使用します。</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="UseAria2ToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="WM_ExpectedCompletion" xml:space="preserve">
+    <value>竣工予定</value>
+  </data>
+  <data name="NotConnected" xml:space="preserve">
+    <value>接続されていません。</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>スキップ前提条件を使用します。</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SkipCD_SkipPreconditionEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SkipPreconditionTextBox.Header" xml:space="preserve">
+    <value>ファイル名に文字列が含まれている場合</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC1_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC アドレス 1</value>
+  </data>
+  <data name="Samba_Aria2JsonRPC2_TextBlock.Header" xml:space="preserve">
+    <value>Aria2 JsonRPC アドレス 2</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.Header" xml:space="preserve">
+    <value>詳細ページでムービー マグネット リソースが表示します。</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_DwonloadPageOnDetailViewEnabledToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="CM_ShowDownloadButton" xml:space="preserve">
+    <value>ダウンロード マネージャーの表示] ボタン</value>
+  </data>
+  <data name="SearchingIMDb" xml:space="preserve">
+    <value>を検索</value>
+  </data>
+  <data name="SearchingIMDbNotFound" xml:space="preserve">
+    <value>結果は見つかりませんでした。</value>
+  </data>
+  <data name="SearchingIMDbNotFound2" xml:space="preserve">
+    <value>映画の情報が見つかりましたが、ダウンロード リソースが見つかりませんでした。</value>
+  </data>
+  <data name="InputSearchingIMDb" xml:space="preserve">
+    <value>IMDb ID を検索/映画のタイトル</value>
+  </data>
+  <data name="SearchIMDbId" xml:space="preserve">
+    <value>IMDb ID を検索/映画のタイトル</value>
+  </data>
+  <data name="SynologyJsonRPC1_TextBlock.Header" xml:space="preserve">
+    <value>Synology ホスト 1</value>
+  </data>
+  <data name="SynologyJsonRPC2_TextBlock.Header" xml:space="preserve">
+    <value>Synology ホスト 2</value>
+  </data>
+  <data name="SynologyPort_TextBlock.Header" xml:space="preserve">
+    <value>Synology ポート</value>
+  </data>
+  <data name="SynologyUserName_TextBlock.Header" xml:space="preserve">
+    <value>Synology ユーザー名</value>
+  </data>
+  <data name="SynologyPassword_TextBlock.Header" xml:space="preserve">
+    <value>Synology パスワード</value>
+  </data>
+  <data name="AddTaskToSynologyDownloadStation" xml:space="preserve">
+    <value>Synology ダウンロード ステーションにタスクを追加します。</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.Header" xml:space="preserve">
+    <value>ハードウェア加速 WMV3</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoWMV3ToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.Header" xml:space="preserve">
+    <value>ハードウェア加速の VC1</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVC1ToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.Header" xml:space="preserve">
+    <value>ハードウェア MPEG2 を加速します。</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoMPEG2ToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.Header" xml:space="preserve">
+    <value>ハードウェア加速 VP9</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem3_PassthroughVideoVP9ToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="InputCodeToUnlockFeature" xml:space="preserve">
+    <value>機能のロックを解除するには、コードを入力</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.Header" xml:space="preserve">
+    <value>アプリ起動したらお気に入りに</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem1_OnStartedGotoFavoriatesToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="CM_OnStartedGotoFavoriates" xml:space="preserve">
+    <value>アプリ起動したらお気に入りに</value>
+  </data>
+  <data name="LiteGuard_Interactive" xml:space="preserve">
+    <value>動画のインタラクティブな機能がロックされています。</value>
+  </data>
+  <data name="LiteGuard_AdvanceAudio" xml:space="preserve">
+    <value>アドバンス オーディオ機能がロックされています。</value>
+  </data>
+  <data name="LiteGuard_Samba" xml:space="preserve">
+    <value>SMB/CIFS 機能がロックされています。</value>
+  </data>
+  <data name="LiteGuard_LiveTranslate" xml:space="preserve">
+    <value>ライブ翻訳機能がロックされています。</value>
+  </data>
+  <data name="LiteGuard_RememberPlaybackProgress" xml:space="preserve">
+    <value>この機能がロックされています。</value>
+  </data>
+  <data name="UnlockFullVersion" xml:space="preserve">
+    <value>プレミアム版へのアップグレード</value>
+  </data>
+  <data name="GETSCORPIOPLAYER_BTN.Content" xml:space="preserve">
+    <value>SCORPIO PLAYER</value>
+  </data>
+  <data name="UNLOCKFULLVERSION_BTN.Content" xml:space="preserve">
+    <value>プレミアム版へのアップグレード</value>
+  </data>
+  <data name="LiteGuard_Subhub" xml:space="preserve">
+    <value>字幕ダウンロードの制限に達しました</value>
+  </data>
+  <data name="BroadFileAccessDescContent" xml:space="preserve">
+    <value>自動に沿って側ビデオ ファイル、字幕ファイルの読み込みと同じフォルダーにのみ</value>
+  </data>
+  <data name="BroadFileAccessDesc" xml:space="preserve">
+    <value>蠍座プレーヤーが、ファイル システムのアクセスを必要があります。</value>
+  </data>
+  <data name="WM_BroadFileAccessDescTakeMe" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="WM_SubtitleFounded_Part1" xml:space="preserve">
+    <value>字幕が見つかりました</value>
+  </data>
+  <data name="Download_JackettHost_TextBlock.Header" xml:space="preserve">
+    <value>Jackett サーバー ホスト</value>
+  </data>
+  <data name="Download_JackettApiKey_TextBlock.Header" xml:space="preserve">
+    <value>Jackett API キー</value>
+  </data>
+  <data name="CM_Open_Jackett" xml:space="preserve">
+    <value>Jackett/Aria2</value>
+  </data>
+  <data name="Jackett_CD_PivotItem1.Header" xml:space="preserve">
+    <value>Jackett</value>
+  </data>
+  <data name="Jackett_JackettApiKey_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Jackett API Key</value>
+  </data>
+  <data name="Jackett_JackettHost_TextBlock.PlaceholderText" xml:space="preserve">
+    <value>Jackett Server Host</value>
+  </data>
+  <data name="Jackett_CD_PivotItem2.Header" xml:space="preserve">
+    <value>Aria2</value>
+  </data>
+  <data name="Jackett_CD_PivotItem3.Header" xml:space="preserve">
+    <value>Synology Download Station</value>
+  </data>
+  <data name="Jackett_CD_TITLE.Text" xml:space="preserve">
+    <value>設定</value>
+  </data>
+  <data name="LP_CD_PivotItem1.Header" xml:space="preserve">
+    <value>映画</value>
+  </data>
+  <data name="LP_CD_PivotItem2.Header" xml:space="preserve">
+    <value>テレビ番組</value>
+  </data>
+  <data name="LP_CD_PivotItem3.Header" xml:space="preserve">
+    <value>RSS</value>
+  </data>
+  <data name="LP_CD_PivotItem4.Header" xml:space="preserve">
+    <value>発見します。</value>
+  </data>
+  <data name="LP_CD_PivotItem5.Header" xml:space="preserve">
+    <value>音楽</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.Header" xml:space="preserve">
+    <value>セーフ モード (背景音楽再生用)</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="SD_PivotItem1_SafeModeToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="LP_CD_PivotItem6.Header" xml:space="preserve">
+    <value>再生リスト</value>
+  </data>
+  <data name="Jackett_RSSEmailTo_TextBlock.Header" xml:space="preserve">
+    <value>RSS の通知メールに</value>
+  </data>
+  <data name="LP_RegisterBackgroundTask.Content" xml:space="preserve">
+    <value>バック グラウンド タスクを登録します。</value>
+  </data>
+  <data name="LP_RunNow.Content" xml:space="preserve">
+    <value>今すぐ実行します。</value>
+  </data>
+  <data name="WM_LP_TaskSuccess" xml:space="preserve">
+    <value>バック グラウンド タスクの完了を登録します。</value>
+  </data>
+  <data name="WM_LP_TaskFail" xml:space="preserve">
+    <value>失敗したバック グラウンド タスクを登録します。</value>
+  </data>
+  <data name="WM_LP_TaskStarted" xml:space="preserve">
+    <value>タスクが開始されました</value>
+  </data>
+  <data name="WM_LP_TaskCompleted" xml:space="preserve">
+    <value>タスクが完了しました</value>
+  </data>
+  <data name="Jackett_RSSEmailTo_TextBlock_LP.Header" xml:space="preserve">
+    <value>RSS の通知メールに</value>
+  </data>
+  <data name="LP_UnRegisterBackgroundTask.Content" xml:space="preserve">
+    <value>バック グラウンド タスクを削除します。</value>
+  </data>
+  <data name="WM_LP_TaskRemoved" xml:space="preserve">
+    <value>バック グラウンド タスクの完了を削除します。</value>
+  </data>
+  <data name="Jackett_SizeGreaterThan_TextBlock_LP.Header" xml:space="preserve">
+    <value>大きいサイズ</value>
+  </data>
+  <data name="Jackett_FileNameContain_TextBlock_LP.Header" xml:space="preserve">
+    <value>ファイル名が含まれています文字列 (コンマで分割)</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.Header" xml:space="preserve">
+    <value>タスクが作成されたときにメールを送信します。</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.OnContent" xml:space="preserve">
+    <value>は</value>
+  </data>
+  <data name="LP_PivotItem3_RSSEmailToWhenTaskCreatedToggleSwitch.OffContent" xml:space="preserve">
+    <value>かどうか</value>
+  </data>
+  <data name="LP_Clear123" xml:space="preserve">
+    <value>クリーン レポート</value>
+  </data>
+  <data name="LP_RunAllNow.Content" xml:space="preserve">
+    <value>すべて実行今すぐ</value>
+  </data>
+  <data name="Meta_UpdateInfo3" xml:space="preserve">
+    <value>.smi 字幕形式のサポートを追加します。</value>
+  </data>
+  <data name="Meta_UpdateInfo8" xml:space="preserve">
+    <value>更新映画の評価はいつ開く映画の詳細ページ</value>
   </data>
 </root>
